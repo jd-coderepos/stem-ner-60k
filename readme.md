@@ -30,3 +30,6 @@ The STEM NER system reported in the publication above was applied on these artic
 
 Aggregated lists of *Process*, *Method*, *Material*, and *Data* entities with respective occurrence counts extracted from 59,984 scholarly publications organized per STEM domain considered.
 
+#### Contact
+
+For the list of the articles; or for related questions, comments, feedback, and interests in collaborations, please contact me at: jennifer (dot) dsouza (at) tib (dot) eu

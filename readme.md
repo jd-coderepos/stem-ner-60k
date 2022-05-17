@@ -8,9 +8,23 @@ Supporting dataset link [https://data.uni-hannover.de/dataset/stem-ecr-v1-0](htt
 
 #### Description
 
-While preserving this domains structure, we downloaded 
-Roughly 60,000 titles and abstracts data of scholarly articles with the CC-BY redistributable license were downloaded from Elsevier. The articles spanned 10 STEM domains which were the most prolific on Elsevier viz., *Agriculture*, *Astronomy*, *Biology*, *Chemistry*, *Computer Science*, *Earth Science*, *Engineering*, *Material Science*, and *Mathematics*.
+Roughly 60,000 titles and abstracts of scholarly articles with the CC-BY redistributable license were downloaded from Elsevier. The articles spanned 10 STEM domains which were the most prolific on Elsevier viz., *Agriculture*, *Astronomy*, *Biology*, *Chemistry*, *Computer Science*, *Earth Science*, *Engineering*, *Material Science*, and *Mathematics*.
+The STEM NER system reported in the publication above was applied on these articles. An automatically extracted dataset of 4 typed entities, viz., *Process*, *Method*, *Material*, and *Data* was created.
+
+| Domain | Articles | process | method | material | data |
+| --- | --- | --- | --- | --- | --- |
+| Agriculture |  | 20,532 | 3,252 | 62,043 | 33,608 |
+| Astronomy |  | 31,104 | 10,423 | 55,753 | 97,011 |
+| Biology |  | 54,029 | 6,777 | 100,454 | 43,418 |
+| Chemistry |  | 18,185 | 6,044 | 48,779 | 30,596 |
+| Earth Science |  | 28,432 | 5,129 | 56,571 | 50,211 |
+| Engineering |  | 12,705 | 3,293 | 24,633 | 24,238 |
+| Materials Science |  | 10,102 | 2,437 | 23,054 | 16,981 |
+| Mathematics |  | 8,002 | 1,941 | 11,381 | 15,631 |
+| Medicine |  | **89,637** | **19,580** | **148,059** | **134,249** |
+
 
 #### What this repository contains?
 
-The data in the repostitory
+Aggregated lists of *Process*, *Method*, *Material*, and *Data* entities with respective occurrence counts extracted from 60,000 scholarly publications organized per STEM domain considered.
+

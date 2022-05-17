@@ -1,0 +1,501 @@
+weight;word
+20;finite element analysis
+20;experiment
+18;scanning electron microscopy
+16;proposed algorithm
+16;finite element method
+16;methods
+14;Sensitivity analysis
+14;in-situ
+14;sensitivity analysis
+12;control strategy
+12;proposed methods
+12;semi-structured interviews
+10;survey
+10;genetic algorithm
+10;contour method
+10;observational method
+10;regression analysis
+10;Failure Forecast Method
+10;new algorithm
+8;vivo
+8;representation scheme
+8;procedure
+8;optical microscopy
+8;shearlet-based method
+8;meta-analysis
+8;finite volume method
+8;online survey
+8;exergy analysis
+8;integrated method
+8;longitudinal study
+8;finite element analysis (FEA)
+8;SPHERE experiment
+8;finite element approach
+8;hybrid method
+8;statistical analysis
+8;X-ray diffraction
+8;scanning electron microscopy (SEM)
+8;new method
+6;parametric study
+6;finite volume method (FVM)
+6;Rosenthal equation
+6;Large Eddy Simulation (LES)
+6;bibliometric analysis
+6;SW-SVR
+6;proposed technique
+6;literature review
+6;protocol
+6;uncertainty analysis
+6;developed methodology
+6;optimization
+6;in-depth analysis
+6;techno-economic analysis
+6;new methodology
+6;X-ray computed tomography
+6;proposed strategy
+6;support vector machines
+6;fastKDE method
+6;quadrature method
+6;finite element method (FEM)
+6;effective width method
+6;novel methodology
+6;tests
+6;particle image velocimetry
+6;image analysis
+6;analytical method
+6;present method
+6;experimental technique
+6;X-ray CT
+6;scheme
+6;proposed framework
+6;case study
+4;statistical techniques
+4;orthogonal collocation method
+4;“Smart Maintenance Initiative
+4;eco-efficiency modelling framework
+4;Monte Carlo principle
+4;Weibull distribution
+4;Experiment 1
+4;discrete element method (DEM)
+4;Sarsa TD algorithm
+4;data-based optimization
+4;non-IID recommendation research
+4;single-seed casting technique
+4;proposed scheme
+4;proposed protocol
+4;control theory
+4;FE modelling
+4;Radon-transform analysis
+4;self-adapting predictive control scheme
+4;parametric analysis
+4;thermodynamic analysis
+4;control volume approach
+4;computer vision algorithms
+4;immersed-body method
+4;EZR approach
+4;integrative approach
+4;SF-NERSE method
+4;SF-NERSE technique
+4;limited view algorithms
+4;POD analysis
+4;finite element model assisted method
+4;total focusing method (TFM)
+4;two approaches
+4;state-of-the-art elements
+4;Fuzzy C-means
+4;decision trees
+4;neural networks
+4;conventional hybrid frequency-time domain approach
+4;time-domain approach
+4;fib Model Code 2010
+4;simple formula
+4;structural analysis
+4;numerical method
+4;PAIR approach
+4;multi-criteria decision analysis
+4;direct measurement method
+4;in-situ crystallization technique
+4;European Air Quality Directive
+4;linear/multi linear regression and supervised learning techniques
+4;direct UV-writing approach
+4;theoretical approach
+4;interface code
+4;basis function-based algorithms
+4;modelling tool
+4;framework
+4;GES method
+4;partial cell technique
+4;XBeach-G
+4;time-split scheme
+4;novel method
+4;linear stability analysis
+4;bottleneck prediction algorithm
+4;spatial analysis
+4;Eigenfunction Method
+4;comparative analysis
+4;holistic approach
+4;game theory
+4;principal component analysis (PCA)
+4;concept
+4;Statistical analysis
+4;density functional theory calculations
+4;hybrid approach
+4;two-step approach
+4;novel modelling approach
+4;systems approach
+4;integrated approach
+4;integrated load and state estimation algorithm
+4;Thermogravimetric analysis
+4;Electrochemical Impedance Spectroscopy (EIS)
+4;SAFT-VR Mie
+4;Lasso regression
+4;modified Pechini method
+4;study
+4;dynamic approach
+4;non-destructively
+4;conventional methods
+4;support vector machine
+4;shallow neural network
+4;vitro
+4;neutron diffraction
+4;modelling strategy
+4;time-of-flight neutron diffraction
+4;Paris Agreement
+4;composition tuning method
+4;bottom-up integrated system approach
+4;scenario analysis
+4;SEM-EDX
+4;log-linear regression
+4;logistic regression
+4;Code of Practice
+4;conventional procedure
+4;proposed algorithms
+4;high-energy synchrotron X-ray diffraction
+4;morphometric method
+4;combined approach
+4;different techniques
+4;Microstructural analysis
+4;four-point roundness measurement method
+4;LS-DYNA
+4;optimisation framework
+4;finite element software LS-DYNA
+4;recently proposed method
+4;Particle Swarm Optimisation (PSO) algorithm
+4;dynamic analysis
+4;nonlinear dynamic analysis
+4;3-voltage-step protocol
+4;receding-horizon control algorithm
+4;developed method
+4;heuristic algorithm
+4;point process theory
+4;Weight-Shape decomposition
+4;effective algorithm
+4;two methods
+4;Hinode method
+4;reliability assessment framework
+4;Monte Carlo method
+4;stability analysis
+4;Numerical analysis
+4;inclining experiment
+4;three-layered approach
+4;Raman spectroscopy
+4;large eddy simulation (LES)
+4;eXtended Finite Element Method (XFEM)
+4;Unified Formulation
+4;finite element modelling
+4;numerical scheme
+4;dimensional analysis
+4;Monte Carlo simulation method
+4;differential quadrature method
+4;GST approach
+4;Gaussian linearization method
+4;classic confinement-independent approach
+4;three-dimensional analysis
+4;FE analysis
+4;new inverse analysis approach
+4;direct numerical simulation (DNS)
+4;volume of fluid (VOF) method
+4;spectral element method
+4;proposed FE technique
+4;high-order methods
+4;modeling approach
+4;in-situ XRD
+4;network approach
+4;X-ray diffraction (XRD)
+4;linear regression
+4;Kinetic analysis
+4;social exchange theory
+4;condition-based approach
+2;Quantitative polymerase chain reaction
+2;Culture-based methods
+2;emergy methodology
+2;multi-criteria decision support methods
+2;integrated assessment methods
+2;integrated assessment
+2;(qPCR) method
+2;Bench-scale filter column studies
+2;Additional non-target screening
+2;tandem high resolution mass spectrometry
+2;liquid chromatography
+2;solid phase extraction
+2;Point Two (EML-2)
+2;model exploitation
+2;MTS assay
+2;micro-computed tomography
+2;modified CUSUM
+2;Kalman Filter
+2;novel framework
+2;cutting-edge big data approaches
+2;medium-tech mapping methods
+2;peer-based learning techniques
+2;long-term community-based participatory research agenda
+2;Participatory Action Research approach
+2;field monitoring campaign
+2;detailed threat modeling exercise
+2;content analysis
+2;4W-ACB
+2;Infrared Reflection-Absorption Spectroscopy
+2;optical coherence tomography (OCT) and digital image correlation (DIC)
+2;two non-invasive techniques
+2;finite element discretisation and numerical continuation algorithms
+2;In-situ microscopy
+2;plane-wave-expansion method
+2;theory
+2;asymptotic formula
+2;pseudo-OCV tests
+2;IEC 62660-1 standard (IECC)
+2;first three-tier time-of-use tariff
+2;new algorithms
+2;electrochemical impedance spectroscopy (EIS)
+2;symmetric 4C constant-current charge/discharge protocol
+2;inverse problem approach
+2;simple algorithm
+2;modelling approach
+2;integrated electro–thermo–chemical modelling methodology
+2;control algorithms
+2;integrated modelling methodology
+2;campaign
+2;pre-standard
+2;standard BS EN 1090-2:2008
+2;‘acoustic black hole effect’
+2;Improved TFM (iTFM)
+2;pulsed thermography
+2;NDI ultrasonic C-scanning
+2;quasi-static testing
+2;validated non-destructive inspection (NDI)
+2;new philosophy
+2;Schmertmann [1] and Schmertmann et al.
+2;appropriate technique
+2;30,000 m2 study
+2;Dynamic Replacement (DR) technique
+2;Incremental Dynamic Analysis, IDA
+2;particle size analysis
+2;three-dimensional scanning technology
+2;cost analysis
+2;digital image correlation (DIC) method
+2;repair methodology
+2;site visit
+2;V-funnel, and L-Box test
+2;SEM and XRD techniques
+2;Finite Element Method (FEM)
+2;nonlinear finite element analysis
+2;multivariable regression
+2;rebound hammer test (RHT)
+2;nondestructive technique
+2;simple method of core-spring
+2;ABAQUS finite element method program
+2;practical method
+2;statistical multiple regression analysis
+2;Finite Volume Method
+2;retrofit technique
+2;multi-criteria decision-making method
+2;Analytic Network Process
+2;NF EN 1991-1-4/A1
+2;principles of absolute volume method
+2;in-situ performance based specification
+2;Fourier Transform Infrared investigation
+2;preliminary design procedure
+2;X-ray diffractometer
+2;several parallel methods
+2;large scale remedial initiative
+2;full scale non-destructive evaluation
+2;conducted experiments
+2;Homotopy analysis method (HAM)
+2;ANSYS commercial software
+2;enhanced wall function
+2;finite element modeling
+2;Maple-18 software
+2;numerical Method (4th–5th-order Runge–Kutta–Fehlberg)
+2;homotopy analysis method (HAM)
+2;semi-logarithmic function
+2;conventional homogeneous one-phase model
+2;two-phase model
+2;novel volume fraction-thermal lattice Boltzmann method
+2;bivariate spectral quasi-linearization method
+2;multi-factor coupling regression formula
+2;homotopic method
+2;Computational Fluid Dynamics (CFD) Analysis
+2;numerical approach
+2;3D-CFD method
+2;mathematical analysis
+2;thermal resistance method
+2;Explicit Finite Difference Method (EFDM)
+2;applied method
+2;Homotopy Perturbation Method
+2;spectral analysis
+2;discrete Fourier Transform
+2;Modified Homotopy perturbation method (MHPM)
+2;engineering equation solver, EES
+2;Boltzmann equation
+2;new micro gas sensor (MIKRA)
+2;Direct Simulation Monte Carlo (DSMC) method
+2;shooting technique
+2;fourth order Runge-Kutta method
+2;fourth order Runge-Kutta
+2;second law analysis
+2;finite difference and finite volume method
+2;DesignBuilder software
+2;pinch analysis optimization technique
+2;energy pinch analysis
+2;CFD calculations
+2;Bruggeman approximation
+2;Effective medium theory
+2;Parametric study
+2;Duan–Rach Approach (DRA)
+2;Fluent program
+2;proposed correlation
+2;Kern's method
+2;computational technique
+2;computational fluid dynamic analysis
+2;2-h experiment
+2;ANSYS CFX 14.5
+2;finite element based software
+2;CFD (computational fluid mechanics) method
+2;5 experiments
+2;Crank–Nicholson method
+2;finite difference method (Crank–Nicholson method).The calculations
+2;SIMPLE algorithm
+2;collocated finite volume method
+2;electro-magnetic analysis
+2;finite volume approach
+2;laser imagining technique
+2;homotopy perturbation method (HPM)
+2;psychrometric analysis
+2;theoretical framework
+2;interview study
+2;ordered logit model
+2;Product-Service System (PSS) approach
+2;information technology
+2;model-based methodology
+2;21st-century innovation
+2;Workflow management technology
+2;iterative optimization algorithm
+2;AHP (Analytical Hierarchy Process)
+2;quality centric architecture evaluation approach
+2;Architecture Evaluation Framework
+2;Systems architecture
+2;4 methods
+2;expert classification (RC), phrase matching (PM), and Bayesian matching (NBPM)
+2;Maintenance ‘in-situ’
+2;global strategy
+2;through-life performance approach
+2;statistical technique
+2;proposed data-driven prognostics approach
+2;Taguchi design of experiment
+2;ultrasound C-scanning
+2;non-destructive inspections
+2;studies
+2;single-page-view
+2;information modelling technique
+2;entity relationship diagram
+2;2D graphical plot method
+2;aggregate visualisation techniques
+2;maintenance informatics dashboard design approach
+2;multidisciplinary methodology
+2;emerging and immature technology
+2;Monte-Carlo simulation methods
+2;Good uncertainty modelling
+2;Function Allocation Theory
+2;design method
+2;factory eco-efficiency modelling framework
+2;Lean thinking
+2;MCDM methods
+2;generic methodology
+2;software tool
+2;collaborative approach
+2;recent 3D low cost gaming technology
+2;Discrete Event Simulation (DES)
+2;tool concept
+2;acoustic emission technique
+2;automated means
+2;scanning electron microscopy (SEM) measurements
+2;image enhancement process
+2;Thermographic inspection
+2;transparent assessment model
+2;hierarchical clustering and principal component analysis (PCA)
+2;Document analysis and interview methods
+2;CoM initiative
+2;extrapolation method
+2;process
+2;Kyoto Protocol
+2;critical review and agenda setting perspective
+2;novel decentralized scheduling approach
+2;full climate, land, energy and water (CLEW) nexus approach
+2;Value Transfer approach
+2;normative energy calculation method
+2;Department of Energy and Climate Change (DECC)
+2;linear regression analysis
+2;house-developed program
+2;integrated study
+2;initial lidar survey
+2;airborne lidar surveys
+2;High-resolution airborne lidar surveys
+2;integrated technology
+2;deep purification technology
+2;Clausius-Clapeyron relation
+2;Multi-model intercomparison
+2;CMIP-Phase 5 (CMIP5)
+2;international community-based infrastructure
+2;Coupled Model Intercomparison Project (CMIP)
+2;Coordinated Regional Climate Downscaling Experiment (CORDEX)
+2;Abdus Salam International Center for Theoretical Physics (ICTP)
+2;sulfur hexafluoride tracer technique
+2;Two experiments
+2;synchrotron radiation (e.g., synchrotron radiation infrared microspectroscopy (SR-IMS) and synchrotron radiation X-ray techniques
+2;advanced synchrotron-based bioanalytical technology
+2;Detailed finite element analysis (FEA)
+2;phase field (PF) model
+2;high-fidelity modeling and post-process experiments
+2;FE approach
+2;Rosenthal approach
+2;Multiscale numerical simulation
+2;line-by-line localized laser scanning
+2;two-way 4D printing
+2;reversible 4D printing
+2;modal characteristic modifier (MCM) and an intelligent adaptive tuning algorithm (ATA)
+2;corresponding control strategy
+2;frequency-based substructure approach
+2;virtual assembly, virtual reality (VR), multi-objective optimization (MOO), and human-computer interaction
+2;big data analytics (BDA), and information and communications technology (ICT)
+2;cloud computing
+2;Manufacturing USA initiative
+2;National Network
+2;Industry 4.0 strategy
+2;cemented undercut-and-fill mining method
+2;ground control theory
+2;naive Bayesian classifiers
+2;artificial neural networks (ANNs)
+2;data mining (DM) techniques
+2;quantitative warning method
+2;neural network modeling
+2;back-analysis
+2;high-performance computing
+2;integrated reactor modeling framework
+2;proposed Otway Stage 3 and Deep Earth Energy and Environment Programme (AusDEEP))
+2;area IoT technology
+2;CIGS technology
+2;12th Five-Year Plan
+2;Thermodynamic analysis
+2;response surface methodology
+2;environmental scanning electron microscopy (ESEM) and Fourier-transform infrared (FTIR) spectroscopy

@@ -1,0 +1,589 @@
+weight;word
+528;in vivo
+427;vitro
+414;vivo
+414;in vitro
+108;mass spectrometry
+98;approach
+90;flow cytometry
+70;electron microscopy
+56;situ
+52;X-ray crystallography
+50;meta-analysis
+40;NMR spectroscopy
+36;Phylogenetic analysis
+36;whole-exome sequencing
+34;Western blotting
+34;RT-PCR
+32;methods
+30;ex vivo
+30;cryo-EM
+28;cryo-electron microscopy
+28;experiment
+26;transmission electron microscopy
+24;RNA sequencing
+24;site-directed mutagenesis
+24;fluorescence microscopy
+22;Western blot analysis
+22;qRT-PCR
+20;silico
+20;new method
+20;Mass spectrometry
+20;procedure
+20;next-generation sequencing
+18;vitro and in vivo
+18;ex vivo
+18;experiments
+16;central composite design
+16;in 
+16;In 
+16;small-angle X-ray scattering
+16;SDS-PAGE
+16;analyses
+16;super-resolution microscopy
+16;confocal microscopy
+16;Molecular dynamics simulations
+16;Western blot
+14;Proteomic analysis
+14;live-cell imaging
+14;algorithms
+14;quantitative proteomics
+14;PCR-RFLP
+14;trial
+14;single-cell RNA sequencing
+14;Raman spectroscopy
+14;high-throughput sequencing
+14;phylogenetic analysis
+14;microarray analysis
+14;situ hybridization
+14;Electron microscopy
+14;principal component analysis
+14;isothermal titration calorimetry
+14;genome-wide association study
+14;statistical analysis
+12;immunohistochemical analysis
+12;ChIP-seq
+12;multivariate analysis
+12;machine learning
+12;quantitative mass spectrometry
+12;RNA-seq
+12;in situ
+12;analytical ultracentrifugation
+12;scanning electron microscopy
+12;program
+12;LC-MS/MS
+12;silico analysis
+12;exome sequencing
+12;cross-sectional study
+10;in-depth analysis
+10;online survey
+10;workflow
+10;meta-analyses
+10;real-time PCR
+10;assay
+10;genome-wide association studies
+10;Cluster analysis
+10;size-exclusion chromatography
+10;CE-Symm
+10;statistical approach
+10;electron tomography
+10;circular dichroism
+10;Flow cytometry
+10;Genome-wide analysis
+10;Transcriptome analysis
+10;western blot
+10;surface plasmon resonance
+10;Cancer Genome Atlas
+10;mass spectrometry (MS)
+10;Sequence analysis
+10;genome-wide association studies (GWASs)
+10;s.l.
+8;Health Research
+8;integrated approach
+8;MR-seq
+8;genome-wide association study (GWAS)
+8;single-breath carbon dioxide test
+8;western blotting
+8;machine learning approach
+8;prospective study
+8;follow-up
+8;deep sequencing
+8;high-resolution mass spectrometry
+8;vivo studies
+8;Computational methods
+8;single experiment
+8;GC/MS
+8;cryo-electron tomography
+8;proteomic analysis
+8;structural analysis
+8;Network analysis
+8;size exclusion chromatography
+8;2D-PAGE
+8;MLVA scheme
+8;light microscopy
+8;Statistical analysis
+8;RNA-Seq
+8;pathway analysis
+8;survey
+8;live imaging
+8;genome-wide association studies (GWAS)
+8;systems biology approach
+8;logistic regression
+8;Site-directed mutagenesis
+8;Bioinformatic analysis
+8;randomized controlled trial
+8;Meta-analysis
+8;I–
+8;DNA sequencing
+8;intravital microscopy
+8;Principal component analysis
+8;single-particle analysis
+8;nuclear magnetic resonance spectroscopy
+8;computational methods
+8;Φ-value analysis
+8;electron cryomicroscopy
+8;nuclear magnetic resonance
+8;ELISA
+8;hybrid approach
+8;super-resolution imaging
+8;MS/MS
+8;dynamic light scattering
+8;quantitative method
+8;open-source software
+8;comparative analysis
+8;Immunohistochemical analysis
+8;live cell imaging
+8;Microarray analysis
+8;tandem mass spectrometry
+8;Next-generation sequencing
+8;cryoelectron microscopy
+8;silico modeling
+8;Exome sequencing
+6;immunohistochemical analyses
+6;enzyme-linked immunosorbent assay (ELISA)
+6;orbital shaking method
+6;Quo-Test
+6;National Institute
+6;model-predictive control algorithm
+6;PRO-seq
+6;bioinformatics pipeline
+6;in vivo function
+6;RNA-seq analysis
+6;genetic approach
+6;bioinformatics analysis
+6;two-dimensional electrophoresis
+6;machine learning techniques
+6;IG-SVM
+6;systematic review and meta-analysis
+6;Transcriptomic analysis
+6;magnetic resonance imaging (MRI)
+6;retrospective analysis
+6;TB-LAMP
+6;systematic review
+6;screen
+6;machine-learning approach
+6;RNAi screen
+6;quantitative analysis
+6;tilt-scheme
+6;machine learning algorithms
+6;label-free LC–MS/MS
+6;optimized protocol
+6;enzyme-linked immunosorbent assay
+6;electron cryo-microscopy
+6;Small-angle X-ray scattering
+6;Genetic analysis
+6;proposed method
+6;optimal strategy
+6;Southern blotting
+6;multiple regression analysis
+6;questionnaire
+6;cross-sectional analysis
+6;whole genome sequencing
+6;genome-wide analysis
+6;linear regression
+6;molecular dynamics simulations
+6;RT-qPCR
+6;rapid method
+6;1H NMR spectroscopy
+6;case–control study
+6;high-throughput techniques
+6;proposed strategy
+6;vitro selection
+6;cDNA display
+6;Regression analysis
+6;16S rRNA gene sequencing
+6;two methods
+6;control strategy
+6;prospective observational study
+6;Histological analysis
+6;techniques
+6;elemental analysis
+6;Bioinformatics analysis
+6;electron microscopy (EM)
+6;post-mortem
+6;Crystallographic analysis
+6;intravital imaging
+6;gene expression profiling
+6;intention to treat
+6;gene expression analysis
+6;Nuclear magnetic resonance (NMR) spectroscopy
+6;vivo imaging
+6;gas chromatography
+6;laser Doppler imaging
+6;fluorescence spectroscopy
+6;systematic approach
+6;atomic force microscopy
+6;biochemical analysis
+6;Fourier transform infrared spectroscopy
+6;magnetic resonance imaging
+6;mass spectroscopy
+6;in-vivo
+6;affinity chromatography
+6;Bioinformatics analyses
+6;Immunofluorescence microscopy
+6;mass spectrometry analyses
+6;Live imaging
+6;homogeneous assay
+6;LC–
+6;LC–MS/MS
+6;MALDI-TOF mass spectrometry
+6;molecular dynamics
+6;single-molecule imaging
+6;Monte Carlo simulations
+6;Computational modeling
+6;Ingenuity Pathway Analysis
+6;qPCR analysis
+6;chromatin immunoprecipitation
+6;gel electrophoresis
+6;approaches
+6;force spectroscopy
+6;comprehensive analysis
+6;whole-genome sequencing
+6;RNA sequencing analysis
+6;whole-exome sequencing (WES)
+6;Immunoblot analysis
+6;linkage analysis
+6;Avon Longitudinal Study
+6;semi-structured interviews
+4;ERIC-PCR
+4;structure-based model
+4;key informant interviews
+4;in-house MAT
+4;flow cytometry, and immunohistochemical analysis
+4;parallel plate method
+4;One Health approach
+4;new framework
+4;new guidelines
+4;LC-MS method
+4;laboratory standard method
+4;mediation analysis
+4;Linear regression
+4;structural Magnetic Resonance Imaging (sMRI) scan
+4;Cox proportional hazards regression analysis
+4;pre-test
+4;cohort study
+4;comprehensive metabolomics analysis
+4;diagnostic algorithm
+4;univariate analysis
+4;HEPES method
+4;first-in-human trial
+4;lanthanum-based flocculation method
+4;SC qPCR
+4;LRE qPCR method
+4;subgroup analysis
+4;Sensitivity analysis
+4;liquid chromatography with tandem mass spectrometry (LC-MS/MS)
+4;LC-MS/MS-based technique
+4;X-ray analysis
+4;optical coherence tomography (OCT)
+4;intervention
+4;statin-based therapy
+4;fixed-effects meta-analysis
+4;random-effects meta-analysis
+4;genetic analysis
+4;Genetics of Diabetes Audit
+4;Axon-seq
+4;combinatorial therapy
+4;Single-cell RNA sequencing
+4;Bi-DOCS
+4;bioinformatic approach
+4;vivo experiments
+4;PET-CT
+4;HNE-immunohistochemistry
+4;PET-CT analysis
+4;immuno-spin trapping technique
+4;computational approach
+4;dual-energy X-ray absorptiometry (DXA)
+4;Cancer Genome Atlas (TCGA)
+4;two-photon imaging
+4;Quantitative analysis
+4;two-photon calcium imaging
+4;clinical trial
+4;negative-stain electron microscopy
+4;genome editing technology
+4;Super-resolution microscopy
+4;computational modeling
+4;proof-of-principle experiments
+4;RNA sequencing (RNA-seq)
+4;chromatin immunoprecipitation sequencing
+4;Single-cell analysis
+4;high-fat diet (HFD)
+4;genome-wide RNAi screen
+4;comprehensive genome-wide analysis
+4;in situ hybridization
+4;Intramural Research Program
+4;Enrichment analysis
+4;TGS technology
+4;fluorescence in situ hybridization
+4;supported vector machines
+4;1D 1H NMR
+4;theory
+4;comparative approach
+4;homology-independent metrics
+4;SQM-DH methods
+4;local structure-based methods
+4;bioinformatic analysis
+4;silico approaches
+4;metabolic engineering approach
+4;data mining
+4;analytical method
+4;guilt-by-association rule
+4;alpha shape theory
+4;ChIP-seq experiments
+4;Systems biology
+4;forward genetic approach
+4;genome-wide
+4;purification protocol
+4;ultra-deep sequencing
+4;complete-case specification
+4;English Cancer Patient Experience Survey
+4;SWATH MS
+4;proof-of-principle study
+4;theoretical fragment ion spectra mass spectrometry (SWATH MS)
+4;sequential window acquisition
+4;immunohistochemical staining
+4;LC-MS/MS method
+4;SILAC labelling
+4;CDDO-me
+4;MS/MS strategy
+4;peptide MS/MS fingerprinting
+4;trypsin digest
+4;mass spectrometric analysis
+4;1-step method
+4;Whole genome sequencing
+4;random-effects model
+4;teaching exercise
+4;Tajima's D statistic
+4;Spearman's correlation
+4;equalising strategy
+4;multivariable linear regression
+4;in vitro studies
+4;non-linear filtering techniques
+4;first stage
+4;software
+4;penalized methods
+4;EDISON-WMW
+4;WMW test
+4;breath-holding test
+4;meta-analyzed
+4;cross-sectional studies
+4;ultra-deep next generation sequencing
+4;social network analysis
+4;Genome-wide analyses
+4;genome-wide screen
+4;optogenetic approach
+4;general method
+4;Kato-Katz technique
+4;lipidomic approach
+4;next generation sequencing (NGS)
+4;Sanger sequencing
+4;modelling framework
+4;dynamical systems theory
+4;ambient mass spectrometry
+4;label-free
+4;ChIP-SICAP
+4;targeted screen
+4;RNA-seq analyses
+4;Structural analysis
+4;single-molecule FRET
+4;systems-level understanding
+4;integrated analysis
+4;Metabolomics analysis
+4;Mol. Genet.
+4;fate-mapping experiments
+4;Transcriptional analysis
+4;sub-volume averaging
+4;Pull-down assays
+4;Sub-volume averaging
+4;solid-state NMR
+4;statistical framework
+4;Image analysis
+4;3D reconstruction
+4;web-based tools
+4;single particle cryoEM approach
+4;automated method
+4;one-step purification
+4;traditional protocol
+4;stable isotope labelling
+4;detailed protocol
+4;solution NMR spectroscopy
+4;intravital two-photon microscopy
+4;ribosome profiling method
+4;Cryo-electron microscopy (cryo-EM)
+4;single-cell RNA-sequencing
+4;reliable method
+4;FPOP–MS
+4;DNA methylation analysis
+4;AutoMeDIP-seq
+4;XL-MS
+4;cryo-fluorescence microscopy
+4;single-particle cryo-EM
+4;surface plasmon resonance experiments
+4;double electron-electron resonance (DEER) spectroscopy
+4;point mutagenesis
+4;mass spectrometry (MS)-based proteomics
+4;Proteomic studies
+4;quantitative RT-PCR
+4;LC/MS/MS
+4;Genome-wide association studies
+4;state-of-the-art methods
+4;Genomic studies
+4;single method
+4;statistical methods
+4;conventional method
+4;RNA-sequencing
+4;in-situ
+4;improved methodology
+4;Concatenated gene sequence analysis
+4;fluorescence in situ hybridization
+4;transmission electron microscopy (TEM)
+4;X-ray diffraction (XRD)
+4;Fourier transform infrared spectroscopy (FTIR)
+4;AFLP analysis
+4;Ni-NTA chromatography
+4;polymerase chain reaction (PCR)
+4;response surface methodology
+4;Northern blot analysis
+4;SDS-PAGE analysis
+4;high-performance liquid chromatography
+4;response surface methodology (RSM)
+4;cross-sectional observational study
+4;Medical Research Council National Survey
+4;regression analyses
+4;reverse genetics
+4;ingenuity pathway analysis (IPA)
+4;polymerase chain reaction
+4;targeted next-generation sequencing
+4;open ring trial
+4;cryo-EM method
+4;cryo-electron microscopy (cryo-EM)
+4;synchrotron radiation circular dichroism spectroscopy
+4;immunoassay
+4;faecal egg count reduction test
+4;reverse line blot assay
+4;‘One Health’ concept
+4;experimental technique
+4;liquid chromatography – mass spectrometry
+4;differential scanning fluorimetry
+4;similar approach
+4;Single-cell sequencing
+4;data analysis
+4;RNA Bioinformatics Center (RBC)
+4;Bayesian approach
+4;triangulation test
+4;Phase 2 clinical study
+4;International Standard Randomised Controlled Trial
+4;DCE-MRI
+4;SEMAC protocol
+4;test
+4;Intravital imaging
+4;Neo-Rapid CARB test
+4;reference method
+4;three methods
+4;Automated microscopy
+4;PMMS-phage method
+4;genomic analysis
+4;Quantitative PCR
+4;Michaelis–Menten equation
+4;Logistic regression analysis
+4;proof-of-concept study
+4;flow cytometry and immunohistochemistry
+4;ICP-MS analysis
+4;new strategy
+4;scanning electron microscopy (SEM)
+4;quantitative fluorescence microscopy
+4;mouse model
+4;CT imaging
+4;Time-lapse microscopy
+4;quantitative real-time PCR
+4;new protocol
+4;Structural modeling
+4;structure-based mutagenesis
+4;cryo electron microscopy
+4;in vivo calcium imaging
+4;integrative modeling
+4;single-particle electron cryomicroscopy
+4;structure-function analysis
+4;Biochemical analysis
+4;high-throughput screen
+4;flow cytometric analysis
+4;case-control study
+4;per-protocol analysis
+4;fluorescence-activated cell sorting
+4;Confocal microscopy
+4;Topological data analysis
+4;Bayesian network analysis
+4;proof-of-concept studies
+4;factor and cluster analyses
+4;basophil activation test (BAT)
+4;murine model
+4;-control study
+4;RT-PCR analysis
+4;Homology modelling
+4;two-electrode voltage-clamp electrophysiology
+4;al.
+4;multiple linear regression
+4;LC–MS
+4;mass spectrometry-based assays
+4;mass spectrometry analysis
+4;High-throughput sequencing
+4;DNA-SIP
+4;thermal imaging
+4;FT-IR
+4;Electron tomography
+4;protein crystallography
+4;Database analyses
+4;cross-linking
+4;electrophoretic mobility shift assays
+4;X-ray scattering
+4;tryptophan fluorescence spectroscopy
+4;small-angle neutron scattering
+4;model
+4;homology modelling
+4;computer modelling
+4;whole-cell patch clamp
+4;HPLC analysis
+4;quantitative Taqman PCR
+4;logistic regression analysis
+4;kit approach
+4;proof-of-principle
+4;real time RT-PCR
+4;immunofluorescence microscopy
+4;multiplex PCR
+4;co-immunoprecipitation
+4;oocyte host-transfer method
+4;computational strategy
+4;ex-vivo
+4;loss-of-function experiments
+4;ultracentrifugation method
+4;World Health Organization (WHO)
+4;mass-spectrometry
+4;method comparison
+4;quantitative PCR
+4;hydrophilic interaction liquid chromatography
+4;Nuclear magnetic resonance (NMR)
+4;synthetic biology approach
+4;stimulated emission depletion microscopy
+4;Cryo-electron microscopy
+4;single-molecule fluorescence techniques
+4;site-directed spin labeling

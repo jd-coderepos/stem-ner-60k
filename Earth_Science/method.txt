@@ -1,0 +1,5129 @@
+method	298
+analysis	206
+methodology	130
+approach	104
+algorithm	66
+technique	44
+experiments	42
+experiment	42
+situ	40
+sensitivity analysis	40
+survey	38
+methods	34
+meta-analysis	26
+proposed method	24
+vivo	24
+vitro	24
+study	22
+semi-structured interviews	20
+new method	20
+statistical analysis	20
+protocol	18
+proposed methodology	18
+Paris Agreement	16
+in-situ	16
+Sensitivity analysis	16
+time series analysis	16
+Bayesian approach	16
+Raman spectroscopy	16
+analyses	16
+scanning electron microscopy	16
+proposed approach	14
+strategy	14
+scheme	14
+modelling approach	14
+logistic regression	14
+two methods	14
+Avon Longitudinal Study	12
+cluster analysis	12
+ICP-MS	12
+situ measurements	12
+Statistical analysis	12
+developed method	12
+DDPI approach	10
+in-depth interviews	10
+cross-sectional study	10
+algorithms	9
+Convention	8
+STOCHEM-CRI	8
+Data analysis	8
+procedure	8
+regression analysis	8
+mixed methods approach	8
+content analysis	8
+EU Water Framework Directive	8
+two approaches	8
+new approach	8
+techniques	8
+field survey	8
+multivariate statistical analysis	8
+Soil and Water Assessment Tool (SWAT)	8
+integrated method	8
+Revised Universal Soil Loss Equation (RUSLE)	8
+systematic review	8
+data analysis	8
+Statistical analyses	8
+laser-assisted fluorination	8
+transmission electron microscopy	8
+workflow	8
+spatial analysis	6
+risk-based approach	6
+bottom-up approach	6
+gas chromatography	6
+screening tool	6
+Soil Health Tool	6
+cross-sectional survey	6
+program	6
+principal component analysis	6
+questionnaire	6
+TwoStep cluster analysis	6
+case study	6
+key informant interviews	6
+new methodology	6
+parametric analysis	6
+place-based approach	6
+meta-analyses	6
+theory	6
+post-intervention	6
+data fusion method	6
+multi-proxy approach	6
+GC-MS	6
+in vitro	6
+liquid chromatography	6
+sediment diffusion method	6
+online survey	6
+LC-MS/MS	6
+quantitative PCR	6
+Regression analysis	6
+scene analysis	6
+Australian Geoscience Data Cube (AGDC)	6
+data assimilation-crop modeling framework	6
+cross-validation	6
+flow cytometry	6
+ecosystem approach	6
+EU Marine Strategy Framework Directive	6
+multi-method approach	6
+new framework	6
+simulation experiment	6
+statistical approach	6
+Linear regression analysis	6
+integrated approach	6
+PET method	6
+Principal Component Analysis	6
+EXAFS analysis	6
+X-ray computed tomography	6
+LA-ICP-MS	6
+situ analysis	6
+monitoring method	6
+elemental analysis	6
+Thermodynamic modelling	6
+Meta-analysis	6
+different techniques	6
+X-ray diffraction	6
+electron microscopy	6
+RT-PCR	4
+wetting method	4
+vitro chromosomal aberration test	4
+multiple linear regression	4
+time-lagged ensemble approach	4
+track-based instrumentation	4
+focus group discussions	4
+geo-spatial crop modeling	4
+case study approach	4
+Land system science	4
+Time-lapse FWI	4
+trait-based approaches	4
+TIWR approach	4
+Systems Ecology	4
+quantile regression	4
+non-linear optimisation	4
+distant-to-target approach	4
+Effect-based monitoring	4
+component-based modeling	4
+McKay method	4
+test	4
+activity-based methodology	4
+model approach	4
+Suture–	4
+k-NN	4
+ICA method	4
+Multivariable logistic regression	4
+ecosystem services approach	4
+water footprint concept	4
+assessment	4
+project/policy level method	4
+literature review	4
+Social-Material Network Analyses	4
+longitudinal study	4
+novel approach	4
+choice experiment	4
+weather-index insurance	4
+J-value	4
+1999 study	4
+life cycle assessment (LCA)	4
+linear programming	4
+comprehensive model	4
+material flow analysis	4
+in-situ rheology	4
+bootstrap method	4
+MRSC method	4
+chemical kinetics algorithm	4
+X-ray absorption spectroscopy	4
+two methodologies	4
+developed methodology	4
+Morris method	4
+PMV method	4
+ISO 9869 method	4
+odds ratio analysis	4
+large-scale, city-wide survey	4
+cost-benefit analysis	4
+IDSS approach	4
+cost-effectiveness analysis	4
+discrete element method	4
+quantitative analysis	4
+two-step cluster analysis	4
+Descriptive analysis	4
+Bayesian methods	4
+new experiment	4
+mitigation strategy	4
+linear regression model	4
+control algorithms	4
+Monte Carlo analysis	4
+modelling method	4
+scanning electron microscopy (SEM)	4
+comparison	4
+Marine Strategy Framework Directive	4
+Q methodology	4
+gamma distribution method	4
+Superhomogenization method	4
+saddlepoint method	4
+probabilistic method	4
+TOPS methodology	4
+snow detection algorithms	4
+desk study	4
+multi-criteria analysis	4
+empirical approach	4
+series of semi-structured interviews	4
+time-series methods	4
+wavelet analysis	4
+moving average subtraction method	4
+chemical analysis	4
+systematic review and meta-analysis	4
+pseudo-probabilistic methods	4
+proposed algorithm	4
+machine learning approach	4
+analysis method	4
+discrete choice experiment	4
+questionnaire survey	4
+focus groups	4
+Empirical analysis	4
+nationally representative survey	4
+Critical Zone Science	4
+ADS method	4
+HR-EBSD	4
+thin section analysis	4
+Maximum Likelihood Estimators	4
+probabilistic framework	4
+augmented circular scanline method	4
+microphysical scheme	4
+spectral analysis	4
+in-depth studies	4
+qualitative case study	4
+situ U-Pb dating	4
+finite element analysis	4
+eddy covariance method	4
+follow-up interviews	4
+CO2 flux partitioning algorithms	4
+assimilation algorithm	4
+PLS regression	4
+real-time PCR	4
+in-situ observations	4
+pre-intervention	4
+generalized linear model	4
+Sensitivity analyses	4
+Monte-Carlo simulations	4
+proposed field method	4
+Species distribution modelling	4
+Ambiguity Analysis	4
+statistical methods	4
+quantitative approach	4
+EU Biodiversity Strategy	4
+different methods	4
+Water Framework Directive	4
+Linear regression	4
+nature valuation methodology	4
+a.s.l.	4
+XANES analysis	4
+image analysis	4
+AOP framework	4
+multi-criteria decision analysis	4
+two experiments	4
+Hot spot analysis	4
+general framework	4
+EU Water Framework Directive (WFD)	4
+National Geochemical Survey	4
+Semi-structured interviews	4
+independent methods	4
+LUCAS topsoil survey	4
+gamma-ray spectrometry	4
+type-approval test procedure	4
+Markov chain Monte Carlo simulation	4
+Tenax-method	4
+inductively coupled plasma-mass spectrometry	4
+optimization algorithm	4
+developed protocol	4
+niche theory	4
+new equation	4
+scenario analysis	4
+CT method	4
+Bayesian framework	4
+UV–visible spectroscopy	4
+SPE method	4
+AOP	4
+Ames test	4
+comparative analysis	4
+core analysis	4
+light microscopy	4
+machine learning algorithms	4
+retrieval algorithm	4
+retrieval algorithms	4
+fixed- and variable-height threshold approaches	4
+novel algorithm	4
+ERA-Interim reanalysis	4
+FAST algorithm	4
+normalized difference vegetation index (NDVI)	4
+tree-centric approach	4
+Advanced Synthetic Aperture Radar (ASAR)	4
+new scheme	4
+mapping	4
+sub-sampling tool	4
+combined approach	4
+FCM protocol	4
+evidence-based approach	4
+multidisciplinary approach	4
+data assimilation techniques	4
+1280min approach	4
+principal component analyses	4
+differential scanning calorimetry	4
+tests	4
+Tukey method	4
+U-Pb dating	4
+situ analyses	4
+harmonic approximation	4
+luminescence spectroscopy	4
+Re–Os geochronology	4
+equilibrium method	4
+infrared spectroscopy	4
+Monte Carlo simulations	4
+X-ray fluorescence	4
+experimental method	4
+GC–MS	4
+conceptual framework	4
+Wi-Fi	4
+time-series analysis	4
+correlation analysis	4
+electrical resistivity tomography (ERT)	4
+programme	4
+137Cs-based approach	4
+electron microprobe	4
+Interferometric Synthetic Aperture Radar (InSAR)	4
+I–	4
+general theory	4
+double spike technique	4
+Pb isotope analysis	4
+X-ray photoemission electron microscopy	4
+Diffusion modelling	4
+high-pressure experiments	4
+density functional theory (DFT)	4
+Monte Carlo approach	4
+Oxygen isotope analysis	4
+High-precision oxygen isotope analysis	4
+UV laser ablation	4
+oxygen isotope analyses	4
+X-ray mapping	4
+X-ray analysis	4
+XAS analysis	4
+Canonical correlation analysis (CCA)	4
+Principal Component Analysis (PCA)	4
+sampling method	4
+mass spectrometry	4
+preprocessing selection approach	4
+tandem mass spectrometry	4
+new algorithm	4
+ranking method	3
+DeNitrification DeComposition model (DNDC)	2
+multivariate indicator kriging (MVIK)	2
+12-year Taiwan Environmental Protection Administration survey	2
+presently available EVA methods	2
+least squares fitting	2
+lens of resilience theory	2
+high-resolution telemetry	2
+Demonstration Test Catchment (DTC) initiative	2
+PRObability of Streamflow PERmanence (PROSPER) model	2
+U.S. Geological Survey (USGS)	2
+e.g. IDEAM–	2
+Model-Output-Statistics analysis	2
+Canonical Correlation Analysis	2
+climate change service	2
+regional climate change impact analysis	2
+ECOWAS Observatory	2
+Social science research	2
+43 interviews	2
+qualitative research methods	2
+national-level climate service	2
+National System of Agriculture Information (SNIA)	2
+CHASE-PL (Climate change impact assessment	2
+Advanced planning	2
+World Food Programme	2
+Statistical downscaling	2
+global climate model (GCM) EC-EARTH	2
+logic model	2
+climate services program	2
+IPCC’s Working Group II (WGII)	2
+iterative approach	2
+5th Coupled Model Intercomparison Project (CMIP5)	2
+web service	2
+Rossby Centre regional climate model RCA4	2
+unanticipated but innovative assessment techniques	2
+Water Utility Climate Alliance	2
+Piloting Utility Modeling Applications project	2
+Inter-sectoral Impact Model Inter-comparison Project (ISI-MIP)	2
+Coupled Model Inter-comparisons Project Five (CMIP5)	2
+SBAS measurements	2
+Small Baseline Subset (SBAS)	2
+Time-series analysis (1987–2016)	2
+hierarchy classification	2
+21-day post treatment analysis	2
+brand-competitiveness analysis	2
+systematic review and meta-analyses	2
+Life cycle Assessment (LCA)	2
+AIC (Akaike’s Information Criterion) comparison	2
+log-normal error distribution	2
+PERMANOVA analysis	2
+Bight Program	2
+probabilistic survey design	2
+SCB Regional Marine Monitoring Program (the Bight Program	2
+satellite-based observations	2
+employed technology	2
+Ozone Monitoring Instrument (OMI) satellite-based SO2 observations	2
+electrochemical impedance spectroscopy (EIS)	2
+potential of square wave voltammetry (SWV)	2
+trained with Levenberg–Marquardt (LM) algorithm	2
+artificial neural network (ANN) and genetic algorithm (GA)	2
+citizen science and in-depth qualitative research	2
+political settlements approach	2
+evaluating method	2
+comet assay techniques	2
+diet paradigm	2
+Ames assay	2
+vitro and in vivo	2
+High Performance Liquid Chromatography (HPLC) method	2
+vitro bacterial reverse mutation assay	2
+one-month exposure study	2
+first study	2
+AFM and HR-TEM	2
+XRD AFM and HR-TEM	2
+UV–vis spectrophotometer	2
+ecofriendly approach	2
+Annexin-V staining	2
+mM. Hg analysis	2
+Atomic Absorption Spectrometer	2
+liquid chromatography-tandem mass spectrometry (LC/MS/MS)	2
+analytical method	2
+studies	2
+optical morphometry method	2
+laser particle size analysis method	2
+short-term intramuscular application	2
+immuno-affinity column (IAC) and high performance liquid chromatography (HPLC)	2
+bacterial reverse mutation assay	2
+age-wise distribution	2
+in-vitro	2
+active systemic anaphylaxis (ASA) assay	2
+instrumental neutron activation analysis	2
+atomic absorption spectrophotometry	2
+OECD443 or OECD407 protocol	2
+Acute and subacute studies	2
+atomic absorption spectrophotometer	2
+Chromatographic analysis	2
+revertant analysis	2
+standard methods	2
+pre-incubation method	2
+MX/DA metric	2
+dose-addition and independence models	2
+toxicity test	2
+atomic layer deposition	2
+two optimized chemical vapor deposition methods	2
+sensitive intervention	2
+9-month intervention	2
+FACS analysis	2
+western blotting	2
+versatile method	2
+vitro estimating strategies	2
+Ames tests	2
+vitro chromosomal aberration test (OECD test guideline	2
+Ames test (OECD test guideline	2
+simple mentholation technique	2
+custom-mentholation technique	2
+32P-postlabeling	2
+2 year period	2
+XRF analysis	2
+AAS and XRF techniques	2
+speciation analysis	2
+Flame Atomic Absorption Spectrophotometer	2
+spectrophotometric method	2
+novel decision-scaling approach	2
+well-known GHM (LPJmL	2
+DRASTIC method	2
+novel modeling framework	2
+Study focusLake	2
+combined hydrogeological, hydrochemical and isotopic approach	2
+scenario-based framework	2
+SPSS (Statistical Package for the Social Scientists) statistical tool	2
+Study focusA method	2
+robust calibration method	2
+Uniform random sampling	2
+uniform random sampling procedure	2
+SCE-UA	2
+parameter set calibration method	2
+Nagelkerke coefficient	2
+Hosmer-Lemeshow test	2
+multiple logistic regression model	2
+largely physical-science based program	2
+binational Transboundary Aquifer Assessment Program (TAAP) agreement	2
+GIS analysis	2
+online national GDE mapping tool	2
+adopted modelling approach	2
+2-step approach	2
+kriging approaches	2
+single-site index methods	2
+leave-one-out cross-validations	2
+single-index methodologies (nearest-neighboring index) and geospatial tools (kriging and topological kriging)	2
+regionPrincipal component analysis (PCA)	2
+AR processor	2
+ensemble flood forecasting methodology	2
+modified pseudo global warming dynamical downscaling method	2
+lumped parameter model analysis	2
+multi-site Contemporaneous Autoregressive Moving Average	2
+modified Kling-Gupta statistic	2
+differential split-sample test	2
+Mann-Kendall trend analysis	2
+Jonas et al.	2
+edge-detection filter	2
+gravity analysis	2
+“Grain for Green” program (GFG)	2
+Study regionPhysical and biological surveys	2
+MODFLOW.New hydrological insights	2
+example vulnerability assessment	2
+vulnerability mapping framework	2
+CFC-12 analysis	2
+downscaling technique	2
+two-sided Kolmogorov–Smirnov (KS) test	2
+quantile–quantile transformation (QQ)	2
+delta-change method	2
+rainfall-runoff model, Soil and Water Assessment Tool (SWAT).New Hydrological Insights	2
+fuzzy extension principle	2
+disaggregation method	2
+daily rainfall based disaggregation method	2
+conventional line-tamping	2
+targeted repair strategy	2
+Conventional line-tamping	2
+time hardening scheme	2
+Bishop’s effective stress approach	2
+enhanced model	2
+universal model	2
+current choice set generation methods	2
+model estimation	2
+evaluation	2
+link elimination	2
+two commonly used choice set generation methods (breadth-first search	2
+data-driven path identification approach (DDPI)	2
+data-driven approach	2
+choice set generation algorithms	2
+travel behaviour analysis	2
+series of multilevel analyses	2
+UK Time Use Survey	2
+four-cluster typology	2
+National Travel Survey	2
+activity- and practice-based approaches	2
+Elvik’s (2006) laws	2
+weather radar approach	2
+traditional station-based approach	2
+comparative study	2
+rainfall quantification and matched-pairs analysis	2
+innovative city-wide weather radar approach	2
+integrated land ecosystem-atmosphere processes study (iLEAPS)	2
+Integrated Marine Biogeochemistry and Ecosystem Research (IMBER) project	2
+discrete choice experiments	2
+seven strategies	2
+individual technology or management approach	2
+general equilibrium theory	2
+EU-FP7 SNOWBALL project	2
+long-term case study	2
+participatory observations	2
+recommended behavioral strategy	2
+protective behavioral strategy	2
+novel stochastic earthquake source modeling and state-of-the-art shaking-tsunami fragility modeling	2
+probabilistic multi-hazard loss estimation methodology	2
+user-tailored game design and reliable evaluation methodology	2
+DesInventar methodology	2
+built environment engineering perspective	2
+existing resilience framework research	2
+community-based, multifaceted, quantitative, and operationalized	2
+systematic survey	2
+proposed eight-step composite indicator building procedure	2
+overarching eight-step procedure	2
+standard procedure	2
+interviews and a one and a half-day workshop	2
+expert online survey	2
+National Natural Disaster Management Law	2
+evidence-based methodology	2
+Japan's transitional shelter strategy	2
+descriptive summary and a thematic analysis	2
+literature search strategy	2
+SOM approach	2
+Self Organizing Map (SOM)	2
+computational method	2
+‘Risk-Based Planning Approach’ (RBPA)	2
+traditional land use planning approach	2
+CHANGES33CHANGES project	2
+two Earthquake Engineering Field Investigation Team (EEFIT) missions	2
+current mitigation strategies	2
+cost-benefit analysis (CBA)	2
+in-line real-time water content analysis	2
+Nigeria Industrial Standard (NIS)	2
+General Purpose Water Account Reporting	2
+Water accounting	2
+Nutrient Tracking Tool (NTT) framework	2
+water reuse concept	2
+Energy Management Standard ISO50001	2
+Langmuir, Freundlich and Dubinin	2
+BET surface area analysis	2
+pseudo-second-order equation	2
+World Health Organization (WHO) and Palestinian Water Authority (PWA) guidelines	2
+separation factor analysis	2
+Fourier transform infrared spectroscopy (FTIR) analysis	2
+pseudo-second-order model	2
+Scanning electron microscopy (SEM)	2
+ERA and related footprint methods	2
+ERA framework	2
+Embedded Resource Accounting (ERA)	2
+Weighted Average Index	2
+Pilot Program	2
+five step process	2
+DAVA approach	2
+social-science driven Determinants and Analogue Vulnerability Assessment (DAVA)	2
+interpretive phenomenological approach	2
+mixed-method approach	2
+BCC-CSM1.1	2
+MaxEnt modelling	2
+jackknife test	2
+Intergovernmental Panel for Climate Change’s (IPCC) 5th assessment	2
+BCC-CSM1.1 model	2
+Maximum Entropy (MaxEnt) modelling	2
+Decision Support System for Agrotechnology Transfer Cropping Systems Model (DSSAT-CSM)	2
+simulation based study	2
+Generalized Extreme Value (GEV) distribution	2
+adaptation pathway methodology	2
+one-way analysis of variance, percentage analysis and Garrett ranking technique	2
+smart Information and Communication a Technology (ICT)	2
+personal observations	2
+spatial, time-series analysis	2
+LTAC approach	2
+CGIAR Research Program	2
+Statistical methods	2
+new in-season weather-based plant status monitoring strategies	2
+qualitative field study	2
+long term management plan	2
+decision theory	2
+fix and forget approach	2
+linear ‘fix and forget’ management approach	2
+action prioritisation task	2
+vulnerability assessment task	2
+ethnographic surveys	2
+multi-disciplinary ethnographic and climatic project (PICREVAT)	2
+UK-specific review	2
+CHW methodology	2
+geographic information system (GIS)	2
+weather index insurance	2
+Bayesian Network approach	2
+criterion	2
+UHI analysis	2
+low carbon study	2
+city-wide review	2
+extensive literature review	2
+novel qualitative methods	2
+Surface Urban Energy and Water Balance Scheme (SUEWS)	2
+detailed source area analysis	2
+National Data Sharing and Accessibility Policy	2
+algorithm skill	2
+hail algorithm	2
+efficiency analysis	2
+traditional multi-peril crop insurance (MCPI)	2
+Coupled Model Intercomparison Project Phase 5 (CMIP5) coupled GCMs (CGCMs)	2
+C20C+ Detection and Attribution Project	2
+fraction of attributable risk (FAR) approach	2
+stationary generalized extreme value analysis	2
+coordinated experiment	2
+20th Century Plus Detection and Attribution project	2
+C20C+ Detection and Attribution project	2
+climate system (Nat-Hist)	2
+All-Hist)	2
+protocols of the C20C+ Detection and Attribution project	2
+CAM5.1-1degree	2
+medium-resolution atmospheric climate model	2
+frequentist statistical methods	2
+widely-used bootstrap	2
+existing statistical methods	2
+standard latent variable model	2
+max-stable methodology	2
+geographic information system (GIS) techniques	2
+suggested framework	2
+Coupled Model Intercomparison Project Phase 5 (CMIP5)	2
+High-resolution modeling	2
+advanced interpolation method	2
+statistical downscaling model, SDSM	2
+EDI.The study	2
+location-based synoptic view	2
+GRASS GIS	2
+National Climatic Data Center (NCDC) of the National Oceanic and Atmospheric Administration (NOAA)	2
+trend analysis	2
+van Belle and Hughes׳ homogeneity trend test	2
+Pettitt–Mann–Whitney test	2
+Theil and Sen׳s slope estimator test	2
+Mann–Kendall (Modified Mann–Kendall) test	2
+Twenty-nine focus group discussions (FGD)	2
+large and novel survey	2
+structural foresight modeling approach	2
+Sustainable Development Goal 5 (SDG)	2
+action-oriented agenda	2
+agriculture-based method	2
+multi-partner, multi-donor initiative	2
+integrated agriculture-nutrition approach	2
+mixed-methods study	2
+Stories of Change (SoC) initiative	2
+Demographic Health Surveys	2
+consistent statistical methods	2
+innovative, multi-sited qualitative method	2
+nutrition-sensitive programming	2
+Nepal's success	2
+ten country analysis	2
+deep learning	2
+state-of-the-art methods	2
+third estimator (MB)	2
+study (ST4)	2
+multi-objective optimization algorithm	2
+simulated annealing	2
+spatial sampling	2
+optimization	2
+Bayesian hierarchical modelling approach	2
+spatial interpolation comparison	2
+multivariate extreme value theory	2
+local modelling technique, geographically weighted regression (GWR)	2
+TIMES-DK	2
+simulation algorithms	2
+model's structure	2
+recent case study	2
+energy system modelling	2
+transparency checklist methodology	2
+first meeting	2
+energy system analysis	2
+carbon cycle and atmosphere circulation model	2
+family of bottom-up evolutionary simulations	2
+normative systems optimisation philosophy	2
+chosen approach	2
+United Nations Framework Convention on Climate Change (UNFCCC) Paris Agreement	2
+nationally determined contributions (NDC)	2
+Another six web-based energy sector database projects	2
+energy system modeling projects	2
+Open Energy Modelling Initiative (Openmod)	2
+combined energy cost-minimisation and hydrological balance analysis	2
+recent domestic energy efficiency policy	2
+inverse (or “backcasting”) analysis	2
+participatory emissions budgeting	2
+mission-oriented and learning-based approach	2
+‘civilizational’ government perspective	2
+‘systems of practice’ framework	2
+role concept	2
+innovation systems approach	2
+fuzzy set qualitative comparative analysis	2
+research interviews	2
+dairy initiative	2
+Business model innovation	2
+micro-level analysis	2
+socio-technical research	2
+socio-technical systems approach	2
+Paris Climate Agreement	2
+standard framework	2
+Group on Earth Observations Biodiversity Observation Network (GEO BON)	2
+living lab approach	2
+University Living Lab initiative	2
+holistic and iterative framework	2
+tree-ring analyses	2
+Land System Science	2
+land system perspective	2
+wind tunnel study	2
+Quadrant analysis	2
+high-frequency (10Hz) sonic anemometry	2
+Parametric and statistical analysis	2
+quartet structure generation set algorithm	2
+in-situ reality.(2	2
+LE approximation	2
+Clustering analysis	2
+kmer spectrum analysis	2
+differential expression testing	2
+RNA sequencing (RNA-seq)	2
+targeted high-throughput sequencing	2
+N. coriiceps genome assembly anchored analyses	2
+BLAST sequence similarity searching	2
+Roche GS-FLX 454 pyrosequencing technique	2
+targeted semi-quantitative PCR	2
+high-throughput RNA-sequencing	2
+Trait based approaches	2
+Precipitation Occurrence Sensor System (POSS)	2
+Arctic System Reanalysis version 1 (ASRv1)	2
+CTD-tag observations	2
+new thermal mass inertia correction scheme	2
+OSL-Surf technique	2
+OSL-Surf approach	2
+OSL-Surf dating technique	2
+newly developed OSL Surface exposure dating technique (OSL-Surf)	2
+surface exposure dating technique	2
+regional-specific approach	2
+portable optically stimulated luminescence reader POSL)	2
+single aliquot pIRIR225 protocol	2
+post-IR IRSL 225 °C (pIRIR225) protocol	2
+K-feldspar post-IR IRSL methods	2
+U-Th dating	2
+uranium-series (U-Th) dating method	2
+astronomical dating approach	2
+straightforward age-screening technique	2
+LA-MC-ICPMS	2
+U-series dating	2
+existing LA methods	2
+isotope dilution methods	2
+Uranium-series dating	2
+Lifton et al.	2
+model framework	2
+MCMC technique	2
+Markov Chain Monte Carlo (MCMC) technique	2
+novel multi-nuclide approach	2
+alternative model-free approach	2
+X-ray diffraction mapping	2
+integrated analyses	2
+Spatial analysis	2
+active-source seismic reflection surveys	2
+Rayleigh wave tomography	2
+standard ambient noise analysis methods	2
+time-lapse ambient noise tomography survey	2
+tomographic inversion	2
+ambient noise interferometry (ANI)	2
+spectral techniques	2
+time and frequency analysis	2
+Seismic analysis	2
+spectral decomposition	2
+Time domain analysis	2
+2012 repeat survey	2
+comprehensive time-lapse seismic monitoring programme	2
+Galerkin method	2
+Data stacking algorithms	2
+standard detection algorithms	2
+Gassmann–Wood theory	2
+novel experiment	2
+novel retrosynthetic approach	2
+ensemble approach	2
+multiple simultaneous methods	2
+tracer ratio technique	2
+Lagrangian stochastic (LS) footprint modelling	2
+tracer ratio techniques	2
+existing geophysical monitoring surveys	2
+new rock physics theory	2
+flow pattern identification algorithms	2
+LSSVM model	2
+effluent analysis	2
+X-ray microtomography (micro-CT) imaging	2
+earlier injection experiment	2
+Artificial Neural Network (ANN)	2
+simple regression analysis techniques	2
+transient hydraulic analysis approach	2
+oxygen isotope assessments	2
+single technique	2
+CCS monitoring and verification program	2
+portable multi-gas analyser	2
+’s (2012) process-based approach	2
+Romanak et al.	2
+real-time application	2
+cubic interpolation	2
+Mohr approach	2
+evaluation methodology	2
+emerging CCUS technology	2
+pressure-management strategy	2
+difference inversion algorithm	2
+ERT method	2
+Three-dimensional (3D) crosshole electrical resistivity tomography (ERT)	2
+pre-stack depth migration method	2
+isotropic elastic time-lapse FWI	2
+three dimensional implementation	2
+monitoring tool	2
+non-linear inverse method	2
+(FWI) method	2
+full waveform inversion	2
+seismic survey	2
+repeat survey	2
+Repeated high-resolution 2D seismic reflection surveying	2
+QICS project	2
+meso-scale analysis	2
+3D micro-scale approach	2
+shear-wave splitting analysis	2
+single three-component geophone	2
+extensive seismological study	2
+recent QICS field experiment	2
+novel, field scale experiment	2
+CO2 injection experiment	2
+percolation theory	2
+X-ray microtomography	2
+Aspen Plus® rate-based model	2
+seismic surveys	2
+first monitor survey	2
+baseline (pre-injection) survey	2
+Foden et al.	2
+conservation strategy	2
+Integrated Approach to Nitrogen (PAS)	2
+process	2
+shared framework	2
+qualitative research	2
+one pixel component arranging comparing algorithm (PCACA)	2
+3DGIS-based tool	2
+precision integration technology	2
+outlined method	2
+support vector machine	2
+X-ray micro-fluorescence and EPMA mapping	2
+electron diffraction	2
+EDX analyses	2
+Niger-HYPE	2
+extreme value analysis	2
+hydrological model (Niger-HYPE)	2
+single technology	2
+ex situ	2
+gap analysis indicator methodology	2
+International Treaty	2
+Supply and Use table	2
+ecosystem services accounting	2
+European Water Framework Directive	2
+morphological analysis	2
+Biochemical analysis	2
+Molecular analysis	2
+biochemical (stable isotope) and molecular (DNA) analysis	2
+model formulation	2
+Bayesian occupancy model framework	2
+traditional species-based methods	2
+Trait-based approaches	2
+traditional approach	2
+Criteria Importance Through Inter-criteria Correlation (CRITIC) approach	2
+improved TOPSIS-based approach called the Informative Weighting and Ranking (TIWR) approach	2
+Gulf Coast Ecosystem Restoration Council, Natural Resource Damage Assessment (NRDA)	2
+reef survey protocols	2
+mixed-effects models	2
+acoustic and visual analysis	2
+Ecoacoustic surveying	2
+landscape ecology analytics	2
+integrated simulation modelling	2
+Land Change Modeller	2
+optimisation procedure	2
+Ecosystem Services Ratio (ESR)	2
+laboratory-based experiment	2
+1.5year dredging campaign	2
+UK Butterfly Monitoring Scheme	2
+cascade framework	2
+EU’s Marine Strategy Framework Directive	2
+visual inspection or cell-by-cell subtraction	2
+SSIM approach	2
+SSIM index	2
+map comparison	2
+software algorithm	2
+Structural Similarity (SSIM) index, a spatial comparison method	2
+sediment-specific biomonitoring approach	2
+scenario-based planning	2
+overview analysis	2
+Emergy and Exergy analysis certifies that model	2
+model I.	2
+model I. Model II	2
+conventional agriculture (model II)	2
+emergy analysis	2
+Emergy Analysis (EmA)	2
+new environmental assessment scheme	2
+single assessment scheme	2
+quantile regression analysis	2
+community resilience analysis	2
+quantile regression modeling	2
+non-parametric method	2
+Logistic regression	2
+standard measure	2
+conjoint community resilience assessment measure (CCRAM)	2
+UK's Environmental Change Network long-term monitoring programme	2
+18-year study	2
+vegetation mapping	2
+Hurdle analysis	2
+Generalized Linear Mixed-effects Modelling	2
+British National Vegetation Classification	2
+recently published High-resolution Global Forest Cover Loss map (2000–2012)	2
+first pan-European analysis	2
+quantity–quality-EFR (QQE) approach	2
+two-way contemplation	2
+RNA:DNA analyses	2
+recently described conceptual framework	2
+European Union's Marine Strategy Framework Directive (MSFD)	2
+assessment approach	2
+integrative approach	2
+stakeholder workshop	2
+adaptation of the Ecological Scarcity Method	2
+new indicator	2
+easiest method	2
+certain procedure	2
+certain approach	2
+Multi criteria decision analysis (MCDA)	2
+repeated-measures mixed-effects model	2
+bootstrapping method	2
+one-time survey	2
+detectable difference analysis	2
+general linear model	2
+Statistical uncertainty analyses	2
+weighted wedge diagram	2
+Linear modelling	2
+complementary linear and non-linear statistical modelling	2
+four point isochron	2
+38 new apatite fission track analyses	2
+established propagation-based technique	2
+propagation scheme	2
+3DVarBio method	2
+proposed data assimilation framework	2
+Copernicus Marine Environment Monitoring Service biogeochemical model	2
+existing variational data assimilation scheme (3DVarBio)	2
+modelling study	2
+Lagrangian approach	2
+Lagrangian analysis	2
+isopycnal watermass analysis of Lee et al.	2
+CMIP6 model intercomparison	2
+UKESM1 Earth System Model	2
+Lagrangian scalar transport scheme	2
+Model for Prediction	2
+new wave–current coupling scheme	2
+three-dimensional ocean circulation model FVCOM	2
+third generation spectral wave model SWAN (Un-SWAN)	2
+J. Phys.	2
+extant boundary layer parameterization	2
+SI-resolving LES	2
+previously proposed polynomial equation	2
+Mesh adaptivity	2
+multi-material approach	2
+state-of-the-art satellite retrieval	2
+2-dimensional spatial Fourier Transformation	2
+one-way coupling	2
+Skill analysis	2
+Linear stability analysis	2
+frequency dependent nudging	2
+Dimensional analysis	2
+innovative large scale experimental programme	2
+trade-linked, consumption-based approach	2
+CCRA	2
+2012 and 2017 United Kingdom Climate Change Risk Assessment (CCRA) reports	2
+evidence-based and experiential information	2
+evidence-based information	2
+self-determination theory	2
+social psychology	2
+household survey	2
+scenario A.	2
+novel scenario-based approach	2
+coherent three-step framework	2
+transparent, justifiable and repeatable process	2
+integrated social-ecological systems approach	2
+people-centred approach	2
+decision framework 'the Decision Dahlia'	2
+triage approach	2
+Sustainable Development Goal (SDG) target	2
+international systematic literature review	2
+State-of-the-art technologies	2
+International Risk Governance Council framework	2
+Antarctic Treaty System (SCATS)	2
+Antarctic Treaty System (ATS)	2
+IPCC	2
+existing nature conservation plan	2
+optimization technique	2
+landscape optimization algorithms	2
+TM-based framework	2
+combined and enriched functional-structural technological innovation system (TIS) analysis	2
+focus group sessions	2
+seven-stage co-benefit assessment process	2
+seven-stage process	2
+holistic framework	2
+think-tank meetings and semi-structured interviews	2
+Global Human Settlement Layer (GHSL) project	2
+Social Amplification of Risk Framework (SARF)	2
+LAA framework	2
+institutional analysis	2
+development studies literature	2
+Strategic Niche Management approach	2
+Multi-level perspective	2
+transitions to sustainability approach	2
+Genomic techniques	2
+Qualitative Document Analysis (QDA) approach	2
+coherent methodology	2
+Paris climate agreement	2
+planning approach	2
+Delta Programme	2
+transdisciplinary approach	2
+bottom-up, participative approach	2
+novel methodology	2
+interdisciplinary approach of analysis	2
+ecosystem service approach	2
+science and technology studies (STS) approach	2
+python programming	2
+bayesian belief networks	2
+top-down approach	2
+APST	2
+developed and tested the Adaptation Planning Support Toolbox (APST)	2
+Alexander’s (2002) categorization	2
+new major research programme	2
+boundary organization model	2
+innovative ‘modular mechanism	2
+new mechanism	2
+Ad Hoc Working Group on Scientific Advice (AGSA)	2
+United Nations Convention	2
+ARIMAX model	2
+Artificial Neural Network approach	2
+ES approach	2
+Oreskes et al., 1994)	2
+semi-qualitative approach	2
+unified methodology	2
+state-of-the-art large-scale spatially distributed modelling exercise	2
+pan-European assessment	2
+applied modelling approach	2
+visual semi-qualitative assessment	2
+0.5% probability event	2
+non-exclusive approach	2
+multi-dimensional framework	2
+policy interventions (GAEC, Soil Thematic Strategy)	2
+EU's guidelines	2
+Common Agricultural Policy (CAP)	2
+modified version of the Revised Universal Soil Loss Equation (RUSLE) model (RUSLE2015)	2
+European Commission's Soil Thematic Strategy	2
+world-wide survey	2
+recently adopted Nagoya Protocol	2
+continental scale analysis	2
+European Environment Information and Observation Network (EIONET)	2
+applied methodology	2
+art soil data (LUCAS)	2
+consumption-based emissions accounting	2
+full Integrated Assessment Models (IAMs)	2
+P-factor modelling tool	2
+Land use/cover area frame statistical survey (LUCAS)	2
+accounting framework	2
+research method	2
+existing SR protocols	2
+many-objective evolutionary optimisation algorithm	2
+scenario method	2
+overly cautionary approach	2
+Bayesian hierarchical procedure	2
+three different methods	2
+island biogeography theory	2
+ecospace concept	2
+biodiversity theory	2
+gradient, niche, metapopulation and assembly theory	2
+true skill statistic; TSS)	2
+Generalized linear mixed models (GLMM)	2
+scientific.	2
+non-standardized way	2
+future strategy	2
+compound-by-compound chemical analysis	2
+current chemical water quality assessment strategy	2
+alkaline version of the single cell electrophoresis assay (comet assay)	2
+multi-channel seismic profiles interpretation	2
+melt composition geothermometer	2
+marine isotope stage (MIS)	2
+F-test	2
+infrared (IR) spectroscopy	2
+modified plastic limit analysis procedure	2
+Limit analysis	2
+image processing techniques	2
+developed testing method	2
+image-processing techniques	2
+qualitative uncertainty analysis	2
+probabilistic methodology	2
+open-source license	2
+programming language-agnostic semantics	2
+Internet of Things era	2
+pre-existing framework	2
+single integrated assessment modelling (IAM) framework	2
+comprehensive tool, CTRL–T	2
+multi-objective evolutionary algorithm	2
+pixel-based and object-based units of analyses	2
+bootstrap aggregation	2
+model methodology	2
+open-source schematized 2D area model (Delft3D)	2
+constant infiltration approach	2
+new holistic framework	2
+dispersion model (RapidAir®)	2
+one-year scenario runs	2
+Ecopath with Ecosim (EwE)	2
+contrast algorithm	2
+24 h-ahead hourly O3 concentrations forecasting methodology	2
+Graphical User Interface (GUI)	2
+new Water Ecosystems Tool (WET)	2
+groundwater study	2
+collaborative modelling approach	2
+Clustering method	2
+agglomerative hierarchical clustering, hidden Markov models (hmm) and k-means	2
+finite mixture models	2
+four widely-known clustering methods	2
+clustering statistical techniques	2
+decision support systems (DSSs)	2
+participatory framework	2
+splines and support vector regression	2
+support vector regression, Gaussian process regression)	2
+Dynamic Adaptive Policy Pathways approach	2
+model-based approaches	2
+systematic database reduction procedure	2
+water-related survey	2
+robust bidirectional approach	2
+modified version of the Soil and Water Assessment Tool (SWAT)	2
+new Genetic Programming based method	2
+marine monitoring program	2
+multi-model ensemble	2
+participatory modelling techniques	2
+prior-appropriation doctrine	2
+Advanced modeling tools	2
+“fit-for-all” rules	2
+three widely-used GSA methods (RSA, Morris, Sobol’)	2
+proposed methodologies	2
+quantitative validation procedure	2
+bootstrap approach	2
+Global Sensitivity Analysis (GSA)	2
+core information model	2
+Observations Data Model Version 2 (ODM2)	2
+new information model	2
+GLD-TSCOM	2
+variance-based global sensitivity analysis	2
+software ASIM 5	2
+present method	2
+model choice	2
+source–receptor relationship	2
+Monte Carlo experiments	2
+WRTDS Bootstrap Test (WBT)	2
+WRTDS method	2
+exploratory data analysis tool	2
+(WRTDS) method	2
+Weighted Regressions	2
+prior environmental decision science literature	2
+computational exploration tools	2
+software application programming interface (API)	2
+many-objective robust decision making (MORDM)	2
+Open Modeling Interface (OpenMI)	2
+fully commented code	2
+several established GSA methods	2
+SAFE (Sensitivity Analysis	2
+automated Python scripting	2
+Hydrologic Information System (HIS)	2
+Observations Data Model (ODM)	2
+management decision support tool	2
+implementation strategy	2
+implementation technique	2
+use of Message Passing Interface (MPI) functionality	2
+data assimilation code	2
+variance-based GSA	2
+density-based approaches	2
+novel GSA method	2
+density-based methods	2
+Variance-based approaches	2
+Evolutionary Algorithms (EAs)	2
+current new MUSCL scheme	2
+MUSCL scheme	2
+novel edge-based MUSCL scheme	2
+novel monotone upstream scheme	2
+web-based technologies	2
+Environmental Virtual Observatory pilot project	2
+state-of-the-art technology	2
+WWTP modelling protocols	2
+openair R package	2
+CPF approach	2
+commonly used conditional probability function (CPF)	2
+new receptor modelling method	2
+open source statistical program R.	2
+spatiotemporal model smoother	2
+user friendly, open source, decision support tool	2
+GroundWater Spatiotemporal Data Analysis Tool (GWSDAT)	2
+qualitative SA methods	2
+Sobol' method	2
+sampling techniques	2
+Fourier Amplitude Sensitivity Test (FAST)	2
+appropriate sampling techniques	2
+Monte Carlo (MC), Orthogonal Array (OA) and Orthogonal Array based Latin Hypercube (OALH)	2
+Multivariate Adaptive Regression Splines (MARS), Delta Test (DT) and Sum-Of-Trees (SOT) screening methods	2
+least robust method	2
+Morris One-	2
+qualitative SA methods, Correlation Analysis (CA), Regression Analysis (RA), and Gaussian Process (GP)	2
+Problem Solving environment	2
+Sensitivity analysis (SA)	2
+Web Ontology Language (OWL) pattern	2
+semi-automated prover Isabelle	2
+higher-order logic (HOL)	2
+pre-analysis stages	2
+Zonation prioritization framework	2
+spatial prioritization analysis	2
+implementation of the Open Geospatial Consortium's Web Map Service (WMS) specification	2
+Input–output sensitivity analysis	2
+symbolic regression	2
+simple four-way typology called Emulation Simulation Typology (EST)	2
+Data-driven modelling	2
+incentive-based strategy	2
+incentive-based or mandate-based strategies	2
+“EV30@30” campaign	2
+next-best alternative EM	2
+peer-to-peer ratings	2
+Well-To-Wheels (WTW) methodology	2
+verification	2
+Danish Air Quality Monitoring Programme	2
+multi-scale air quality modelling approach	2
+Fifth Coupled Model Intercomparison Project	2
+energy analysis	2
+focused analysis	2
+new vehicle-centred approach	2
+micro-simulation modelling	2
+US Federal Aviation Administration’s System	2
+bottom-up, optimization MARKAL_Sweden model	2
+grounded theory techniques	2
+P-NIROM	2
+P-NIROM algorithm	2
+existing machine learning methods	2
+machine learning method	2
+proper orthogonal decomposition (POD) and machine learning methods	2
+parameterised non-intrusive reduced order model (P-NIROM)	2
+Atmospheric Dispersion Modelling System (ADMS)	2
+EM algorithm	2
+extended soft-sphere discrete element method (DEM)	2
+water absorption experiment	2
+conventional analysis method	2
+new effect analysis	2
+short-term test	2
+wet candle method	2
+air mass backward-trajectory analysis	2
+κ-Köhler theory	2
+general additive model (GAM)	2
+fast-response quantum cascade laser absorption spectrometer	2
+sensor network approach	2
+air quality model (ADMS-Airport)	2
+state-of-the-art chemical transport model (GEOS-Chem)	2
+Chemical Mass Balance, CMB) and tracer-yield method	2
+chemical ionization mass spectrometry	2
+one-product model	2
+“Screening for High Emission Reduction Potentials for Air quality” tool (SHERPA)	2
+acetate technique	2
+acetate chemical ionization atmospheric pressure interface time of flight mass spectrometer (acetate-CI-API-TOF)	2
+EPA's Information Collection Request (ICR)	2
+Arctic Monitoring and Assessment Programme (AMAP)	2
+modeling strategy	2
+generalized additive models (GAMs)	2
+Multi-angle Imaging SpectroRadiometer (MISR)	2
+conservative approach	2
+consensus modulated standard deviation punc	2
+intercomparison exercises	2
+Lagrangian back-trajectory analysis – LAGRANTO	2
+statistical selection methodology	2
+Italian Antarctic Research Programme	2
+ANSI/HPS N13.1–2011 standard	2
+R-code	2
+lower temperature EUSAAR_2 protocol	2
+cavity ring-down spectroscopy	2
+incremental approach	2
+SHERPA modelling approach	2
+commonly used incremental approach	2
+Tuneable Diode Laser (TDL) spectroscopy	2
+Community Earth System Model	2
+partial derivative-linear regression (PDLR) model	2
+energy equation	2
+NAFDI	2
+aerosol mass spectrometry	2
+three-scenario simulation	2
+simple statistical technique	2
+Nested Air Quality Prediction Modeling System (NAQPMS)	2
+polarization optical particle counter (POPC)	2
+air quality model	2
+PMF method	2
+positive matrix factorization (PMF)	2
+source apportionment methods	2
+In-situ measurements	2
+multiwavelength aerosol Raman lidar	2
+Goto et al.	2
+thermal EC(TOT) method	2
+light absorption measurement methods	2
+HIgh Resolution Limited Area Model	2
+numerical weather prediction model HIRLAM	2
+Thorney Island campaign	2
+new operational implementation	2
+previous LUR model validation methods	2
+X-ray elemental analysis	2
+Scanning Electron Microscopy (SEM)	2
+baseline-temperature correction methodology	2
+two-sided t-test, p = 0.34)	2
+baseline-temperature correction	2
+correction methodology	2
+indicator method	2
+Cross-validation analysis	2
+calibration	2
+CMB-GC	2
+source apportionment model	2
+chemical mass balance with gas constraints (CMB-GC)	2
+computationally efficient procedure	2
+isotopic source signature analysis	2
+stability-correction algorithms	2
+“z-less” scaling formulation	2
+GEM/GEM-MACH, ECMWF IFS and CMAQ-MM5)	2
+Monin-Obukhov similarity theory	2
+correlation, and regression techniques	2
+bivariate polar plots	2
+two linear regression methods	2
+photochemical air quality modeling	2
+multiple instruments (i.e., Ozone Monitoring Instrument (OMI) and Global Ozone Monitoring Experiment-2	2
+simple data insertion scheme	2
+update scheme	2
+simple data insertion method	2
+probabilistic ash, cloud and clear sky classification algorithm	2
+data insertion update scheme	2
+novel modelling method	2
+Effective modelling	2
+iAREA campaign	2
+emission algorithm	2
+Aegean-GAME campaign	2
+SOI and EOC conversion methods	2
+synergistic combined multi-sensor analysis	2
+new dust emission index (DEI)	2
+CALIOP our algorithm	2
+Cloud-Aerosol Lidar with Orthogonal Polarization (CALIOP)	2
+convenient drive-through approach	2
+fuel carbon balance principle	2
+commonly used entrance-exit two points calculation	2
+Mann–Kendall test	2
+depth analysis	2
+North America proposal	2
+North America Montreal Protocol amendment proposal	2
+Montreal Protocol	2
+new baseline (or business-as-usual) scenarios	2
+PMF2 and EPA-CMB 8.2	2
+performance test	2
+plume chasing approach	2
+Multi-pollutant control strategy	2
+multi-pollutants reduction strategy	2
+detailed analysis	2
+plume chasing method	2
+automatic monitors	2
+first modelling approach	2
+study (SID)	2
+fitness-for-purpose approach	2
+optimized strategy	2
+Manure-DNDC	2
+fuel-based methodology	2
+simultaneously-deployed open path Fourier transform infrared (OP-FTIR) spectrometer	2
+strategic approach	2
+parameterised approach	2
+3-D global model, STOCHEM-CRI	2
+multi-generational approach	2
+detailed VOC oxidation scheme (CRI v2-R5)	2
+purely measurement-based approach	2
+MONET program	2
+model study	2
+wavelet transformation	2
+trajectory based geographic model	2
+multi-layer perceptron (MLP) type of back-propagation neural network	2
+prediction strategy	2
+artificial neural network (ANN) forecast accuracy	2
+air mass trajectory analysis	2
+STOCHEM-CRI model	2
+Chemical Transport Models (CTMs)	2
+CCSEM-EDS	2
+passive sampling	2
+computer-controlled scanning electron microscopy with energy-dispersive X-ray spectroscopy (CCSEM-EDS)	2
+high-order Decoupled Direct Method (HDDM)	2
+parallel	2
+GEOS-Chem chemical transport model (CTM)	2
+Comprehensive Air Quality Model	2
+full three-dimensional (3-D) version	2
+box-model version	2
+decoupled direct method	2
+recent emission factor compilation	2
+satellite-based EFs	2
+reference sector method	2
+recent satellite-based studies	2
+linear regression and Mann–Kendall trend analysis techniques	2
+International Cooperative Programme	2
+original formulation	2
+revised, physically consistent, formulation	2
+Multilayer Model (MLM)	2
+VOCALS-REx unreliable	2
+detailed and standardized approach	2
+particle and gas phase measurement techniques	2
+(2009–2011) program	2
+NASA's Atmospheric CO2 Observations from Space (ACOS)	2
+Thiel-Sen regression	2
+night-only schedule	2
+full data analysis	2
+Positive Matrix Factorisation (PMF)	2
+DPM method	2
+proposed density estimation methods	2
+semi-parametric Dirichlet process mixture (DPM)	2
+coming deployment	2
+two campaigns	2
+7-SEAS (7-South-East Asian Studies)/Dongsha Experiment	2
+Smoke Impact Assessment	2
+comprehensive and wide-ranging experiments	2
+cross validation techniques	2
+multivariate geospatial (minimum/maximum autocorrelation factor) analysis	2
+log-ratio transformation	2
+Multi-element near-surface geochemistry	2
+Mantle tomography	2
+Kataoka et al.	2
+Co–Ir diagram	2
+Shear-wave splitting tomography methods	2
+P-wave radial-anisotropy tomography	2
+P-wave azimuthal-anisotropy tomography	2
+P-wave anisotropy tomography	2
+receiver-function imaging	2
+Body-wave and surface-wave tomography	2
+uranium/lead dating	2
+stacking approaches	2
+Bagging ensembles	2
+decision support tool	2
+intake fraction (iF) approach	2
+corroborating analysis	2
+so-called scissor plot	2
+dendro-provenancing	2
+‘k-Nearest Neighbors leave one-out cross-validation’ process (k-NN)	2
+Response analysis	2
+“signal-free” method	2
+curve-fitting methods	2
+“Signal-Free Regional Chronology Standardisation” (SF RCS)	2
+Climatic Research Unit Standardisation	2
+new software tool CRUST	2
+three most prevalent methods	2
+new regulatory model	2
+newly developed method	2
+Post-infrared infrared stimulated luminescence (pIRIR) measurements	2
+principal component analysis or factor analysis	2
+independent component analysis (ICA) method	2
+Lycopodium method	2
+volume method	2
+solution	2
+Marker grain method	2
+so-called 8200BP ‘event’	2
+Willis and Bennett's (1994) hypothesis	2
+three-dimensional dental microwear texture analysis (DMTA)	2
+high-resolution temporal and spatial studies	2
+multidisciplinary microregional landscape research project	2
+statistical analyses	2
+amino acid geochronological technique	2
+simple protocol	2
+generalized linear mixed models	2
+phylogenetic analysis	2
+GAM-GEE model	2
+Generalised Estimation Equations (GEEs).Although there	2
+Generalised Additive Models (GAMs)	2
+Arrigo et al.	2
+particle tracking simulations	2
+local-scale approach	2
+swath bathymetry surveys	2
+30″ General Bathymetric Chart	2
+basin-scale analysis	2
+remotely operated vehicle (ROV) video transects	2
+alkalinity anomaly technique	2
+Video and photo surveys	2
+ECOMAR project	2
+RRS James Cook 48 cruise	2
+person-based metrics	2
+modified place-based accessibility metric	2
+activity tracking app Strava	2
+large online commuting behaviour survey	2
+alternative, Bayesian finite mixture-modelling approach	2
+‘post hoc’ heuristic cluster analysis	2
+simple ‘a priori’ defined group classification narrative	2
+traditional surveys	2
+post-trial interviews	2
+exploratory interviews	2
+stated preference survey	2
+valuation tool	2
+health and neighbourhood mobility survey	2
+street audits	2
+video survey	2
+participatory mapping	2
+Street Mobility and Network Accessibility research project	2
+mixed methods survey	2
+new conceptual framework	2
+qualitative study	2
+Research Council UK Energy Programme funded project	2
+Lefebvre's (1991) notions	2
+log-log framework	2
+accessibility approach	2
+'s first law of geography	2
+technique of spatial Markov chain analysis	2
+principle of k-Anonymity	2
+data pre-processing step	2
+privacy-preserving kernel density estimation (ppKDE)	2
+large international comparative study	2
+CIM study	2
+individual strategy	2
+route choice modelling	2
+initial framework	2
+shortest path and anchor-based perspectives	2
+clusters analysis	2
+uncertain conditions?An internet-based survey	2
+conventional water retention curve approach	2
+Helium ion microscopy	2
+3D image analysis	2
+X-ray tomography	2
+state-of-the-art	2
+long distance microscope	2
+high-speed camera	2
+transparent visual drop-tube furnace	2
+Light microscopy	2
+gas chromatography/mass spectrometry	2
+Detergent fiber analysis	2
+principal components, factorial and hierarchical clustering analyses	2
+multivariate approach	2
+alternative pretreatment technique	2
+chain analysis	2
+efficient and cost effective pretreatment approach	2
+continuous experiment	2
+A-LCA methodology	2
+Attributional Life Cycle Assessment (A-LCA)	2
+best fertilization method	2
+visual inspection (Google Earth)	2
+Energy Crop Scheme	2
+Quantitative 1H-NMR analysis	2
+targeted LUC strategy	2
+qualitative, in-depth interviews	2
+European Union's Renewable Energy Directive	2
+semi-quantitative analysis	2
+energy-dispersive X-ray analysis	2
+Thermogravimetric analysis	2
+strict meta-analysis	2
+consistent life cycle assessment methodology	2
+three distinct value-based visions	2
+responsible innovation approach	2
+t 	2
+on-farm survey	2
+aggregation approaches	2
+LANCA® model	2
+two suggested approaches	2
+normalisation–based soil quality index (NSQI)	2
+state-of-the-art after-treatment systems	2
+Waste Flow Modelling methodology	2
+recursive-dynamic multi-region multi-sector computable general equilibrium approach	2
+Multi-level regression analyses and non-parametric comparison tests	2
+semi-quantitative assessment	2
+‘cradle-to-gate’ life cycle costing approach	2
+low-temperature microwave and in-situ fractionation	2
+batch adsorption method	2
+government-provided payment	2
+displacement estimation method	2
+innovative uncertainty-based framework	2
+online tool	2
+bottom-up methodology	2
+1997 Kyoto Protocol	2
+Cost-benefit analysis	2
+consumption-based analysis	2
+systematic database search and cross-reference snowballing	2
+four two-day workshops	2
+flexible value web framework	2
+simple integrated approach	2
+gThermaR tool	2
+first-principle modelling approach	2
+appropriate matching strategy	2
+integrated bottom-up approach	2
+social practice theory	2
+psychology-related approaches	2
+robust five-stage stepwise process	2
+front-line decision tool	2
+Global Aquatic Ingredient Assessment (GAIA) database tool	2
+new social manufacturing framework	2
+top-down and coordinated manner	2
+exploratory factor analysis	2
+qualitative Focus Group Interviews (FGIs)	2
+novel process	2
+user-centred eco-design	2
+product-oriented approach	2
+Backcasting and Eco-design	2
+Nestle's EcodEX LCA tool	2
+proposed Life Cycle Assessment (LCA) approach and multi-criteria decision analysis (MCDA)	2
+first environmental life cycle analysis	2
+business model	2
+traditional component-based view	2
+boundary-spanning perspective	2
+latter technique	2
+representative animal approach	2
+new risk-based approach	2
+optimization analysis	2
+Norwegian consumer expenditure survey	2
+Input-Output methodology	2
+flood footprint concept	2
+systems of provision (sop) approach	2
+LCA, LCSA, CBA)	2
+cradle-to-grave approach	2
+lean-thinking	2
+novel cross-functional mapping approach	2
+life cycle assessment approach	2
+Scenario and sensitivity analyses	2
+input-output analysis	2
+Stochastic Multi-Criteria Acceptability Analysis (SMAA)	2
+MCDA classification method	2
+structured selection process	2
+relative ranking analysis	2
+three-phase procedure	2
+robustness analysis based on Multiple Criteria Decision Aiding (MCDA)	2
+IPCC territorial emission accounting approach	2
+set of methods	2
+life cycle impact approach	2
+‘Net-Map’ tool	2
+value chain concept	2
+‘biomass-based value web’	2
+three level hypotheses	2
+multilevel modelling techniques	2
+Multilevel research methods	2
+interdisciplinary and integrative approach	2
+socio-technical studies	2
+integrative structural equation model	2
+new scientific approach	2
+contribution analysis	2
+whole-system analysis	2
+Greenhouse Gas Protocol	2
+Carbon Disclosure Project	2
+Global Reporting Initiative	2
+hybrid environmentally extended input-output analysis	2
+consequential life cycle assessment	2
+Tradeoff analysis	2
+LCIA tradeoff analysis	2
+International Conference	2
+new simple innovative method	2
+approaches	2
+life cycle engineering	2
+Catchment Metabolism modelling schema	2
+fully integrated approach	2
+two-year project	2
+novel experimentation approach	2
+coal programme priority	2
+life cycle assessment, multi-criteria decision analysis	2
+soft-computing algorithms	2
+JSON-LD	2
+text mining techniques	2
+Semantic Web technologies	2
+static and spatially-generic way	2
+matrix-based LCI	2
+existing Enhanced Structural Path Analysis (ESPA) method	2
+open-book accounting	2
+taxonomy	2
+multi-criteria decision adding or sustainability accounting methods	2
+use-phase focussed design	2
+hybrid, consequential life cycle assessment (LCA)	2
+Life Cycle Assessment and process analysis	2
+pilot and main survey	2
+Ranking and correlation analyses	2
+Robust and science-based criteria	2
+in-depth semi-structured interviews	2
+embedded mixed-methods approach	2
+different program	2
+information strategy	2
+‘food practices in transition’ framework	2
+eco-design	2
+document analysis	2
+infrastructure end-use service perspective	2
+end-user and service-centred approach	2
+best home-made option	2
+Full cost accounting	2
+aggregate level analysis	2
+project and policy-level accounting	2
+large scale survey	2
+value theory of Schwartz et al.	2
+longitudinal computer-aided content analysis	2
+Composites Strategy	2
+value-based conception	2
+life-cycle approach	2
+prioritised strategy	2
+UK National plan	2
+metric-driven network analysis	2
+industrial ecology's overall systems approach	2
+Network analysis	2
+SPSS approach	2
+Non-dominant Sorting Genetic Algorithm	2
+multi-objective scheduling method	2
+scheduling and planning approach	2
+energy saving approach	2
+operational method	2
+revenue-based approach	2
+meta-review	2
+systematic meta-review	2
+heuristic framework	2
+priori protocol	2
+new model approach	2
+quantitative land-change modelling approaches	2
+land-change science	2
+National Action Plan	2
+qualitative analysis	2
+quantitative internet data mining	2
+ecosystem service paradigm	2
+layered scheme	2
+explicitly place-based PES scheme	2
+series of day-long deliberation workshops	2
+multi-nation interdisciplinary Indigenous Health Adaptation to Climate Change (IHACC) project	2
+proposed multi-scenario trade-off analysis	2
+legitimate geoengineering experiment	2
+Secondary analysis	2
+model-based assessment	2
+United Nations-led international climate change negotiations	2
+Integrated Assessment Models (IAMs)	2
+Conservative-Liberal coalition administration	2
+first-of-its-kind legislation	2
+cross-party consensus	2
+IAV analyses	2
+AIM/CGE (Asia-Pacific Integrated Assessment/Computable General Equilibrium)	2
+6th climate model intercomparison project (CMIP6)	2
+multi-model approach	2
+new scenario framework	2
+farmer survey	2
+hypothetical maize crop weather-index insurance program	2
+gender lens	2
+comprehensive, integrated, quantitative, and high resolution scenario analysis	2
+quantitative scenario analysis	2
+equilibrium and optimisation-based approaches	2
+modelling	2
+nationally consistent, risk-based priority setting	2
+documentary analysis	2
+national-scale survey and follow-up interviews	2
+Carbon Plan	2
+existing framework	2
+global environmental change syndromes approach	2
+interpretive version of Douglas’ cultural theory	2
+interdisciplinary approach	2
+mixed-method (six deliberative workshops, n=68, and a nationally representative survey, n=2441)	2
+‘whole-system’ lens	2
+third-person effect)	2
+GDP scenario building	2
+1km2 grid level analysis	2
+citizen science program Redmap	2
+cost-effective and rapid screening assessment tool	2
+Rockstrom et al.	2
+win-win approach	2
+safe and just operating space approach	2
+original planetary boundaries concept (Rockström et al.,	2
+assessment method	2
+Climate change experiments	2
+Participatory approaches	2
+J-value model	2
+J-value explanation	2
+perturbation analysis	2
+model	2
+UK’s Level-3 Probabilistic Safety Assessment code	2
+Hamilton–Jacobi–Bellman partial differential equation	2
+ICRP	2
+J-value framework	2
+NREFS project	2
+J-value method of risk assessment	2
+understand statistic	2
+1992 IAEA/CEC study	2
+discussions	2
+co-precipitation method	2
+fully-crossed, three-factorial design series of experiments	2
+transparent, participatory approach	2
+size exclusion chromatography	2
+integrated multi-parametric approach	2
+seasonal monitoring surveys	2
+life cycle assessment (LCA) approach	2
+DAEM (Distributed Activated Energy Model) method	2
+pyrolysis reaction model free method (Isoconversional)	2
+Kinetic analysis	2
+Slow pyrolysis experiments	2
+Three main collection schemes	2
+structural equation modelling	2
+focus group discussion	2
+sequential exploratory mixed method approach	2
+UNFCCC COP21 (Paris) climate change agreement	2
+greenhouse gas hotspot flux calculation	2
+flux method	2
+new sampling and measurement method	2
+Atmospheric dispersion modelling	2
+concept extraction	2
+radiolabelling experiments	2
+radiolabelling technique	2
+novel mechanism	2
+easy, low-maintenance, low-cost method	2
+low-maintenance approach	2
+measurement approach	2
+Multivariate data analysis	2
+New Jersey Pinelands Commission)	2
+spreadsheet implementation	2
+Quick Domenico Multi-scenario (QDM)	2
+United Nations Framework Classification	2
+CML (v.	2
+Damköhler number approach	2
+THP AD	2
+one-year litterbag experiment	2
+454-pyrosequencing)	2
+high-throughput sequencing technology	2
+Amplicon-based metabarcoding technology	2
+spatially explicit sampling strategy	2
+sequencing	2
+silico	2
+earthworm surveys	2
+nifH and glnII sequence analysis	2
+DNA analyses	2
+2-season field experiment	2
+Different DNA extraction protocols	2
+walkover survey	2
+detectable grouting concept	2
+proposed despiking process	2
+conventional, or boxcar, averaging process	2
+filtering technique	2
+filtering and despiking technique	2
+various Bayesian classification techniques (segment recognition and expectation maximization (EM) algorithm)	2
+image segmentation algorithm	2
+Bayesian classification techniques	2
+automated image segmentation techniques	2
+GPR surveys	2
+Time Domain Reflectometry (TDR)	2
+EM conductivity mapping	2
+Geophysical surveying	2
+large-scale study	2
+grid curvature analysis	2
+advanced strategy	2
+spatially dense airborne electromagnetic survey	2
+mapping approach	2
+simple Gaussian or inverse distance weighting interpolators	2
+automated algorithm	2
+‘biological traits analysis (BTA)’	2
+one standard method (optode respirometry)	2
+GENUS project	2
+sensitivity experiments	2
+ultra high-resolution version	2
+dilution experiment	2
+recently proposed alternative, the disturbance-recovery hypothesis (DRH)	2
+coherence analysis	2
+Wavelet coherence analysis	2
+Bowers et al.	2
+first large-scale census	2
+empirical area-volume scaling approach	2
+Mann-Kendall trend testing	2
+Ocean Drilling Program (ODP)	2
+preliminary model-data comparison	2
+multi-proxy approaches	2
+self-same agency	2
+integrated environmental-studies approach	2
+Circumpolar Networks program	2
+Nordic Network for Interdisciplinary Environmental Studies (NIES)	2
+Hargreaves-Samani formulation	2
+Dansgaard–	2
+ultra-high resolution (70–140year) joint foraminiferal isotopic and pollen analyses	2
+“isotope cross-dating approach	2
+cross-dating	2
+pollen analysis	2
+core scanning XRF	2
+first high-resolution palaeolimnological investigation	2
+~17.81Ma	2
+CESM (Community Earth System Model)	2
+Bayesian modelling	2
+new perspective	2
+concept	2
+ecosystem services concept	2
+stakeholder survey	2
+stakeholder-oriented approach	2
+straightforward methodology	2
+software-aided design	2
+cost benefit analysis	2
+CE monitoring methods	2
+decision support mechanism	2
+mathematical modelling approach	2
+BIM-based Whole-life Performance Estimator (BWPE)	2
+system definition	2
+relevant and already standardized quantitative tools life cycle assessment (LCA) and material flow cost accounting (MFCA).Here a general system definition	2
+flexible management framework	2
+new standard “BS 8001:2017 –	2
+combined natural and social science perspective	2
+LEAPFROCS method	2
+strategic management theory	2
+organisational behaviour theory	2
+organisation theory	2
+holistic method	2
+temporally lagged design	2
+theory of planned behaviour (TPB)	2
+systematic method	2
+new type of “hybrid” Sankey diagram	2
+data-visualisation techniques	2
+suggested method	2
+material flow analysis method	2
+straightforward quantification method	2
+novel metric	2
+social media and e-newsletter interventions	2
+national surveys	2
+social influence intervention	2
+landmark study	2
+dynamic stock model	2
+Urban Harvest Approach (UHA)	2
+Modelling and monitoring techniques	2
+current urban metabolism analyses	2
+Space-time Information analysis	2
+stakeholder based research approach	2
+periodic update	2
+up-to-date policy	2
+Adaptive policymaking	2
+EU-Waste Directive 2009/28/EC	2
+current UK climate strategy	2
+LCA	2
+two-step anammox technique	2
+analytical approach	2
+StoSAG technique	2
+stochastic gradient technique	2
+Stochastic Simplex Approximate Gradient (StoSAG) method	2
+i-MSFV smoothing stage	2
+MS methods	2
+two-stage iterative Multiscale Finite Volume (i-MSFV), a mass conservative reservoir simulation strategy	2
+multiscale (MS) forward simulation and stochastic gradient computation - MS-StoSAG	2
+efficient workflow	2
+capillary bundle approach	2
+In-situ	2
+datafrac net pressure diagnostics workflow	2
+fracture treatment analysis	2
+thermogravimetric analysis	2
+scanning electron microscope imaging	2
+JMicrovision software	2
+constrained optimization method	2
+bi-objective water flooding optimization	2
+traditional weighted sum method	2
+bi-objective optimization method	2
+augmented Lagrangian method	2
+ensemble optimization (EnOpt)	2
+constrained optimization problem	2
+regression equation	2
+Symbolic regression	2
+ex-situ SEM imaging	2
+high resolution x-ray micro-computed tomography (μCT;	2
+two in-situ techniques	2
+paleogeographical scheme	2
+ERA-Interim model	2
+three-year study	2
+utero electroporation	2
+research-tested, semi-qualitative means	2
+Winkler-based Two-Stage Analysis Methods (TSAMs)	2
+economically sustainable method	2
+long-term sustainability perspective	2
+time-resolved laser-induced fluorescence spectroscopy (TRLFS)	2
+ESI-Orbitrap-MS	2
+chemical extraction experiments	2
+specific ion interaction theory (Brönsted, 1922)	2
+long-held concept	2
+stable isotopic analyses	2
+non-sterile experiments	2
+geochemical modelling	2
+Chromium speciation analysis	2
+In-situ porewater sampling	2
+evidence based approach	2
+numerical geochemical modelling approach	2
+Molybdenum isotope studies	2
+multi-element analytical procedures	2
+FTIR spectroscopy	2
+robust factor analyses (RFA)	2
+model-based (Mclust) and variable clustering	2
+Geochemical and multivariate statistical analyses	2
+Bayesian finite mixture modeling	2
+clustering procedure	2
+particular clustering procedure	2
+statistical technique	2
+Statistical models	2
+conventional method	2
+conventional column methods	2
+Micro-Reactor Simulated-Channel (MRSC) method	2
+new micro-fluidic method	2
+lithium method	2
+inductively coupled plasma atomic emission spectrometry analysis	2
+field-based lithium ion selective electrode measurements	2
+Groundwater Ambient Monitoring and Assessment-Priority Basin Project (GAMA-PBP)	2
+inverse mass balance techniques	2
+laboratory flow-through dissolution experiments	2
+simplified leaching test and the NABA acid–base accounting method	2
+well-established methods	2
+simplified NABA method	2
+traditional methods	2
+relatively quick, simplified net acid–base accounting (NABA) procedure	2
+well-established traditional static testing methods	2
+TCLP leaching test	2
+six commonly used leaching tests	2
+ABA) methods	2
+XAS and XPS	2
+TEM-EDX	2
+XANES and HPLC–ICP-MS	2
+watchdog strategy	2
+trust-region interior-point method	2
+Gibbs free energy minimisation algorithm	2
+adaptive control scheme	2
+implicit multistep backward differentiation formula (BDF) algorithm	2
+risk-based human health generic assessment criteria (GAC)	2
+site-specific and borehole-specific investigations	2
+numerical approach	2
+ultra-trace experiments	2
+new modeling methodology (BEP-BEM-WUDAPT)	2
+NASA ATLAS Mission	2
+World Urban Database Access Portal Tool (WUDAPT), Local Climate Zones (LCZs) classification	2
+(BEP-BEM) schemes	2
+Building Energy Model	2
+Building Effect Parameterization	2
+Analysis of variance (ANOVA) tests	2
+time-of-use-based load modelling tool	2
+layered probabilistic framework	2
+sophisticated regression techniques	2
+BIM-embedded approach	2
+on-line tested	2
+several other machine learning algorithms	2
+interactive data cube visualizations	2
+non-negative matrix factorization	2
+Unsupervised methods	2
+Non-intrusive load monitoring (NILM) techniques	2
+semantic modelling	2
+case-study	2
+computational study	2
+static method	2
+dynamic method	2
+average method	2
+dynamic grey-box methods	2
+chi2 analysis	2
+modeling technique	2
+cross-industry dialogue	2
+Air Tightness Testing and Measurement Association (ATTMA) scheme	2
+multi-objective genetic algorithm	2
+Finite Element Modelling (FEM)	2
+BIM-based optimisation approach	2
+integrated design approach	2
+simpler computational methods	2
+digital and information technology innovators	2
+reinforcement and machine learning	2
+Artificial Neural Network	2
+radiator surface temperature method	2
+high-resolution in-situ heat-flow monitoring	2
+Policy implementation	2
+whole-system approach	2
+IEA EBC Annex 70	2
+building form analytics	2
+measurement based study	2
+multi-staged analysis	2
+model-based approach	2
+transparent and simplified methodology	2
+standardized methods	2
+Schlieren imaging	2
+simulation strategy	2
+EN-ISO-13786 calculation methods	2
+increasingly widely used modelling approach	2
+UK Household Electricity Survey	2
+internal cross-validation (i.e.	2
+ensemble-based algorithms	2
+widely-used feed-forward back-propagation artificial neural network (ANN) with random forest (RF), an ensemble-based method	2
+Bayesian model comparison	2
+one thermal mass model (1TM)	2
+situ monitoring	2
+computational efficient Morris method	2
+three sensitivity analysis methods	2
+commonly used measure	2
+Sobol method	2
+computationally efficient Morris method	2
+three distinctive sensitivity analysis methods	2
+in-situ method	2
+steady state, linear regression method	2
+Reference setpoint strategy	2
+Dempster-Shafer theory	2
+EPM measurement technique	2
+new transient in-situ measurement method (Excitation Pulse Method, EPM)	2
+current standard method	2
+In-situ measurement	2
+in-situ estimation	2
+DBN	2
+two reinforcement learning algorithms	2
+state-of-the-art energy prediction methods	2
+climate change prediction project UKCP09	2
+simple and change point regression analysis	2
+Cambridge Housing Model (CHM)	2
+first-order Markov chain technique	2
+building management system (BMS)	2
+online questionnaire	2
+face-to-face socio-technical survey	2
+Distributed lag models (DLMs)	2
+Bayesian statistical analysis	2
+In-situ monitoring	2
+nominal MPC and a common building rule based control (RBC)	2
+robust model predictive control (RMPC) formulation	2
+modeling framework	2
+new German Energy Saving Ordinance	2
+literature analysis and review	2
+appropriate statistical analysis	2
+‘bottom-up’ approach	2
+usable empirical-based approach	2
+standard methodology	2
+advanced thermal simulation program (IESVE)	2
+90%-yield EC (ECe90)	2
+comprehensive OLS method	2
+visual or simplified ordinary least squares (OLS) regression methods	2
+Focus group discussions	2
+ordered probit and ordinary least squares regression	2
+GGE (Genotype and Genotype-by-Environment) bi-plot and Finlay Wilkinson’s Regression	2
+beta sigmoid growth function	2
+iterative method	2
+propensity scores method	2
+Integrated Decision Support System (IDSS)	2
+present approach	2
+water balance equation	2
+Hammami et al.	2
+Green and Ampt assumption	2
+micro-irrigation	2
+water-saving irrigation techniques	2
+high-throughput diatom imaging and morphometry workflow	2
+Phylogenetic analysis	2
+calibration (power analysis)	2
+ImageJ or Image Pro	2
+standard software	2
+three-stage approach	2
+Phylogenetic analyses	2
+Scanning Electron Microscope (SEM) imaging	2
+Genetic characterisation (SSU rRNA genotyping)	2
+wavelength dispersive X-ray fluorescence (WD-XRF)	2
+novel technology	2
+first such high-resolution analysis	2
+computational code	2
+beamforming analysis	2
+structure-from-motion (SfM) photogrammetric techniques	2
+grid search method	2
+Indonesian Center for Volcanology and Geological Hazard Mitigation (CVGHM)	2
+Brazilian tensile testing method	2
+steady-state flow method	2
+Bayesian inversion	2
+time series Estimation (π-RATE) method	2
+material failure forecast method (FFM)	2
+particle image velocimetry and digital image correlation	2
+GPS measurement	2
+digital surface model (DSM) analysis	2
+joint analysis	2
+integrated analysis	2
+DC resistivity surveys	2
+Self-Potential survey	2
+finite element modelling approach	2
+USGS Volcano Disaster Assistance Program	2
+Center for Volcanology and Geological Hazards Mitigation (CVGHM)	2
+geological survey	2
+expert elicitation	2
+combined 2D scanning electron microscopy and 3D X-ray microtomography study	2
+satellite-borne Ozone Mapping Instrument (OMI)	2
+new laser ablation–inductively coupled plasma–mass spectrometry (LA–ICP–MS)	2
+computer modelling	2
+split window approach	2
+split window and probabilistic method	2
+split window method	2
+SDI and split window methods	2
+simplistic implementation of the more traditional split window method	2
+SDI	2
+Saharan dust index (SDI)	2
+multi-technique approach	2
+Bayesian age model (OxCal)	2
+high-spatial resolution TLS scans	2
+future algorithms	2
+ATHAM simulations	2
+Farnebäck Optical Flow algorithm	2
+Dual Tree Complex Wavelet Transform-based algorithm	2
+two such algorithms	2
+motion estimation algorithms	2
+Finite Element method	2
+COMSOL Multiphysics	2
+numerical Finite Element approach	2
+supplementary analysis	2
+segmentally-constant approximation (SCA)	2
+simpler rank-based index	2
+trivariate rank-based index and a multivariate-based Principal Component Analysis method	2
+National Geochemical Survey of Australia (NGSA)	2
+screening technique	2
+geochemical approach	2
+provenance study	2
+ICP-AES	2
+inductively coupled plasma atomic emission spectroscopy	2
+medium- and low-density sampling	2
+previously conducted low-density geochemical survey	2
+Medium-density soil sampling	2
+regional geochemical survey	2
+British Geological Survey's Geochemical Baseline Survey of the Environment (G-BASE) project	2
+operation strategy	2
+Seismic methods	2
+site-specific approaches	2
+hot spot analysis	2
+standard Galerkin method	2
+process-based approach	2
+Process-based facies modelling	2
+seismic tomography	2
+one-year stimulation campaign	2
+Pearson's Chi-Square test	2
+field experiment	2
+path analysis	2
+original study	2
+Bayesian inferential tests	2
+methodological procedure	2
+luminance adjustment procedure	2
+similar study	2
+alternative Bayesian approach	2
+proposed new approaches	2
+four-component color-mixing analysis	2
+innovative methods	2
+ILCD method	2
+stand-alone solution	2
+subsequent sensitivity analysis	2
+Data mining techniques	2
+Field studies	2
+simple overheating mitigation strategy	2
+rule-of-thumb equations	2
+Department of Health Technical Memorandum HTM03-01	2
+modular fast track methods	2
+elementary effects method	2
+global sensitivity analysis	2
+generalised additive models	2
+Hopkinson's scale and procedure	2
+Hopkinson-like multiple criterion adjustment experiment	2
+Hopkinson's multiple criterion scale	2
+practical method	2
+new questionnaire	2
+dynamic building performance simulation software EnergyPlus	2
+associated spatiotemporal heating control algorithm	2
+smartphone interface	2
+spatiotemporal heating control algorithm	2
+simultaneous structured interviews	2
+various calculation algorithms	2
+modeller's control	2
+advanced or new methods	2
+FAO-56 Penman-Monteith equation	2
+mixed methods thermal comfort study	2
+IHD gives	2
+simple statement	2
+LBM approach	2
+lattice-Boltzmann method (LBM) code	2
+review procedure	2
+low-Re number Wolfshtein model	2
+high-Re number realizable k-ε model	2
+passive approach	2
+setpoint algorithm	2
+presented setpoint algorithm	2
+seven-step algorithm	2
+first method	2
+holistic “buildingomics” approach	2
+cognitive function test	2
+Logistic regression modelling	2
+multilevel statistical analysis	2
+semi-controlled study	2
+traditional culture- and microscopy-based approaches	2
+DNA sequencing-based approaches	2
+winter survey	2
+summer survey	2
+thermal comfort surveys	2
+group of wave-based solution methods	2
+Engineering methods	2
+extended thermal comfort field study	2
+social impact valuation methodology	2
+social value agenda	2
+post-occupancy research	2
+Multilevel modeling	2
+C-Support Vector Classification (C-SVC) algorithm	2
+novel personal thermal sensation modelling method	2
+questionnaire-guided interviews	2
+Nordtest protocol	2
+X-ray photo electron spectroscopy (XPS)	2
+energy dispersive X-ray analysis (EDS)	2
+naturalness design principle	2
+face-to-face household interviews	2
+al.	2
+computer based program called the Indoor Environment Quality Assessment Tool (IEQAT)	2
+multiple regression model	2
+new model	2
+hybrid ventilation strategy	2
+related survey	2
+learning-centred approach	2
+static analysis	2
+OSPAR Convention	2
+PRISMA and CEE guidance	2
+Blue Growth Data Challenge Workshop	2
+cooperative model	2
+Up-front investment	2
+best-practice and statistically robust approaches (R3)	2
+exploratory data analysis methods and regression-based statistical approaches	2
+gap analyses	2
+agent-based modelling	2
+area-based approach	2
+participatory backcasting exercise	2
+ideal EIA process	2
+UN Framework Convention	2
+Biodiversity Convention	2
+precautionary approach	2
+integrated and adaptive approach	2
+MSFD	2
+DNA and RNA) analysis	2
+European Union’s Marine Strategy Framework Directive (MSFD)	2
+rapid assessment framework	2
+‘Big Data’ technologies	2
+ecosystem services mapping	2
+risk-based management framework	2
+management principle	2
+Ecosystem Approach	2
+new indicators and/or modelling techniques	2
+Life Cycle Assessment approach	2
+detailed high-resolution projection	2
+qualitative content analysis method	2
+survey and the deliberative workshop method	2
+modeling approach	2
+value-based question	2
+Norwegian integrated management plan	2
+well-organised citizen science data collection	2
+volunteer-based marine survey programme (‘Seasearch’)	2
+Scenario planning	2
+security practice theory	2
+United Kingdom׳s framework	2
+co-ordinated suite of regulations	2
+short-sighted approach	2
+risk analysis approach	2
+multi-disciplinary approaches	2
+presented method	2
+finite element method (FEM)	2
+novel control rod treatment	2
+on-line cross-section reconstruction	2
+standard multidimensional interpolation	2
+spectral rehomogenization technique	2
+reactor core nodal analysis	2
+MAAP code	2
+infinite-lattice approximation	2
+two-dimensional (2-D) modal approach	2
+Y-12 accident	2
+computationally efficient gamma distribution method	2
+scoping study	2
+diffusive approach	2
+rehomogenization algorithm	2
+spectral rehomogenization method	2
+systematic methodology	2
+multi-group approximation theory	2
+code	2
+PJFNK-SPH approach	2
+Serpent 2 Monte Carlo code	2
+traditional Picard approach	2
+traditional iterative approach	2
+PJFNK-SPH	2
+MOOSE’s Preconditioned Jacobian-Free Newton Krylov method	2
+Newton algorithm	2
+collocation method	2
+Chebyshev-Gauss-Lobatto collocation methods	2
+earlier point model work	2
+code MpCCI	2
+Fluid-structure interaction method	2
+1D-3D coupling methodology	2
+finite element analysis (FEA)	2
+computer-aided design (CAD) description	2
+Isogeometric Analysis (IGA)	2
+HELIOS 2.1 code	2
+Pál-Bell backward formalism (Pázsit and Pál, 2008)	2
+nominal ENDF/B-VII.0 and VII.1 evaluations	2
+amended cross-section evaluation	2
+ENDF/B-VII.0 and VII.1 evaluations	2
+discontinuous piece-wise constant method	2
+piece-wise linear continuous scheme	2
+piece-wise constant based method	2
+eigenvalue analysis	2
+conjugate gradient algorithm	2
+symmetric preconditioning scheme	2
+first preconditioning scheme	2
+algebraic multigrid (AMG) preconditioners	2
+Modified Interior Penalty (MIP) form	2
+discontinuous Galerkin finite element method (DG-FEM) discretisations	2
+various nuclear reactor physics codes and burn-up routines	2
+UK National Nuclear Laboratory’s fuel cycle modelling code ORION	2
+safeguards analysis	2
+Random Forest technique	2
+multitemporal feature analysis	2
+GW correlation analysis	2
+moving window (kernel) approach	2
+NDSI -based snow mapping	2
+spectral data analysis	2
+spectral unmixing methods	2
+SCAmod algorithm	2
+airborne hyperspectral campaign	2
+situ spectrometry	2
+modified Before-After-Control-Impact (BACI) research design	2
+in-situ technologies	2
+media fact-checking approach	2
+Persistent Scatterer Interferometry (PSI) technique	2
+urbanization approach	2
+small baseline subset (SBAS) interferometric synthetic aperture radar (InSAR) approach	2
+InSAR techniques	2
+MIDAC FTIR radiometer	2
+ESA’s REFLEX campaign	2
+preceding land cover change map	2
+corresponding land cover change map	2
+CORINE land cover mapping	2
+seed growth algorithm	2
+random forest classifier, a weighted-distance KNN algorithm	2
+Support Vector Machine modelling approach	2
+existing satellite synthetic aperture radar (SAR)	2
+multi-scale approach	2
+frame-camera	2
+CyaBI method	2
+shift-detection algorithm	2
+object-based classification approach	2
+combination of object-based and pixel-based classification approaches	2
+sequential analysis strategy	2
+crop phenology in a GIS-based Multi-Data Approach (MDA)	2
+visual analysis	2
+comparative method	2
+Normalised Difference Vegetation Index (NDVI)	2
+semi-automatic methodology	2
+retrospective spatio-temporal assessment	2
+support vector machine classifier	2
+spectral analytical approach	2
+continuous wavelet transformation	2
+change detection	2
+spectral feature analysis	2
+innovative stratification method	2
+Stratified classification	2
+stratified classification	2
+INLA and SPDE approaches	2
+Markov chain Monte Carlo (MCMC) called Integrated Nested Laplace Approximation (INLA)	2
+Fe speciation	2
+Pb diffusion modelling	2
+U-Pb geochronology	2
+phase equilibria modelling	2
+Recent geochronological and petrographic studies	2
+quantitative computed tomographic analysis	2
+Synchrotron Radiation X-ray Tomographic Microscopy (SRXTM)	2
+REE profiling	2
+Zircon analysis	2
+sample petrography, zircon cathodoluminescence (CL) imaging and rare earth element (REE) analysis	2
+Platinum Group Element geochemistry and trace element modelling	2
+stakeholder mapping	2
+cross-case comparison	2
+flotation method	2
+Antarctic Treaty Consultative Meeting	2
+“Sustainable Urban Mobility Plans” (SUMPs) framework	2
+Catchment Based Approach	2
+Focus groups	2
+Omni-Ingestor initiative	2
+multi-phase and multi-component approach	2
+SEEA EEA	2
+System of integrated Environmental and Economic Accounts - Central Framework (SEEA CF)	2
+System of integrated Environmental and Economic Accounts - Experimental Ecosystem Accounts (SEEA EEA)	2
+Peatland Strategy	2
+two-step bioleaching)	2
+farmers' survey	2
+expert interviews	2
+new database structure	2
+multispecies dependent double-observer abundance model	2
+dependent double-observer transect surveys	2
+simple coping strategy	2
+endogenous switching regression approach	2
+Building Information Modelling (BIM)	2
+MW technology	2
+Dispersion modelling	2
+single-location scheme	2
+fingerprinting approach	2
+sediment source fingerprinting or tracing procedures	2
+boundary search approach	2
+multi-objective evolutionary optimization algorithms	2
+rational choice theory	2
+stated preference techniques	2
+Tier 2 a multi-criteria analysis	2
+stakeholder engagement workshop	2
+qualitative (Tier 1) and semi-quantitative (Tier 2) sustainability assessments	2
+Sustainable Remediation Forum UK (SuRF-UK)	2
+application of the Minimum Data Analysis method (TOA-MD)	2
+European Marine Strategy Framework Directive (MSFD)	2
+Decision Support Tools (DSTs)	2
+regional-scale analysis	2
+logistic regression analysis	2
+described approach	2
+potential post-event site design scenarios	2
+novel quantitative methodology	2
+cloud based tool	2
+cloud based services	2
+pilot tool	2
+combination of methods	2
+well-structured procedure	2
+“non-standard” value aggregation techniques	2
+multi-attribute utility theory	2
+scenario planning	2
+probability theory	2
+Statistical models (generalised least square regression)	2
+GIS approach	2
+locally-based pollution control strategy	2
+diffusion of innovations model	2
+EU habitats directive	2
+Multi Criteria Decision Analysis	2
+landsystems approach	2
+Bayesian age modelling	2
+altitudinal-based review	2
+Modelling experiments	2
+multi-site, landscape approach	2
+novel geochemical techniques	2
+general circulation model experiments	2
+BP 1950	2
+universal protocol	2
+high-resolution analysis	2
+Scanning Electron Microscope [SEM]	2
+Holocene sea-level studies	2
+situ14C dating	2
+situ14C	2
+multi-nuclide approach	2
+tree-ring-based reconstructions	2
+multi-faceted approach	2
+new taxonomic scheme	2
+new high resolution, three-dimensional tidal model (ROMS)	2
+palynology and grain-size distribution analyses	2
+High-resolution Os isotope stratigraphy	2
+Global-scale modeling	2
+three Earth System Models (ESMs)	2
+archaeological survey	2
+vegetation survey	2
+systematics-based explanations	2
+quantitative, process-based understanding	2
+Bootstrap resampling analysis	2
+multi-core study	2
+linear and multivariate regression analyses	2
+schematic CO2 concentration scenario	2
+‘inverse’ problem	2
+novel, shard-specific methodology	2
+crypto-tephra extraction techniques	2
+Diatom analysis	2
+robust model-data comparison	2
+variability selection hypothesis	2
+mineral magnetic and diffuse reflectance spectroscopy (DRS) analyses	2
+optically stimulated luminescence (OSL) dating	2
+descriptive genetic classification scheme	2
+10Be age calculation	2
+classification scheme	2
+Scientific Committee	2
+Spectral analysis	2
+first long-term, quantitative (with respect to recurrence)	2
+microfacies analysis	2
+set of time-slice reconstructions	2
+multiproxy approach	2
+RCS approach (two-curve signal-free RCS)	2
+new TRW chronology	2
+revised method	2
+dating technique	2
+Bayesian analyses	2
+range of methods and a multi-proxy approach	2
+chironomid-based inference model	2
+Reverse-phase HPLC separation with fluorescence detection	2
+preparation technique	2
+Compact High Resolution Imaging Spectrometer CHRIS/PROBA hyperspectral signal	2
+Multi-angle Imaging Spectroradiometer (MISR) and Landsat Enhanced Thematic Mapper	2
+generic Earth Observation-Land Data Assimilation System (EO-LDAS)	2
+climate model integration	2
+proxy cloud detection scheme	2
+modern cloud detection method	2
+MediMod time-series approach	2
+NTCM-GL	2
+coefficient model NTCM-GL	2
+Fourier Series Expansion	2
+time-series methods Standard Persistence Model (SPM), a 27 day median model (MediMod)	2
+Synthetic Aperture Radar mode (SARM)	2
+non-interferometric SAR Level-2 processing	2
+non-interferometric counterpart	2
+mission’s novel SAR interferometric (SARIn) mode	2
+Polar Observation and Modelling (CPOM)	2
+Cosmic Vision programme	2
+Conventional (pulse-limited) altimeters	2
+quadruple-difference SAR interferometry (QDInSAR)	2
+plane-fitting solution	2
+in-orbit calibration principle	2
+in-situ auto-calibration	2
+Solar Auto-Calibrating EUV Spectrometer (SolACES) experiment	2
+flight dynamics analysis	2
+proof of concept case study	2
+onboard biosafety protocol	2
+composite analysis approach	2
+Fast Fourier Transform (FFT)	2
+GPS detection technology	2
+Random Forest analysis	2
+successive indicator species analysis	2
+hierarchical clustering	2
+ecological enhancement techniques	2
+defence scheme	2
+match-ups	2
+operational Advanced Very High Resolution Radiometer (AVHRR)	2
+situ SST measurements	2
+object-based methods	2
+full data collection methodology	2
+novel technique	2
+carbon and nitrogen stable isotope analysis	2
+equation	2
+finite volume community ocean model (FVCOM)	2
+Long-term monitoring	2
+EU's Marine Strategy Directive	2
+integrated framework	2
+integrated modeling framework	2
+UAV radiation mapping	2
+advanced analytical techniques	2
+classic one-box model	2
+two-box model	2
+established approach	2
+relatively new moving average subtraction method	2
+Fourier-Transform Infrared (FTIR) spectroscopy	2
+enzymatic digestion protocol	2
+multi-tracer approach	2
+in vivo	2
+two-week exposure trial	2
+liquid chromatography mass spectrometry (LC-MS) based metabolic profiling	2
+deep 16S rRNA gene sequencing	2
+standard protocol	2
+graphical information software	2
+post-processed	2
+three-dimensional rendering	2
+validation procedure	2
+LES methodology	2
+Large Eddy Simulation (LES) method	2
+CFD and wind tunnel studies	2
+cluster analytic method	2
+Tehran Study	2
+in-depth analysis	2
+filtering method	2
+New European Driving Cycle (NEDC)	2
+environmental risk analysts	2
+Gas chromatography	2
+snow analysis	2
+non-targeted analysis	2
+common mass spectrometry approach	2
+odd-even car trial scheme	2
+comprehensive national-scale assessment	2
+tagged tracer method	2
+statistical methods of meta-analysis	2
+Long-Term Sludge Experiments (LTSE)	2
+Positive Matrix Factorization (PMF)	2
+vegetation health index	2
+short-term studies	2
+field-based experiment	2
+Stockholm Convention Global Monitoring Plan	2
+BETR-Research	2
+global multimedia fate model	2
+small-area analysis	2
+British Geological Survey Geochemical Baseline Survey	2
+bioaccessibility using the physiologically based extraction test (PBET)	2
+common methodology	2
+first full transcriptome study	2
+linear and piecewise linear Poisson regression models	2
+national risk assessment	2
+range of ranking techniques	2
+wider Chemical Strategy	2
+performance reference compound approach	2
+EA-IRMS	2
+novel “on-line” method using elemental analyser isotope ratio mass spectrometry (EA-IRMS)	2
+Rapid isotopic analysis	2
+before-after-control-impact)	2
+systems framework	2
+Hydrochemical sampling	2
+cloud-based seismic fragility analysis	2
+earthquake-resistant design philosophy	2
+novel stochastic approach	2
+performance-based approach	2
+Performance-based probabilistic methods	2
+pseudo-probabilistic and probabilistic (i.e., performance-based) methods	2
+new type of integrated method	2
+flexural wave algorithm	2
+step by step sample calculation	2
+quick hand calculation method	2
+high fidelity finite element analysis	2
+ground-motion prediction equation	2
+refraction analysis	2
+‘Multichannel Analysis of Surface Waves’ technique	2
+vibrocompaction technique	2
+liquid scintillation counting	2
+RNA-sequencing	2
+Public Health England (PHE) recommendation	2
+targeted mail-shot	2
+cross-sectional investigation	2
+International Monitoring System (IMS)	2
+Atmospheric Transport Modelling (ATM) results	2
+low concentration experiments	2
+formaldehyde experiment	2
+acetate experiment	2
+Comprehensive Nuclear-Test-Ban Treaty Organization (CTBTO)	2
+stable element analyses	2
+first–principles methods	2
+advanced hardware and algorithms	2
+quantitative climate and landscape modelling	2
+parallel on-going research	2
+discrimination method	2
+Atmospheric Transport Modelling (ATM)	2
+Comprehensive Nuclear-Test-Ban Treaty (CTBT)	2
+International Commission on Radiological Protection (ICRP)	2
+LiF based TLDs	2
+example post-accident existing exposure scenario	2
+animal rinsing technique	2
+live animal gamma radioisotope tracer techniques	2
+summation technique	2
+Radiological Impact Assessments) Programme	2
+International Atomic Energy Agency (IAEA) MODARIA (Modelling and Data	2
+gamma-spectrometry	2
+high-spatial resolution foot-based radiation mapping study	2
+Basic equations	2
+combination of analytical and sampling based statistical methods	2
+Comprehensive Nuclear Test Ban Treaty (CTBT)	2
+two field experiments	2
+one pot experiment	2
+advanced physics course	2
+ERICA methodology	2
+extrapolation method	2
+approach (REML modelling)	2
+robust extrapolation approaches	2
+Artificial Neural Networks	2
+combination of Principal Component Analysis	2
+surface gamma-ray techniques	2
+preliminary survey	2
+High-coverage in situ surveys	2
+meteorological analysis	2
+regional high-resolution analyses	2
+CRwo-media approach	2
+statistically-defensible and robust method	2
+IAEA EMRAS II programme	2
+ex-ante economic assessment procedure	2
+econometric analysis	2
+green economy approach	2
+statistical software	2
+spatial statistical analysis	2
+novel conservation approach	2
+document review	2
+biodiversity offset programme	2
+simulation study	2
+Multivariate statistical analyses	2
+existing action-based scheme	2
+result-based payment scheme	2
+economic surplus analysis	2
+combination of econometric and economic surplus analysis	2
+adopting push–pull technology (PPT)—an innovative, integrated pest and soil-fertility management strategy	2
+regional land use optimization model PASMA[grid]	2
+novel integrated impact modelling framework (IIMF)	2
+large-scale linear programming model	2
+original Property Rights Index	2
+Pearson parametric correlation test	2
+one of the first freely-available DSTs	2
+participatory approach	2
+social analysis	2
+qualitative social research method	2
+landscape approach	2
+WTA format	2
+debriefing interviews	2
+split-sample design	2
+conservation reserve program (CRP)	2
+mail survey	2
+neo-classical economics	2
+associated ecosystem services concept	2
+Absorbing Carbon Emissions (UWA-FACE) project	2
+35 qualitative, semi-structured interviews	2
+data-driven clustering method	2
+Impact Based Spatial Targeting Index (IBSTI)	2
+K-means clustering	2
+geospatial analysis	2
+multiple regression analysis	2
+Geographical Information System (GIS)	2
+pragmatic approach	2
+UK National Ecosystem Assessment Follow-On programme (2012–2014)	2
+resultant framework	2
+Rogers’ (2003) diffusion model	2
+size class distribution analysis	2
+exploratory online survey	2
+stakeholder-based research	2
+field observation	2
+Scenario analysis	2
+novel concept	2
+in-depth research	2
+policy-making strategy	2
+governance strategy	2
+Case studies	2
+nuanced analysis	2
+developed modelling approach	2
+integrated ISO/TC 211	2
+Integrated Administration and Control System (IACS).In the	2
+Unified Modelling Language (UML)	2
+systems approach	2
+stocks and flows systems approach	2
+new ecosystem approach	2
+new scientific paradigm	2
+EU Soil Thematic Strategy	2
+European Union (EU) Soil Thematic Strategy	2
+new soil protection policy	2
+highly targeted, but non-competitive, “continuous” CRP	2
+“general” CRP	2
+Environmental Benefits Index bid ranking mechanism	2
+United States Department of Agriculture’s Conservation Reserve Program (CRP)	2
+comprehensive, cross-sectoral approach	2
+remote sensing dataset Fcover	2
+agri-environment schemes	2
+different agri-environment scheme options	2
+Conservation Grade environmentally-sensitive farming protocol	2
+2013 mail survey	2
+multilevel and quantile hedonic analysis	2
+first-stage certification	2
+first-stage certificate	2
+second-stage certificate	2
+technically advanced land survey methods	2
+case study research	2
+One dimensional burial history modelling	2
+SEM- and modal analyses	2
+structural analysis	2
+Seismic attribute analyses	2
+X-Ray Diffraction (XRD)	2
+optical and scanning electron microscopy (OM, SEM)	2
+X-ray diffraction (XRD) analysis	2
+kerogen typing	2
+palaeo-environmental examination	2
+three-dimensional (3D) reconstruction	2
+geospatial method	2
+USGS methodology	2
+Multichannel reflection seismic data acquisition	2
+high-resolution borehole imaging	2
+Bowland–	2
+powerful quantification method	2
+multi-scale 3D imaging	2
+multi-scale imaging	2
+serial block face scanning electron microscopy imaging techniques	2
+transmission electron-microscopy imaging	2
+dye experiment	2
+current state-of-the-art bubble dissolution models	2
+Capture and (isotope) chemical analyses	2
+Gravity modeling	2
+receiver function dataset	2
+Platform of Integrated Assessment (PIA)	2
+FP7 EnerGEO project	2
+assessment framework	2
+high-resolution (25 cm) palynological study	2
+new, high-resolution calibration	2
+area-depth-strain (ADS) method	2
+geostatistical analysis	2
+three-dimensional stress analysis	2
+cross-correlation	2
+high-angular resolution electron backscatter diffraction (HR-EBSD)	2
+numerical displacement discontinuity method	2
+outcrop-based study	2
+chosen acquisition technique	2
+Light Detection and Ranging (LiDAR)	2
+masters module	2
+apparatus modification	2
+J3-independent von Mises yield criterion	2
+process-based framework	2
+2D forward modelling	2
+window sampling	2
+linear scanline sampling	2
+critical state theory	2
+Analytical transmission electron microscopic (TEM) methods (electron energy loss spectroscopy (EELS) and electron spectroscopic imaging (ESI))	2
+standardized approach	2
+sensitivity model experiments	2
+Integrated Multi-satellitE Retrievals for GPM (IMERG)	2
+Global Precipitation Measurement (GPM)	2
+NCEP analysis	2
+three step downscaling method	2
+computational efficient Conformal Cubic Atmosphere Model (CCAM)	2
+low-cost radar	2
+Seven experiments	2
+Yonsei University (YSU) PBL scheme	2
+China's 12th Five-Year Plan (FYP; 2011–2015)	2
+INFLUX experiment	2
+ensemble simulated approach	2
+ensemble-based forecast	2
+high-resolution forecast (HRES)	2
+Mann-Kendall (MK) statistical test	2
+Geographical Weighted Regression (GWR) method and High Accuracy Surface Modeling (HASM) method	2
+recent habit mixture model	2
+Ray Tracing with Diffraction on Facets (RTDF) and Ray Tracing (RT)	2
+T-Matrix,	2
+chemistry scheme	2
+dual isotope method (DIM) results	2
+formation factor experiments	2
+electromigration sorption experiments	2
+monitoring well based protocols	2
+water-quality indicator parameter stabilization	2
+bespoke monitoring protocols	2
+implemented protocol	2
+sampling capture-zone modelling	2
+numerical upscaling technique	2
+power law function ψ(t)	2
+Continuous Time Random Walks (CTRW)	2
+particle-tracking method	2
+nuclear magnetic resonance (NMR)	2
+experimental and numerical study	2
+Scenario modeling	2
+multi-element, compound-specific isotope analysis	2
+Reactive transport modeling	2
+ADRE model	2
+Gramling et al.	2
+streamline-based particle tracking method	2
+conservative tracer test	2
+Bi-component partitioning calculations	2
+partitioning calculations	2
+Integrated analysis	2
+numerical modelling approach	2
+low-flow sampling	2
+pulse field gradient (PFG)	2
+magnetic resonance imaging (MRI)	2
+range of nuclear magnetic resonance (NMR) techniques	2
+multi-method topo-bathymetric surveys	2
+Reservoir siltation surveys	2
+1962 event	2
+GIS-based open source simulation framework	2
+airborne laser scanning campaigns	2
+sediment budget framework	2
+Fourier analysis	2
+process-based models	2
+Repeat surveys	2
+repeat surveys	2
+time-lapse cameras	2
+MFE principle	2
+Cluster analysis	2
+new classification	2
+object-based change detection	2
+MEAN Arithmetic operator	2
+operator	2
+FSE approach	2
+Fuzzy Synthetic Evaluation (FSE) approach	2
+fuzzy operators	2
+multi-resolution segmentation	2
+gray-level co-occurrence matrix (GLCM), and fuzzy logic membership functionality	2
+method of object-based image analysis (OBIA)	2
+Roughness analysis	2
+laboratory and field-based SfM surveys	2
+High resolution topographic surveys	2
+power law threshold model	2
+conceptual model	2
+grain size, and magnetic susceptibility analyses), and geochronology (OSL, 14C)	2
+geomorphological mapping	2
+combination of aerial image analysis	2
+Cluster-based segmentation	2
+Shoreline change analysis	2
+pre- and post-event aerial photography	2
+experimental protocol	2
+Laboratory experiments	2
+Pore-pressure diffusion modeling	2
+limit-equilibrium modeling	2
+InSAR survey	2
+4.3-day ground-based InSAR survey	2
+well-balanced suite	2
+Real Time Kinematic-GPS (RTK-GPS) monitoring	2
+combination of monitoring techniques	2
+universally applicable approach	2
+data analysis methods	2
+hybrid techniques	2
+sophisticated statistical analysis techniques	2
+data-driven techniques	2
+systems theory	2
+primary scale approach	2
+Coastal and Estuarine System Mapping (CESM)	2
+formal systems analysis	2
+simple qualitative stability analysis	2
+modelling framework	2
+robust Boolean search criterion	2
+electrical resistivity tomography surveys	2
+Topographic analysis	2
+mass-balance calculation	2
+broadband multibeam survey	2
+terrestrial laser scanning (TLS)	2
+post-Yasi re-assessment	2
+log-transformed	2
+testing scheme	2
+widely used multiresolution segmentation (MRS) algorithm	2
+segmentation algorithm	2
+Land-surface segmentation	2
+land-surface segmentation	2
+Computer-based techniques	2
+detailed roughness analysis	2
+two-parameter approach	2
+catchment analysis	2
+novel regional approach	2
+3D ERT method	2
+edge detector	2
+three-dimensional electrical resistivity (3D ERT)	2
+fully volumetric geophysical imaging approach	2
+high resolution digital terrain model	2
+New U-series dating	2
+uranium-series dating	2
+iterative process	2
+census-based approach	2
+innovative modified approach	2
+Survey research	2
+one sweep net survey	2
+contemporaneous visual surveys	2
+On-site questionnaires	2
+nature-dose framework	2
+combination of Geographic Information Systems (GIS)	2
+ecosystem service concept	2
+text processing	2
+national-level sampling strategy	2
+cross-sectional approach	2
+randomised door-to-door surveys	2
+qualitative methods	2
+landscape-scale approach	2
+current site-based approaches	2
+Incidence Function Model (IFM)	2
+Multivariable linear regression	2
+validated Perceived Stress Scale (PSS)	2
+random (by CSA) and snowball techniques	2
+Cross-sectional methods	2
+boosted regression trees	2
+win–win strategy	2
+controlled perennial meadow creation experiment	2
+photo-elicitation studies	2
+‘bottom-up’ mode	2
+Collaborative planning	2
+volunteered geographic information and the geographic information system techniques	2
+Amartya Sen's capability approach	2
+Fragmentation analysis	2
+qualitative research approach	2
+UK's 2011 Localism Act	2
+post-implementation	2
+inclusive, community-led approach	2
+depth image analysis	2
+ex post photography	2
+ex ante visualizations	2
+qualitative, comparative analysis	2
+serial interview study	2
+simple leaching experiment	2
+electron microprobe analyses	2
+model age calculations	2
+LA-ICPMS	2
+Re-Os and Pb-isotope systematics	2
+Electron microprobe and scanning electron microscopy	2
+situ U–Pb geochronology techniques	2
+situ laser ablation analyses	2
+automated Energy-Dispersive X-ray spectroscopy mapping	2
+Reich et al.	2
+Laser ablation analysis	2
+EPMA and LA ICP-MS	2
+bulk and in situ methods	2
+Ar–	2
+fluid inclusion study	2
+Sulfur isotope studies	2
+Near-surface remote sensing	2
+TLS measurement techniques	2
+LDP measurement technique	2
+3D Monte Carlo ray tracing	2
+established leveled digital photography (LDP) approach	2
+TLS-based method	2
+multi-model ensemble (MME)	2
+Ensemble Outcome Agreement (EOA) index	2
+regression algorithms	2
+dual-wavelength TLS	2
+indirect approach	2
+new indirect assessment approach	2
+Dual-Wavelength Echidna	2
+terrestrial laser scanner (TLS)	2
+marginal distribution sampling (MDS), the two-tower-approach (TTA)	2
+footprint analysis	2
+consistent protocol	2
+ten-site averaged SEBR	2
+surface-energy balance ratio (SEBR= H 	2
+Third Tibetan Plateau Atmospheric Scientific Experiments	2
+Monte Carlo bootstrapping	2
+Sample size analysis	2
+thresholding technique	2
+World Meteorological Organization	2
+digital hemispherical photography (DHP)	2
+process based crop simulation model WOFOST	2
+WATCH Forcing Data ERA-Interim (WFDEI)	2
+World Food Studies (WOFOST) crop model	2
+system-4 ensemble seasonal climate hindcasts	2
+European Centre for Medium-Range Weather Forecasts (ECMWF)	2
+Artificial Neural Networks (ANNs)	2
+gap size distribution methods	2
+clumping method	2
+CLX clumping retrieval method (Leblanc et al., 2005)	2
+situ clumping retrieval methods	2
+optical remote sensing techniques	2
+manipulation experiment	2
+ORYZA version 3 (v3)	2
+Common CO2 flux partitioning algorithms	2
+hand-levelled technique	2
+hand-levelled procedure	2
+parsimonious equations	2
+statistical emulators	2
+Inter-Sectoral Impact Model Intercomparison Project Fast Track project	2
+PSO algorithm	2
+artificial intelligence particle swarm optimization (PSO) algorithm	2
+Monin-Obukhov similarity theory (MOST)	2
+simple model	2
+Four-dimensional Variational data assimilation (4D-Var) scheme	2
+sequential and Markov chain Monte Carlo data assimilation methods	2
+variational data assimilation routines	2
+micrometeorological method	2
+elaborate pan evaporation experiment	2
+(known)	2
+standard flux-gradient technique	2
+inversion	2
+inverse dispersion technique (gFG, for “generalized flux-gradient”)	2
+distributed temperature sensing (DTS)	2
+Byram Drought Index (KBDI)	2
+Keetch–	2
+new technology	2
+field-based data collection	2
+Salford Advanced Laser Canopy Analyser (SALCA)	2
+improved curvi-linear version	2
+systematic model reduction procedure	2
+R package ‘	2
+Partial Least Squares (PLS) regression	2
+Monte-Carlo ray tracer simulations	2
+initial algorithm	2
+large-footprint lidar	2
+laser ablation methods	2
+DFN-based modelling approach	2
+widely accepted fracture slip seismicity-generation mechanism	2
+Focus Ion Beam Scanning Electron Microscopy (FIB-SEM)	2
+X-ray computed tomography (XCT)	2
+classification	2
+ICCP System 1994	2
+Markham heat pump scheme	2
+situ geochemical probing	2
+correlative high resolution imaging techniques	2
+petrographic approaches	2
+outline fluorescence microscopy	2
+High magnification SEM observation	2
+Incident light microscopy	2
+incident light microscopy	2
+simple scaling analysis	2
+blowing snow scheme Sytron	2
+side-by-side experiments	2
+non-destructive three dimensional analysis	2
+X-ray micro-computed tomography (μCT) technology	2
+Numerical Weather Prediction model AROME	2
+non-linear system identification	2
+combination of ocean–iceberg modelling	2
+semi-automated tracking	2
+automated and a semi-automated snow surface tracking algorithm	2
+Amonton's law	2
+Numerical experiments	2
+boundary integral equation description	2
+Burton–Miller method	2
+modified scheme	2
+Partition-of-Unity or Hybrid-Numerical-Asymptotic scheme	2
+energy-inspired Galerkin BEM	2
+new Boundary Integral Equation (BIE)	2
+wave theory	2
+generalized ray theory	2
+spatial transformation design	2
+new embedding formulae	2
+embedding formula	2
+plane-wave-expansion method	2
+discrete Wiener–Hopf technique	2
+multiple-scales approach	2
+proposed theory	2
+quasi-equilibrium relaxation theory	2
+downscaled method	2
+fast, higher throughput microplate method	2
+rapid in vitro screening strategy	2
+efficient in vitro screening approach	2
+atomic absorption spectrometry	2
+inductively-couple plasma mass spectrometry	2
+Children (WISC)-III UK	2
+short form of the Wechsler Intelligence Scale	2
+Wechsler Pre-school and Primary Scale of Intelligence – Revised UK edition (WPPSI)	2
+Strengths and Difficulties Questionnaire	2
+Multiple and logistic regression analyses	2
+Parents and Children (ALSPAC)	2
+Sucrose Preference Test	2
+safe and established therapeutic intervention	2
+Morris water maze and step-down tests	2
+one-way analysis of variance	2
+Biotechnology Information Sequence	2
+population-based case–control study	2
+multi-pollutant Cox regression models	2
+generalized additive model	2
+annually-iterated cross-validation	2
+HD-expansion	2
+high-dimensional expansion (HD-expansion)	2
+Hindcast approaches	2
+two studies	2
+Oxford Street II (London) and the TAPAS II (Barcelona) studies	2
+t-test, p = 0.802) or HBCDD (t-test,	2
+pathology clinic	2
+personalised air-quality feedback	2
+standard advice	2
+Group B (standard advice plus personalised air-quality feedback	2
+Group A (standard health service advice	2
+Wechsler Preschool and Primary Intelligence Scale-III (WPPSI-III) pre- and post-intervention	2
+Russian language searches	2
+multilevel logistic regression	2
+parental questionnaire	2
+main data analysis	2
+model-based evaluations	2
+WRF-EMEP4UK atmospheric chemistry transport model	2
+word cluster analysis	2
+bibliometric analysis	2
+Poisson distribution	2
+Movement ABC	2
+complete case analysis	2
+UK observational birth cohort study	2
+‘meet-in-the-middle’	2
+Covenant of Mayors (CoM) initiative	2
+CO measurement	2
+Multiple regression	2
+high-throughput approaches	2
+air pollution modelling	2
+service's function	2
+liquid-chromatography coupled to high-resolution mass-spectrometry	2
+EXPOsOMICS project)	2
+PISCINA-II study	2
+epidemiological survey	2
+review and meta-analysis	2
+optimal interpolation method	2
+land-use regression model	2
+validated algorithm	2
+population-based cohort study	2
+high-resolution mapping	2
+Meta-analysing	2
+European Prospective Investigation into Cancer and Nutrition (EPIC)	2
+Cox regression	2
+MRC National Study of Health and Development (NSHD)	2
+European Study	2
+p=2.2×10−8).A whole-genome methylation analysis	2
+genome-wide association study (GWAS) approach	2
+high-resolution mass spectrometry (HRGC/HRMS)	2
+high-resolution chromatography	2
+population-based Prospective Investigation	2
+metabolome analysis	2
+prediction model	2
+random forest model	2
+trending solution	2
+pooled sample method	2
+simple ratio approach	2
+traditional MI survey analysis methods	2
+multiple imputation (MI)	2
+National Health and Nutrition Examination Survey (NHANES)	2
+U.S.-EPA Design for Environment (DfE)	2
+Poisson regression	2
+two UK European Monitoring and Evaluation Programme (EMEP)	2
+Maternal-Infant Research on Environmental Chemicals (MIREC) Study	2
+Multivariable regression modeling	2
+cross-sectional study design	2
+multilevel hierarchical model	2
+Pollutant profile cluster risk estimation	2
+Bayesian profile regression method	2
+land use regression	2
+regional scale modelling	2
+newly-created Traffic Impacts Model (TIM)	2
+first harmonized topsoil sampling	2
+epidemiological analysis	2
+dispersion model (KCLurban)	2
+UK Calculation of Road Traffic Noise (CRTN) method	2
+first nanomaterial interlaboratory comparison studies	2
+harmonised procedure	2
+effective approach	2
+Markov Chain Monte Carlo methods	2
+linear regression with the generalized estimating equation approach	2
+air sampling	2
+inductively coupled plasma mass spectrometry (ICP-MS)	2
+developed inhalation bioaccessibility method (IBM)	2
+gravimetric and photometric sampling	2
+decision logic of the AMA	2
+response addition model	2
+time weighted average (TWA) approach	2
+rDNA analyses	2
+organic geochemical analyses	2
+supersonic molecular beam (SMB) ionization	2
+ether cleavage and GC–MS characterization	2
+Geochemical analysis	2
+stepwise forward selection	2
+new calibrations	2
+soil- and peat-based brGDGT temperature calibrations	2
+improved chromatographic method	2
+ToF-SIMS	2
+parallel ToF-SIMS and gas chromatography–mass spectrometry (GC–MS) analyses	2
+secondary ion mass spectrometry (ToF-SIMS)	2
+time-of-flight	2
+gas chromatography-flame ionization detection (GC-FID)	2
+Solid phase extraction (SPE)	2
+solid-state nuclear magnetic resonance spectroscopy	2
+pyrolysis–gas chromatography–mass spectrometry	2
+single proxy approach	2
+biomarker approaches	2
+14C AMS analysis	2
+accelerator mass spectrometry (AMS)	2
+14C analysis	2
+high performance anion exchange chromatography–mass spectrometry method	2
+12-month field experiment	2
+18-month experiment	2
+OECD programme	2
+standard tool	2
+ANOSIM analysis	2
+STRING tool	2
+field method	2
+bootstrapping analysis	2
+multi-year pilot study	2
+action plan	2
+TSS (True Skill Statistic) criterion	2
+ensemble forecasting approach	2
+Random Forests	2
+Classification Tree Analysis	2
+Generalised Boosting Model	2
+Generalised Additive Model	2
+Generalised Linear Model	2
+species distribution modelling approach	2
+Hierarchical cluster analysis	2
+modified story-and-simulation method	2
+recent ecological classification	2
+permanent framework	2
+novel statistical and trait-based approaches	2
+questionnaire analysis	2
+“High-tech agriculture	2
+multivariable-adjusted linear regression models	2
+HPLC-HG-ICP-MS	2
+day-time and night-time experiments	2
+model-coupling approach	2
+novel model calibration	2
+unorthodox approach	2
+analytical framework	2
+multi-step methodology	2
+systems modelling approach	2
+probabilistic modeling framework	2
+freshwater fraction method	2
+random forest machine learning algorithm	2
+meteorological normalisation technique	2
+linkage framework	2
+environmental risk assessment approach	2
+AquaCrop-OS model	2
+spatial multi-criteria analysis	2
+stakeholders' elicitation	2
+ecosystem based-management approach	2
+EU policy framework	2
+AQUACROSS project	2
+“ensemble-based approach	2
+Water sample analysis	2
+United Nations Environment Programme	2
+ARIES' spatial multi-criteria analysis module	2
+inductively coupled plasma-triple quad-mass spectrometry	2
+Bayesian spike-and-slab variable selection algorithm	2
+Bayesian spatiotemporal modeling	2
+multivariate Ordinary Least Squares (OLS) regression	2
+Ranged Major Axis (RMA) regression	2
+novel methodological approach	2
+time-integrating tool	2
+time-integrated approach	2
+American Cancer Society cohort study	2
+reduced-form tool	2
+previously published benefits analysis approach	2
+recent, detailed source-apportionment air quality modeling	2
+grab sampling	2
+vis-NIR techniques	2
+Ecosystem Services Identification and Inventory Tool	2
+three-step process	2
+Dow Chemical Company's (Dow) Valuing Nature Goal	2
+decision support methods	2
+conventional, and (ii) canopy-cooling	2
+new “multi-dimensional challenges and solutions” paradigm	2
+multi-stressor approach	2
+rigorous, transparent and defendable system of decision-making	2
+Bow-tie approach	2
+IEC/ISO 31010 Bow-tie analysis	2
+fully-structured approach	2
+machine learning	2
+Partial least square (PLS) and linear regression analyses	2
+quantitative survey	2
+pot experiment	2
+overlap analysis	2
+framing analysis	2
+re-analysed 14 semi-structured interviews	2
+2015 ozone NAAQS review	2
+active air sampling strategy	2
+air and surface based methods	2
+complex analysis	2
+passive and active air sampling strategies	2
+Regression modelling	2
+Mixed-effects regression models	2
+Life Cycle Assessment (LCA) approach	2
+finite mixture modelling	2
+Indian Migration Study	2
+UNECE Convention	2
+ICP Forests and ICP Integrated Monitoring (IM) programmes	2
+long-term ecological research (LTER)	2
+single-layer soil model VSD+	2
+ISO 15927-3:2009	2
+ecological time series analysis	2
+mono-substance analysis	2
+one-step straightforward calculation	2
+IPCC methodology	2
+guidelines of the Intergovernmental Panel on Climate Change (IPCC)	2
+16S rRNA sequencing	2
+Metagenome sequencing	2
+LCA study	2
+Quantitative Microbial Risk Assessment (QMRA)	2
+“cradle-to-grave” life cycle assessment (LCA) approach	2
+mainstream multivariate meta-regression analysis	2
+new analysis method	2
+non-linear (natural logarithm) functions	2
+new meta-analysis method	2
+prevailing multivariate meta-regression analysis	2
+Several meta-analyses	2
+Choice Experiments (CE)	2
+Gaussian Process Regression (GPR)	2
+Generalized Linear Models (GLM)	2
+Monte-Carlo simulation	2
+Quantitative Microbial Risk Assessment	2
+k-means cluster analysis	2
+uncertainty analysis	2
+Sediment source fingerprinting	2
+PCR-based methods	2
+controlled, replicated and long-term field study	2
+Integrated Model (IM)	2
+multi-model (MM) ensemble	2
+third phase of the Air Quality Model Evaluation International Initiative (AQMEII)	2
+multi-objective optimization routines	2
+economic model	2
+decision support tool that integrates the Soil and Water Assessment Tool (SWAT) watershed model	2
+principal component analyses (PCA) and canonical analyses	2
+linked modelling approach	2
+convolution theorem	2
+Transient Rainfall Infiltration and Grid-Based Regional Slope-Stability Model TRIGRS v. 2.1	2
+specific algorithm	2
+RainFARM technique	2
+Excitation emission matrix fluorescence and parallel factor analysis (EEM-PARAFAC)	2
+post-storm	2
+terrestrial laser scanning surveys	2
+pathway-based approaches	2
+MPN method	2
+less precise method	2
+required S-M method	2
+MPN-based approach	2
+appropriate method	2
+one concentration method	2
+DGGE and 454 pyrosequencing analysis	2
+energy dispersive X-ray analyses	2
+International Association of Diabetes and Pregnancy Study Groups (IADPSG)	2
+high-performance liquid chromatography–tandem mass spectrometry (HPLC–MS/MS)	2
+selective sequential extraction (SSE) procedure	2
+experimental programme	2
+Kernel Density Estimation (KDE) method	2
+pairs-measurements	2
+situ mesocosm experiment	2
+cyp1a gene expression analysis	2
+quantitative real-time polymerase chain reaction (qPCR)	2
+Quantitative structure–activity relationship (QSAR) modeling	2
+EU project MARS	2
+organic composition analysis	2
+geo-electrical techniques	2
+site use study	2
+long-term caribou monitoring program	2
+weight of evidence approach	2
+novel Nutrient Limitation Assessment methodology	2
+(PSCF) analysis	2
+Potential Source Contribution Function	2
+Positive Matrix Factorization (PMF) receptor model	2
+proof-of-principle study	2
+structural equation model	2
+structural equation modeling	2
+business-as-usual	2
+Model simulations	2
+Optimisation modelling	2
+process-based modelling framework	2
+Extended interviews	2
+effective medium theory	2
+Maxwell–Eucken	2
+material-flow analysis (MFA)	2
+field-based methods	2
+Nonlinear dose-response model analyses	2
+microbial risk assessment approach	2
+health-based strategies	2
+logical and consistent human-health basis	2
+Stockholm Convention	2
+integrated modelling approach	2
+polar organic integrative sampler (POCIS) technology	2
+reconnaissance study	2
+permanent grass-land experiment	2
+first a continuous wheat experiment	2
+two long-term experiments	2
+existing SCIMAP framework	2
+SCIMAP framework	2
+Monte-Carlo sampling approach	2
+trend analyses	2
+UHPLC-MS-MS	2
+ultra-high-pressure liquid chromatography triple-quadrupole mass spectrometry (UHPLC-MS-MS) and gas chromatography–mass spectrometry (GC–MS)	2
+solid-phase extraction (SPE)	2
+costing method	2
+financial records review	2
+bottom-up, activity-based costing	2
+participatory behavior-change approach	2
+state-of-the-art” knowledge	2
+innovative process-based modelling approach	2
+adapted methodology	2
+hierarchical modelling approach	2
+interrupted time series analysis	2
+quasi-experimental study design	2
+Factor analysis	2
+two types of assessment	2
+Tukey HSD post-hoc tests	2
+optimised method	2
+High-Performance Liquid Chromatography-Tandem Mass-Spectrometry	2
+Solid Phase Extraction	2
+in-house validated method	2
+water footprint (WF) assessment method	2
+factorial design experiment	2
+Wells-Riley TB transmission model	2
+Rudnick-Milton variant	2
+Integrated Valuation	2
+Ecosystem Services)	2
+ARIES (Artificial Intelligence	2
+chemical analysis and effect-based tools	2
+European-wide demonstration program	2
+one-year study	2
+long-term solution	2
+accurate-mass quadrupole time-of-flight	2
+unit resolution mass spectrometry	2
+laboratory-based degradation study	2
+partial least squares and Bayesian artificial neural networks (ANN)	2
+stepwise regression	2
+MCS beach litter survey programme	2
+many citizen science projects	2
+spatio-temporal mapping	2
+classical model	2
+integrative, systemic approach	2
+integrated impact modelling framework (IIMF)	2
+enantio-selective analysis	2
+one stabilisation method	2
+multi-bottle sampling	2
+aqua regia digestion	2
+DRI framework	2
+comprehensive thematic analysis	2
+UV–Vis spectrometry	2
+simple catchment-scale approach	2
+linear regression analysis	2
+clear engagement strategy	2
+evaluation framework	2
+United Kingdom Climate Change Act	2
+one-off survey	2
+stable isotope approach	2
+THermodynamic modelling	2
+THINCARB model	2
+multi-stressor analyses	2
+Stressor-response analysis	2
+X-ray radiography	2
+water footprint (WF) concept	2
+Moran's I approach	2
+box plot, variogram cloud, and difference map methods	2
+Local Moran's I statistic	2
+box plots	2
+“settling dish” method	2
+high-throughput sequencing	2
+deep geological disposal program	2
+assembly theory	2
+amalgamation	2
+multi-layer inference model (MLM)	2
+LUCAS sampling	2
+structured questionnaire	2
+detailed noise survey	2
+4D (3D time-lapse) cross-borehole Electrical Resistivity Tomography (ERT)	2
+full-scale field experiment	2
+common protocol	2
+margin of exposure (MOE) approach	2
+wastewater-based epidemiology (WBE)	2
+parameter-efficient tool	2
+IMPT (Integrated Model	2
+Bayesian inference framework	2
+solid phase extraction and LC-MS/MS	2
+pulverised liquid extraction	2
+Quantitative metabolite profiling	2
+targeted metabolomics approach using liquid chromatography-high resolution mass spectrometry (LC-HRMS)	2
+global climate models (GCMs)	2
+ordinary kriging	2
+stepwise multiple linear regression	2
+Rothamsted Research long-term experiments	2
+10years post-implementation	2
+system dynamics (SD) approach	2
+IPCC's 5th assessment	2
+three-week incubation	2
+regression and variance-based techniques	2
+extended analysis	2
+Global approaches	2
+published sensitivity analyses (SAs)	2
+smartphone method	2
+software program	2
+sequential method	2
+simultaneous method	2
+either the simultaneous or sequential modelling methods	2
+additive aggregation model	2
+Knowledge-based rankings	2
+linear model	2
+tiered approach	2
+non-parametric approach	2
+multi-phase equilibria modelling software (MTDATA)	2
+conventional gross counting algorithms	2
+optimised combination of detector and spectral processing routine	2
+Principal Component Analysis and Machine Learning based algorithms	2
+gamma-ray spectral analysis	2
+geospatial approach	2
+flow accumulation algorithms	2
+robust sediment calibration method	2
+SWAT hillslope sediment yield model (Modified Universal Soil Loss Equation, MUSLE)	2
+Scottish grassland experiment	2
+simplified first-order equation	2
+Pan-European rainfall data compilation (REDES)	2
+Auerswald et al.	2
+research grade spectrophotometer	2
+Monte-Carlo methods	2
+inverse modeling	2
+liquid chromatography–tandem mass spectrometry (HPLC–MS/MS)	2
+light-scattering technology	2
+exposure method	2
+integrated management perspective	2
+State–	2
+Pressure–	2
+Driving force–	2
+high-resolution monitoring	2
+Munsell Color Chart	2
+current type-approval test procedure	2
+European type-approval test procedure	2
+Weekly leachate analysis	2
+linear regression weighted model	2
+prevalence model	2
+Bayesian statistical framework	2
+sophisticated analysis	2
+Monte Carlo simulations approach	2
+formal statistical framework	2
+K-factor calculations	2
+nomograph of Wischmeier and Smith (1978)	2
+Land Use/Cover Area frame Survey (LUCAS) soil survey	2
+revised version (RUSLE)	2
+Universal Soil Loss Equation (USLE)	2
+Fluorescence and UV absorbance techniques	2
+sampling campaign	2
+U.S. EPA's comprehensive environmental assessment (CEA) approach	2
+piloted tool	2
+pilot study	2
+web-based, interactive decision support tool	2
+routine and applied system-wide (i.e.	2
+water managers	2
+dynamic general additive model	2
+well-colour survey	2
+end-member modelling	2
+well-colour	2
+work	2
+field-tested	2
+Isotope Dilution assays	2
+Free-Ion Activity Model (FIAM)	2
+regression modelling	2
+source-pathway-receptor paradigm	2
+impedimetric real-time cell analysis	2
+three-year-long observation	2
+In-situ re-suspension experiments	2
+silico methods	2
+trend analysis (“category approach”)	2
+batch experiments	2
+week-long monitoring campaign	2
+chiral HPLC-MS/MS method	2
+optimized clean-up procedure and GC/MS methodology	2
+gas chromatography/mass spectrometry (GC/MS)	2
+(i) simple and user-friendly semi-quantitative screening tool	2
+systematic literature search	2
+targeted LC-MS/MS	2
+semi-quantitative review	2
+incubation experiment	2
+generator column approach	2
+assay	2
+successful bio-analytical method	2
+passive dosing method	2
+read-across hypothesis	2
+quantitative real-time PCR (qPCR)	2
+enzyme-immunoassay	2
+“read-across hypothesis	2
+microcosm experiments	2
+MAP experiments	2
+Microwave-assisted pyrolysis (MAP)	2
+Equilibrium sampling	2
+Factorial analysis	2
+electron probe microanalysis (EPMA) and X-ray photoelectron spectroscopy (XPS)	2
+10% by weight model NMO	2
+10month lysimeter trial	2
+initial hypothesis	2
+Spearman correlation	2
+Multivariate analysis	2
+quantitative fluorescent in situ hybridization	2
+azoxystrobin application	2
+rRNA terminal restriction fragment length polymorphism (T-RFLP)	2
+modelling exercise	2
+Gene-chemical association annotation enrichment analyses	2
+Transcriptomic and 1H NMR metabolomic analyses	2
+QUICS project	2
+4-week experiment	2
+proposed separation	2
+experimental methodology	2
+High resolution accurate mass TOF	2
+traditional quadrupole-MS	2
+widely used single quadrupole mass spectrometer	2
+new gas chromatography (GC)-mass spectrometry (MS) method	2
+comprehensive non-target analyses	2
+different filter media column experiments	2
+ion exchange (IEX)	2
+high-resolution mass spectrometry	2
+optimized method	2
+BGP method	2
+available methods	2
+optical coherence tomography (OCT)	2
+non-invasively in-situ	2
+graph theory	2
+novel framework	2
+three methods	2
+high energy sonication	2
+Focal Plane Array-based Fourier Transform Infrared imaging technique	2
+microplastic (MP) mass quantification	2
+new stoichiometry	2
+stable isotope pairing technique	2
+Bayesian “SourceTracker” method	2
+full-scale study	2
+laboratory-based fluorescence and absorbance	2
+online fluorescence spectroscopy	2
+explorative study	2
+value-belief-norm theory	2
+particle size analysis	2
+m column experiments	2
+flow-cytometry	2
+next generation 16S rRNA gene amplicon sequencing	2
+liquid chromatography tandem mass spectrometry (LC-MS/MS)	2
+ELISA method	2
+Enzyme-linked immunosorbent assay (ELISA) is an antibody-based analytical method	2
+reverse transcription-microfluidic quantitative PCR	2
+Model exercises	2
+excitation-emission matrix (EEM) fluorescence spectroscopy	2
+Electrochemical impedance spectroscopy measurements	2
+rRNA analysis	2
+Bayesian calibration	2
+sediment core incubation experiment	2
+12-month field campaign	2
+subsequent data analysis	2
+new statistic,	2
+systems modelling procedure	2
+Direct imaging	2
+Light scattering techniques	2
+single one method	2
+Transmission and scanning electron microscopy (TEM, SEM)	2
+fluorescence lectin-binding analysis	2
+Fourier Transform Infrared Spectroscopy	2
+1H and 13C Nuclear Magnetic Resonance	2
+various instrumental analysis	2
+Situ Hybridization (FISH) analyses	2
+16S rRNA gene clonal analysis	2
+VD and WD method	2
+six methods	2
+computed tomography (CT) scanning	2
+inaccurate method	2
+novel modelling approach called Spatial Ecosystem Bifurcation Analysis (SEBA)	2
+factorial design of experiments (DOE)	2
+Radiocarbon (14C) analysis	2
+multinomial model	2
+One-at-a-time sensitivity analysis	2
+Bayesian Model Averaging	2
+single and two-wavelength model approaches	2
+high resolution mass spectrometry	2
+ion chromatography	2
+long-term sampling campaign	2
+cost-effective long-term strategy	2
+global resilience analysis (GRA) approach	2
+traditional risk analysis	2
+F = 6.42,	2
+operational strategy-based permitting	2
+visual analytics	2
+integrated modelling, multi-objective optimisation	2
+latest computational techniques	2
+proposed four-step permitting framework	2
+conventional end-of-pipe permitting approach	2
+four-step decision framework	2
+operational strategy-based permitting approach	2
+microscope	2
+immunomagnetic separation	2
+multiplex PCR	2
+cluster-randomized controlled sanitation trial	2
+Dual-Well Analysis (DWA)	2
+single dose 4-d study	2
+post-application assessments	2
+comprehensive pre-	2
+geo-engineering tool	2
+Factorial sampling	2
+microbial community analysis	2
+global resilience analysis	2
+new analytical approach	2
+flow cytometric protocol	2
+OPPTS test	2
+modified solid-phase extraction (SPE) technique	2
+US Environmental Protection Agency's Office of Prevention, Pesticides and Toxic Substances (OPPTS) guideline 835.1110	2
+regulatory approved method	2
+integrated analytical approach	2
+low resolution mass spectrometry	2
+generic modelling strategy	2
+individual-based approach	2
+integrated city-scale analysis	2
+VIBe (Virtual Infrastructure Benchmarking)	2
+water sensitive urban design, WSUD	2
+two year field monitoring exercise	2
+SPE-chiral-LC-(QTOF)MS methodology	2
+cost-effectively	2
+In vivo	2
+enzyme immunoassay	2
+in vitro characterization	2
+in-vitro tests	2
+Three-dimensional (3D) structure analysis	2
+Confocal microscopy	2
+design	2
+electroretinography-based methods	2
+OECD Users' Handbook	2
+new approach methods	2
+silico approaches	2
+vitro methods	2
+current test guideline approach	2
+principle component analysis (PCA)	2
+sensitive Stable Isotope Labeling Kinetics (SILK™)-Aβ methodology	2
+Dose-dependent analysis	2
+total morphological scoring system (TMS)	2
+speciated isotope dilution mass spectrometry	2
+s-diphenylcarbazide colorimetric method	2
+three-pool model	2
+speciated isotope dilution mass spectrometry analyses	2
+dual-spike approach	2
+ex vivo	2
+revised model	2
+National Toxicology Program (NTP)	2
+modified Ellman's method	2
+pre-hospital therapeutic regimen	2
+commonly used cell-based assays	2
+previous experiments	2
+high-throughput manner	2
+Markov Chain scheme	2
+complete and comprehensive MCUE procedure	2
+subtype of Bayesian Monte Carlo method	2
+emerging heuristic uncertainty propagation method	2
+Monte Carlo Uncertainty Estimation (MCUE)	2
+Neighbourhood Algorithm	2
+fully non-linear Monte Carlo method	2
+statistical resampling method	2
+double-difference method	2
+relative hypocenter determination method	2
+Earthquakes” (JUICE)	2
+“Japan Unified hIgh-resolution relocated Catalog	2
+high-resolution catalog	2
+digital image correlation (DIC)	2
+Analogue experiments	2
+detailed multiple-event hypocenter relocation analysis	2
+Slip tendency analysis	2
+UPb zircon geochronology	2
+three-dimensional strain analysis	2
+advanced digital image analysis techniques	2
+X-ray CT	2
+Local autocorrelation image analysis	2
+conventional image processing technique	2
+specific digital image segmentation technique	2
+GrowCut algorithm	2
+Two advanced image analysis techniques	2
+medical X-ray CT	2
+X-ray computed tomography (CT)	2
+first 3D seismic reflection land survey	2
+three post-drilling high-resolution seismic experiments	2
+new apatite and 8 new zircon fission track analyses	2
+vector analysis	2
+simple forward-modelling approach	2
+potentially more fundamental, influences	2
+ion probe dating	2
+In-situ U–Pb ion probe dating	2
+preliminary computer tomography (CT) scan	2
+outcrop-based facies analysis with ground-penetrating radar (GPR) surveys	2
+first pollen analysis	2
+stable carbon isotope analysis	2
+isotope analysis	2
+Stable carbon isotope analysis	2
+FTIR study	2
+Fourier transform infrared (FTIR) spectroscopy	2
+leave-one-out cross-validation	2
+K-nearest neighbour (k-nn) analyses	2
+several spectral processing methods	2
+chemical method	2
+Fourier Transform Infra-red Spectroscopy (FTIR)	2
+experimental procedure	2
+Fourier transform infrared (FTIR) microspectroscopy	2
+Digital imaging	2
+systematic strategy	2
+random sampling strategy	2
+Random Forest machine-learning algorithm	2
+computation	2
+reliable update	2
+advanced endmember detection and selection algorithms	2
+Spectral feature selection	2
+endmember model selection tool	2
+implementation of height distribution information (1)	2
+spectral feature selection	2
+Multiple Endmember Spectral Mixture Analysis (MESMA)	2
+sharpening approach	2
+machine learning algorithm	2
+atmospheric correction procedure	2
+n-SNO analyses	2
+SeaWiFS Data Analysis System (SeaDAS)	2
+multi-temporal dual channel algorithm (MT-DCA)	2
+recently developed retrieval algorithm	2
+follow-up studies	2
+introduced parametrization/threshold selection method	2
+BSVM classifier	2
+one class biased support vector machine (BSVM) classifier	2
+laser scanning	2
+airborne imaging spectroscopy	2
+cirrus detection	2
+local thresholding method	2
+automated procedure	2
+new atmospheric correction (AC) method	2
+Y2R metric	2
+Composite2Change (C2C) algorithm	2
+Landsat time series (LTS)	2
+dB. Model sensitivity experiments	2
+Coincident in situ surveys	2
+space-borne application	2
+spatio-temporal mapping approach	2
+original RUSLE approach	2
+linear spectral unmixing (LSU)	2
+res.	2
+spatial mapping	2
+Swissimage false-color infrared (Swissimage FCIR)	2
+Climate Change Initiative (CCI) Land Cover	2
+spatio-temporal approach	2
+change-detection framework	2
+L-band space-borne synthetic aperture radar (SAR)	2
+image matching algorithms	2
+visual image interpretation	2
+Fourier Transform Infrared (FTIR) spectrometer	2
+morphometric creek analysis	2
+semi-automated creek extraction algorithm	2
+in-house robust surface matching algorithm	2
+High resolution photogrammetric digital elevation models (DEMs)	2
+Cross validation	2
+long-term analysis	2
+Long-term analysis	2
+radiative transfer model (RTM)	2
+empirical method	2
+Object-based TWDTW outperformed pixel-based TWDTW	2
+Random Forest (RF)	2
+time-weighted dynamic time warping (TWDTW) method	2
+pixel-based analysis	2
+supervised texture-based classifiers	2
+reflectance-band-ratio algorithms	2
+semi-analytical approaches	2
+Quasi-Analytical Algorithm	2
+generalized stacked-constraints model (GSCM)	2
+one geostationary climate dataset (SARAH-JRC)	2
+Satellite Application Facility on Climate Monitoring (CM SAF)	2
+targeted stratification	2
+basic methodology	2
+Statistical estimation protocols	2
+Google Earth Engine	2
+VIIRS-IM methodology	2
+VIIRS' unique pixel aggregation scheme	2
+VIIRS algorithm	2
+new active fire (AF) detection and characterisation approach	2
+Climate Change Initiative	2
+European Space Agency (ESA) Climate Change Initiative (CCI) programme	2
+satellite data assimilation approaches	2
+(Mouche et al., 2012) empirical correction	2
+squinted along-track SAR interferometry	2
+innovative Wavemill instrument concept	2
+“Big Data” science	2
+water balance ET approaches	2
+Operational Simplified Surface Energy Balance (SSEBop) model	2
+Fully Automated SGL Tracking (“FAST”) algorithm	2
+best performing area- and depth-detection methods	2
+best performing area-derivation method	2
+physically-based depth-calculation algorithm	2
+data acquisition protocol	2
+Terrestrial Laser Scanning (TLS)	2
+median-based compositing approach	2
+automated methodology	2
+shorter-term (5-year) measure	2
+Composite2Change, or C2C, algorithm	2
+areas-based modelling	2
+Tree-centric modelling	2
+best-performing area-based model	2
+new algorithm (itcSegment)	2
+high-quality technology	2
+Discrete-return airborne laser scanning (ALS)	2
+open-source approach	2
+open-source, Apache License	2
+data cube approach	2
+AGDC version 2	2
+Wilcoxon test	2
+machine learning algorithm (random forests)	2
+use of single-date Landsat Thematic Mapper (TM) and Advanced Land	2
+NOAA snow analysis	2
+multiple threshold tests	2
+conventional decision tree algorithm	2
+consistent objective snow cover mapping algorithm	2
+long-term Northern Hemisphere (NH) daily 5-km snow cover extent (SCE) product (JASMES)	2
+robust atmospheric correction method	2
+ICESat-2 instrumentation concept	2
+beam pair configuration	2
+MERIS CI algorithm	2
+final Landsat algorithm	2
+novel evaluation procedure	2
+situ sampling	2
+presented algorithm	2
+object-based method	2
+calibration method	2
+novel signal processing method	2
+best model form, LNI	2
+LIN, LNI, and log-linear	2
+comparable log-linear model result	2
+ground-based national forest inventory estimates - (1) linear (LIN),	2
+current, three-phase (ground-ALS-space lidar) study	2
+two-phase variance estimator	2
+hybrid estimation framework	2
+airborne laser scanning	2
+space profiling lidar system (ICESat-GLAS)	2
+postseismic Tandem-X DEM	2
+re-flattening iterative method	2
+traditional InSAR processing procedure	2
+high resolution post-seismic DEM	2
+processing chain of TOPS time series interferometry approach	2
+TOPS data-based time series analysis	2
+GERB-2 and GERB-1 Edition 1 shortwave radiance calibration	2
+continuous Landsat time series analysis	2
+consistent atmospheric correction method	2
+cross-sensor comparison	2
+two-stage, stratified sampling design	2
+global, design-based sample	2
+Jackknife analysis	2
+MaxEnt algorithm	2
+maximum entropy (MaxEnt) algorithm	2
+satellite chlorophyll algorithms	2
+ocean-colour algorithms	2
+spatio-temporal inter-comparison	2
+non-linear model	2
+Shuttle Radar Topography Mission (SRTM)	2
+novel conceptual model	2
+SAR imaging	2
+Google Earth Very High Resolution (VHR) optical imagery	2
+new TerraSAR-X beam mode Staring Spotlight (ST)	2
+space-borne Synthetic Aperture Radar (SAR)	2
+archaeological remote sensing	2
+World Ocean Atlas 2013	2
+moving window approach	2
+regression tree algorithm	2
+regression tree model	2
+Landsat time-series multi-spectral data, GLAS (Geoscience Laser Altimeter System) height data	2
+satellite-based EOS	2
+satellite algorithms	2
+three SOS algorithms	2
+support of algorithms	2
+developed algorithm	2
+European Space Agency's Soil Moisture and Ocean Salinity (SMOS) mission	2
+prototype algorithm	2
+Landsat 8 based ET	2
+Fmask algorithm	2
+rainfall analysis	2
+eddy covariance (EC) flux towers and water balance approaches	2
+TanDEM-X DEM	2
+parallel development	2
+high resolution TanDEM-X WorldDEM.In	2
+similar time-series analyses	2
+WOfS methodology	2
+comparison methodology	2
+decision tree classifier	2
+water detection algorithm	2
+near-real-time analysis	2
+two large-scale atmospheric models, ERA-Interim (ERA-I) and North American Regional Reanalysis (NARR)	2
+Satellite Radar Interferometry (InSAR)	2
+state-of-the-art correction methods	2
+new software package called TRAIN (Toolbox	2
+tropospheric correction methods	2
+conventional linear and new power-law empirical methods	2
+Gaussian fitting or proprietary algorithms	2
+Gaussian fitting	2
+sum and spline methods	2
+widely used Gaussian fitting	2
+simplest methods (windowed sum, peak and quadratic)	2
+Full waveform lidar	2
+chl-a.	2
+Chlorophyll-a (chl-a) concentration mapping using Medium Resolution Imaging Spectrometer (MERIS)	2
+satellite remote sensing approach	2
+geostationary imagers using Independent Component Analysis (ICA)	2
+Vertical General Production Model (VGPM)	2
+carefully-timed acquisition	2
+model-based estimation	2
+external, post hoc validation	2
+ensemble selection	2
+locally-tuned FUB/WeW processor	2
+Level 1b FLH algorithm	2
+neural network processors	2
+band-difference algorithms	2
+locally-tuned	2
+Six algorithms	2
+forthcoming Sentinel-3 Ocean and Land Colour Instrument (OLCI)	2
+improved processing techniques	2
+Interferometric Point Target Analysis (IPTA)	2
+Britain Digital Terrain Model (DTM)	2
+multi-interferogram SAR Interferometry	2
+SAR-based imaging	2
+portable fluorometer and a chlorophyll metre in-situ concurrently	2
+Hand-Held ASD spectroradiometer	2
+first explicit analysis	2
+Imaging spectroscopy	2
+valid D-InSAR analysis	2
+Sub-Pixel Offset Time-series technique	2
+regular D-InSAR analysis	2
+reliable D-InSAR analysis	2
+commonplace technique, differential InSAR (D-InSAR)	2
+Spaceborne Synthetic Aperture Radar (SAR)	2
+several previously established melt/freeze algorithms using Scatterometer Image Reconstruction (SIR) SeaWinds/QuikSCAT (QuikSCAT) backscatter (σ°)	2
+Nelder–Mead nonlinear optimisation technique	2
+one algorithm	2
+new Pgap retrieval method	2
+new, physically-based method	2
+Armston et al.	2
+data processing techniques	2
+Soil Moisture Active Passive (SMAP) mission	2
+open-loop simulations	2
+data assimilation (open-loop; R=0.47)	2
+Decision Support System	2
+Ensemble Kalman Filter (EnKF)	2
+Sequential DA	2
+SEVIRI retrieval	2
+first Fennec intensive measurement campaign	2
+retrieval approach	2
+aerosol optical depth retrieval algorithms	2
+in-situ methods	2
+commercial computer vision software	2
+computer vision algorithms	2
+Ecosynth” methodology	2
+High spatial resolution three-dimensional (3D) measurements	2
+processing procedure	2
+new, automated method	2
+similar retrieval error estimation method	2
+grid-based landscape hydrological model (AWRA-L)	2
+C-band observations	2
+principal component (PC) analysis (PCA)	2
+ATSR Saharan dust index (ASDI)	2
+new aerosol index	2
+inter-algorithm inconsistency	2
+existing operational retrieval algorithms	2
+improved inter-algorithm consistency	2
+dual-view three-channel (D3) SSTs	2
+recent X-ray diffraction study	2
+laser heated diamond anvil cell experiments	2
+thermodynamic integration	2
+ab initio molecular dynamics (AIMD)	2
+work of Hori et al.	2
+Probabilistic Seismic Hazard Analysis (PSHA)	2
+MAMBo-E	2
+fully non linear approach	2
+ab initio simulations	2
+situ synchrotron X-ray powder diffraction multi-anvil experiments	2
+high-resolution 2-D and 3-D textural analysis	2
+Microwave Thellier-type paleointensity experiments (IZZI protocol	2
+Scanning Electron Microscope analysis	2
+microwave paleointensity study	2
+open source, community based mantle convection software ASPECT	2
+Several schemes	2
+peak-like fashion	2
+two-part linear regression jerk detection method	2
+detailed 3-D S-wave tomography	2
+two-step method	2
+principal components analysis (PCA)	2
+10−1 soil dilution	2
+dilution method	2
+Pollen analysis	2
+Multiproxy analysis	2
+(multiple) linear regression and partial least-squares	2
+Linear regression analyses	2
+nested Principal component analysis (PCA)	2
+Correlation analysis	2
+spatial network approach	2
+Seismic facies geometry analysis	2
+high-resolution, multi-proxy approach	2
+three quantitative and semi-quantitative methods	2
+new three transect method	2
+SQUID moment magnetometry	2
+multiproxy geochemical study	2
+density separation technique	2
+Model 2	2
+two part statistical sub-sampling tool	2
+quantitative spore and pollen analysis	2
+high-resolution dataset	2
+sea-level driven common-cause explanation	2
+Stable isotope analyses	2
+Whole shell isotope analysis	2
+oxygen and carbon stable isotope analysis	2
+TSM method	2
+HIMA	2
+standardised approach	2
+pressure-specific expert elicitation	2
+problem-structuring framework	2
+elicitation process	2
+probabilistic expert elicitation methodology	2
+PCA analysis	2
+towed video surveys	2
+Fourier transform infrared spectroscopy	2
+citizen science study	2
+location or grow-out method	2
+linear sorption model	2
+LISST-100	2
+integrated multidisciplinary approach	2
+particle tracking algorithm	2
+food web approach	2
+general food web approach	2
+EU's Marine Strategy Framework Directive (MSFD)	2
+field- and satellite-derived methods	2
+standard culturing methods	2
+present surveys	2
+field surveys	2
+plate count technique	2
+flow cytometry (FCM)	2
+precautionary principle	2
+EU Commission Decision	2
+ecosystem-based approach	2
+European Marine Strategy Framework Directive	2
+meta-analysis results	2
+Marine Strategy Framework Directive (MSFD)	2
+IMO Marine Environment Protection Committee (MEPC 59/24/Add.1	2
+Automatic Identification System (AIS)	2
+ship noise monitoring methods	2
+pre-development baseline	2
+Natural abundance carbon isotope analyses	2
+particle size analyses	2
+core scanning X-ray fluorescence (Itrax)	2
+spatial cross-correlation method	2
+three repeated multi-beam bathymetric surveys	2
+first large-scale coverage	2
+high-resolution multibeam echosounder	2
+inlet classification scheme	2
+snap-shot modelling approach	2
+Duong et al.	2
+two different process based snap-shot modelling approaches	2
+Offshore and onshore landscape analysis	2
+simplified modelling approach	2
+new high-resolution bathymetric survey	2
+Empirical Orthogonal Function analysis	2
+equilibrium beach profile analysis	2
+new process-based conceptual model	2
+grain-size analysis	2
+CT-scanning	2
+multiple scale terrain analysis	2
+principal component analysis (PCA), 2) K-means clustering	2
+terrain analysis	2
+fully automated and objective technique	2
+International Ocean Discovery Program (IODP)	2
+multi-frequency acoustic imaging	2
+X-ray diffraction and diffuse reflectance spectrophotometry analysis	2
+Electron microscopy	2
+U-Pb analyses	2
+so-called second terrestrial Pb isotope paradox	2
+In-situ laser ablation spot dating	2
+principal component analysis (PCA)	2
+Ar–Ar dating	2
+In-situ U–Pb dating	2
+Sm–	2
+first platinum-group element (PGE) and Au analyses	2
+LA-ICP-MS U–	2
+laser ablation–multi-collector–inductively coupled plasma–mass spectrometry)	2
+LA–MC–ICP–	2
+Gravity Recovery and Climate Experiment (GRACE)	2
+Moderate Resolution Imaging Spectroradiometer (MODIS)	2
+NASA Global Land Data Assimilation System (GLDAS), evapotranspiration, and Normalized Difference Vegetation Index (NDVI)	2
+spatially explicit approach	2
+lumped, versus a spatially explicit, approach	2
+novel stepwise series	2
+spatially explicit, distributed calibration approach	2
+multi-objective model calibration	2
+multi-objective calibration	2
+Kling-Gupta Efficiency (KGE)	2
+evolutionary optimization algorithm	2
+coupled H-TESSEL land surface scheme	2
+x-ray computed tomography	2
+Mann–Kendall (MK) and modified Mann–Kendall (MMK) tests	2
+Remotely Sensed Information using Artificial Neural Networks (PERSIANN), and Multi-Source Weighted-Ensemble Precipitation (MSWEP)	2
+(TMPA) version 7, Climate Prediction Center Morphing (CMORPH) version 1.0	2
+Multisatellite Precipitation Analysis	2
+India Meteorological Department (IMD) and Multisatellite High Resolution Precipitation Products (HRPPs)	2
+nearest neighbour interpolation scheme	2
+two-tiered validation approach	2
+three stage FAO semi-empirical approach	2
+FAO 56 approach	2
+FAO1ETo – Evapotranspiation	2
+semi-empirical approach	2
+modelling scheme	2
+empirical modelling approach	2
+empirical (geo)statistical modelling scheme	2
+Mike SHE	2
+proposed validation approach	2
+novel method	2
+recently published Bayesian inference scheme	2
+groundwater dating	2
+top-down and bottom-up approaches	2
+surface flood modelling	2
+Generalized Likelihood Uncertainty Estimation (GLUE) framework	2
+‘limits of acceptability’ approach	2
+integrated and systematic way	2
+original exponential wash-off equation	2
+systems thinking approaches	2
+Response framework (DPSIR) and the Intergovernmental Panel on Climate Change’s framework (IPCC’s)	2
+System’s Thinking Approach	2
+conceptual modeling tool	2
+novel systems thinking approach	2
+novel tool	2
+factorial experiment	2
+X-ray Computed Tomography (CT)	2
+‘source-specific’ approach	2
+‘lumped’ approach	2
+statistical post-processing techniques	2
+statistical post-processing approaches	2
+Neural Networks based General Reservoir Operation Scheme	2
+initial framework (the water market readiness assessment (WMRA)	2
+state-of-the-art global sensitivity and uncertainty analyses	2
+community-based observations	2
+community-based (‘citizen science’) observations	2
+thorough statistical modelling approach (Gaussian Process Regression)	2
+geostatistical approach	2
+Nonparametric Prediction (NPRED) model and the method of fragments (MoF) framework	2
+non-invasive XMT technique	2
+non-invasive X-ray microtomography (XMT) imaging	2
+non-invasive technique	2
+SOURCE package	2
+sap flow methods	2
+Monte Carlo simulation	2
+error estimation	2
+Ensemble Kalman Filter (EnKF) is a Monte-Carlo implementation	2
+Global Flood Detection System (GFDS)	2
+STD and MSTD	2
+Universal Kriging (UK) and Inverse Distance Weighting (IDW)	2
+modified shortest temporal distance (MSTD) metric	2
+Dijkstra algorithm	2
+Kalman filter or smoothing	2
+WRTDS and methods	2
+Beale’s ratio estimator	2
+generalized non-linear additive model	2
+U.S. Geological Survey	2
+regression-based methods	2
+linear interpolation and ratio estimators	2
+fully process-based approach	2
+receiver operating characteristic (ROC) curve	2
+standard flood frequency estimation methods	2
+Persistent Scatterer Interferometry	2
+minimum information pair-copula model	2
+minimum information and parametric pair-copula construction (PCC)	2
+monitoring programme	2
+community-based monitoring	2
+Monte-Carlo simulation approach	2
+linear interpolation	2
+applied resampling algorithm	2
+disaggregation procedure	2
+resampling algorithm	2
+first disaggregation step	2
+uniform splitting approach	2
+physically based, distributed model MIKE SHE	2
+traditional least-cost reliability constrained design	2
+state-of-the art visual analytics	2
+many-objective evolutionary optimization	2
+In-situ analysis	2
+laboratory column experiment	2
+remote sensing approach	2
+end member mixing analysis (EMMA)	2
+sequent peak algorithm (SPA)	2
+scenario neutral approach	2
+Highly Resolved Observational Data Integration Towards Evaluation of Water Resources (APHRODITE))	2
+Tropical Rainfall Measuring Mission (TRMM)	2
+new software, Hydrocalculator	2
+updated procedure	2
+computer program TOUGH2	2
+filter	2
+novel along-network metric	2
+spatially-based filter localization	2
+global Ensemble Transform Kalman Filter (ETKF)	2
+evidence and methodology	2
+European Flood Awareness System (EFAS)	2
+continuous ranked probability score (CRPS)	2
+benchmark intercomparison experiment	2
+NIDIS’s regional drought early warning system pilot basins	2
+National Integrated Drought Information System (NIDIS) program office	2
+DRA (1)	2
+original National Drought Atlas (NDA) (1996)	2
+pure flood frequency analysis	2
+control (1961–1990) and future (2071–2100) regional climate model (RCM) time-slice experiment	2
+rainfall conditioned weather generator (CRU WG)	2
+Time series analysis (autocorrelation and cross-correlation)	2
+tracer experiment	2
+continuous simulation methodology	2
+coordinate transformation method	2
+existing simple averaging methods	2
+high-order upwind scheme	2
+high-order averaging method	2
+ensemble forecast	2
+ensemble meteorological model framework	2
+integrated adaptive optimization model (IAOM)	2
+2D hydrodynamic model LISFLOOD-FP	2
+synthetic analysis	2
+Ensemble Transform Kalman Filter (ETKF)	2
+Digital Elevation Model (DEM)	2
+SummarySatellite-based Synthetic Aperture Radar (SAR)	2
+explicit strategy	2
+water resource system planning problem	2
+Robust Decision Making (RDM) and Info-Gap Decision Theory (IGDT)	2
+single borehole dilution testing	2
+borehole imaging	2
+Negishi cross-coupling strategy	2
+Fluoride volatility experiments	2
+preliminary in vivo MRI study	2
+19F-MRI	2
+19F-BP	2
+19F-magnetic resonance imaging (MRI)	2
+(1H, 19F{1H}, 31P{1H} and 93Nb) spectroscopic studies	2
+IR and mutinuclear NMR	2
+multi-year experiments	2
+LTER (Long-Term Ecological Research)	2
+Finite Element Analysis	2
+membrane-inlet mass spectrometry	2
+Molecular techniques	2
+situ study	2
+robust, model-based method	2
+isometrically log-ratio transformed	2
+rule-based classifier	2
+automated two-stage particle classification procedure	2
+Computer controlled scanning electron microscopy (CCSEM)	2
+smog chamber experiments	2
+thermodynamic equilibrium calculations	2
+time dependent sampling method	2
+energy-dispersive X-ray spectroscopy	2
+transmission and scanning electron microscopy	2
+Transmission electron microscopy imaging	2
+aerosolization method	2
+two-sample t-tests	2
+Health Canada	2
+Centrifugal Particle Mass Analyzer (CPMA) and Differential Mobility Spectrometer (DMS)	2
+then⋅tproduct rule	2
+non-dimensional analysis	2
+Adjusted-Sphere Method	2
+Collision Rate Method (CRM)	2
+sampling and analysis methods	2
+morphostratigraphical approach	2
+new BGS Groundhog application	2
+Anisotropy of magnetic susceptibility (AMS) analyses	2
+XANES and FTIR	2
+Fe-K XANES	2
+synchrotron radiation X-ray powder diffraction	2
+electron probe micro-analysis and time of flight secondary ion mass spectrometry	2
+chemical mapping	2
+oxygen isotope thermometer	2
+first-principles using density functional theory	2
+density functional theory	2
+first-principles	2
+gas chromatograph techniques	2
+X-ray microtomography (μCT)	2
+in-situ DIR	2
+scanning transmission electron microscopy (STEM)	2
+synchrotron X-ray absorption spectroscopy (EXAFS)	2
+coupled approach	2
+modified cleaning procedure	2
+new bowing mechanism	2
+T 	2
+X-ray magnetic circular dichroism	2
+electron backscatter diffraction	2
+energy dispersive spectroscopy	2
+Box modelling	2
+first-principles computational simulation	2
+previous Tl-Mo-V stable isotope determinations	2
+sub-micron resolution X-ray microscopy	2
+Tournassat et al.	2
+edge surface speciation model	2
+new type of surface complexation model (SCM)	2
+whole rock Al-Mg analyses	2
+χ2 test	2
+high precision Xe isotope analyses	2
+infrared reflectance spectroscopy	2
+secondary ion mass spectrometry	2
+IR-laser fluorination – Isotope Ratio Mass spectrometry	2
+X-ray Computed Microtomography (µCT)	2
+Re-Os isotope analyses	2
+Ti L-edge XANES	2
+correlated XANES	2
+two-step anion exchange chemistry procedure	2
+refined methodology	2
+closed-system model	2
+stepped combustion analysis	2
+high-resolution stepped combustion	2
+Simultaneous static-mode mass spectrometric measurements	2
+global soil calibration	2
+high-resolution study	2
+Uranium-series methods	2
+species- or genus-specific calibrations	2
+laser step pyrolysis analysis	2
+MC-ICP-MS measurements	2
+high precision oxygen isotope analysis	2
+magma ocean modeling studies	2
+geochemical and oxygen isotope study	2
+position-sensitive-detector X-ray diffraction (PSD-XRD)	2
+Pb reference material assay)	2
+calibration approach	2
+EARTHTIME Initiative	2
+U–Pb isotope-dilution isotope ratio mass spectrometry	2
+physiological and sub-fossil calibration studies	2
+(2σ)))	2
+high resolution U–Pb dating	2
+in-situ analysis	2
+Si.	2
+high-resolution laser step-heating	2
+second order polynomial fit	2
+previous Zr leaching experiment	2
+New s-process model calculations	2
+XAS spectroscopy	2
+Transmission electron microscope images	2
+Small angle X-ray scattering techniques	2
+first order kinetic adsorption modelling approach	2
+small angle X-ray scattering	2
+extended X-ray absorption fine structure spectroscopy	2
+electron imaging and diffraction	2
+scanning and transmission electron microscopy (SEM and TEM)	2
+Principal component analysis (PCA)	2
+constant addition experimental technique	2
+hydrous pyrolysis experiments	2
+experimental approach	2
+selected area electron diffraction	2
+Bright Field high-resolution transmission electron microscopy (HRTEM)	2
+electron probe micro analysis	2
+Transmission electron microscopy and Fe-K X-ray absorption spectroscopy	2
+multiphase equilibrium algorithm	2
+novel Gibbs energy minimisation algorithm	2
+Chemical equilibrium calculations	2
+high-resolution laser ablation ICPMS (LA-ICPMS) and sub-annual stable isotope ratio (	2
+published NOM–metal dripwater speciation measurements	2
+spatial statistical methods	2
+Geochemical modelling	2
+integrated petrographic, chemical and isotopic studies	2
+equation 1000lnα=[20.21±0.92]	2
+BC inter-comparison study	2
+Silicon isotope analysis	2
+microfiltration technique	2
+combination of density functional theory (DFT) calculations	2
+least squares Monte Carlo modelling	2
+statistically-based data screening criteria	2
+sampling and sub-sampling protocols	2
+RP-HPLC	2
+Goodfriend et al.	2
+amino acid racemization (AAR)	2
+chosen extraction method	2
+SEM/EDX	2
+High resolution image analysis	2
+high speed backlight imaging technique	2
+radiocarbon analysis	2
+ASTM D6866-16	2
+accelerator mass spectrometry (AMS) radiocarbon analysis	2
+single-blind trial	2
+gas chromatography and infrared spectroscopy	2
+open-source code Gpyro	2
+ASTM D5304 method	2
+D4625 and D5304 methods	2
+Frank-Kamenetskii theory	2
+reactive force field (ReaxFF)	2
+second method	2
+two-point flux approximation	2
+unstructured control volume finite difference approach	2
+techno-economic analysis	2
+International Committee of Coal and Organic Petrology (ICCP)	2
+second-stage autoignition	2
+European Union clean fuel strategy	2
+gas chromatography coupled to mass spectrometry (GCMS)	2
+accelerated solvent extractor (ASE)	2
+differential mobility spectrometer (DMS-500)	2
+van’t Hoff analysis	2
+poly-thermal methods	2
+molecular Rayleigh scattering thermometry	2
+proposed GTLine approach	2
+Co-Optima) initiative	2
+US Department of Energy Co-Optimization	2
+alternative method	2
+14C-Method	2
+aBM	2
+Manual Sorting Method (MS)	2
+Radiocarbon Method (14C-Method), the Selective Dissolution Method (SDM)	2
+so-called “adapted Balance Method” (aBM)	2
+TIC-M.Q./Mass methodology	2
+soft EI (electron impact) ionization (14 eV)	2
+mesh method	2
+) method	2
+comprehensive analytical technique	2
+– Time of Flight – Mass Spectrometry)	2
+GC × GC-ToF-MS (2 dimensional Gas Chromatography	2
+Atomic Absorption Spectroscopy (AAS)	2
+potassium emission experiments	2
+flame emission spectroscopy technique	2
+facile seeding-growth protocol	2
+k-ε model	2
+Eulerian-Lagrangian approach	2
+high temperature air combustion (HiTAC) technology	2
+ash composition analyses	2
+3D printing technology	2
+modified (IQT) and engine experiments	2
+modified ignition quality tester (IQT))	2
+High speed video image analysis	2
+high speed camera recording	2
+PCA	2
+proposed PCA-RWN model	2
+digital imaging, PCA-RWN (Principal Component Analysis and Random Weight Network) techniques	2
+Flamelet Generated Manifolds (FGM) method	2
+Large Eddy Simulation (LES)	2
+Eulerian–Lagrangian approach	2
+high pressure, high temperature experiments	2
+X-ray microtomography (µCT)	2
+optical and scanning electron microscopy (SEM)	2
+2-D)	2
+Image analysis	2
+traditional and advanced imaging methods	2
+Computational Fluid Dynamics (CFD)	2
+gas chromatography–mass spectrometry (GC–MS)	2
+measurement technique	2
+14C isotopic analysis	2
+six laws	2
+step-wise approach	2
+evolved gas analysis	2
+method using a simultaneous thermal analyser coupled to mass spectrometer (STA-MS)	2
+wet chemical methods	2
+two analysis methods	2
+European Standard method	2
+wet chemical analysis (WCA)	2
+X-ray fluorescence (XRF)	2
+flame emission spectroscopy	2
+2D computational fluid dynamics (CFD) analysis	2
+ternary plot	2
+high speed backlight imaging method	2
+biomass combustion/co-firing approach	2
+free space method	2
+Sim-Dis	2
+new standard grindability test	2
+labelling technique	2
+Isotope ratio mass spectrometry (IRMS)	2
+information-rich, technique	2
+new pyrolysis-FTIR technique	2
+Multistep pyrolysis-FTIR	2
+pyrolysis-FTIR	2
+Pyrolysis-FTIR	2
+new screening technique	2
+Economic analysis	2
+wavelength dispersive spectroscopy	2
+X-ray diffractometry	2
+inductively coupled plasma optical emission spectrometry	2
+original Butler–Mokrys analytical derivation	2
+ICP-MS analysis	2
+Inductively Coupled Plasma-Mass Spectrometry (ICP-MS) analysis	2
+outwardly spherical flame method	2
+high-speed schlieren photography	2
+conventional single-stage approach	2
+chassis dynamometer laboratory (Type I) test	2
+medical interviews	2
+1.6–7.9, p = 0.002)	2
+exposure questionnaire	2
+multi-site cohort study	2
+global model-based reanalysis	2
+time series analyses	2
+F&M-linked studies	2
+F&M study	2
+Foster and Moulder (F&M) review	2
+nature-based solution	2
+sustainable nature-based solution	2
+time-series	2
+month-time step assessments	2
+Erosion Potential Method (EPM)	2
+complete, quantitative algorithm	2
+Growing Up in Scotland (GUS) survey	2
+standardized Nordic noise prediction method	2
+European Directive	2
+multivariate meta-analysis	2
+distributed lag non-linear model	2
+Dose-response meta-analysis	2
+dose-response approach	2
+I2 test	2
+MEDLINE (Ovid) and EMBASE (	2
+a. narrative synthesis	2
+nearest monitor method	2
+alternative method – pollution climate mapping	2
+nearest monitor methodology	2
+binomial logistic regression	2
+postal survey	2
+linear regression framework	2
+1000 Genomes Project	2
+gas chromatography–high resolution mass spectrophotometry (GC-HRMS)	2
+genome-wide association study (GWAS)	2
+propensity score matched cross-sectional study	2
+nested exposure study	2
+Conditional logistic regression models	2
+two-stage statistical modelling strategy	2
+historical cohort UK Particulate Matter and Perinatal Events Research (PAMPER) study	2
+Least Absolute Shrinkage Selection Operator (LASSO)	2
+Logistic Regression models	2
+new work-flow	2
+hybrid finite-discrete element method (FEMDEM)	2
+power law model	2
+hydrostatic reconstruction approach	2
+Godunov-type finite volume method	2
+capacitance and time domain reflectometry (TDR) sensors	2
+previous quantitative structural domaining work	2
+distribution guided clustering (DGC)	2
+second test	2
+automated time-lapse electrical resistivity tomography (ALERT)	2
+Distinct Element Method	2
+3D Distinct Element Method (DEM) simulations	2
+Newmark analysis	2
+state-of-the-art statistical methods	2
+computer age statistical methods	2
+State-of-the-art, computing-intensive simulation algorithms	2
+ground-based remote sensing	2
+conventional in situ probing	2
+Remote sensing technology	2
+remote sensing method	2
+Optical remote sensing techniques	2
+novel hierarchical classification scheme	2
+calculation method	2
+reliable oxygen-isotope analyses	2
+Cognitive studies	2
+Akaike Information Criterion	2
+Bayesian Information Criterion	2
+multinomial logistic regression	2
+137Cs technique	2
+137Cs approach	2
+conventional surveys	2
+multi-disciplinary approach	2
+Wilson Cycle and comparative tectonic analysis	2
+Numerical modelling	2
+Ar and zircon fission track dating methods	2
+pattern-oriented model evaluation strategies	2
+“Appropriate-Complexity Method” (ACME)	2
+exploratory modeling	2
+philosophies of pattern-oriented modeling	2
+Cluster analyses	2
+MCMC approach	2
+Frequentist algorithm	2
+quality-control mechanism	2
+built-in quality control mechanism	2
+Frequentist approach	2
+Markov Chain Monte Carlo’ (MCMC) algorithm	2
+Bayesian ‘	2
+‘Frequentist’ approach	2
+inverse modelling algorithms	2
+generalised additive model	2
+first Empirical Orthogonal Function (EOF)	2
+Hadley Centre atmosphere-ocean general circulation model (AOGCM)	2
+secondary-ion mass spectrometry (SIMS)	2
+X-ray Absorption Near-Edge Spectroscopy (XANES)	2
+Classical Nucleation Theory (CNT)	2
+Monte Carlo inversion	2
+age model	2
+high-resolution drone photogrammetry	2
+new conceptual model	2
+Systematic analyses	2
+HRES (high-resolution) forecast model of the European Center for Medium Range Weather Forecast (ECMWF)	2
+previous SD coherent-rotation studies	2
+first-order control	2
+New algorithms in the rare-earth element inversion melting (INVMEL) program	2
+fully coupled Earth System Model COSMOS	2
+long-term view	2
+calculations	2
+focused ion-beam scanning electron microscopy (FIB-SEM) and synchrotron-based X-ray tomographic microscopy (SXRTM)	2
+electron probe microanalyses (EPMA)	2
+Re–Os dating	2
+Fe–Mg interdiffusion modelling	2
+high-resolution imaging	2
+outlier data detection procedure	2
+angular data fitting	2
+maximum likelihood optimization	2
+whole waveform seismic tomography	2
+first detailed multiproxy provenance study	2
+existing REE-exchange thermometer	2
+new Mg-exchange thermometer	2
+new thermometer	2
+High-resolution elevation models	2
+nudged elastic-band method	2
+Ocean floor drilling (International Ocean Discovery Program Expedition 351	2
+thermal ionisation mass spectrometry	2
+micro-XANES spectroscopy	2
+mechanical modelling	2
+sliding window bootstrap method	2
+shear wave splitting tomography	2
+new micron-scale protocol	2
+micro-CT scans	2
+International Ocean Discovery Program (IODP) Expedition 362	2
+LA-ICP-MS analysis	2
+Full waveform modelling	2
+best-fitting layered heterogeneity model, BRT2017	2
+Monte Carlo phonon scattering technique	2
+current approach	2
+accelerator mass spectrometry	2
+dense and systematic drilling survey	2
+in-situ techniques	2
+novel zircon techniques	2
+ambient noise Rayleigh wave tomography	2
+analogous thermal demagnetization experiment	2
+X-ray fluorescence mapping	2
+μ-XANES analyses	2
+situ spectroscopic (X-ray absorption near-edge structure: XANES) and geochemical (SIMS) measurements	2
+Seismic tomography	2
+continental-wide search	2
+Multi-Collector Inductively Coupled Mass Spectrometry (MC-ICPMS)	2
+new open-ocean calibration	2
+species-specific calibrations	2
+Ce-in-zircon oxygen barometer	2
+internally-consistent model	2
+newly-calibrated relation	2
+Electron Backscatter Diffraction mapping	2
+classification scheme of Stöffler et al.	2
+two-stage model	2
+situ ion microprobe approach	2
+X-ray absorption near-edge structure (XANES) spectroscopy	2
+near-bottom geophysical surveying	2
+of∼0.9min situ	2
+differential optical absorption spectrometry	2
+Triaxial experiments	2
+Fe–Mg diffusion chronometry	2
+multivariate statistical analysis using multidimensional scaling (MDS)	2
+heavy-mineral, and bulk-petrography analyses	2
+first comprehensive provenance study	2
+double spiking	2
+double spike thermal ionisation mass spectrometry	2
+new Antarctic brGDGT–temperature calibration	2
+new Antarctic calibration	2
+re-calibrated global GDGT–temperature calibration	2
+first regional brGDGT–temperature calibration	2
+automatic algorithm	2
+UV spectroscopy	2
+Back-trajectory modelling	2
+single taxon analysis	2
+OAE 2 stratigraphy	2
+new high-precision Fe-XANES measurements	2
+remote sensing techniques	2
+geochemical gas analysis	2
+High-precision tungsten (182W/184W) isotope measurements	2
+self-consistent forward model	2
+geochemical study	2
+synchrotron X-ray spectromicroscopy	2
+previous Ca isotope study	2
+surface ablation or surface-energy-balance modelling	2
+rough ice-flux divergence analysis	2
+feature-tracking	2
+TanDEM-X interferometric digital elevation models (DEMs)	2
+new, high-precision Ca isotope MC-TIMS method	2
+Simple mass balance arguments	2
+ground-based LiDAR	2
+In-situ LA-ICP-MS U–	2
+High resolution P-wave velocity determination	2
+high-resolution map	2
+FT-IR analyses	2
+fluid inclusion and Fourier Transform Infrared (FT-IR) analyses	2
+new high resolution dataset	2
+histogram profile matching	2
+combination of image simulations	2
+X-ray photoemission electron microscopy (XPEEM)	2
+rock physics theory	2
+many-to-one” scenario	2
+Kubo–Greenwood formulation	2
+density functional theory calculations	2
+updated petrologic method	2
+micro-Raman spectroscopy	2
+in-situ measurements	2
+sample-based studies	2
+High-resolution osmium (Os) isotope stratigraphy	2
+Micromagnetic simulations	2
+off-axis electron holography	2
+Ben-Yosef et al.	2
+sea-level reconstruction	2
+Error-in-variables changepoint analysis	2
+new reconstruction	2
+new 300-year sea-level reconstruction	2
+mass balance modelling	2
+double-spike technique	2
+similar survey	2
+EarthScope USArray program	2
+reverse titration–competitive ligand exchange–adsorptive cathodic stripping voltammetry	2
+novel voltammetric technique	2
+Timeseries analysis	2
+new digital elevation model	2
+partitioning experiments	2
+first principles methods	2
+quasi-harmonic approximation	2
+ab initio density functional theory calculations	2
+X-radiographic Ångström method	2
+ATP-direct method	2
+ATP-filtration method	2
+direct ATP-method	2
+free ATP.The ATP-filtration method	2
+0.1 μm filtration process	2
+modified genetic algorithm (MGA) with mixed coding	2
+conventional oxygen isotope analysis	2
+SIMS analysis	2
+conventional externally-heated Ni “bomb” technique	2
+oxygen isotope analysis	2
+secondary ion mass spectrometry (SIMS)	2
+energy dispersive X-ray analysis	2
+previously published fluid inclusion analyses	2
+in-situ laser ablation inductively-coupled plasma mass spectrometry (LA-ICP-MS)	2
+NIST SRM 976	2
+clumped isotope thermometry	2
+new on-line data extraction service	2
+international GEOTRACES programme	2
+medical-grade X-ray computed tomography scanner (XCT)	2
+4D X-ray micro-tomography (μ-CT)	2
+analytical protocol	2
+High resolution stable W isotope measurements	2
+conventional high precision U-series dating	2
+automated chemical preparation protocol	2
+High-precision U-series dating	2
+second Reduced Chi-Squared minimisation	2
+Ne three component analysis	2
+Reduced Chi-Squared minimisation	2
+visual classification scheme	2
+five spot pattern	2
+(U-Th)/He noble gas thermochronometry	2
+inverse methods	2
+Laser ablation inductively coupled plasma mass spectrometry (LA-ICP-MS)	2
+invasive methods	2
+laser-ablation	2
+stable carbon isotopic analysis	2
+situ laser ablation Ar-isotope analyses	2
+0.87vac0.13)O2]. Atomic-scale imaging	2
+Bragg-rod and pair distribution function formalisms	2
+synchrotron high-energy X-ray scattering (HEXS)	2
+electron energy loss spectroscopy (STEM-EELS)	2
+atomic-resolution scanning transmission electron microscopy	2
+wet chemistry	2
+In-situ kinetics	2
+Thermodynamic and kinetic analysis	2
+solid-state nuclear magnetic resonance (NMR) spectroscopy	2
+applied cleaning protocol	2
+Double spiking	2
+In-situ laser ablation analyses	2
+laser ablation	2
+novel bulk-carbonatite method	2
+O isotope analysis	2
+novel internal calibration method	2
+analytical protocols	2
+neutron irradiation noble gas mass spectrometric (NI-NGMS) technique	2
+image analysis and flow modelling	2
+X-ray and energy dispersive spectroscopy imagery	2
+X-ray micro-tomography	2
+synchrotron powder diffraction	2
+laser-heated diamond anvil cell experiments	2
+Electron microprobe analysis	2
+XRD analysis	2
+μXRF mapping	2
+chemical digestion	2
+scorodite synthesis method	2
+single previously published analysis	2
+Dual isotopic analysis	2
+X-ray absorption near-edge spectroscopy analysis	2
+chemical extractions	2
+electron microprobe chemical analysis	2
+trace element studies	2
+laser ablation method	2
+combined LA–MC–ICP–MS and TIMS approach	2
+LA–ICP–	2
+laser-ablation, multi-collector, inductively-coupled-plasma, mass-spectrometry (LA–MC–ICP–MS) and thermal ionization multi-collector mass spectrometry (TIMS)	2
+U-Pb method	2
+LA-ICP-MS in situ trace element study	2
+extended high-magnification SEM imaging	2
+low-resolution SEM imaging	2
+focused ion beam technique	2
+electron beam imaging	2
+microscopy techniques	2
+40Ar/39Ar thermochronological techniques	2
+in-situ UV-laser ablation microprobe 40Ar/39Ar analysis	2
+high-resolution electron microscopy	2
+inverse geochemical modeling techniques	2
+modified model conceptualization	2
+mass balance method	2
+thermodynamic modelling	2
+X-ray absorption spectroscopy (XAS)	2
+ELISA study	2
+carbohydrate chemical degradation methods	2
+gas chromatography-mass spectrometry	2
+enzyme-linked immunosorbent assay (ELISA)	2
+heterogeneous immunoassay	2
+CE-MS	2
+IdeS (middle-up approach)	2
+CE-MS analysis	2
+high-resolution and sensitive profiling	2
+low-flow sheathless capillary electrophoresis-mass spectrometry (CE-MS)	2
+KIMBLE workflow	2
+Scanning Electron Microscopy (SEM) and Current Reversal Chronopotentiometry (CRC) techniques	2
+non-toxicity	2
+CCA analysis	2
+gas chromatography mass spectrometry	2
+multivariate statistical approach	2
+cross-validation and scree plot methods	2
+well-known methods	2
+UHPLC separation	2
+solid phase extraction	2
+isotope-labeling derivatizaiton - LC/MRM-MS method	2
+optimized, two-step procedure	2
+reversed-phase LC with positive-ion MRM/MS detection	2
+high-efficiency chemical isotope-labeling reagent	2
+improved LC/multiple-reaction monitoring (MRM)-MS method	2
+mutli-omic analyses	2
+quantitative LC-MS(/MS) data pre-processing workflows	2
+LC-MS(/MS)	2
+label-free experiment	2
+Label-free LC-MS(/MS)	2
+modified Kendrick mass defect (KMD) filtering	2
+novel simplified data visualization approach	2
+simplified Kendrick-based data mining approaches	2
+DESI and electrospray ionization (ESI)	2
+High resolution MS	2
+Desorption electrospray ionization (DESI) and direct analysis in real time (DART)	2
+mass spectrometric (MS) analysis	2
+Ambient ionization techniques	2
+developed CE-MS/MS methodology	2
+MS/MS	2
+high-resolution tool	2
+capillary electrophoresis-tandem mass spectrometry (CE-MS/MS)	2
+Site-specific mapping	2
+LC/IMS/MS	2
+UPLC/IMS/MS	2
+ion mobility spectrometry	2
+reversed-phase gradient ultra performance chromatography	2
+discussed workflow	2
+NMR data acquisition	2
+NMR spectroscopy	2
+quenching protocol	2
+NMR based quantitative analysis	2
+liquid and gas chromatography - mass spectrometry	2
+POCHEMON approach	2
+ANOVA-PCA	2
+well-known multivariate implementation of Analysis of Variance (ANOVA) uses Principal Component Analysis (ANOVA-PCA)	2
+multivariate data analysis method Projected Orthogonalised Chemical Encounter Monitoring (POCHEMON)	2
+IR experiments	2
+Scanning Electron Microscopy	2
+new analytical methodology	2
+developed extraction protocol	2
+MAE method	2
+clean-up using off-line solid phase extraction and analysis by ultra-high-performance liquid chromatography tandem mass spectrometry	2
+microwave accelerated extraction (MAE)	2
+first methodology	2
+novel analysis method	2
+PEC biosensor	2
+laser ablation inductively coupled plasma mass spectrometry (LA-ICP-MS)	2
+State-of-the-art solute imaging techniques	2
+Gel-based, two-dimensional (2D) chemical imaging techniques	2
+Variable selection	2
+Design of Experiments (DoE)	2
+pH indicator spot operations	2
+laboratory based drift experiment	2
+chiral liquid chromatography	2
+multi-residue method	2
+chemical imaging methods	2
+high-resolution two-dimensional imaging	2
+GEOTRACES program	2
+plasma source mass spectrometry	2
+Pb isotope analyses	2
+thermal ionization mass spectrometry	2
+two stage anion exchange procedure	2
+isotopic analysis	2
+support vector machines	2
+preprocessing pipeline	2
+MALDI-TOF-MS	2
+matrix assisted laser desorption ionization time of flight mass spectrometry (MALDI-TOF-MS)	2
+conventional DoE (design of experiments) methods	2
+established algorithm	2
+novel hybrid experimental simplex algorithm (HESA)	2
+established simplex method	2
+simplex algorithm	2
+community resilience.•The study	1
+Sector analysis	1
+eddy-covariance method	1
+ex ante studies	1
+approach.•The aggregation method	1
+certainty.•The aggregation method	1
+novel aggregation method	1
+subsequent sampling campaign	1
+Highlights•An analysis	1
+presented algorithms	1
+suitable method	1

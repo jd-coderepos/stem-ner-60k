@@ -1,0 +1,3252 @@
+vitro	214
+analysis	126
+method	112
+Braun-Blanquet procedures	94
+experiment	76
+survey	48
+S.-Afr.	44
+vivo	42
+TWINSPAN classification	30
+study	30
+protocol	30
+methodology	30
+situ	30
+experiments	30
+Twinspan classification	26
+analyses	24
+technique	24
+Jacq.	22
+principal component analysis	22
+approach	22
+meta-analysis	22
+gas chromatography	20
+GC–MS	18
+HPLC analysis	18
+Phylogenetic analysis	18
+Ames test	18
+mass spectrometry	18
+flow cytometry	18
+scanning electron microscopy	16
+Braun-Blanquet method	16
+light and scanning electron microscopy	14
+transmission electron microscopy	14
+phytosociological analysis	12
+Principal component analysis	12
+ex vitro	12
+ethnobotanical survey	12
+micropropagation protocol	12
+vegetation survey	12
+field experiment	12
+cluster analysis	12
+Cluster analysis	12
+methods	12
+Convention	12
+voluntary non-monetary approach	12
+multidisciplinary approach	10
+Braun–Blanquet procedures	10
+Braun-Blanquet technique	10
+fluorescence method	10
+RT-PCR	10
+GC-MS	10
+phylogenetic analysis	10
+scanning electron microscopy (SEM)	10
+bioassay-guided fractionation	10
+light microscopy	10
+cladistic analysis	10
+electron microscopy	10
+hemisphere approximation	8
+Miq.	8
+numerical classification technique (Twinspan)	8
+Western blot	8
+thin layer chromatography	8
+sensitivity analysis	8
+MTT assay	8
+Multivariate analysis	8
+LC-MS	8
+Braun–	8
+gas chromatography–mass spectrometry (GC–MS)	8
+Sequence analysis	8
+column chromatography	8
+RAPD analysis	8
+Principal component analysis (PCA)	8
+semi-structured interviews	8
+cross-sectional study	8
+integrated approach	8
+Scanning electron microscopy	8
+Flow cytometry	8
+real-time PCR	8
+linear mixed model	8
+GC-MS analysis	7
+questionnaire survey	6
+Py–GC–MS	6
+environmental DNA analysis	6
+cultivation method	6
+RT-qPCR	6
+retention approach	6
+SVI leaching classification scheme	6
+morphological approach	6
+scenario analysis	6
+harmonic analysis	6
+in vitro	6
+PCA	6
+replicated plot experiment	6
+s.str.	6
+formal syntaxonomical classification	6
+Twinspan numerical analysis	6
+ordination algorithm (Decorana)	6
+LC–MS/MS	6
+starch gel electrophoresis	6
+two-way indicator species analysis (TWINSPAN)	6
+ordination algorithm (DECORANA)	6
+three techniques	6
+Hochst.	6
+multivariate analysis	6
+MeOH>	6
+two methods	6
+Phylogenetic analyses	6
+GC–MS analysis	6
+nuclear magnetic resonance-based metabolomics	6
+alkaline comet assay	6
+transmission electron microscopy (TEM)	6
+light microscopy (LM)	6
+algorithm	6
+Discriminant analysis	6
+bio-assay guided fractionation	6
+two-fold serial microdilution method	6
+Light and transmission electron microscopy	6
+micro-dilution method	6
+pot experiment	6
+laboratory experiment	6
+polymerase chain reaction (PCR) analysis	6
+microdilution method	6
+focus group discussions	6
+parallel-groups study	6
+post-intervention	6
+Cluster analyses	6
+principal component analysis (PCA)	6
+field experiments	6
+data analysis	6
+Regression analysis	6
+new approach	6
+proposed method	6
+unified model	6
+quantitative real-time PCR	6
+simple method	6
+Foraging Radius Approach	6
+Ag-ELISA	4
+POC-CCAs	4
+POC-CCA	4
+macroecological approach	4
+SDI-based model	4
+power model	4
+McMaster method	4
+combing method	4
+GSR framework	4
+forest therapy program	4
+workflow	4
+MB-MK	4
+multivariable analysis	4
+residual maximum likelihood (REML)	4
+retrospective cohort study	4
+ML+MSA approach	4
+Total Evidence approach	4
+redundancy analysis	4
+SDS PAGE zymography	4
+MedISys-FF	4
+participant observation	4
+Western blotting	4
+in-situ	4
+Meta-analysis	4
+SOW-FGR	4
+SVI classification scheme	4
+novel technique	4
+Universal Soil Loss Equation (USLE)	4
+framework	4
+analytical procedure	4
+differential imaging	4
+diet diary analyses	4
+duplicate diet analyses	4
+APCI-MS	4
+modelling approach	4
+mixed methods approach	4
+Sensitivity analyses	4
+software tool	4
+Rejection-ABC	4
+Approximate Bayesian Computation (ABC)	4
+SWAT-SC	4
+T-RFLP	4
+situ measurements	4
+U.S. Geological Survey	4
+AMOVA analysis	4
+Arch.	4
+detrended correspondence analysis (DCA)	4
+vegetation classification	4
+TWINSPAN numerical analysis	4
+Campbell’s (1985) approach	4
+Blanquet procedures	4
+cut-tree method	4
+diallel experiment	4
+vegetation survey programme	4
+Two experiments	4
+acetylene reduction technique	4
+ordination (Decorana)	4
+strategy	4
+PHYTOTAB computer program	4
+Braun-Blanquet classification	4
+NMR spectroscopy	4
+first experiment	4
+established methods	4
+hierarchical classification	4
+Semi-structured interviews	4
+Braun-Blanquet Procedures	4
+methods and techniques of the Braun-Blanquet school of phytosociology	4
+FE-SEM	4
+agar diffusion method	4
+numerical classification technique (TWINSPAN)	4
+ex Engl.	4
+DCA ordination	4
+Electron microscopy	4
+horizontal starch gel-electrophoresis	4
+ordination algorithm DECORANA	4
+thermocouple psychrometry	4
+analytical HPLC	4
+numerical classification (Twinspan)	4
+scheme	4
+disc diffusion method	4
+vitro propagation protocols	4
+liquid–liquid extraction	4
+field trial	4
+floristic-sociological approach	4
+Bioassay-guided fractionation	4
+vitro assay	4
+5-lipoxygenase assay	4
+restoration study	4
+high performance liquid chromatography (HPLC)	4
+field surveys	4
+Western blot analysis	4
+RP-HPLC	4
+Southern blot analysis	4
+Sequencing analysis	4
+JIP-test	4
+RP-HPLC analysis	4
+brine-shrimp lethality assay (BSLA)	4
+broth microdilution assay	4
+management strategy	4
+MS/MS	4
+SPME method	4
+crystal violet staining	4
+qRT-PCR	4
+gas chromatography–mass spectrometry	4
+liquid chromatography–mass spectrometry	4
+semi-structured questionnaire	4
+UV–visible spectroscopy	4
+high performance liquid chromatography	4
+neutral red uptake test	4
+solid phase microextraction (SPME)	4
+LC–MS	4
+semi-quantitative RT-PCR analysis	4
+DNA analysis	4
+hematoxylin–eosin staining	4
+Folin–Ciocalteu colorimetric method	4
+colorimetric method	4
+semi-quantitative RT-PCR	4
+Nagoya Protocol	4
+smoke-technology	4
+Sect.	4
+recent molecular-based classification	4
+four experiments	4
+droplet-vitrification	4
+GC–	4
+ethnobotanical study	4
+three spectroscopy techniques	4
+chemometric techniques	4
+re-analysis	4
+Field experiments	4
+ex.	4
+HPTLC method	4
+Fluorescence microscopy	4
+breeding system experiment	4
+PCA analysis	4
+Walp.	4
+liquid chromatography	4
+binding assay	4
+new key	4
+total evidence analysis	4
+microplate dilution method	4
+GC and GC/MS	4
+comparative morphological study	4
+High Performance Liquid Chromatography (HPLC)	4
+DPPH assay	4
+SEM studies	4
+micro-dilution assay	4
+microplate assay	4
+Canonical Community Analysis	4
+GC/MS	4
+TLC analysis	4
+broth microdilution method	4
+standardized protocol	4
+vitro screening	4
+Two-dimensional SDS-PAGE	4
+Southern blot	4
+HPLC method	4
+Avon Longitudinal Study	4
+Logistic regression	4
+regression equation	4
+Experiment 2	4
+joint F test	4
+systematic review methodology	4
+cgMLST scheme	4
+Analysis of variance	4
+Detrended Correspondence Analysis	4
+ON-CF	4
+meta-regression	4
+chemical analysis	4
+improved methodology	4
+literature search	4
+citizen science study	4
+control strategy	4
+holistic approach	4
+ecological niche modelling (ENM) approach	4
+Schloesser et al.	4
+conceptual model	4
+liquid chromatography/mass spectrometry	4
+Image analysis	4
+novel method	4
+temporal method	4
+proposed methods	4
+Univariate analysis	4
+existing method	4
+new method	4
+free-energy principle	4
+proposed strategy	4
+classical two-process model	4
+paper chromatography	4
+light and electron microscopy	4
+vitro activity	4
+Statistical analyses	4
+Pre-treatment	4
+square-root transformation	4
+sampling strategy	4
+procedure	4
+wavelet transform	4
+implicit loss function	4
+track survey	4
+three methods	4
+power analysis	4
+Principal Components Analysis	4
+systematic review	4
+RT-PCR assays	4
+atomic force microscopy (AFM)	4
+1H NMR spectroscopy	4
+case study	3
+thin-layer chromatography	3
+portable ED-XRF	2
+WD-XRF	2
+WD-XRF and/or portable ED-XRF spectroscopy	2
+(TRFLP) analysis	2
+quantitative polymerase chain reaction (qPCR) analysis	2
+real-time PCR analysis	2
+epidemiological survey	2
+randomized open-label clinical trial	2
+efficient control strategy	2
+diagnostic approach	2
+parasite-specific real-time PCR and ELISA techniques	2
+Univariate and multivariate logistic regression statistical methods	2
+Semi structured questionnaire	2
+serological survey	2
+Two stage stratified random sampling method	2
+meat inspection	2
+Ag-ELISA test	2
+cross-sectional survey	2
+prospective abattoir survey	2
+Department of Rural Development and Agrarian Reform (DRDAR)	2
+fine scale micro-mapping	2
+clinical mapping survey method	2
+rapid epidemiological mapping	2
+loiasis (RAPLOA)	2
+rapid assessment procedure	2
+rapid integrated filarial mapping survey	2
+species-specific RT-qPCR method	2
+sensitive species-specific RT-qPCR method	2
+buffy coat technique	2
+cross-sectional and experimental studies	2
+One Health approach	2
+three rounds of MDA	2
+Track-and-treat”	2
+copro-Ag-ELISA	2
+Three rounds of school-based MDA	2
+Four human and five porcine cross-sectional surveys	2
+School-based mass drug administration (MDA) of praziquantel	2
+different staining methods	2
+Kato-Katz method	2
+POC-CCA assay	2
+Software tool (Image Studio Lite®)	2
+computer software image analysis	2
+enzyme immunoassay	2
+Co-administering ivermectin	2
+month-long study	2
+online survey questionnaire	2
+experimental study	2
+feeding experiment	2
+20-day rearing experiments	2
+Cost analysis	2
+standard protocol	2
+CLUSTAL W in BioEdit program	2
+muscle morphometric analysis	2
+Histological observation	2
+multiplex PCR method	2
+culture-independent survey	2
+expensive one (HI-35)	2
+67-days study	2
+pmaGH minisatellite allele analysis	2
+DNA parentage analysis	2
+feeding trial	2
+sodium dodecyl sulphate-polyacrylamide gel electrophoresis (SDS-PAGE)	2
+one-way ANOVA	2
+Bioinformatics analysis	2
+Population structure analysis	2
+WebBuilder function	2
+novel R function, WebBuilder	2
+de novo	2
+Fourier harmonic analysis techniques	2
+compulsory Appendix III listing	2
+proposal	2
+CITES Appendix III listing	2
+focus group interviews	2
+purposive sampling	2
+botanical survey	2
+literature review	2
+Correlation analysis	2
+Grey relational analysis	2
+wet digestion method	2
+expert-based models	2
+species distribution models (SDMs)	2
+Theory of Planned Behavior (TPB)	2
+seemingly unrelated bi-variate weighted ordered probit modeling	2
+International Student Assessment (PISA)	2
+2015 OECD's Program	2
+individual-based simulations	2
+MaxEnt-based niche modeling	2
+niche modeling	2
+bioacoustics (call)	2
+Participatory mapping	2
+2008–2010 landscape-scale study	2
+formal demographic censusing	2
+Reliable and sensitive methods	2
+combined and integrated methodological approach	2
+multi-level and integrated approach	2
+regression analysis	2
+regional, reptile-monitoring program	2
+GNLS function	2
+non-linear regression analysis	2
+destructive sampling technique	2
+Household surveys	2
+Rapid Assessment and Prioritization of Protected Areas Management (RAPPAM)	2
+fixed effects regression techniques	2
+Generalized Linear Mixed-Effects Models (GLMMs)	2
+paired split-plot experiment	2
+DBH-based model	2
+staggered entry design	2
+one-way ANOVA and Tukey’s PostHoc test	2
+backcross methodology	2
+TACF’s state chapter program	2
+Megafauna Conservation Index (MCI)	2
+mixed-method and participatory approaches	2
+IUCN red-list down-listing	2
+exhaustive literature review	2
+gut retention experiments	2
+high-resolution GPS-tracking	2
+judicious combination of techniques	2
+series of population viability analyses (PVAs)	2
+generalized linear mixed models	2
+acoustic region-wide citizen-monitoring program	2
+Land Cover Map	2
+Priority Habitats Inventory 2013	2
+public outreach and education campaign	2
+cumulative effects mapping	2
+cumulative effects mapping analysis	2
+holistic metacommunity-approach	2
+β-diversity partitioning	2
+phylogeographic analysis	2
+logarithmic model	2
+two contemporary species–area methods	2
+range-wide genetic analysis	2
+drying experiments	2
+extensive fern and habitat surveys	2
+experimental design	2
+RNA-Seq method	2
+Gaussian statistical methods	2
+cluster and gene set enrichment analysis	2
+peer-reviewed, high-quality research	2
+STRUCTURE analysis	2
+Systems approaches	2
+systems biology approaches	2
+holistic ecosystem approach	2
+Comparative Western blot analyses	2
+first in vitro	2
+combined analysis of alleles	2
+PCR-RFLP	2
+immunofluorescence assay	2
+light and scanning electron microscopy (SEM)	2
+PCR or serology	2
+positive microhematocrit centrifuge technique	2
+aggregative meta-analysis	2
+various review techniques	2
+rigorous review techniques	2
+Systematic reviews and meta-analyses	2
+Molecular analysis	2
+sensitive nested PCR method	2
+standard PCR	2
+PCR-survey	2
+modified McMaster technique	2
+widely-used traditional parasitology method	2
+McMaster egg counting technique	2
+parallel study	2
+microscopic analysis	2
+MAT protocol	2
+modified agglutination test (MAT)	2
+robust design occupancy modeling	2
+membrane inlet mass spectrometry	2
+RNA-sequencing	2
+Redundancy analysis (RDA)	2
+emerging extraction technology (wet solvent extraction)	2
+Western blot analyses	2
+RT-qPCR and ELISA analyses	2
+RNA-Seq analyses	2
+old concept	2
+multi-parameter quantification methodology	2
+novel integrated experimental and computational approach	2
+Size exclusion chromatography (SEC)	2
+developed methodology	2
+U.S. Energy Independence and Security Act (EISA) of 2007	2
+GIS analysis	2
+previously published proteomic analysis	2
+LC-MS/MS based iTRAQ investigation	2
+response surface methodology	2
+RNA-seq	2
+Post-sorting experiment	2
+FACS (fluorescence assisted cell sorting	2
+N− phase	2
+techno-economic analysis (TEA)	2
+Combined Algal Processing (CAP) approach	2
+principal component-discriminant function analysis	2
+unsupervised and supervised multivariate data analysis methods	2
+FT-IR spectroscopy	2
+FT-IR) spectroscopy	2
+Fourier Transform Infrared (	2
+advanced parameter estimation methodology	2
+Beer's law	2
+improved Lambert–	2
+Aiba equation	2
+two-stage approach	2
+single-stage processing	2
+two-stage HTL approach	2
+established analysis techniques	2
+Analytical Pyrolysis Gas Chromatography Mass Spectrometry (Py–GC–MS)	2
+high-throughput screening efforts	2
+Particle Swarm Optimization (PSO), a widely used Evolutionary and Swarm Algorithm (ESA)	2
+novel Particle swarm Optimized Density-based Clustering and Classification (PODCC)	2
+Density-Based Spatial Clustering of Applications with Noise (DBSCAN)	2
+best known density-based clustering method	2
+essential clustering algorithm	2
+Density-based clustering	2
+machine learning	2
+digital RT-LAMP approach	2
+integrated assay	2
+color analysis technology	2
+digital image processing technology	2
+Expression analysis	2
+Mascot and bioinformatic analysis	2
+liquid chromatography tandem mass spectrometry	2
+RNA-interference (RNAi)	2
+Protease inhibitor	2
+fluorescent microscopy	2
+CaCl2 and polyethylene-glycol-based DNA transformation protocol	2
+categorizations and sub-categorizations of Studies 1 and 2	2
+structural equation modeling	2
+hierarchical cluster analyses	2
+exploratory factor analysis	2
+Internet surveys	2
+consumer survey	2
+framework of “gastronomic systems research” (GSR)	2
+network generation algorithm	2
+configuration wiring	2
+simple network generation algorithm	2
+live-cell fluorescence imaging	2
+total internal reflection fluorescence microscopy	2
+high-resolution atomic force	2
+Allele-specific expression analysis	2
+Yeast three-hybrid (Y3H) analysis	2
+Yeast two-hybrid analyses	2
+co-immunoprecipitation and bimolecular fluorescence complementation experiments	2
+accurate high-throughput genotyping tool	2
+GWAS) analysis	2
+Genome-wide association studies (	2
+three months interventions	2
+questionnaires CIS	2
+planning application	2
+original design brief	2
+1-day forest therapy program	2
+individual tree analysis	2
+novel, low-cost remote sensing technologies	2
+novel, low-cost hyperspectral imaging technology	2
+modified semantic differential method	2
+evidence-based research	2
+Japan Meteorological Agency Non-Hydrostatic Model (JMANHM)	2
+evidence-based design	2
+Theory triangulation	2
+first outline of a quality evaluation tool (QET)	2
+Bari Manifesto’	2
+unweighted and weighted logistic regression analyses	2
+logistic regression modeling	2
+National Forest Inventory (NFI)	2
+standard logistic regression model	2
+logistic regression models	2
+Standard statistical regression methods	2
+Large-scale surveys	2
+GAM framework	2
+Generalized Additive Models (GAMs)	2
+Digital Elevation Model (DEM)	2
+1940s historical aerial imagery using Object Based Image Analysis (OBIA)	2
+model architecture	2
+ground-based digital photography	2
+social practice theory	2
+multi-level perspective	2
+innovation system perspective	2
+histogram matching approach (HMA)	2
+indicators of hydrologic alteration (IHA) method, the range of variability approach (RVA)	2
+integrated conceptual approach	2
+unstructured finite volume methodology	2
+fully factorial experiment	2
+cross-region, living laboratory network	2
+Ordered logit regression	2
+five Bowen ratio–energy balance (BREB)	2
+standardised protocol	2
+objective test method	2
+control algorithm	2
+Lagrangian particle tracking	2
+Q-criterion	2
+acoustic Doppler velocimetry	2
+Von Rittinger analysis	2
+P 	2
+batch experiment	2
+field maize experiment	2
+non-invasive methods	2
+systems design approach	2
+symmetric MEM approach	2
+AEM approach	2
+time series modelling	2
+symmetric distance-based Moran's eigenvector maps (MEM)	2
+Time-series modelling techniques	2
+traditional patch-use foraging theory	2
+random search theory	2
+composite random search strategies	2
+combination of electron microscopy and electrophysiological recording techniques	2
+“hot-male” hypothesis)	2
+biorobotic approach	2
+synchrotron radiation experiments	2
+amino acid and elemental analysis	2
+Light and electron microscopy	2
+Bland-Altman	2
+mixed models	2
+one-factor (test day) design	2
+randomized partial cross-over experimental study	2
+Wilcoxon signed-rank tests	2
+paired t-	2
+computed tomography	2
+clinical relevanceLong-term, stable anaesthesia	2
+n = 6	2
+nth order approach	2
+Kinetic modelling	2
+High pressure homogenisation	2
+powerful tool	2
+experiments in situ	2
+nine generation study	2
+niche principle	2
+gender asset agriculture project (GAAP) framework	2
+qualitative methods	2
+appropriate and contextualized natural resource management strategy	2
+nutrition-sensitive approach	2
+remote sensing	2
+collection diaries	2
+online tool	2
+tree-breeding policy	2
+face-to-face survey	2
+plant biosecurity strategy	2
+video-based analysis	2
+structured approach	2
+Habitat modelling	2
+underwater video-observations	2
+new tool	2
+two-dimensional semantics	2
+archival survey	2
+HGAP	2
+theory of documentation strategy	2
+suitable methodology	2
+archival theory	2
+Human Genome Archive Project (HGAP)	2
+Abir-Am	2
+Priestley's study	2
+yes-or-no test	2
+long-term plans	2
+many a 20th-century project-driven interdisciplinary research programme	2
+research programme	2
+cross-cultural approach	2
+general multicultural approach	2
+holistic science of IPM	2
+efficient and effective analytical and decision support tools (ADSTs)	2
+suggested method	2
+AgMIP (Agricultural Modelling and Improvement Intercomparison Project	2
+bottom-up approach	2
+model test	2
+root washing	2
+core-break method	2
+S2 and S3 scenario	2
+S4 scenario	2
+Farmer’s practice)	2
+S3 scenario	2
+Scenario 1 (S1)	2
+long term field experiment	2
+independent and long-term data (Park Grass Experiment	2
+meta-models (MM)	2
+well-known process-based model (PBM)	2
+Immunological and 2DE SDS-PAGE analyses	2
+method of Ndfa-G	2
+15N natural abundance method	2
+repeated LUCAS topsoil survey	2
+first ever uniform topsoil P survey	2
+P fertilizer need map	2
+LUCAS topsoil survey	2
+Land Use/Land Cover Area Frame Survey	2
+familiarization-discrimination playback experiment	2
+new task	2
+novel task	2
+Experiment One (N=156)	2
+Life history theory	2
+parental investment theory	2
+Multilevel modeling	2
+biological market theories	2
+original Kinsey survey	2
+kin selection theory	2
+randomised, cross-over experiment	2
+exact test	2
+Whitney U test and Fisher’s	2
+Mann–	2
+Repeated ANOVA	2
+trapezoidal method	2
+Computed tomography (CT)	2
+crossover study design	2
+randomised four-way crossover trial	2
+cross-sectional studies	2
+‘One Health’ approach	2
+semi-automated classification methodology	2
+electronic health records (EHRs)	2
+histopathology study	2
+Cross-sectional analysis	2
+systematic, replicable literature search strategy	2
+protocol using a hand-held algometer	2
+PCR and sequence-based typing	2
+modified Vasseur score (mVS)	2
+Standard basic descriptive statistics and mixed-effects linear regression	2
+maximum likelihood and Bayesian approaches	2
+non-destructive DNA extraction method	2
+ITS2 sequence analysis	2
+Bayesian dating analysis	2
+three Bayesian dating programs	2
+molecular clock dating analysis	2
+concatenation approach	2
+high-throughput sequencing techniques	2
+MSA methods	2
+slow ML+MSA approach	2
+fast PhyPA method	2
+maximum likelihood method using MSA (the ML+MSA approach)	2
+phylogenetics by pairwise alignment	2
+new computational approach	2
+distance-based methods	2
+multiple sequence alignment (MSA)	2
+Simulated annealing	2
+powerful, physically inspired, general-purpose heuristic simulated annealing	2
+primary environmental DNA survey	2
+combined approach	2
+culturing and environmental DNA analysis	2
+complementary approach	2
+different methods	2
+two or more methods	2
+traditional morphology-based systematics	2
+Bayesian and Maximum Likelihood analyses	2
+tree inference methods	2
+Bayesian methods	2
+concatenated Bayesian phylogenetic analysis	2
+Bayesian species tree analysis	2
+Bayesian star-tree paradox	2
+Speculative analysis	2
+Conservative analysis	2
+Conservative and speculative fossil-calibration analyses	2
+relatively wide taxon sampling and phylogenetic analysis	2
+Maximum likelihood and Bayesian inference methods	2
+maximum likelihood analyses	2
+Divergence time analysis	2
+unconstrained and constrained analyses	2
+maximum-likelihood and Bayesian algorithms	2
+AFLP-based phylogenetic analyses	2
+García-Porta et al.	2
+overall integrated pest management (IPM) strategy	2
+separate experiment	2
+inoculation method	2
+Fast Blue BB salt and Umbelliferyl method	2
+Feigl-Anger method	2
+RT-PCR and cloning	2
+ch-OSA application	2
+Chromatographic analysis	2
+Circular Dichroism (CD)	2
+situ RT-PCR	2
+Sliding-window analysis	2
+pH 7.4 experiment	2
+Multivariate analysis (nMDS, Cluster Analysis	2
+secondary ion mass spectrometry (SIMS)	2
+iterative Delphi Method	2
+ship-board surveys	2
+LTER (Long-Term Ecological Research) observatory HAUSGARTEN	2
+long-term in situ measurements	2
+one statistical technique	2
+maximum entropy and random forest)	2
+Predictive habitat modelling approaches	2
+Many statistical modelling techniques	2
+Single-species analyses	2
+PERMANOVA analyses	2
+time-lapse photography	2
+trench surveys	2
+side-scan sonar	2
+Bakun upwelling intensification hypothesis	2
+non-assimilated modeling	2
+Fingerprint analysis	2
+16S rRNA-gene-based analysis	2
+alignment as well as non-alignment methods	2
+Q-Exactive Orbitrap mass spectrometry	2
+combination of MALDI-TOF	2
+Peptidomic analysis	2
+KEGG pathway analysis	2
+Data analysis	2
+Next Generation Sequencing	2
+Reverse transcriptase-PCR and sequencing	2
+Two-electrode voltage-clamp recording	2
+two electrode voltage clamp electrophysiology	2
+gas chromatography coupled to electroantennography (GC–EAG)	2
+Recombinant fusion protein technology	2
+A296S mutation (pyrosequencing and PCR-RFLP)	2
+LDA or MLR classifiers	2
+SPME-GC-MS	2
+Partial Least Squares (PLS) regression	2
+reference method (HPLC-MS)	2
+Hyperspectral imaging (HSI)	2
+Pearson's Correlation Coefficient test	2
+LC-MS-ESI assay	2
+(ICP-MS)	2
+inductively coupled plasma atomic emission spectroscopy (ICP-AES) and mass spectroscopy	2
+liquid chromatography mass spectrometry electrospray ion (LC-MS-ESI)	2
+IVD INFOGEST method	2
+third inter-laboratory study	2
+harmonized protocol	2
+second inter-laboratory study	2
+different in-house digestion protocols	2
+IVD) method	2
+multi-angle laser light scattering (SEC–MALLS)	2
+size-exclusion chromatography	2
+Figure S1A,B)	2
+newly established hybrid organosolv – steam explosion pretreatment	2
+Design of Experiment approach	2
+interdisciplinary approach	2
+temporal metagenomic analysis	2
+life cycle assessment (LCA) and techno-economic assessment (TEA) of a bioelectrochemical system (BES)	2
+dynamic simulation (DS)	2
+novel framework	2
+GC-MS) analysis	2
+Gas chromatography-mass spectrometry (	2
+XPS	2
+gas chromatography-mass spectroscopy (GC-MS)	2
+thermogravimetric analysis (TGA)	2
+U.S. renewable fuel standard (RFS)	2
+Life cycle analysis (LCA)	2
+centralized approach	2
+logistics scheme	2
+High-pressure homogenization (HPH) and bead milling	2
+silico analysis	2
+preliminary genetic manipulation	2
+CO2-expanded alcohol technique	2
+Air-drying	2
+classical most probable number (MPN) methodology	2
+pyrolysis-GC/MS	2
+electricity generation method	2
+wider, out-of-the-lab, implementation	2
+small-scale rapid screening method	2
+one-dimensional model	2
+Kissinger–Genetic Algorithm method	2
+solid-state fungal fermentation-based pre-treatment strategy	2
+Transition-SST	2
+discrete particle method	2
+Eulerian method	2
+Eulerian–Lagrangian approach	2
+experimental net energy analysis	2
+gravimetric and chemical techniques	2
+Dynamic Mechanical Thermal Analysis	2
+Differential Scanning Calorimetry	2
+inductively coupled plasma-atomic adsorption spectroscopy	2
+Aqueous two-phase extraction (ATPE)	2
+Differential Scanning Calorimetry (DSC)	2
+scanning fluid dynamic gauge (sFDG)	2
+mathematical mechanistic swelling-removal approach	2
+Fisher correlation score	2
+techniques	2
+quantitative peptide analysis	2
+conventional food grouping and the novel processing-based grouping	2
+high performance liquid chromatography–mass spectrometry	2
+strain typing method	2
+rapid screening method	2
+REIMS technique	2
+Rapid Evaporative Mass Spectrometry (REIMS) technology	2
+using ELISA	2
+food fraud tool (MedISys-FF)	2
+European Media Monitor (EMM)	2
+semi-directive interviews	2
+field study	2
+risk analysis	2
+multivariable logistic regression	2
+national survey	2
+paper-based and/or computer-based	2
+innovative risk-based approach	2
+modified analytical procedure	2
+additional sample pre-treatment	2
+independent analytical method (direct analysis of GE by HPLC-MS/MS)	2
+AOCS Cd 29a-13 method	2
+universally used statistically robust and less time-consuming classification method	2
+taste ranking information treatment	2
+non-hypothetical choice experiment	2
+larger online survey	2
+first interview study	2
+Hierarchical clustering	2
+sensory study	2
+sequential profiling	2
+qualitative descriptive analysis	2
+reproducible and discriminatory method	2
+session	2
+training	2
+descriptive analysis (Lawless & Heymann, 2010)	2
+digital (Internet-based) testing methodology	2
+citizen science experiment (Experiment 3)	2
+alternative sensorially-driven strategy	2
+differential scanning calorimetry (DSC)	2
+thermo-mechanical analysis (TMA)	2
+confocal Raman spectroscopy imaging	2
+differential scanning calorimeter (DSC)	2
+magnetic resonance spectroscopy (NMR)	2
+artificial neural network (ANN) model	2
+response surface methodology (RSM) model	2
+central composite design (CCD)	2
+solid-liquid extraction	2
+Greenhouse experiments	2
+tracer experiment	2
+centrifuge modelling perspective	2
+Learning theory	2
+Adaptive Resolution Imaging Sonar (ARIS)	2
+Water Framework Directive (WFD)	2
+catchment-scale connectivity modelling	2
+fuzzy logic	2
+Ephemeroptera beraeidae).The analysis	2
+simple newly developed method	2
+ex situ)	2
+separate experiments	2
+UPLC-QToF/MS	2
+international conference	2
+new NFR	2
+authorisation decision	2
+Novel Food Regulation (NFR).Scope	2
+Cold atmospheric pressure plasma (CAPP) and low energy electron beam (LEEB)	2
+European Food Safety Authority (EFSA)	2
+“bottom-up” and the “top-down” approaches	2
+new food labeling system	2
+immunohistochemical method	2
+Microscopic inspection	2
+Immunohistochemical reactions	2
+reverse-transcriptase polymerase chain reaction	2
+Gender analysis	2
+robust tissue culture methodology	2
+next-generation sequencing (NGS)	2
+standardized questionnaire integrated	2
+first cross-boundary effort	2
+virus-indexing procedure	2
+agarose radial diffusion assay	2
+RT-PCR and qPCR analyses	2
+42 in-depth interviews	2
+Bourdieu's theory	2
+fit-for-purpose broadband	2
+Propensity Score Matching	2
+large scale survey	2
+urban-rural analysis	2
+Aristotle's ideas	2
+descriptive cluster analysis	2
+endogenous switching regression approach	2
+different matching techniques	2
+traditional and active interviews	2
+AHRC funded year-long knowledge exchange project	2
+capabilities approach	2
+social justice approach	2
+‘new variant famine’ hypothesis	2
+Risk Based Trading scheme	2
+elements-structure-function”	2
+community resilience framework	2
+art via Liepins' framework (2000a)	2
+one-year experimental study	2
+‘bottom-up’ role	2
+life course perspective	2
+‘deficit model	2
+Anderson's (2010) identification	2
+Transcription-quantitative Polymerase Chain Reaction (RT-qPCR)	2
+electron microscopic studies	2
+situ hybridisation	2
+combination of morphological and NIR spectral approaches	2
+classification method	2
+Partial least squares discriminant analysis	2
+near infrared (NIR) hyperspectral imaging	2
+completely randomized design experiment	2
+1H-NMR spectroscopy	2
+confocal microscopy	2
+ELISA and 1H-NMR spectroscopy	2
+pot-based experiments	2
+FT-IR spectroscopic mapping	2
+HEALTHGRAIN diversity screen	2
+Conditional inference trees analysis	2
+spatial framework	2
+model-based statistical analyses	2
+linear mixed models	2
+leave-field-out procedure	2
+UAV imaging	2
+quantitative approach	2
+researcher-managed)	2
+IR69515-6-KKN-4-UBN-4-2-1-1-1	2
+cultivar superiority measure	2
+panel data approach	2
+AMMI1 biplot analysis	2
+simulation study	2
+trait-based selection	2
+novel experimental approach	2
+ICAR-CSSRI	2
+Indian Council of Agricultural Research-Central Soil Salinity Research Institute (ICAR-CSSRI)	2
+Bayesian inference	2
+comparative analysis	2
+SNP-based method	2
+GCA of multiple traits (HGCAMT) and the SNP-based genetic distance (GD) methods	2
+spatial analyses	2
+single-season study	2
+hybrid approach	2
+co-ancestry mating scheme	2
+molecular markers-based conservation strategy framework	2
+H-test	2
+proposed methodology	2
+extended goal programming method	2
+business-as-usual treatment	2
+Chojnacky et al.	2
+Jenkins et al.	2
+stand density management diagram	2
+before-after control-impact design	2
+radio-tracking and LiDAR	2
+common biomass definition	2
+meta-analytical techniques	2
+Quantitative analyses	2
+geographically weighted regression (GWR)	2
+linear mixed-effects models	2
+three-step approach	2
+first Global Plan of Action	2
+situ methods	2
+simulation based approach	2
+generic equation	2
+first national analysis	2
+SVI runoff classification scheme	2
+USDA-Natural Resource Conservation Service (NRCS) Conservation Effects Assessment Project (CEAP)	2
+stepwise ordinary least square regression (SOLSR) and stepwise principal component regression (SPCR), topography-based models	2
+custom image processing	2
+novel fluorescent videography techniques	2
+Penman–Monteith approach	2
+PDSI method	2
+linear trend analysis	2
+EURO-CORDEX initiative	2
+EC Thematic Strategy	2
+original methods	2
+comprehensive remote sensing and GIS modelling techniques	2
+Generalised Additive Model (GAM)	2
+RUSLE R-factor	2
+relative age dating tool	2
+Schmidt hammer technique	2
+subsequent choice experiment	2
+theory of planned behavior (TPB) and the value belief norm theory (VBN)	2
+Post-Cut	2
+culture, PCR and disk diffusion methods	2
+preliminary GSA	2
+Indirect methods	2
+focused ion beam scanning electron microscopy (FIB-SEM)	2
+X-ray micro-tomography	2
+current friction term discretisation scheme	2
+iteration method	2
+proposed scheme	2
+fully implicit scheme	2
+HLLC Riemann solver and surface reconstruction method (SRM)	2
+overall numerical scheme	2
+explicit finite volume method	2
+anisotropic-DMO	2
+anisotropic dynamic mesh optimization technique (anisotropic-DMO)	2
+adaptive unstructured mesh technique	2
+existing adaptive mesh refinement methods (AMR, locally nested static mesh methods	2
+adaptive isotropic unstructured mesh technique	2
+Lucas–Washburn equation	2
+new scheme	2
+color gradient lattice Boltzmann model (CG-LBM)	2
+nonstationary frequency analysis and modeling	2
+Mann-Kendall, Pettitt	2
+null hypothesis significance tests (NHSTs)	2
+X-ray microtomography (Singh et al., 2016)	2
+Gaussian smoothing	2
+eigenstructure analysis	2
+general Galerkin finite element formulation	2
+existing EDFM approach	2
+Projection-based Embedded Discrete Fracture Model (pEDFM)	2
+stationary variance model	2
+Spatial Simulated Annealing (SSA)	2
+Particle Image Velocimetry (PIV)	2
+frame of Sustainable Development Goal (SDGs) #6	2
+sanitation safety planning (SSP) approach	2
+MS–P approximation	2
+PMM and PUA-hemisphere method	2
+Pore Morphology Method (PMM)	2
+PUA method	2
+Princen (MS–P) approximation	2
+Mayer and Stowe–	2
+Pore Unit Assembly (PUA) method	2
+flow-based method	2
+three-phase segmentation	2
+accurate three-phase segmentation	2
+non-invasively	2
+X-ray tomography	2
+new experimental methodology	2
+Global Flood Awareness System (GloFAS)	2
+physically based approach	2
+open-source DualSPHysics code	2
+synchrotron-based X-ray computed micro-tomography (µCT) imbibition experiment	2
+MW-based adaptivity	2
+SW-RKDG reference scheme	2
+Runge–Kutta Discontinuous Galerkin (RKDG) method	2
+Adaptive meshing techniques	2
+Numerical modelling	2
+Global Land Surface Satellite (GLASS) leaf area index dataset	2
+Variable Infiltration Capacity (VIC) hydrological model	2
+appropriate modeling strategy	2
+dimensionless analysis	2
+dimensional analysis	2
+intra-domain averaging techniques	2
+thek-ωandk-εmodels	2
+newk-ωmodel	2
+turbulence closure schemes	2
+advanced mass spectrometry-based methods	2
+methylation analysis	2
+solid-phase microextraction and gas chromatography-mass spectrometry	2
+headspace analysis	2
+non-destructively	2
+non-destructive manner	2
+hyperspectral imaging (HSI)	2
+sensory test and texture analysis	2
+intervention study	2
+surveillance study	2
+low-field NMR	2
+2D 600 MHz NMR and LC-MS	2
+sample preparation method	2
+High-field and low-field proton NMR spectroscopy	2
+starch digestibility method	2
+associated analytical methodology	2
+anion-exchange chromatography analysis	2
+sequential solubilisation and antibody-based approaches	2
+robust attribute-based sampling plan	2
+step-wise, ‘test-all-positive-gluten’ analytical methodology	2
+three-part study	2
+single kernel measurement	2
+partial least squares (PLS) regression models	2
+push-broom approach	2
+Dumas combustion method	2
+digital imaging	2
+Hyperspectral imaging (HSI) combines Near-infrared (NIR) spectroscopy	2
+Orthogonal projections to latent structures-discriminant analysis (OPLS-DA)	2
+large-scale comparative metabolomics approach	2
+rigorous statistical theory	2
+modified methodology	2
+elemental analysis	2
+high-voltage electrophoresis	2
+14C-radiolabelling	2
+2,6-dichlorophenolindophenol titration	2
+HPLC/ELSD methods	2
+time- and cost-effective technique	2
+HPLC/ELSD method	2
+HPLC/ELSD technique	2
+focused beam reflectance measurement (FBRM)	2
+DNA barcoding	2
+innovative strategy	2
+two tier testing strategy	2
+second method using LC-HRMS	2
+FT-IR screening method	2
+gas chromatography mass spectrometry (GC–MS) with headspace solid phase micro extraction	2
+solid phase micro-extraction gas chromatography mass spectrometry (HS-SPME-GC/MS)	2
+TD-GC–TOF-MS	2
+Partial least squares-linear discriminant analysis (PLS-DA)	2
+atmospheric pressure chemical ionisation-mass spectrometry (APCI-MS)	2
+Headspace techniques	2
+identical US FDA survey	2
+Semi-quantitative methods	2
+Liquid chromatography mass spectrometry (LC–MS)	2
+feasibility study	2
+ICP-MS method	2
+Qualitative descriptive analysis (QDA)	2
+olfactometry/mass spectrometry (GC–O/MS)	2
+Dynamic headspace extraction (DHE), solid-phase extraction (SPE), gas chromatography–mass spectrometry (GC–MS) and gas chromatography–	2
+enzymatic assay	2
+PLS-DA analysis	2
+independent test set PLS-DA analyses	2
+new strategy	2
+chemometrics (PLS-DA)	2
+software	2
+first systematic overview	2
+network leadership	2
+affordances of system analysis tools	2
+participatory design methods	2
+sampling and scaling method	2
+Substance Flow analysis	2
+life cycle analysis (LCA)	2
+multiple regression or scenario analysis	2
+additional statistical methods	2
+sub-national statistical analysis	2
+automatic algorithm	2
+MARS Crop Yield Forecasting System (MCYFS)	2
+linear regression	2
+MARS-Crop Yield Forecasting System (M-CYFS)	2
+Agricultural Innovation Ecosystems approach	2
+Innovation Ecosystems thinking	2
+existing agricultural innovation systems (AIS) approach	2
+crop production and food security-tailored media analysis	2
+first fully automated step	2
+two-step analysis framework	2
+multi-agency early warning initiatives	2
+new early warning decision support system ASAP	2
+Pooled analyses	2
+meta-analytic approach	2
+SA tool design	2
+tool design	2
+fuzzy cognitive mapping, bio-economic whole-farm models	2
+bio-economic modelling	2
+PAM modelling	2
+‘National Soil Inventory’ (NSI)	2
+National Soil Map (Natmap)	2
+pragmatic approach	2
+research method	2
+Phosphate Acceptance Map (PAM)	2
+novel and evidence-based decision support method	2
+decision support tool	2
+holistic, system-wide approach	2
+Qualitative thematic analysis	2
+key informant interviews	2
+value chain mapping approach	2
+dynamic approach	2
+system analysis tools like life cycle assessment (LCA)	2
+LCA modelling approach	2
+crop establishment method	2
+two household surveys	2
+demand-driven approach	2
+value chain mapping framework	2
+five-stage roadmap	2
+Process-based agricultural simulation modelling	2
+tactical, decision-oriented, models	2
+integrated research approach	2
+systems analysis methodology	2
+crop-climate modelling	2
+long-standing approach	2
+UK Climate Change Risk Assessment 2017	2
+AgBiz Logic and TOA-MD	2
+implementation strategy	2
+integrative Life Cycle Assessment in Agriculture (MiLA)	2
+“Model	2
+specific user requirements analysis methodologies	2
+next generation of data, models, and decision support tools	2
+information and communications technology (ICT)	2
+quantitative surveys	2
+qualitative interviews	2
+software-based	2
+Decision support tools	2
+multivariate statistical methodology	2
+four-step analysis	2
+household survey	2
+Agricultural Model Intercomparison and Improvement Project (AgMIP)	2
+“NextGen” study	2
+major advances in data, information and communication technology (ICT)	2
+Household modelling	2
+frontier analysis	2
+three different methods	2
+upstream life cycle assessment (LCA)	2
+Low Carbon Agriculture program (“Programa ABC”	2
+statistical models (climate envelope models (CEMs) and boosted regression trees (BRTs)	2
+seed system design	2
+agricultural systems modeling	2
+Agricultural systems science	2
+system-based analysis approach	2
+International Livestock Research Institute	2
+stochastic frontier analysis	2
+well-established modular crop modeling framework	2
+Sensitivity analysis	2
+long-term coffee agroforestry experiment	2
+bio-economic process modelling	2
+modelling framework	2
+near-infrared spectroscopy (NIRS)	2
+new genomic tool	2
+RNA sequencing	2
+different experiments	2
+EFDs and PCA	2
+SHAPE program	2
+reliable method	2
+HRMC method	2
+evidence-based argument	2
+second trial	2
+precise modeling	2
+Genetic Algorithm	2
+Integral Projection Model (IPM)	2
+Bayesian estimation approach	2
+spatially explicit, process-based model	2
+automated data retrieval	2
+ecoservices post-processer	2
+SWAT watershed model	2
+IEMS	2
+Integrated Ecological Modeling System (IEMS)	2
+formal fitting procedure	2
+ecosystem modelling techniques	2
+individual-based and process-based forest gap model FORMIND	2
+European Union (EU) Marine Strategy Framework Directive (MSFD)	2
+Scenario-analyses	2
+Ecosim software	2
+Many formal statistical techniques	2
+Evolutionary life history theory	2
+carcass monitoring program	2
+ABC model selection	2
+cross-validation	2
+accessible version, rejection-ABC	2
+proposed seasonal calibration scheme	2
+seasonal calibration scheme	2
+Soil and Water Assessment Tool (SWAT)	2
+Cox et al.,	2
+Global Research Alliance Modelling Platform (GRAMP)	2
+event-persistence approach	2
+Hilbert space modeling	2
+Bell's inequality	2
+agent-based approach	2
+energy budget model	2
+energy budget and agent-based models (ABMs)	2
+multi-criteria decision analysis	2
+spatially explicit linked modeling process	2
+beta-diversity ordination	2
+BIO-ENV analysis	2
+T-RFLP analysis	2
+Shannon-Wiener diversity (DGGE-based)	2
+T-RFLP method	2
+DGGE approach	2
+denaturing gradient gel electrophoresis (DGGE) and terminal restriction fragment length polymorphism (T-RFLP)	2
+Principal component analysis and linear regression analysis	2
+ship-based resuspension experiments	2
+two-year mooring deployment	2
+two oceanographic surveys	2
+Heaviside procedure	2
+National Oceanographic and Atmospheric Administration	2
+high resolution sampling program	2
+reverse transcription PCR and real-time quantitative PCR	2
+crossing block trial (CBT)	2
+screen house trial	2
+appropriate evaluation method	2
+new, dual protein technology	2
+proposed new Integrated Pest Management (IPM) tool	2
+commercial-strip trials	2
+BGH trials	2
+expensive and cumbersome long-term in situ experimentation	2
+Modeling approaches	2
+preemergence (PRE) and postemergence (POST) herbicides	2
+Cereal Systems Initiative	2
+newly proposed technique using PLS	2
+conventional MASLT	2
+PLS based MASLT	2
+PCA based MASLT	2
+conventional method, partial least squares (PLS) method	2
+multivariate accelerated shelf life testing (MASLT) approach	2
+chosen methodologies	2
+X-Ray Tomography (XRT)	2
+Scanning Electron Microscopy (SEM)	2
+non-destructive approach	2
+Partial Least Squares regression	2
+Confocal imaging	2
+Internet of Things perspective	2
+video microscopy	2
+X-ray diffraction	2
+Pore et al.	2
+novel confocal laser scanning microscopy	2
+CoE protocol	2
+new European test protocol (CoE protocol)	2
+Chemical Analysis	2
+Electron Spectroscopy	2
+univariate and multivariate approach	2
+vitro Ellman's method	2
+gas chromatography/mass spectrometry (GC/MS)	2
+studies	2
+principal coordinate analysis	2
+unweighted pair group method using arithmetic mean (UPGMA)	2
+Cluster Analysis	2
+transmission electron microscopical observations	2
+Chemical analyses	2
+first survey	2
+two-celled stage	2
+ecological profiles technique	2
+Specht’s (1972) concept	2
+ex Willd	2
+ooreenstemmings-analise [‘detrended correspondence analysis’	2
+die Braun-Blanquet-metode	2
+Braun-Blanquet table method	2
+(kontrole)	2
+Sond.	2
+laag en	2
+S.-Atr.	2
+Sephadex LH-20 chromatography	2
+standardized in vivo method	2
+vivo method	2
+Ecological Profiles Technique	2
+Principal components analysis	2
+quite early	2
+sect.	2
+Braun-Blanquet table-sorting procedure	2
+Braun-Blanquet approach	2
+table-sorting procedure	2
+Braun-Blanquet	2
+pot plant experiments	2
+transmission electron	2
+William Harvey	2
+Two free-space marker procedures	2
+Kinetic analysis	2
+Lineweaver-Burk kinetic analysis	2
+Rayleigh’s test	2
+chi-square goodness of fit test	2
+meiosis analysis	2
+cluster and principal component analysis	2
+ex Harvey	2
+chemical method	2
+root classification scheme of Cannon (1949)	2
+inhibition model	2
+post-fire surveys	2
+nomenclature and taxonomy	2
+nearest neighbour/group mean clustering	2
+principal component analyses (PCA)	2
+acetylene reduction method	2
+Braun – Blanquet type of phytosociological survey	2
+gas analysis	2
+Braun–Blanquet method of table sorting	2
+paper and thin-layer chromatography	2
+second normal pollination	2
+Pandeys’ theory	2
+multi-component theory	2
+Classification and ordination techniques	2
+analysis of variance	2
+Column and thin-layer chromatography	2
+epidemiological study	2
+pivotal genome concept	2
+two-way indicator species analysis and the Braun–Blanquet technique	2
+Factor analysis	2
+10-year control strategy	2
+structural approach	2
+Annual surveys	2
+Zürich–Montpeillier school	2
+phytosociological survey	2
+s.l.	2
+scanning electron microscope	2
+Polhill’s (1976) decision	2
+Comparative GC and MS analyses	2
+litter bag method	2
+Feigl–Anger test	2
+light microscopy and SEM	2
+nearest-neighbour analysis	2
+phenetic analysis	2
+radio-immuno assay	2
+Altered tapping technique	2
+anion exchange chromatography	2
+respiratory study	2
+semivivo technique	2
+Liben’s (1989) concept	2
+Friedman test	2
+first two summers	2
+informal interviews	2
+cytogenetical study	2
+dry-weight-rank method of botanical analysis	2
+Braun-Blanquet method of table sorting	2
+classification	2
+Zürich–Montpellier school	2
+community classification generated using two-way indicator species analysis (Twinspan)	2
+hierarchical syntaxonomic classification	2
+SEM and LM techniques	2
+Wendl.	2
+syntaxonomical study	2
+two separate, but related studies	2
+large-scale phytosociological research programme	2
+comprehensive synecological and syntaxonomical study	2
+ordination algorithm	2
+two separate but related studies	2
+MS analyses	2
+Comparative GC and GC–	2
+bet-hedging strategy	2
+detailed anatomical analysis	2
+HPV method	2
+heat pulse velocity (HPV) technique	2
+computer database program	2
+correspondence analysis	2
+Carbon isotope techniques	2
+scanning electron microscopic	2
+stem-cutting method	2
+ADC 225 MKIII infra-red gas analyser	2
+Chi-squared analysis	2
+litterbag technique	2
+Twinspan and Pctables programs	2
+Phytosociological data analysis	2
+ATPase cytochemistry	2
+energy-dispersive X-ray analysis	2
+Maréchal et al.	2
+Discriminant and correlation analyses	2
+Braun-Blanquet analysis	2
+Detrended Correspondence Analysis ordination technique	2
+internationally accepted algorithms	2
+electron capture gas chromatography	2
+population cytogenetic study	2
+Nearest-neighbour analyses	2
+Detrended Correspondence Analysis, DCA) gradient analyses	2
+Direct (Canonical Correspondence Analysis, CCA) and indirect (	2
+Grassveld Biome Project	2
+Principal-component analyses	2
+different route	2
+co-chromatographing	2
+cytogenetic study	2
+Braun-Blanquet procedure and Variable Quadrant Plot Method	2
+Fitososiologiese en sinekologiese analise	2
+phytosociological and synecologicai analysis	2
+High-performance liquid chromatographic separation	2
+’s en	2
+SEM-fotomikrograwe	2
+Skandeerelektronmikroskoop-studies	2
+Scanning electron microscope	2
+Tweestadium-analise word hiervoor beskryf	2
+Uniter computer program	2
+two-stage analysis	2
+Preliminary cluster and principal component analyses	2
+emergence method	2
+flotation method	2
+taxonomy	2
+vegetation ordination	2
+ordinated using detrended correspondence analysis (DECORANA)	2
+pressure–volume tissue analysis	2
+infra-red gas analysis	2
+multiple regression analysis	2
+indirect gradient analysis	2
+literature survey	2
+herbarium studies	2
+reversed phase-ultra flow liquid chromatographic (RP-UFLC) method	2
+static extraction (SE), continuous shaking extraction (CSE), and ultrasonic extraction (USE)	2
+efficient method	2
+Tetrazolium test (TZ) and asymbiotic germination	2
+commercial micropropagation protocol	2
+standard methods of analysis	2
+serial microdilution assay	2
+analyzed qualitatively and quantitatively using RP-HPLC-DAD method	2
+different time-kill methods	2
+time-kill methodology	2
+rapid radiometric method	2
+agar plate method	2
+second ever isolation	2
+MS spectrometry	2
+agar dilution method	2
+microplate serial dilution method	2
+cyclooxygenase-1 assay	2
+multi-disciplinary research	2
+field survey	2
+GIS analyses	2
+true-to-type culturing protocol	2
+highly reliable and reproducible protocol	2
+manufacturers' protocols	2
+qualitative and quantitative phytochemical analysis	2
+Bioinformatics analyses	2
+factorial experiment	2
+RapidEye-based classifications	2
+Supervised maximum likelihood classification	2
+ion trap-based MS	2
+UPLC-ISCID-MS/MS method	2
+qRT-PCR verification	2
+vivo study	2
+colorimetric MTT (methylthiazoltetrazolium) cytotoxicity assay	2
+reverse-phase HPLC	2
+vacuum liquid chromatography	2
+Bayesian relaxed-clock estimation	2
+reducing power assay	2
+hydrogen peroxide scavenging assay	2
+2,2-diphenyl-1-picrylhydrazyl (DPPH) radical scavenging assay	2
+remotely sensed normalized difference vegetation index (NDVI)	2
+treatment	2
+integrated management approach	2
+Lineweaver–Burke plot	2
+dendrogram of this assay	2
+Random Amplified Microsatellite Polymorphism (RAMP)	2
+energy dispersive x-ray analysis (EDXA)	2
+novel cryopreservation protocol	2
+recent molecular phylogenetic analysis	2
+3*4*2 factorial experiment	2
+stem cutting anatomical analysis	2
+factorial randomized complete block design	2
+electrospray ionization quadrupole time-of-flight mass spectrometry (UHPLC-ESI-qTOF-MS)	2
+Ultra high-performance liquid chromatography	2
+lettuce seedling assay	2
+Salkowski method	2
+fine-scale spatial genetic structure analyses	2
+essential oil analysis	2
+split plot design (two factorial randomized complete block design)	2
+situ studies	2
+software OMNIDIA	2
+Pax.	2
+Liquid chromatography-diode array detection-electrospray ionization-tandem mass spectrometry (LC-DAD-ESIMS/MS)	2
+use-value and informant consensus factor (ICF)	2
+rapid appraisal method	2
+PAGE analysis	2
+SDS–	2
+anion-exchange chromatography	2
+partial mean squares multivariate regression (PLS)	2
+efficient and reliable protocol	2
+Sp)	2
+RACE-PCR-based strategy	2
+clustering and ordination techniques	2
+nationwide survey	2
+DOPE-FISH	2
+L-NAME treatment	2
+checkerboard assay	2
+Broth microdilution method	2
+cost-effective treatment	2
+three post-burn removal methods	2
+inductively coupled plasma mass spectrometry (ICP–MS)	2
+gas chromatography with time of flight mass spectrometry (GC–TOFMS)	2
+head space solid phase microextraction (H/S-SPME)	2
+vitro investigation	2
+modified TWINSPAN classification	2
+Braun–Blanquet approach	2
+barley improvement programs	2
+Field research	2
+Ci model	2
+homology modeling	2
+multiple sequence alignment	2
+I60 or I80 strategy	2
+irrigation experiment	2
+Triton X-100	2
+Gas-chromatogram	2
+mass spectrometer	2
+SSR analysis	2
+maximum parsimony and Bayesian analysis	2
+Nuclear magnetic resonance spectroscopy	2
+Ex.	2
+warring blender method	2
+Statistical analysis	2
+Pearson’s correlation coefficient	2
+modified Checkerboard method	2
+docking analysis	2
+LM and SEM techniques	2
+DCA ordination technique	2
+TWINSPAN classification algorithm	2
+Braun-Blanquet survey and data analysis method	2
+phytosociological study	2
+In-vitro studies	2
+bibliometric review	2
+low pressure liquid chromatography	2
+clonal micropropagation protocol	2
+Suksd.	2
+somatic embryogene-sis method	2
+organogenesis approach	2
+gas exchange and carbon stable isotope composition (δ13C) techniques	2
+light microscopical study	2
+chromatron	2
+silica vacuum chromatography	2
+vegetation type coverage (Low and Rebelo 1996)	2
+EI-MS	2
+1H- and 13C-NMR spectroscopy	2
+Parsimony analysis	2
+comprehensive surveys	2
+applicability of an easy-to-use thin layer chromatographic (TIC) technique	2
+electron-scanning	2
+BBPC package	2
+TWINSPAN and Braun-Bianquet classification procedures	2
+comprehensive vegetation analysis	2
+polythetic divisive classification technique (TWINSPAN)	2
+Braun-Bianquet methods	2
+software package	2
+structured and semi-structured exchange	2
+Bousquet et al.	2
+isolation method	2
+standard methods of numerical vegetation data analysis	2
+mRNA differential display technique	2
+Dye experiments	2
+modified lead precipitation technique	2
+TTC test	2
+Isozyme analysis	2
+DECORANA ordination procedures	2
+TWINSPAN and Braun-Blanquet classification procedures	2
+Braun-Blanquet-technique	2
+Koch’s postulates	2
+applicability of an easy-to-use thin layer chromatographic (TLC) technique	2
+Ex Arn.	2
+Plant Taxonomy	2
+International Association	2
+trial phase	2
+phenetic study	2
+geographic information system (GIS) map	2
+generalised linear models (GLMs)	2
+Acocks’s (1988)	2
+numerical classification technique	2
+revised dispensation	2
+high-resolution field emission scanning electron microscopy	2
+linear regression analysis	2
+direct bioautography on TLC	2
+cell plating technique	2
+X-ray fluorescence	2
+scanning electron and light microscope study	2
+belt transect and line intercept methods	2
+ground-truthing	2
+community composition analysis	2
+pour plate method	2
+pour-plate method	2
+var.	2
+electrophoretic investigation	2
+enzyme electrophoresis	2
+time-course analysis	2
+Evans Blue staining	2
+‘Universal Zonation Scheme	2
+two zonation schemes	2
+objective quantitative approach	2
+Universal Zonation Scheme’	2
+herbarium survey	2
+extensive herbarium survey	2
+separate univariate studies	2
+sledge microtome	2
+freeze microtome	2
+assistance of cluster (SAHN) and principal component analyses	2
+Thompson et al.	2
+GIS techniques	2
+Ground-truthing	2
+SURFACE module	2
+in-depth naturalistic investigation	2
+two inter-related studies	2
+ordination algorithm (DECORANA	2
+scanning electron and light microscopical study	2
+HAPD analysis	2
+Random Amplified Polymorphic DNA (RAPD) approach	2
+cation exchange	2
+Isozyme electrophoresis	2
+harvest and nutrient analysis	2
+re-instated	2
+infra-red gas analyser	2
+Plant Efficiency Analyser	2
+RAPD (random amplified polymorphic DNA) method	2
+two-way indicator species analysis (TWINSPAN) and detrended correspondence analysis (DCA)	2
+hand-pollinated	2
+non-linear neighbourhood model	2
+complementary microscopy technique	2
+non-contact AFM	2
+ordinations and size-class analysis	2
+scanning electron and optical microscopy	2
+Ces.	2
+19F-nuclear magnetic resonance	2
+Lem.	2
+Sephadex LH-20 and HPLC	2
+macromorphological, palynological, rbcL gene sequence studies	2
+van der Westhuizen & Eicker (1994)	2
+situ-hervestiging	2
+Ons analise	2
+dynamic framework	2
+saad.	2
+high-resolution GC-MS	2
+last HPLC purification step	2
+liquid-liquid partitioning	2
+indirect microscopic test	2
+inorganic acid test	2
+pollen viability testing procedure	2
+phytogenetic analysis	2
+Hickey’s terminology (1973)	2
+customary methods	2
+main experiment	2
+multivariate statistical analysis	2
+phytochemical screening	2
+already well-known technique	2
+electron scanning	2
+arbitrarily primed polymerase chain reaction (AP-PCR)	2
+departmental policy	2
+priority ranking scheme	2
+hierarchical priority ranking scheme	2
+better seed sorting technique	2
+cutting method	2
+x-radiography	2
+Chromatographic techniques	2
+VITOTOX® test	2
+comet assay	2
+micronucleus test	2
+chromatographed (TLC)	2
+pre-planting burn	2
+rapid screening technique	2
+HPLC (High Performance Liquid Chromotography) analyses	2
+comprehensive botanical survey	2
+Hori et al.	2
+cladistical analysis	2
+modified DNA extraction procedure	2
+RNA blot hybridisation	2
+HPLC	2
+Character compatibility analysis	2
+UPGMA analyses	2
+effective management tool	2
+‘reverse Northern’ hybridisation analysis	2
+subjective method	2
+geo-referenced	2
+Acocks’ retirement	2
+principles of the method	2
+key experiments	2
+Dynamic Global Vegetation Model (DGVM)	2
+numerical analysis	2
+Subtropical Thicket Ecosystem Planning (STEP) Project	2
+intuitive, expert-based mapping exercise	2
+1:1 000 dilution	2
+micropropagation tool	2
+Thin Layer Chromatography (TLC)	2
+1D-and 2D-NMR (1H-1H COSY, HMQC, HMBC) studies	2
+Long-term (50year) monitoring	2
+trial planting	2
+Principal component analyses	2
+double inoculation method	2
+multiple preparative thin layer chromatography	2
+disc diffusion agar method	2
+Computer analysis	2
+hydroponic culture approach	2
+cone-analysis study	2
+Cox-1 anti-inflammatory assay	2
+marker generating strategy	2
+statistical methods	2
+RFLP approach	2
+SSH and cDNA-AFLP differential display	2
+Different molecular DNA-based marker techniques	2
+representational difference analysis or suppression subtractive hybridisation analysis	2
+cDNA-amplified fragment length polymorphism	2
+cutting-edge concept	2
+Different in vitro	2
+polyfarm concept	2
+advanced techniques	2
+smoke-over-fire storage method	2
+Nuclear Magnetic Resonance (NMR) and Mass Spectroscopy (MS)	2
+APCI–MS	2
+two techniques	2
+Mass Spectrometry (GC–MS)	2
+Gas Chromatograph	2
+Atmospheric Pressure Chemical Ionisation–Mass Spectrometry (APCI–MS)	2
+EDX analysis	2
+Energy dispersive x-ray analysis (EDX) and atomic absorption spectrometry (AA)	2
+Restriction Fragment Length Polymorphisms (RFLPs)	2
+DNA-based identification	2
+AA application	2
+radioimmunoassay (RIA) and tritium labelling techniques	2
+gas chromatography–mass spectrometry (GC-MS)	2
+headspace adsorption	2
+revised system	2
+maximum parsimony and (or) maximum likelihood methods	2
+microtitre plate assays	2
+thin- layer chromatography (TLC)	2
+bioactivity-guided fractionation	2
+gas chromatography and mass spectrometry	2
+twelve month experiment	2
+three-to-six months	2
+'synanthium' hypothesis	2
+Canonical Correlation Analysis	2
+computer package TWINSPAN	2
+disk diffusion method	2
+three-year microcosm experiment	2
+contemporary methodology	2
+multivariate classification (TWINSPAN) and ordination (Detrended Correspondence Analysis) techniques	2
+seedling emergence method	2
+isoelectric focusing (IEF)	2
+5–20% sodium dodecyl sulfate gradient polyacrylamide gel electrophoresis (SDS-gradient PAGE)	2
+Preliminary screening	2
+spectral techniques	2
+sodium dodecyl sulphate polycrylamide gel electro- phoresis comparisons	2
+Detrended Correspondence Analysis (DCA)	2
+fence-line approach	2
+Discriminant canonical analysis	2
+Co-chromatography	2
+diode array analysis	2
+Fraction analysis	2
+neutron hydroprobe	2
+Thin layer chromatography	2
+trial	2
+eight-year study	2
+less disruptive method	2
+discontinuous density gradient centrifugation	2
+split-plot design	2
+agar diffusion and microtitre serial dilution tests	2
+simple, rapid and accurate HPLC method	2
+FTIR analysis	2
+Fourier transform infrared (FTIR) spectral analysis	2
+energy-dispersive X-ray (EDX) analysis	2
+Bayesian structure analysis and non-Bayesian recollection approach	2
+Principal coordinate analysis (PCoA) and cluster based grouping	2
+SAFARI 2000 program	2
+detailed community study	2
+UPLC-qTOF-MS/MS	2
+pressurized hot water extraction (PHWE) technology	2
+–mass spectrometry (GC-MS) analysis	2
+2,2-diphenyl-1-picrylhydrazyl (DPPH),	2
+solvent extraction method	2
+CD and mass spectrometry	2
+1D and 2D NMR	2
+co-	2
+double reciprocal Lineweaver–Burk plot	2
+previously validated reversed phase high performance liquid chromatography with diode array detection (RP-HPLC-DAD) method	2
+efficient and reproducible regeneration protocol	2
+Several three- to five-factor interventions	2
+serial microdilution method	2
+egg hatch assay	2
+polymerase chain reaction (PCR)	2
+vitro study	2
+canonical correspondence analysis	2
+PCR, Southern blot, and RT-PCR analysis	2
+regeneration method	2
+tetrazolium violet based broth microdilution method	2
+arithmetic mean	2
+un-weighted pair group method	2
+HPLC-PAD	2
+Quantitative RT-PCR analysis	2
+simple two-step pathway	2
+checklist interview	2
+administered semi-structured interviews	2
+general non-probabilistic household sampling	2
+gas chromatography-mass spectrometry (GC-MS)	2
+standardised method	2
+Remote video camera footage and field observations	2
+HPLC-RID	2
+phylogenetic approach	2
+Folin-Ciocalteau method	2
+pH. Hierarchical cluster analysis	2
+multimetric and stable isotope analyses	2
+mixed linear model (MLM) approach	2
+Population structure analysis using STRUCTURE software	2
+1, 2, 3 & 4h) technique	2
+discriminant function analysis model	2
+ex vitro rooting method	2
+efficient micropropagation protocol	2
+World Health Organization guidelines	2
+X-ray crystallographic analysis	2
+microscopy and high performance thin layer chromatography methods	2
+polymerase chain reaction (PCR) and reverse transcription-PCR	2
+GC–MS and HS-SPME-GC–MS	2
+glasshouse experiment	2
+Trait analysis	2
+emerging alternative states paradigm	2
+proteomic approach	2
+(LC–MS/MS) analyses	2
+Two dimension difference gel electrophoresis (2D-DIGE) and liquid chromatography–tandem mass spectrometry	2
+transmission electronic microscopy (TEM)	2
+leaf-level experiments	2
+Indicator Species Analysis	2
+Wilcoxon rank sum test	2
+polynomial-contrast ANOVA	2
+biome-level strategies	2
+classification tree analysis	2
+serial microplate dilution technique	2
+cell based-assay (WS-1)	2
+oxygen radical absorbance capacity (ORAC method)	2
+preliminary experiment	2
+GC-FID and GC–MS	2
+field verification experiment	2
+phytochemical analysis	2
+GC Q-TOF MS analysis	2
+GC Q-TOF MS	2
+depth chemical profiling	2
+stereoscopic microscopy	2
+landscape unit concept	2
+LC-MS determination	2
+cytokinin analysis	2
+agar-well diffusion and the micro-dilution methods	2
+radical scavenging capacity assay, and ferric reducing antioxidant potential (FRAP) assay	2
+mass and various nuclear magnetic resonance spectroscopic techniques	2
+Inductively Coupled Plasma-Optical Emission Spectroscopy	2
+fully reciprocal transplant approach	2
+pot culture experiment	2
+floral dip method	2
+GCMS trace analysis	2
+Capacity-building initiatives	2
+online Qualtrics questionnaire	2
+global survey	2
+new Nagoya Protocol	2
+cross-sectional X-ray energy dispersive spectrum microanalysis	2
+Semi structured questionnaire method	2
+efficient in vitro plant regeneration protocol	2
+LC/MS analyses	2
+following equation	2
+TLC and LC/MS analyses	2
+Jaccard's coefficient	2
+dendrogram	2
+DNA barcoding technique	2
+unweighted pair-group method with arithmetic averaging (UPGMA)	2
+non-mutagenic	2
+floristic analysis	2
+Dionex DX-120 Ion Chromatograph	2
+Sequence similarity analyses	2
+sampling survey	2
+micro dilution technique	2
+combined experiments	2
+random amplification of polymorphic DNA (RAPD) analysis	2
+chromosome counting	2
+trnS–	2
+replicated trial	2
+orthogonal projection to latent structures discriminant analysis	2
+sequencing	2
+chemical and spectroscopic methods	2
+-depth studies	2
+HPAEC-PAD	2
+HPLC-PAD analysis	2
+canonical discriminant analysis	2
+GC-FID and GC/MS	2
+HPLC and LC-ESI-MS	2
+omission and ROC analysis	2
+agar well diffusion method	2
+Real-time fluorescence quantitative PCR	2
+map-based cloning	2
+Electron microscopic examination	2
+ethyl methane sulfonate (EMS)	2
+ANOVA	2
+pre-column derivatization-HPLC	2
+phenol-sulfuric acid method and 3, 5-dinitrosalicylic (DNS) colorimetric method	2
+species-level phylogeny	2
+practical and sensitive in vivo screening test	2
+vivo quantification	2
+Whole-range assessment method (WESIA software)	2
+Species distribution modelling	2
+LC–ESI–	2
+Karyotype analysis	2
+current survey	2
+purposively interviewed	2
+streak plate techniques	2
+2-year study	2
+efficient in vitro propagation protocol	2
+TaqMan-based real-time polymerase chain reaction	2
+controlled UV-B experiments	2
+1H NMR and 13C-NMR	2
+distance sampling technique	2
+long-term monitoring	2
+non-invasive tail-cuff methods	2
+AKR-overexpression	2
+plausible technique	2
+histological and scanning electron microscopic studies	2
+Growth chamber experiments	2
+minimum inhibitory concentration (MIC) assay	2
+l-DOPA method	2
+Combi PAL System technique	2
+HS (headspace)-GC–MS	2
+Hierarchical cluster analysis	2
+Inductively Coupled Plasma Optical Emission Spectroscopy (ICP-OES)	2
+microwave acid-assisted digestion	2
+bio-guided fractionation	2
+microatmosphere and microdilution method	2
+silico study	2
+Computational molecular docking	2
+RT-PCR.ResultsThe	2
+western blotting	2
+acridine orange (AO)/ethidium bromide (EB) double staining and flow cytometry	2
+lactate dehydrogenase (LDH) leakage assay	2
+3-(4,5-dimethylthiazol-2-yl)-2,5-diphenyltetrazolium bromide (MTT) assay	2
+NMR and MS analysis	2
+updated taxonomy	2
+2-season orchard trial	2
+LC-ESI–	2
+traditional methods	2
+plaque reduction test	2
+correlative approach	2
+vitro short-term storage method	2
+gas chromatography coupled to mass spectrometry (GC–MS)	2
+factorial germination experiment	2
+hydrogen atom transfer (HAT) (β-carotene/linoleic acid assay) reaction-based assay	2
+single electron transfer (SET) (2,2′-diphenylpicrylhydrazyl (DPPH) free radical scavenging assay and ferric reducing antioxidant power (FRAP) reaction based assays	2
+COX-2 assay	2
+COX-1 assay	2
+X-ray crystallography	2
+silico cloning and reverse transcription (RT-PCR) approaches	2
+comprehensive structure activity relationship studies (SAR)	2
+ultraviolet (UV), mass spectroscopy (MS), one dimension (1D) and two dimension (2D) nuclear magnetic resonance (NMR) spectroscopy	2
+chromatographic and spectroscopic methods	2
+tissue culture production method	2
+radial diffusion method	2
+literature study	2
+Spectrometric analyses	2
+Diversity analyses	2
+volumetric pixel (voxel) approach	2
+high performance liquid chromatography (HPLC)-based activity profiling	2
+whole-mount confocal microscopy	2
+high-throughput technique	2
+vivo efficacy	2
+polarization-optical differential interference contrast microscopy	2
+PCR–RFLP technique	2
+Restriction Fragment Length Polymorphism)	2
+PCR–RFLP (Polymerase Chain Reaction–	2
+preliminary HPLC–DAD	2
+Bray–Curtis similarity measure	2
+Flexible beta clustering (β=−0.25)	2
+existing South African National Forest Classification (NFC)	2
+headspace solid-phase microextraction (HS-SPME) and gas chromatography–mass spectrometry (GC-MS)	2
+established protocol	2
+bio-guided chromatographic fractionation	2
+NMR techniques	2
+growth chamber experiment	2
+primary pot experiment	2
+Sowemimo et al.	2
+L9 (33) orthogonal test	2
+multi-locus phylogeography	2
+ensemble species distribution modelling	2
+repetitive preparatory TLC and HPLC	2
+Cuatr.	2
+separate ETS and ITS1 analyses	2
+Maximum-likelihood phylogenetic analysis	2
+new phylogeny	2
+HPLC/PDA	2
+new classification	2
+up-to-date survey	2
+completely randomized design	2
+greenhouse experiment	2
+Three Gorges Project	2
+2-year field experiment	2
+quantitative real-time PCR (qRT-PCR) analysis	2
+integrated analysis	2
+multi-analysis approach	2
+In-vitro	2
+five-marker analysis	2
+recently developed maximum likelihood and Bayesian methods	2
+parsimony method	2
+phylogenetic analyses	2
+Cytoembryological analysis	2
+screening strategy	2
+clade-based system	2
+new Linnaean classification	2
+draft International Code of Phylogenetic Nomenclature or “PhyloCode”	2
+coalescent-based species tree approach	2
+“next-generation” sequencing	2
+restriction enzyme mapping	2
+first International Legume Conference	2
+community phylogenetic approach	2
+detailed ontogenetic and morphologic analysis	2
+fluorescence microscopic examination	2
+nail impression, and clearing/differential interference contrast microscope (clearing/DIC) method	2
+three traditional methods	2
+species distribution modelling techniques	2
+liquid chromatography-UV spectrophotometry-mass spectrometry	2
+data capture questionnaire	2
+better resolved phylogeny	2
+new comprehensive Bayesian phylogenetic analysis	2
+improved protocol	2
+new site-level comparison	2
+1D- and 2D-NMR	2
+stepwise procedure	2
+phenetic algorithm	2
+numerical phenetic analysis	2
+Urb.	2
+HPLC-DAD–	2
+vitro mutagenesis	2
+GA analysis	2
+South African National Forest Act (NFA)	2
+pollinator exclusion experiment	2
+microdilution technique	2
+transcriptome analysis	2
+inference	2
+ABTS assay	2
+accelerated approach	2
+correlation plot	2
+biological analysis and ultra performance liquid chromatography (UPLC) time-of-flight (TOF) analysis	2
+semi-preparative high performance liquid chromatography (HPLC) fractionation	2
+cell-based assay	2
+transmission and scanning electron	2
+bioassay experiment	2
+EDX) analysis	2
+Using energy dispersive X-ray spectrometry (	2
+integrated management strategy	2
+p<0.05, Kruskal–Wallis)	2
+SDS-PAGE analysis	2
+sweet potato improvement program	2
+multivariate cluster analysis	2
+TUNEL assay	2
+International Seed Testing Association (ISTA)	2
+amplified fragment length polymorphism (AFLP)	2
+Soil analyses	2
+semi-quantitative RT-PCR technique	2
+detailed statistical analysis	2
+powerful expression profiling methodology	2
+vitro experiment	2
+reverse transcription-polymerase chain reaction and real-time quantitative RT-PCR	2
+simple TLC test	2
+simple quantitative TLC dilution method	2
+principal component analysis (PCA) and partial least square discriminant analysis (PLS-DA)	2
+NIR spectroscopy calibration	2
+AlCl3 colorimetric method	2
+aluminium chloride complexation and near infrared (NIR) spectroscopy	2
+rapid screening methods	2
+Metabolomic approaches	2
+applying orthogonal partial least squares discriminant analysis (OPLS-DA)	2
+liquid chromatography mass spectrometry (LC–MS)	2
+preliminary LC-MS survey	2
+bioclimatic niche modelling	2
+Formal risk assessment	2
+early protein electrophoresis studies	2
+via HPLC	2
+cladistics analysis	2
+MS chromatograms	2
+HPTLC and LC–	2
+NIR hyperspectral imaging	2
+proton nuclear magnetic (1H NMR) spectroscopy	2
+high performance thin layer chromatography (HPTLC), liquid chromatography coupled to mass spectrometry (LC–MS), Fourier transform near infrared (FT-NIR), Fourier transform mid infrared (FT-MIR) spectroscopy	2
+fast accurate quality control method	2
+NMR and LC NMR	2
+structure elucidation	2
+preparative HPLC	2
+Fast Centrifugal Partition Chromatography (FCPC)	2
+High Temperature Liquid Chromatography (HTLC)-coupled sensory-guided analysis	2
+Inductively Coupled Plasma-Optical Emission Spectrophotometry (ICP-OES)	2
+mass spectroscopic techniques	2
+high field 2D NMR	2
+silica gel column chromatography	2
+robust, rapid and reliable screening technique	2
+Follow up research	2
+chromatographic methods	2
+RP‐UHPLC PDA and GC–	2
+RP‐UHPLC PDA analyses	2
+Regression analyses	2
+RP‐UHPLC PDA analysis	2
+validated reversed phase ultra performance liquid chromatography with photodiode array detector (RP‐UHPLC PDA) and gas chromatography coupled to mass spectrometry (GC–MS) methods	2
+in-depth research	2
+Editor-in-Chief	2
+multivariate data analysis	2
+nuclear magnetic resonance analysis	2
+experimental methodology	2
+non-destructive	2
+gas chromatography–mass spectroscopy	2
+nuclear magnetic resonance	2
+Nuclear magnetic resonance-based metabolomics	2
+Plant-based nuclear magnetic resonance metabolomics	2
+laboratory-based experiments	2
+Student's t-tests	2
+correspondence analysis (CA) and principal component analysis (PCA)	2
+Multivariate analyses	2
+ammonium thiocyanate method	2
+ABTS test	2
+Southern blot hybridization analysis	2
+PCR and Southern blot hybridization procedures	2
+“comet assay	2
+improved protocols	2
+Quantitative Real Time-PCR (qRT-PCR)	2
+BLAST analysis	2
+Suppression subtractive hybridization (SSH)	2
+simulated cattle consumption experiment	2
+Hoagland's nutrient solution (HS)].	2
+Fluorescent microscopy	2
+grid and random sampling)	2
+seed bank studies	2
+DPPH assay-directed fractionation	2
+taxonomic study	2
+HPLC identification	2
+spectrometric methods	2
+Confocal and RNA blotting analyses	2
+Patents Amendment Act	2
+Patents Act	2
+Smoke-technology	2
+Dahlg.	2
+guided field walks	2
+Semi-structured interviewees	2
+plant biotechnology research	2
+National Biotechnology Strategy	2
+specially designed size class chart	2
+electron-microscopic observations	2
+glasshouse study	2
+ICP-OES	2
+optimized cetyltrimethylammonium bromide (CTAB)-based RNA extraction protocol	2
+previous morphometric study	2
+fully-resolved phylogenetic hypothesis	2
+embryological analysis	2
+microsporogenesis analysis	2
+formazan salt (XTT tetrazolium) reduction assay	2
+“Ames test	2
+new quantitative method	2
+Matrix Method	2
+rapid appraisal methodology	2
+wide-field fluorescence	2
+maximum parsimony and Bayesian inference	2
+gas chromatography (GC) and gas chromatography-mass spectrometry (GC–MS)	2
+Ellman colorimetric method	2
+Jacquin)	2
+epithet ‘varius’	2
+detailed chromosome study	2
+ESEM studies	2
+environmental scanning electron microscopy (ESEM)	2
+vitrification method	2
+droplet-vitrification method	2
+effective techniques	2
+Spectrophotometric methods	2
+event	2
+Reverse transcription-PCR analysis	2
+DPPH radical scavenging method	2
+agar well diffusion and broth microdilution techniques	2
+total iridoid (colorimetric method)	2
+gas chromatograph–mass spectrometer (GC–MS) and miniature temperature data loggers (ibuttons)	2
+(NMDS) analyses	2
+headspace sampling	2
+minimum inhibitory concentration (MIC) microtitre plate method	2
+ethno-ecological study	2
+non-metric multidimensional scaling (NMDS)	2
+coupled gas chromatography–mass spectrometry (GC–MS)	2
+dynamic headspace extraction methods	2
+headspace and gas chromatography mass spectrometry methods	2
+GC–FID and GC–MS	2
+microbroth dilutions technique	2
+DPPH method	2
+gas chromatography-mass spectrometry (GC–MS) and assays	2
+Maximum parsimony analyses	2
+MIR spectroscopy	2
+PLS algorithms	2
+OPLS-DA technique	2
+orthogonal partial least squares discriminant analysis (OPLS-DA)	2
+vibrational spectroscopy techniques	2
+extensive floristic survey	2
+RT)-PCR analysis	2
+Reverse transcription (	2
+Polymerase chain reaction (PCR) and Southern blot analysis	2
+Agrobacterium-mediated protocol	2
+‘initial floristic composition’ model	2
+Principal Co-ordinate Analysis ordinations	2
+ecological niche modelling	2
+headspace profiling using GC-FID and GC-MS analysis	2
+confocal scanning laser microscopy	2
+crystal violet assay	2
+DPPH assay and Folin–Ciocalteau colorimetric method	2
+HIV-RT assay	2
+broth micro-dilution assay	2
+2,2-diphenylpycrylhydrazyl (DPPH) method	2
+ad hoc conservation planning	2
+crown gall tumor assay	2
+microplate alamar blue assay (MABA) and the broth microdilution method	2
+detailed histological study	2
+pollen load analyses	2
+1H-NMR	2
+HPLC-UV	2
+liquid–liquid partitioning	2
+semiquantitative reverse transcription-polymerase chain reaction (RT-PCR)	2
+single foliar application	2
+Stepwise regression analysis	2
+cost-effective isolation protocol	2
+seedling-emergence method	2
+stem diameter and tree height class analysis	2
+FRAP assay	2
+Cytological studies	2
+simple and efficient protocol	2
+Fitch optimization	2
+Various recombination detection algorithms	2
+parsimony, maximum likelihood, and Bayesian-inference approaches	2
+Scanning Electron Microscopy	2
+Scanning Electron Microscopy (SEM) studies	2
+quantitative LC–MS analyses	2
+preparative thin layer chromatography (TLC)	2
+liquid chromatography coupled to mass spectrometry (LC–MS)	2
+High performance thin layer chromatography (HPTLC) analysis	2
+test	2
+neutral red uptake (NRU) assay	2
+agar disc diffusion methods	2
+microplate Alamar Blue assay (MABA)	2
+broth microdilution	2
+Vogel's observations	2
+sensitive direct thermal desorption method	2
+Nearest neighbour and Gabriel connectedness analyses	2
+pollen-supplementation experiment	2
+Darwin's hypothesis	2
+molecular techniques	2
+transdisciplinary approach	2
+High performance liquid chromatography analyses	2
+colour spectrum analyses	2
+serial dilution microplate technique	2
+DNA sequence analyses	2
+World Health Organization guideline	2
+combination (isobologram ratio method	2
+ultraviolet detector (LC-UV) and a mass spectrometer (LC-MS)	2
+principal component analysis (PCO), UPGMA cluster analysis	2
+capillary electrophoresis fingerprint method	2
+functional SERT inhibition assay	2
+1H NMR	2
+HPLC–UV separation	2
+well micro-dilution	2
+thin layer chromatography (TLC)	2
+Two ordination methods, i.e. Principal Coordinate Analysis (PCO) and Principal Component Analysis (PCA)	2
+Unweighted Pair-group Method Arithmetic Average (UPGMA) algorithm	2
+optimized protocol	2
+Various experiments	2
+molecular approach	2
+DNA sequence-based analyses	2
+micro-dilution assays	2
+energy dispersive X-ray analysis	2
+tree-inventory	2
+gas chromatography coupled to mass spectrometry (GC-MS)	2
+solid phase micro-extraction (SPME)	2
+PCR gel electrophoresis	2
+modified CTAB protocol	2
+cetyl-trimethyl ammonium bromide (CTAB)-based protocol	2
+Coalescent modelling	2
+effective in vitro conservation technique	2
+rapid and highly efficient protocol	2
+regeneration protocol	2
+homologous sequence method	2
+Correspondence analysis	2
+non-selective	2
+Principal component and cluster analyses	2
+Photodiode Array Detector (PDA)	2
+RAPD approach	2
+Transmission Electron Microscopy (TEM)	2
+Agar diffusion assay	2
+long-term plan	2
+census	2
+summer fire	2
+widely used “Fell & Burn” method	2
+Fell & Remove treatment	2
+(WfW) Programme	2
+follow-up treatments	2
+improved IAP clearing protocols	2
+Working for Water Programme (WfW)	2
+strategic application	2
+seedling emergence approach	2
+(WfW) Program	2
+Southern hybridization	2
+dendrogram generated using the Unweighted Pair Group Method using Arithmetic Averages (UPGMA)	2
+geographical survey	2
+Treatment 2	2
+broth micro-dilution methods	2
+cyclooxygenase (COX-1 and COX-2) and broth micro-dilution assays	2
+mean infection percentage method	2
+AMF infectivity study	2
+situ experiment	2
+solid phase micro-extraction (SPME) and GC–MS	2
+International Seed Testing Association (ISTA) rules	2
+preliminary survey	2
+Ethnobotanical surveys	2
+sensitive LC–MS method	2
+principle component analysis (PCA)	2
+rapid NMR targeted metabolomics approach	2
+Salmonella typhimurium assay	2
+polyphasic approach	2
+simple micropropagation and a cost-effective cold storage protocol	2
+71-month survey	2
+ethnobotanical and ethnopharmacological survey	2
+Two-way analysis of variance	2
+2,2-diphenyl-1-picrylhydrazyl (DPPH) assay	2
+48 h extract	2
+rapid screening device	2
+high-capacity headspace sample enrichment probe (SEP)	2
+divergence-before-duplication model	2
+Motif analysis	2
+combined iterative data-mining approaches	2
+post-harvest treatments	2
+split-plot replicated design	2
+pot trial	2
+multifactor experiment	2
+light, fluorescence	2
+minimum inhibitory concentration (MIC) method	2
+microdilution broth technique	2
+gas chromatography (GC) and gas chromatography–mass spectrometry (GC/MS) methods	2
+hydrodistillation (HD) and microdistillation (MD) techniques	2
+micro-dilution and respiratory BACTEC method	2
+Cluster Analysis and Principal Coordinates Analysis	2
+database search	2
+reverse-northern blot	2
+differential display technique	2
+chemically and microbiologically	2
+seasonal variation study	2
+water-irrigation periodically	2
+mixed model ANOVA approach	2
+Microarray expression profiling	2
+TA 98	2
+well micro-dilution methods	2
+isobologram analysis	2
+statistically significant two-component model (R2=0.81, p<0.003)	2
+Stepwise multiple linear regression analysis	2
+computer-based quantitative structure–activity relationship (QSAR) study	2
+effective propagation protocol	2
+logistic regression	2
+Logistic regression and Canonical Community Analysis	2
+ordination analysis	2
+natural 15N abundance technique	2
+[14C]-PER exposure experiments	2
+rapid micropropagation protocol	2
+1D and 2D NMR techniques	2
+CD spectroscopy	2
+Stepwise regression	2
+Analysis of molecular variance (AMOVA)	2
+random amplified polymorphic DNA (RAPD) analysis	2
+original classification	2
+new method, total indicator value analysis	2
+Dufrêne and Legendre's indictor value method (IVM)	2
+total indicator value method TIVM	2
+TWINSPAN analysis	2
+group prediction technique	2
+distance methods	2
+RAPD technique	2
+cyclooxygenase assay (COX-1)	2
+2,2, diphenyl-1-picryhydrazyl (DPPH) radical scavenging method	2
+multiple variable regression analysis	2
+improved NMR	2
+mRNA differential display reverse transcriptase polymerase chain reaction	2
+Western Blot analysis	2
+Southern Blot analysis	2
+GUS assay	2
+analysis of molecular variance (AMOVA)	2
+‘structuring-by-distance’ model	2
+embryo rescue protocol	2
+experimental trials	2
+ICP-ES	2
+inductively coupled plasma emission spectrometry (ICP-ES)	2
+histochemical tests	2
+stereological method	2
+light and fluorescence microscopy	2
+floristic–sociological classification	2
+reliable and high-resolution methods	2
+spectroscopic analysis	2
+simple exclusion experiment	2
+GC/MS analysis	2
+Soil seed bank sampling	2
+One-way ANOVA	2
+Canonical Correspondence Analysis (CCA)	2
+Quantity One computer package	2
+SDS-PAGE	2
+BACTEC method	2
+agar dilution	2
+model and ring-type based QSAR analysis	2
+Multiple linear regression analysis	2
+Quantitative structure–activity relationship (QSAR)	2
+insect feeding assays	2
+Western blot and ELISA)	2
+Dot blot	2
+molecular analysis (PCR	2
+low cost micropropagation procedure	2
+RAPD) analysis	2
+Ultrastructural examination	2
+sensitive, simple and accurate high-performance liquid chromatographic (HPLC) method	2
+manufacturer's (Nitragen [Lymphatec]) specifications	2
+multivariate ordination and classification techniques	2
+Two hundred and twenty-five surveys	2
+Generalized linear mixed models	2
+intervention	2
+stepped wedge randomized controlled pilot trial	2
+randomised-controlled design	2
+social-norms intervention	2
+ecological approach	2
+ad libitum	2
+Trim and Fill analysis	2
+random effects meta-analysis	2
+fourth and final test session	2
+plate waste method	2
+randomised cross-over design	2
+free-living	2
+between-subjects design studies	2
+thematic analysis of semi-structured interviews	2
+individual in-depth interviews	2
+Qualitative research methods	2
+systematic review protocol	2
+comprehensive search strategy	2
+Study 2	2
+ISRCTN (Study 1 reference	2
+four-week intervention and field experiment	2
+nutrition labelling intervention trial	2
+four-week intervention	2
+post-hoc analysis	2
+four-week randomised, controlled trial	2
+Starlight study	2
+EBA paradigm	2
+3-week study	2
+associative learning paradigms	2
+card-based task	2
+post-training real food choice task	2
+choice task	2
+non-food control game	2
+hypothetical food choice task	2
+No-Go task	2
+Multiple linear regression analyses	2
+Food Frequency Questionnaire	2
+paper-based questionnaire	2
+cross-sectional in design	2
+Peer-reviewed studies	2
+online survey	2
+prospective design	2
+Temporal Self-Regulation Theory (TST)	2
+acute, double-blind, placebo-controlled, randomized, and crossover trial	2
+Bayesian inferential analyses	2
+tracking procedure	2
+modified stop-signal training task	2
+modified version of either the stop-signal or go	2
+third party adjudication	2
+US Army's Ranger Selection and Assessment Program (RASP).MethodsDuring this high-intensity six-week course	2
+(DFP) methodology	2
+digital food photography	2
+Dutch Eating Behaviour Questionnaire (DEBQ)	2
+randomized three-way crossover study	2
+population-based study	2
+cross-over study	2
+cross-over design	2
+PCA and CFA results	2
+two week test-retest	2
+AEBQ in Sample 1 and confirmatory factor analysis (CFA)	2
+self-report Adult Eating Behaviour Questionnaire (AEBQ)	2
+CEBQ	2
+validated parent-report measure	2
+Child Eating Behaviour Questionnaire (CEBQ)	2
+2008 Feeding Infants and Toddlers Study (FITS)	2
+Three experiments	2
+descriptive social norm-based messages	2
+pooled analysis	2
+implicit association tests	2
+random-effects generic inverse variance meta-analysis	2
+meta-analytic investigation	2
+in-depth interviews	2
+UK Avon Longitudinal Study	2
+Child Feeding Questionnaire	2
+Children's Eating Behaviour Questionnaire	2
+pre-to post-intervention week	2
+pre-intervention screening	2
+2005 UK Time-Use Survey	2
+nationally recommended front-of-pack labelling	2
+explicit choice task selection	2
+between-subjects experiment	2
+subsequent forced choice task	2
+two studies (Study	2
+heuristic, or ‘cognitive shortcut	2
+linear regression approach	2
+Meta-analyses	2
+PRISMA methodology	2
+systematic review and meta-analysis	2
+stop- vs. double-response training	2
+double-response training	2
+one key-press	2
+(two key-presses) response training	2
+stop-signal task	2
+three experiments	2
+Computerised response-inhibition training	2
+joint F-test	2
+seven provider behavior guidelines	2
+mailed survey	2
+explicit liking analyses	2
+implicit liking analyses	2
+hands-on activities	2
+subsequent mealtime taste test	2
+postal Health and Life Experiences Questionnaire (1996–2000) and Food Frequency Questionnaire	2
+Cross-sectional study	2
+2 h-scheduled feed	2
+1982 Winter Food Directive	2
+negative binomial regression	2
+DSM-IV-TR criteria	2
+cross-sectional case-control comparison	2
+repeated exposure, randomized, cross-over quasi-experimental study	2
+drought.•A USDA Southwest Climate Hub-sponsored workshop	2
+strategic approach	2
+adaptive methods	2
+Lakota philosophy	2
+management framework	2
+standard culture method	2
+lateral flow test strip assay	2
+ISO16140:2003 procedures	2
+standard modified Charcoal Cefoperazone Deoxycholate Agar (mCCDA) method	2
+bench-marked	2
+developed assay	2
+whole genome sequencing (WGS) based sequence analysis	2
+25-MLSA approach	2
+multiplex endpoint PCR assay	2
+bright field and electron microscopy analysis	2
+Transcriptome analysis	2
+comparative gene profiling and phenotyping approach	2
+metagenomic and metatranscriptomic analysis	2
+omics methods	2
+comparative genomics	2
+standardised and scalable typing method	2
+whole genome MLST (wgMLST) analysis	2
+original SNP-based analysis	2
+cgMLST analysis	2
+single nucleotide polymorphism (SNP)-based approaches	2
+high-resolution reproducible typing	2
+core genome multilocus typing (cgMLST) scheme	2
+XbaI-PFGE	2
+pulsed-field gel electrophoresis (PFGE)	2
+Quantitative real-time PCR and liquid chromatography double mass spectrometry	2
+rtPCR and GCMS	2
+balance index	2
+combined analysis	2
+exploratory analysis	2
+network analysis	2
+four chambered CPP test	2
+usual CPP paradigm	2
+novel, four-chambered CPP test	2
+Conditioned Place Preference (CPP) test	2
+new, comparative science	2
+pre-surgery	2
+previously validated behaviour-based method	2
+mouse grimace scale	2
+mouse grimace scale (MGS)	2
+vivo research	2
+multivariable linear and logistic regression techniques	2
+Generalised Procrustes Analysis	2
+Free Choice Profiling (FCP) methodology	2
+‘whole animal’ methodology	2
+refined analysis	2
+multi-scale management approach	2
+agri-environment scheme (AES) prescriptions	2
+Pan-European concept	2
+Annual farm Nutrient Cycle Assessment (ANCA)	2
+split-plot arranged in randomized complete block design	2
+P 	2
+agronomic approach	2
+robust approach	2
+single non-replicate trial	2
+Markov Chain Monte Carlo simulations	2
+practice-oriented guidelines	2
+long term experiment	2
+three-year experiment	2
+Matrix-Assisted Laser Desorption Ionization Time-of-Flight Mass Spectrometry (MALDI-TOF MS)	2
+analytical method	2
+global review and meta-analysis	2
+IB-AWD method	2
+alternate wetting and drying irrigation [YW-AWD]	2
+business-as-usual practices	2
+five-year study	2
+medium-term cropping system trial	2
+15N-natural abundance method	2
+multi-scale approach	2
+MLSA	2
+16S rRNA analysis	2
+BOX-PCR fingerprinting	2
+rep-PCR (BOX) and sequencing	2
+automated closed chamber technique	2
+natural abundance method	2
+landscape analysis	2
+mixed method procedure	2
+integrative discipline	2
+African Soils Information Service (AfSIS) project	2
+high-throughput sequencing	2
+DNA metabarcoding (Ion Torrent)	2
+excitation–emission matrix fluorescence spectroscopy (EEM)	2
+proposed new methodology	2
+long-term field experiment (14-year)	2
+Psychological Distance Theory	2
+ecological principle of Liebig’s Law	2
+conventional dependence ratio methods	2
+site- and system-specific sampling	2
+two long-term coffee agroforestry experiments	2
+classification and regression tree (CART)	2
+water retention approach	2
+consistency approach	2
+consistency approaches	2
+non-inversion tillage	2
+wet sieving	2
+split plot design	2
+computer software	2
+recursive feature elimination	2
+Support vector machine models	2
+biomarker-based approach	2
+novel quantitative method	2
+Read-Across approach	2
+vitro studies	2
+novel high-throughput sequencing (RNA-Seq) method	2
+Simulation testing	2
+habitat suitability modeling	2
+individual modeling approaches	2
+Random Forest	2
+Maximum Entropy	2
+Boosted Regression Trees	2
+Habitat suitability modeling	2
+first “real-time” genetic management program	2
+Generalized additive modelling	2
+CW50:	2
+non-linear mixed-effects model	2
+Japanese sardine-specific isotopic fractionation equation	2
+covered codend sampling technique	2
+standardised survey	2
+effort-based management scheme	2
+ex vivo	2
+intracellular cytokine staining (ICS) assay	2
+flow cytometry (FC)	2
+flow cytometry or immunohistochemistry	2
+(PARR) analysis	2
+NanoLC–MS/MS	2
+candidate gene approach	2
+rabies control programmes	2
+outbreak simulation techniques	2
+entomological field surveys	2
+generic framework methodology	2
+framework methodology	2
+mariculture technique	2
+enzyme immunoassays (EIA)	2
+controlled 3-month study	2
+6-month study	2
+existing LBCC-RAS	2
+LCA method	2
+enterprise budget analysis	2
+open net pen (ONP) technology	2
+first trial	2
+Phase II	2
+Microbial analysis	2
+2×2 factorial trial	2
+innovative concept	2
+solid phase microextraction–gas chromatography–mass spectrometry	2
+long-term NCRA	2
+Trial 2	2
+controlled four-month trial	2
+titrimetric method	2
+HSU using a infra-red gas analyzer (IRGA)	2
+head space unit (HSU)	2
+non-dispersive infra-red (NDIR) techniques	2
+standard nomographic methods	2
+Standard titration	2
+proposed framework	2
+dynamic location-based accessibility modelling	2
+conceptual framework	2
+broadly applied location-based accessibility modelling approaches	2
+Person-based accessibility approaches	2
+open source geographic information system (GIS) environment	2
+suitability framework using multi-criteria analysis	2
+field-based study	2
+mixed methods research	2
+rigorous, empirically-led analysis	2
+framework of hot spot analysis	2
+multi-method approach	2
+LegalGEO tool	2
+spatial multi-criteria analysis	2
+MRA	2
+heuristic search procedure (genetic algorithms	2
+two-step floating approach	2
+Multivariate statistical analysis	2
+Remote sensing analyses	2
+re-surveyed	2
+stratified random sampling protocol	2
+Rondônia Agroforestry Pilot Project (RAPP)	2
+small-scale farm agroforestry demonstration project	2
+principal components and regression analyses	2
+sessile drop technique	2
+modeling procedure	2
+new EU Ecolabel	2
+detailed thermodynamic modelling method	2
+calibration method	2
+Electromagnetic wave interrogation	2
+, ALMANAC	2
+plant growth simulation model	2
+factorial open top chamber experiment	2
+Factorial experiments	2
+crop model algorithms	2
+three published protocols	2
+impedance spectroscopy	2
+new rapid ‘real-time’ measurement technique	2
+size spectra and stable isotope techniques	2
+stable isotope analysis	2
+Parallel Factor Analysis (PARAFAC)	2
+UK Shelf Sea Biogeochemistry (SSB) research programme	2
+UK Shelf Sea Biogeochemistry research programme (UK-SSB)	2
+shipboard membrane inlet mass spectrometer (MIMS)	2
+robust atmospheric correction methods	2
+classical reflectance band-ratio algorithms	2
+single algorithm	2
+RAPID method	2
+model analysis	2
+high-resolution (eddy resolving	2
+unified framework	2
+sediment-trap time-series study	2
+ESA Ocean Colour Climate Change Initiative (OC_CCI)	2
+234Th/238U approach	2
+pigment-based analysis	2
+common analysis approach	2
+common global Earth System Model	2
+“substrate–inhibitor concept	2
+unique, fine-scale field study	2
+Acoustic Doppler Current Profiling (ADCP)	2
+multi-year land-based survey	2
+comparative chlorophyll assimilation experiment	2
+localized Ensemble Kalman filter	2
+experimental and/or modelling	2
+integrative end-to-end ecosystem studies	2
+EURO-BASIN programme	2
+on-going and planned modelling effort	2
+different approaches	2
+experimental approach	2
+Comparative analyses	2
+high-resolution magnetostratigraphy	2
+combined electron spin resonance (ESR) dating	2
+Sci.	2
+Acad.	2
+Wheeler 1984: J. Hum.	2
+study approach	2
+‘taxon-free’ approach	2
+new dating program	2
+electron spin resonance (ESR)	2
+optically stimulated luminescence (OSL) dating	2
+comprehensive multi-method dating program	2
+ontogenetic (OG) and regenerated (RG) scale cortisol	2
+x-ray radiographic assessment	2
+non-medical complementary method	2
+virtual experiment	2
+Pathway enrichment analyses	2
+bioassay approach	2
+deep sequencing approach	2
+DGGE, TGGE and T-RFPL	2
+Illumina MiSeq approach	2
+existing site selection tools	2
+MPP	2
+World Health Organization criteria	2
+2005 Bangladesh Household Income and Expenditure Survey (HIES)	2
+benefit–cost analysis	2
+promising food-based approach	2
+nutrient-based formulation approach	2
+16S rRNA gene sequence analysis	2
+matrix oriented software	2
+new mathematical approach	2
+Kingman coalescent model	2
+gamma-Gompertz–Makeham model	2
+one-child policy	2
+multi-point methods	2
+single-point methods	2
+single-point and multi-point approaches	2
+complex sampling scheme	2
+IBD recursions	2
+estimator	2
+algorithms	2
+efficient and exact algorithms	2
+three programs	2
+BestKeeper and NormFinder analysis	2
+GeNorm analysis	2
+BestKeeper and NormFinder PCR analysis software	2
+SYBRgreen real-time quantitative PCR	2
+serology but positive by real-time RT-PCR	2
+real-time RT-PCR	2
+modified amplified fragment length polymorphism technique (AFLP)	2
+differential equation	2
+population-based model	2
+mass drug administration (MDA)	2
+established Ross/Macdonald model variant	2
+No. 1	2
+parameter fitting algorithms	2
+optimization	2
+AMR and	2
+third order linear model	2
+variational Bayesian inference method	2
+sGFR.Setting and participantsThe method	2
+CKD-EPI formula	2
+unique method	2
+conventional least squares parameter estimation methods	2
+new extension	2
+multiple shooting for stochastic systems’ method	2
+Parameter estimation	2
+graph theory	2
+block concept	2
+theorem	2
+Kiss et al.	2
+general methodology	2
+sterile insect technique (SIT)	2
+Gaussian process regression method	2
+variational Bayesian method	2
+different optimisation approach	2
+systems biology approach	2
+reference descriptive analysis	2
+repetitive element palindromic PCR (rep-PCR) genotyping	2
+Descriptive and consumer sensory testing	2
+Multiple-Positron Emission Particle Tracking (Multiple-PEPT)	2
+iRNA-PseKNC(2methyl) method	2
+proposed prediction iRNA-PseKNC(2methyl) method	2
+simple and precise convolution neural network method	2
+computational method	2
+new mathematical model	2
+well-established phenomenon	2
+long-time simulation	2
+Phase plane analysis	2
+image processing	2
+boundary element method	2
+computational study	2
+estimation method	2
+Estimation Maximization	2
+proposed probabilistic latent variable mixture clustering technique	2
+perturbation technique	2
+global latent variable mixture model	2
+latent variable mixture model	2
+mixed-effects statistical modelling	2
+purely data-driven machine learning approach	2
+ad hoc manner	2
+Markov Decision Processes (MDPs)	2
+active inference and the free-energy principle	2
+Agent-centered treatments	2
+proof-of-principle simulation	2
+Numerical and analytical techniques	2
+reformulated version of the Anderson–May model	2
+mechanism	2
+model analyses	2
+differential equation formulation	2
+conductance based model	2
+mathematical method	2
+bifurcation analysis	2
+cellular automaton (CA) rules	2
+hybrid, individual-based approach	2
+particle mathematical approach	2
+regularised point force decomposition	2
+digital microscopy	2
+new model	2
+simplified ordinary differential equation (ode) version	2
+novel staging method	2
+alternative staging method	2
+topological map hypothesis	2
+Gaussian model	2
+evolutionary experiment	2
+likelihood framework	2
+mixed-primal finite element method	2
+two-dimensional Individual Based Model (IBM)	2
+simplified model (DS)	2
+ABM	2
+accurate matching procedure	2
+post-surgical follow up (Roubos et al., 1995)	2
+heuristic Dynamical System (DS) (Garbey and Berceli, 2013), and a stochastic Agent Based Model (ABM) (Garbey et al.	2
+high dose strategy	2
+One management strategy	2
+Sagan's proposal	2
+general, falsifiable theory	2
+simple experiment	2
+frequency-dependent population genetic and population dynamic approach	2
+sterile insect technique	2
+hybrid procedure	2
+hybrid stochastic-deterministic method	2
+maximum likelihood estimator (MLE)	2
+Markov chain construction	2
+network approach	2
+alternative control strategy	2
+one method	2
+variants of the sterile insect technique (SIT)	2
+mean-field analysis	2
+time-scales perspective	2
+formal analysis	2
+statistical analysis	2
+Bayesian inference methods	2
+Steady state and linear stability analyses	2
+classical theory	2
+ab initio approach	2
+adaptive dynamics approach	2
+singular perturbation analysis	2
+generic coarse-grained approach	2
+simple coarse-grained theory	2
+predictive coding	2
+Bayesian decision theory	2
+Bayesian optimality principles	2
+new, scaling invariant measure	2
+deterministic and a stochastic approach	2
+new time series experiment	2
+R⁎ rule	2
+Gillespie algorithm	2
+Epidemic Control Analysis (ECA)	2
+economic theory	2
+rewiring algorithms	2
+network generation algorithms	2
+new network metric	2
+Model stability analysis	2
+mathematical analysis	2
+two-strategy game	2
+Linear stability analysis	2
+equation	2
+evolutionary game theory	2
+max-plus algebra	2
+Ashall et al.	2
+systematic survey	2
+mathematical theory	2
+conventional twist-tie approach	2
+time-saving FT method	2
+usual TT method	2
+time-saving method	2
+conventional twist tie (TT) method	2
+three new bag closure methods	2
+twist-tie (TT) method	2
+novel and non-invasive analytical technology	2
+Hermetic storage techniques	2
+Multiple and simple linear regressions analyses	2
+laboratory experiments	2
+Johnson et al.	2
+microbiological study	2
+Two computer programs	2
+polyethylene glycol 4 000	2
+previous pedological study	2
+recent phytosociological survey	2
+Tissue culture techniques	2
+Statistical and scanning electron microscopical investigations	2
+detrended correspondence analysis (DECORANA).The distribution	2
+wheel-point method	2
+phenological model of Specht et al.	2
+eigenvector and a graphical method	2
+Cav.	2
+dilution plate and the whole kernel method	2
+rapid photographic technique	2
+autecological study	2
+Maximum Likelihood and Bayesian phylogenies	2
+highly sensitive PCR-blot technique	2
+fourth assay	2
+melan-A labelling	2
+immunohistochemistry (IHC)	2
+antibody	2
+in-vivo work	2
+non-hierarchical and hierarchical cluster analysis	2
+peak alignment	2
+effective data pre-treatment protocol	2
+24 factorial design	2
+Effective cluster analysis	2
+soil XRPD data analysis	2
+X-ray powder diffraction (XRPD)	2
+French soil monitoring network (RMQS)	2
+soils model (DIFS)	2
+diffusive equilibrium (DET) and gradient in thin films (DGT) techniques	2
+long-term field experiment	2
+airborne gamma-ray spectrometric survey	2
+Linear stepwise regression	2
+ground penetrating radar, probing)	2
+X-ray Computed Tomography	2
+broken-stick regression	2
+Highfield Ley-Arable Long-Term Experiment	2
+digital soil mapping (DSM) techniques	2
+semivariogram analysis	2
+standard (single-point) version	2
+linked and grid-based approach (grid-to-grid)	2
+modelling procedure	2
+multivariate adaptive regression splines (MARSplines) modelling	2
+regional approach	2
+site-specific approach	2
+electron microprobe analysis (EMPA)	2
+direct x-ray powder diffraction method (XRPD)	2
+indirect geochemical normative method	2
+SOM map	2
+invers application of SSA	2
+pre-survey quality measure	2
+spatial simulated annealing (SSA)	2
+second-phase sampling	2
+first-phase sampling	2
+regression kriging (RK)	2
+two-phase soil survey	2
+detailed survey	2
+real-time survey	2
+sampling optimization methodology	2
+modified Tessier sequential extraction	2
+sequential extraction assays	2
+stable metal multi-element isotopic dilution	2
+15N-analysis	2
+wavelet analysis	2
+wavelet transform's analysis	2
+spectral tempering	2
+Multivariate Adaptive Regression Splines (MARS).Cross validation	2
+regression kriging	2
+hybrid approaches	2
+CORINE land cover 2000	2
+Latin hypercube stratified random sampling	2
+topsoil survey	2
+Land Use and Cover Area frame Statistical survey (LUCAS)	2
+process model	2
+ecosystem approach	2
+regional geochemical survey	2
+regional survey	2
+dynamic light scattering and test tube experiments	2
+model-based analyses	2
+non-probability sampling	2
+non-probability systematic sampling scheme	2
+FW test of the Le Bissonnais' method	2
+modified Yoder's method	2
+Le Bissonnais' method (	2
+modified Yoder method	2
+Le Bissonnais' method	2
+Le Bissonnais (1996) and the modified Yoder (1936) methods	2
+qPCR methods	2
+Pearson's Chi-squared tests of independence	2
+aerial survey	2
+Aichi Target 11 connectivity element	2
+Aichi Target 11	2
+satellite imaging	2
+airborne Light Detection and Ranging (LiDAR)	2
+interdisciplinary review	2
+normalized difference vegetation index (NDVI)	2
+generalizable change detection technique	2
+case-study approach	2
+peer-to-peer validation process	2
+Endangered Species Act	2
+evidence-based and coordinated mechanism	2
+Appendix I.	2
+17th CITES Conference of Parties (CoP17)	2
+inward-looking approach	2
+landscape-scale field study	2
+emerging cutting-edge techniques	2
+relatively fast and cost-effective complementary approaches	2
+scenario-based interviews	2
+predictive methods	2
+CS/CBM	2
+Essential Biodiversity Variable framework	2
+spatially stratified approach	2
+“minimum-set” approach	2
+simulated in-situ conservation scenarios	2
+citizen science	2
+dispersal barrier-based framework	2
+long-term monitoring schemes	2
+repeat survey	2
+unique follow-up study	2
+response protocol	2
+Protocol	2
+International Union for Conservation of Nature (IUCN)	2
+‘Foraging Radius Approach’	2
+learning-based approach	2
+framework and process	2
+DNA profiling	2
+objective versus strategy	2
+conservation intervention	2
+set-aside	2
+seismic surveying	2
+stakeholder analysis	2
+mixed-methods approach	2
+Seismic surveys	2
+miombo woodland management plan	2
+Generalised linear mixed effects models	2
+first ecological Old World bat study	2
+habitat suitability models (HSMs)	2
+“ranked outcomes” evaluation methodology	2
+market-research methods	2
+latent class modelling	2
+choice experiments	2
+eDNA method	2
+environmental DNA (eDNA) analysis	2
+Australian method	2
+original methodological approach	2
+SVI framework	2
+new methodology	2
+assessment	2
+Long-term studies	2
+Conservation of Nature (IUCN)	2
+data-limited methods	2
+line transect sampling methods	2
+European Union (EU) Habitats Directive	2
+species-specific research	2
+target analysis	2
+first in vitro correlation	2
+fluorescence lifetime imaging microscopy (FLIM)	2
+77-K time-resolved fluorescence spectroscopy	2
+Stopped-flow spectroscopy and isothermal titration calorimetry (ITC)	2
+two different purification methods (chromatography and immuno-purification	2
+combined theoretical and experimental approach	2
+site-directed mutagenesis	2
+Chem.	2
+state-of-the-art genetic engineering technology	2
+site-specific labeling experiments	2
+flame ionization detector (GC/FID)	2
+free radical theory	2
+combination of HPLC and mass spectrometry	2
+lysine-specific fluorescent labelling and a DIGE-like approach	2
+two types of native electrophoresis	2
+low-angle fluorescence and superresolution microscopy	2
+x-ray crystallography	2
+BODIPY staining	1
+Multiple sequence alignment	1
+norm range model	1
+HPLC analysis.•People	1
+method.•Events	1

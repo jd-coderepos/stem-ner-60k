@@ -1,0 +1,3293 @@
+method	210
+analysis	88
+algorithm	80
+methodology	72
+approach	64
+proposed method	62
+technique	58
+experiments	46
+algorithms	36
+proposed approach	32
+proposed methodology	30
+situ	20
+finite element analysis	20
+experiment	20
+scanning electron microscopy	18
+proposed algorithm	16
+finite element method	16
+methods	16
+Sensitivity analysis	14
+in-situ	14
+sensitivity analysis	14
+control strategy	12
+proposed methods	12
+semi-structured interviews	12
+survey	10
+genetic algorithm	10
+contour method	10
+observational method	10
+regression analysis	10
+Failure Forecast Method	10
+new algorithm	10
+vivo	8
+representation scheme	8
+procedure	8
+optical microscopy	8
+shearlet-based method	8
+meta-analysis	8
+finite volume method	8
+online survey	8
+exergy analysis	8
+integrated method	8
+longitudinal study	8
+finite element analysis (FEA)	8
+SPHERE experiment	8
+finite element approach	8
+hybrid method	8
+statistical analysis	8
+X-ray diffraction	8
+scanning electron microscopy (SEM)	8
+new method	8
+parametric study	6
+finite volume method (FVM)	6
+Rosenthal equation	6
+Large Eddy Simulation (LES)	6
+bibliometric analysis	6
+SW-SVR	6
+proposed technique	6
+literature review	6
+protocol	6
+uncertainty analysis	6
+developed methodology	6
+optimization	6
+in-depth analysis	6
+techno-economic analysis	6
+new methodology	6
+X-ray computed tomography	6
+proposed strategy	6
+support vector machines	6
+fastKDE method	6
+quadrature method	6
+finite element method (FEM)	6
+effective width method	6
+novel methodology	6
+tests	6
+particle image velocimetry	6
+image analysis	6
+analytical method	6
+present method	6
+experimental technique	6
+X-ray CT	6
+scheme	6
+proposed framework	6
+case study	6
+statistical techniques	4
+orthogonal collocation method	4
+“Smart Maintenance Initiative	4
+eco-efficiency modelling framework	4
+Monte Carlo principle	4
+Weibull distribution	4
+Experiment 1	4
+discrete element method (DEM)	4
+Sarsa TD algorithm	4
+data-based optimization	4
+non-IID recommendation research	4
+single-seed casting technique	4
+proposed scheme	4
+proposed protocol	4
+control theory	4
+FE modelling	4
+Radon-transform analysis	4
+self-adapting predictive control scheme	4
+parametric analysis	4
+thermodynamic analysis	4
+control volume approach	4
+computer vision algorithms	4
+immersed-body method	4
+EZR approach	4
+integrative approach	4
+SF-NERSE method	4
+SF-NERSE technique	4
+limited view algorithms	4
+POD analysis	4
+finite element model assisted method	4
+total focusing method (TFM)	4
+two approaches	4
+state-of-the-art elements	4
+Fuzzy C-means	4
+decision trees	4
+neural networks	4
+conventional hybrid frequency-time domain approach	4
+time-domain approach	4
+fib Model Code 2010	4
+simple formula	4
+structural analysis	4
+numerical method	4
+PAIR approach	4
+multi-criteria decision analysis	4
+direct measurement method	4
+in-situ crystallization technique	4
+European Air Quality Directive	4
+linear/multi linear regression and supervised learning techniques	4
+direct UV-writing approach	4
+theoretical approach	4
+interface code	4
+basis function-based algorithms	4
+modelling tool	4
+framework	4
+GES method	4
+partial cell technique	4
+XBeach-G	4
+time-split scheme	4
+novel method	4
+linear stability analysis	4
+bottleneck prediction algorithm	4
+spatial analysis	4
+Eigenfunction Method	4
+comparative analysis	4
+holistic approach	4
+game theory	4
+principal component analysis (PCA)	4
+concept	4
+Statistical analysis	4
+density functional theory calculations	4
+hybrid approach	4
+two-step approach	4
+novel modelling approach	4
+systems approach	4
+integrated approach	4
+integrated load and state estimation algorithm	4
+Thermogravimetric analysis	4
+Electrochemical Impedance Spectroscopy (EIS)	4
+SAFT-VR Mie	4
+Lasso regression	4
+modified Pechini method	4
+study	4
+dynamic approach	4
+non-destructively	4
+conventional methods	4
+support vector machine	4
+shallow neural network	4
+vitro	4
+neutron diffraction	4
+modelling strategy	4
+time-of-flight neutron diffraction	4
+Paris Agreement	4
+composition tuning method	4
+bottom-up integrated system approach	4
+scenario analysis	4
+SEM-EDX	4
+log-linear regression	4
+logistic regression	4
+Code of Practice	4
+conventional procedure	4
+proposed algorithms	4
+high-energy synchrotron X-ray diffraction	4
+morphometric method	4
+combined approach	4
+different techniques	4
+Microstructural analysis	4
+four-point roundness measurement method	4
+LS-DYNA	4
+optimisation framework	4
+finite element software LS-DYNA	4
+recently proposed method	4
+Particle Swarm Optimisation (PSO) algorithm	4
+dynamic analysis	4
+nonlinear dynamic analysis	4
+3-voltage-step protocol	4
+receding-horizon control algorithm	4
+developed method	4
+heuristic algorithm	4
+point process theory	4
+Weight-Shape decomposition	4
+effective algorithm	4
+two methods	4
+Hinode method	4
+reliability assessment framework	4
+Monte Carlo method	4
+stability analysis	4
+Numerical analysis	4
+inclining experiment	4
+three-layered approach	4
+Raman spectroscopy	4
+large eddy simulation (LES)	4
+eXtended Finite Element Method (XFEM)	4
+Unified Formulation	4
+finite element modelling	4
+numerical scheme	4
+dimensional analysis	4
+Monte Carlo simulation method	4
+differential quadrature method	4
+GST approach	4
+Gaussian linearization method	4
+classic confinement-independent approach	4
+three-dimensional analysis	4
+FE analysis	4
+new inverse analysis approach	4
+direct numerical simulation (DNS)	4
+volume of fluid (VOF) method	4
+spectral element method	4
+proposed FE technique	4
+high-order methods	4
+modeling approach	4
+in-situ XRD	4
+network approach	4
+X-ray diffraction (XRD)	4
+linear regression	4
+Kinetic analysis	4
+social exchange theory	4
+condition-based approach	4
+Quantitative polymerase chain reaction	2
+Culture-based methods	2
+emergy methodology	2
+multi-criteria decision support methods	2
+integrated assessment methods	2
+integrated assessment	2
+(qPCR) method	2
+Bench-scale filter column studies	2
+Additional non-target screening	2
+tandem high resolution mass spectrometry	2
+liquid chromatography	2
+solid phase extraction	2
+Point Two (EML-2)	2
+model exploitation	2
+MTS assay	2
+micro-computed tomography	2
+modified CUSUM	2
+Kalman Filter	2
+novel framework	2
+cutting-edge big data approaches	2
+medium-tech mapping methods	2
+peer-based learning techniques	2
+long-term community-based participatory research agenda	2
+Participatory Action Research approach	2
+field monitoring campaign	2
+detailed threat modeling exercise	2
+content analysis	2
+4W-ACB	2
+Infrared Reflection-Absorption Spectroscopy	2
+optical coherence tomography (OCT) and digital image correlation (DIC)	2
+two non-invasive techniques	2
+finite element discretisation and numerical continuation algorithms	2
+In-situ microscopy	2
+plane-wave-expansion method	2
+theory	2
+asymptotic formula	2
+pseudo-OCV tests	2
+IEC 62660-1 standard (IECC)	2
+first three-tier time-of-use tariff	2
+new algorithms	2
+electrochemical impedance spectroscopy (EIS)	2
+symmetric 4C constant-current charge/discharge protocol	2
+inverse problem approach	2
+simple algorithm	2
+modelling approach	2
+integrated electro–thermo–chemical modelling methodology	2
+control algorithms	2
+integrated modelling methodology	2
+campaign	2
+pre-standard	2
+standard BS EN 1090-2:2008	2
+‘acoustic black hole effect’	2
+Improved TFM (iTFM)	2
+pulsed thermography	2
+NDI ultrasonic C-scanning	2
+quasi-static testing	2
+validated non-destructive inspection (NDI)	2
+new philosophy	2
+Schmertmann [1] and Schmertmann et al.	2
+appropriate technique	2
+30,000 m2 study	2
+Dynamic Replacement (DR) technique	2
+Incremental Dynamic Analysis, IDA	2
+particle size analysis	2
+three-dimensional scanning technology	2
+cost analysis	2
+digital image correlation (DIC) method	2
+repair methodology	2
+site visit	2
+V-funnel, and L-Box test	2
+SEM and XRD techniques	2
+Finite Element Method (FEM)	2
+nonlinear finite element analysis	2
+multivariable regression	2
+rebound hammer test (RHT)	2
+nondestructive technique	2
+simple method of core-spring	2
+ABAQUS finite element method program	2
+practical method	2
+statistical multiple regression analysis	2
+Finite Volume Method	2
+retrofit technique	2
+multi-criteria decision-making method	2
+Analytic Network Process	2
+NF EN 1991-1-4/A1	2
+principles of absolute volume method	2
+in-situ performance based specification	2
+Fourier Transform Infrared investigation	2
+preliminary design procedure	2
+X-ray diffractometer	2
+several parallel methods	2
+large scale remedial initiative	2
+full scale non-destructive evaluation	2
+conducted experiments	2
+Homotopy analysis method (HAM)	2
+ANSYS commercial software	2
+enhanced wall function	2
+finite element modeling	2
+Maple-18 software	2
+numerical Method (4th–5th-order Runge–Kutta–Fehlberg)	2
+homotopy analysis method (HAM)	2
+semi-logarithmic function	2
+conventional homogeneous one-phase model	2
+two-phase model	2
+novel volume fraction-thermal lattice Boltzmann method	2
+bivariate spectral quasi-linearization method	2
+multi-factor coupling regression formula	2
+homotopic method	2
+Computational Fluid Dynamics (CFD) Analysis	2
+numerical approach	2
+3D-CFD method	2
+mathematical analysis	2
+thermal resistance method	2
+Explicit Finite Difference Method (EFDM)	2
+applied method	2
+Homotopy Perturbation Method	2
+spectral analysis	2
+discrete Fourier Transform	2
+Modified Homotopy perturbation method (MHPM)	2
+engineering equation solver, EES	2
+Boltzmann equation	2
+new micro gas sensor (MIKRA)	2
+Direct Simulation Monte Carlo (DSMC) method	2
+shooting technique	2
+fourth order Runge-Kutta method	2
+fourth order Runge-Kutta	2
+second law analysis	2
+finite difference and finite volume method	2
+DesignBuilder software	2
+pinch analysis optimization technique	2
+energy pinch analysis	2
+CFD calculations	2
+Bruggeman approximation	2
+Effective medium theory	2
+Parametric study	2
+Duan–Rach Approach (DRA)	2
+Fluent program	2
+proposed correlation	2
+Kern's method	2
+computational technique	2
+computational fluid dynamic analysis	2
+2-h experiment	2
+ANSYS CFX 14.5	2
+finite element based software	2
+CFD (computational fluid mechanics) method	2
+5 experiments	2
+Crank–Nicholson method	2
+finite difference method (Crank–Nicholson method).The calculations	2
+SIMPLE algorithm	2
+collocated finite volume method	2
+electro-magnetic analysis	2
+finite volume approach	2
+laser imagining technique	2
+homotopy perturbation method (HPM)	2
+psychrometric analysis	2
+theoretical framework	2
+interview study	2
+ordered logit model	2
+Product-Service System (PSS) approach	2
+information technology	2
+model-based methodology	2
+21st-century innovation	2
+Workflow management technology	2
+iterative optimization algorithm	2
+AHP (Analytical Hierarchy Process)	2
+quality centric architecture evaluation approach	2
+Architecture Evaluation Framework	2
+Systems architecture	2
+4 methods	2
+expert classification (RC), phrase matching (PM), and Bayesian matching (NBPM)	2
+Maintenance ‘in-situ’	2
+global strategy	2
+through-life performance approach	2
+statistical technique	2
+proposed data-driven prognostics approach	2
+Taguchi design of experiment	2
+ultrasound C-scanning	2
+non-destructive inspections	2
+studies	2
+single-page-view	2
+information modelling technique	2
+entity relationship diagram	2
+2D graphical plot method	2
+aggregate visualisation techniques	2
+maintenance informatics dashboard design approach	2
+multidisciplinary methodology	2
+emerging and immature technology	2
+Monte-Carlo simulation methods	2
+Good uncertainty modelling	2
+Function Allocation Theory	2
+design method	2
+factory eco-efficiency modelling framework	2
+Lean thinking	2
+MCDM methods	2
+generic methodology	2
+software tool	2
+collaborative approach	2
+recent 3D low cost gaming technology	2
+Discrete Event Simulation (DES)	2
+tool concept	2
+acoustic emission technique	2
+automated means	2
+scanning electron microscopy (SEM) measurements	2
+image enhancement process	2
+Thermographic inspection	2
+transparent assessment model	2
+hierarchical clustering and principal component analysis (PCA)	2
+Document analysis and interview methods	2
+CoM initiative	2
+extrapolation method	2
+process	2
+Kyoto Protocol	2
+critical review and agenda setting perspective	2
+novel decentralized scheduling approach	2
+full climate, land, energy and water (CLEW) nexus approach	2
+Value Transfer approach	2
+normative energy calculation method	2
+Department of Energy and Climate Change (DECC)	2
+linear regression analysis	2
+house-developed program	2
+integrated study	2
+initial lidar survey	2
+airborne lidar surveys	2
+High-resolution airborne lidar surveys	2
+integrated technology	2
+deep purification technology	2
+Clausius-Clapeyron relation	2
+Multi-model intercomparison	2
+CMIP-Phase 5 (CMIP5)	2
+international community-based infrastructure	2
+Coupled Model Intercomparison Project (CMIP)	2
+Coordinated Regional Climate Downscaling Experiment (CORDEX)	2
+Abdus Salam International Center for Theoretical Physics (ICTP)	2
+sulfur hexafluoride tracer technique	2
+Two experiments	2
+synchrotron radiation (e.g., synchrotron radiation infrared microspectroscopy (SR-IMS) and synchrotron radiation X-ray techniques	2
+advanced synchrotron-based bioanalytical technology	2
+Detailed finite element analysis (FEA)	2
+phase field (PF) model	2
+high-fidelity modeling and post-process experiments	2
+FE approach	2
+Rosenthal approach	2
+Multiscale numerical simulation	2
+line-by-line localized laser scanning	2
+two-way 4D printing	2
+reversible 4D printing	2
+modal characteristic modifier (MCM) and an intelligent adaptive tuning algorithm (ATA)	2
+corresponding control strategy	2
+frequency-based substructure approach	2
+virtual assembly, virtual reality (VR), multi-objective optimization (MOO), and human-computer interaction	2
+big data analytics (BDA), and information and communications technology (ICT)	2
+cloud computing	2
+Manufacturing USA initiative	2
+National Network	2
+Industry 4.0 strategy	2
+cemented undercut-and-fill mining method	2
+ground control theory	2
+naive Bayesian classifiers	2
+artificial neural networks (ANNs)	2
+data mining (DM) techniques	2
+quantitative warning method	2
+neural network modeling	2
+back-analysis	2
+high-performance computing	2
+integrated reactor modeling framework	2
+proposed Otway Stage 3 and Deep Earth Energy and Environment Programme (AusDEEP))	2
+area IoT technology	2
+CIGS technology	2
+12th Five-Year Plan	2
+Thermodynamic analysis	2
+response surface methodology	2
+environmental scanning electron microscopy (ESEM) and Fourier-transform infrared (FTIR) spectroscopy	2
+fluorescence lifetime imaging microscopy	2
+situ X-ray absorption near-edge structure (XANES) analysis	2
+temperature-programmed reduction (TPR)	2
+Membrane-based technology	2
+long-term goal	2
+Second Assessment Report (SAR) of the Intergovernmental Panel on Climate Change (IPCC)	2
+Climate Change (UNFCCC)	2
+United Nations Framework Convention	2
+Sarsa TD-based unified bidding and operation strategy	2
+reinforcement learning (RL)-based Sarsa temporal-difference (TD) algorithm	2
+modeling framework	2
+sequential forward floating search (SFFS) method	2
+probabilistic causality detection method	2
+dynamic principal component regression (DPCR)	2
+mixture probabilistic principal component regression (MPPCR) method	2
+model-based clustering discriminant analysis (MclustDA) approach	2
+mode detection	2
+kernel density approach	2
+optimality assessment framework	2
+two new, (multi-)parametric programming (mp-P)-inspired algorithms	2
+proposed global optimization algorithm	2
+piecewise McCormick relaxation (PMCR) and normalized multiparametric disaggregation technique (NMDT)	2
+global optimization algorithm	2
+data-driven hybrid intelligence optimization methods	2
+multi-period approach	2
+superstructure optimization approach	2
+mathematical optimization approach	2
+process systems engineering (PSE)	2
+demand-driven and application-oriented manner	2
+China Microbiome Initiative	2
+cross-sectional studies	2
+computation-based bioinformatics	2
+multi-centered, large-sample RCTs	2
+first systematic review and meta-analysis	2
+probiotic intervention treatment	2
+Review Manager 5.3.3	2
+ncRNA-based approaches	2
+CCK-8 assay	2
+cell-counting kit-8 (CCK-8) assay	2
+γ-ray sterilization	2
+SDS-PAGE	2
+amino acid analysis (AAA) and sodium dodecyl sulfate polyacrylamide gel electrophoresis (SDS-PAGE)	2
+selected multi-model ensemble (MME) projected trends	2
+observations and Coupled Model Intercomparison Project Phase 5 (CMIP5) results	2
+inter-history iteration	2
+Kalker linear creep theory	2
+rigid-body dynamics method	2
+experimental study	2
+evaluation method	2
+conceptual system analysis	2
+typical reductionist approach	2
+2030 Agenda	2
+SWTF approach	2
+life-cycle assessment and sensitivity analysis	2
+plant biology research	2
+ecosystem ecology	2
+Near-Term Action Plan	2
+Circular Economy Development Strategy	2
+Roadmap Study	2
+National New-Type Urbanization Plan	2
+processing method	2
+new conflict prediction method	2
+temporal fuzzy reasoning method	2
+formalized computation method	2
+video-based monitoring techniques	2
+site-specific seismic hazard analysis	2
+risk analysis methods	2
+dam risk analysis	2
+risk analysis techniques	2
+enhanced method	2
+Comprehensive Scour Model (CSM)	2
+high-performance liquid chromatography-tandem mass spectrometry (HPLC-MS/MS)	2
+gas chromatography	2
+coating approach	2
+filamentary technique	2
+standard and coating approaches	2
+post-processing step	2
+standard minimum compliance topology optimization approach	2
+topology optimization	2
+so-called coating approach	2
+non-steady flow theory	2
+multistage modeling technique	2
+US-led competition	2
+non-IID theoretical framework	2
+City IQ Evaluation System 3.0	2
+clustering analysis	2
+ML algorithms	2
+many newly emerging imaging techniques	2
+Energy Policy Act	2
+review and analysis	2
+new 3D-printing methodologies	2
+first-principles calculations	2
+rapid-scanning Fourier-transform infrared (FTIR) imaging	2
+various optical, mass-spectrometry, and gas-chromatography techniques	2
+single experiment	2
+“one-chip method	2
+Combinatorial materials chip technology	2
+conventional mold casting method	2
+air combustion/oxyfuel combustion compatible design philosophy	2
+prefeasibility study	2
+electron microprobe analysis	2
+scanning microscopy	2
+powder-supplying method	2
+manufacturing method	2
+State-of-the-art photo-fabrication techniques	2
+photo-fabrication	2
+multi-layer procedure	2
+baseline method	2
+inverse reinforcement learning technique	2
+proposed methodologies	2
+three methods	2
+two heuristics	2
+decentralized planning strategy	2
+checkpoint-based synchronization	2
+decentralized algorithm	2
+efficient GPU-based parallel k-nearest neighbor and parallel collision detection algorithms	2
+parallel GPU-based algorithms	2
+machine learning and geometric approximation techniques	2
+new configuration space construction algorithms	2
+new gait	2
+large set of advanced algorithms	2
+service-oriented software architecture	2
+Robot-Era	2
+“Heartbeat OCT	2
+new technology	2
+IV-OCT imaging	2
+intravascular optical coherence tomography (IV-OCT)	2
+19fluorine (19F) magnetic resonance imaging (MRI)	2
+data aggregation techniques	2
+image blending	2
+geographic-based displays	2
+visualization techniques	2
+market-based control algorithm	2
+risk-limiting dispatch methodology	2
+Internet technology	2
+quasi-steady agent-based simulations	2
+new velocity-planning method	2
+modified ESLM	2
+commonly flexible multibody dynamic optimization using equivalent static loads method (ESLM)	2
+new structural optimization and velocity-planning method	2
+numerical analysis	2
+ex vivo microscopy	2
+proof-of-concept experiments	2
+custom shadowgraphy setup and image-processing algorithm	2
+backscatter technique	2
+assistance of real-time imaging	2
+vivo cancer imaging	2
+systems-level approach	2
+current state-of-the-art techniques	2
+big data analytics	2
+conformal mapping method	2
+nonlocal elasticity theory	2
+Wave propagation analysis	2
+first-order upwind-differencing scheme (UDS)	2
+Lagrangian analysis method	2
+ the Lagrangian analysis method	2
+wave propagation technique	2
+van Genuchten-type function	2
+non-dimensional manner	2
+conditional sampling and spatial phase-lock average methods	2
+modified multi-scale spatial locally-averaged structure function	2
+time-resolved particle image velocimetry (TRPIV) measurement results	2
+Graph centrality metrics	2
+previous dependency risk analysis research	2
+efficient risk mitigation strategy	2
+dependency chain analysis	2
+novel temperature measurement technique	2
+potential temperature monitoring technique	2
+data mining	2
+design space visualisation	2
+face-to-face interviews	2
+simulation experiments	2
+periodical boundary detection method	2
+privacy-preserving framework	2
+first-person perspective	2
+simple hop-count metric	2
+PHASeR (Proactive Highly Ambulatory Sensor Routing	2
+novel multihop routing protocol	2
+graph-based methods	2
+baseline algorithms	2
+basic flooding dissemination mechanism	2
+scalable pushing protocols	2
+current state-of-the-art electronic switches	2
+central switch scheduler	2
+high-speed control plane design	2
+AI-based techniques	2
+Artificial intelligence (AI)	2
+type-I ARQ protocol	2
+orthogonal multiple access (OMA) scheme and the non-orthogonal multiple access (NOMA)	2
+state-of-the-art	2
+Discrete Cosine Transform (DCT)	2
+secret key generation scheme	2
+Min NA-PMAC and MaxRC-MinDA NA-PMAC	2
+power-controlled mechanisms	2
+designed mechanism	2
+variable backoff algorithm	2
+new cross layer MAC	2
+Dynamic EIFS scheme	2
+LBT-NA	2
+location based MAC	2
+power controlled MAC	2
+proposed MAC	2
+new protocol	2
+new cross layer Medium Access Control (MAC) algorithm	2
+MACRO, AODV and OLSR	2
+high performance protocol	2
+AODV and OLSR	2
+MANET protocols	2
+PHASeR and MACRO	2
+state-of-the-art MWSN routing protocols	2
+global time division multiple access MAC	2
+blind forwarding	2
+novel protocol	2
+Robust Ad-hoc Sensor Routing (RASeR)	2
+IEEE 802.11p-based rear-end collision avoidance application	2
+Kalman filtering techniques	2
+Kalman filter based solution	2
+probe or learning based methods	2
+state-of-the-art DTN forwarding algorithms	2
+benchmark and competitive protocols	2
+adaptive congestion aware protocol	2
+DTN forwarding algorithms	2
+greedy algorithms	2
+typical randomized contention-management algorithm	2
+complicated algorithms	2
+global broadcast algorithms	2
+Infotaxis algorithm	2
+typical gradient-based approaches	2
+popular Infotaxis algorithm	2
+maximum entropy sampling principle	2
+Posterior sampling	2
+sequential Monte Carlo method	2
+Bayesian inference	2
+strategy	2
+visual methods	2
+principles	2
+relevant fusion rule	2
+Uncertainty analysis	2
+recently developed phase rainbow refractometry (PRR)	2
+regime diagram	2
+molecular dynamics (MD) simulations	2
+new spin compensating averaging method	2
+IR-DFWM	2
+dynamic mode decomposition (DMD)	2
+LES methodology	2
+Eulerian stochastic field method	2
+new rotational averaging	2
+new rotational averaging method	2
+ReaxFF-based reactive molecular dynamics	2
+ReaxFF-based molecular dynamics method	2
+non-linear way	2
+Direct Numerical Simulation (DNS)	2
+level of theory	2
+DF-MP2/aug-cc-pVQZ level	2
+CCSD(T)/aug-cc-pVTZ level	2
+M06-2X/aug-cc-pVTZ level	2
+continuous wave cavity ring-down spectroscopy (cw-CRDS) and Fourier transform infrared spectroscopy (FTIR)	2
+chemiluminescence NOxanalyzer	2
+gas chromatography (GC)	2
+Curve Matching approach	2
+mechanism	2
+reactive force field molecular dynamics (ReaxFF MD) simulations	2
+thermogravimetric method	2
+Bandpass filtering method	2
+Multiscale analysis	2
+cross validation method	2
+partial least square regression (PLSR) technique	2
+presumed joint Probability Density Function (PDF) approach	2
+flame emission spectroscopy	2
+physics-based model	2
+previously developed 5-step reaction scheme	2
+open-source code Gpyro	2
+Hilbert transform	2
+Poincaré map	2
+energy dispersive spectroscopy	2
+participatory approach	2
+Evidential Reasoning (ER) algorithms	2
+group decision-making theory	2
+Building Information Modelling (BIM)-enabled technologies	2
+systematic participatory model	2
+integrated decision-support framework	2
+semi-automated detailing mechanism	2
+questionnaire, semi-structured interview	2
+system usability	2
+Social Media framework	2
+meta-model	2
+well-founded representation schemes	2
+so-called “PSS-CAD	2
+SM framework	2
+SM approach	2
+first-order aggregation equation	2
+spatial smoothing based estimator	2
+proposed estimator	2
+difference-set table traversal searching method	2
+simple dynamometric test	2
+nanoindentation technique	2
+X-ray fluorescent analysis	2
+CT scanner	2
+X-ray Industrial Computed Tomography (CT) scanner	2
+original intuitive approach	2
+two-step over the direct approach	2
+well-developed statistical methods	2
+3D closed-form solution	2
+extra post-processing step	2
+layer-wise approach	2
+Unified Formulation approach	2
+wet-chemical porosification method	2
+effective data reduction methods	2
+‘corrected beam theory’ (CBT)	2
+‘enhanced simple beam theory’ (ESBT)	2
+so-called ‘simple beam theory’ (SBT)	2
+Timoshenko beam theory	2
+closed-form solution	2
+linear-elastic-fracture-mechanics (LEFM) limit	2
+gas chromatography-mass spectrometry (GC-MS)	2
+x-ray photoelectron spectroscopy (XPS)	2
+sol-gel process	2
+finite element (FE) analysis	2
+equal power-output method	2
+Tunneling Atomic Force Microscopy (TUNA)	2
+proposed combined retrofitting approach	2
+accurate characterisation method	2
+new analysis technique	2
+2D-fast Fourier transform (2D-FFT) analysis	2
+Radon-transform techniques	2
+proposed human-workpiece interaction theory	2
+machine learning	2
+consumer-grade gaming technology	2
+informatics-based method	2
+2D Fast Fourier Transform	2
+automated method	2
+Numerical modelling	2
+Digital image correlation	2
+X-ray computed microtomography (micro-CT)	2
+X-ray CT scanning	2
+cross-correlation between techniques	2
+multi-technique analysis	2
+digital image correlation (DIC) analysis	2
+Artificial Neural Network (ANN) analysis, Unsupervised Waveform Clustering (UWC)	2
+three AE classification techniques	2
+delta-T mapping	2
+bespoke location algorithm	2
+novel comparative case study approach	2
+co-simulation method	2
+existing scheme	2
+zone method based model	2
+custom sizing methodology	2
+socio-technical methods	2
+thermal engineering experimental technique	2
+Star-CCM+	2
+Finite element and finite volume methods	2
+full-storage strategy	2
+temperature-induced Raman shift method	2
+novel design procedure	2
+model reduction technique	2
+Active subspaces	2
+Variable structure control	2
+robust control methodology	2
+proper orthogonal decomposition (POD)	2
+finite-volume approach	2
+pinch analysis	2
+Previous pinch analyses	2
+dynamic modelling approach	2
+double effect AHT	2
+pseudopotential lattice Boltzmann modeling	2
+variable time-step finite volume method	2
+systems control theory	2
+proposed design approach	2
+model predictive control	2
+model predictive control (MPC)	2
+Systems control theory	2
+in-process monitoring techniques	2
+new response surface method	2
+Latin hypercube sampling	2
+response surface methods	2
+35%.As an activity-based assessment model	2
+activity-based bottom-up decision support tool	2
+eco-efficiency assessment model (EEAM)	2
+body force method	2
+current state-of-the-art ones	2
+particle swarm optimisation technique	2
+traditional multiple model particle filtering schemes	2
+constrained variable structure multiple model particle filter algorithm	2
+ground vehicle tracking method	2
+Electrical Transient Analyzer Program (ETAP)	2
+ideal compensator approach	2
+‘vide-omics’ paradigm	2
+vide-omics’	2
+novel video analysis paradigm	2
+state-of-the-art approaches	2
+semantic white balancing approach	2
+novel dehazing method	2
+generalised approach	2
+histogram-based approach	2
+biology-based computer vision algorithms	2
+computer vision	2
+task-centric approach	2
+computer vision task centric presentation	2
+recent SLAM-based algorithm	2
+navigation technique	2
+Computer vision	2
+existing algorithms	2
+max-margin classifier	2
+standard discrete-state HMM approaches	2
+original actress	2
+matrix triplet method	2
+existing theory	2
+Inverse Scattering Transform	2
+deflated continuation algorithm	2
+recently proposed bifurcation analysis technique	2
+matrix-based approach	2
+stabilized Galerkin least squares finite element method	2
+Finite Element Analysis tool CodeAster	2
+OpenSource boundary element code NEMOH	2
+numerical procedure	2
+linearised potential boundary element method	2
+Numerical vibration analysis	2
+wave modelling	2
+conformal mapping theory	2
+new transform technique	2
+quasi-static perforation experiments	2
+SAVGS concept	2
+proposed control scheme	2
+nonlinear optimal control scheme	2
+“Intel Modern Code Developer Challenge” competition	2
+optimization strategy	2
+new ‘interactivity’ metric	2
+object-oriented scripting	2
+computational strategy	2
+advanced nonlinear finite element (FE) calculation	2
+new Reference Resistance Design (RRD) method	2
+mesh motion algorithm	2
+algebraic algorithms	2
+lattice Boltzmann method	2
+one of a number of filters (Phase-Space Thresholding	2
+evolutionary algorithms	2
+novel, risk based method	2
+out-of-sample test	2
+Common Vulnerability Scoring Scheme (CVSS)	2
+longitudinal multilevel mixed-effect regression approach	2
+contextual interviews	2
+mixed-method approach	2
+in-depth observational study	2
+model estimation	2
+additional survey	2
+‘mini-Hollands programme’	2
+user oriented techno-economic analysis	2
+RRI approach	2
+in-depth interviews	2
+Model Based Clustering	2
+data driven approach	2
+geographically weighted regression models (GWR)	2
+personal travel survey	2
+multinomial logit and nested logit estimations	2
+API based data mining tools	2
+unified framework	2
+exploratory agent-based modelling	2
+drivers an eco-driving method	2
+bottom-up approach	2
+eco-driving approach	2
+new management approach	2
+Slot scheduling	2
+UK Household Longitudinal Study	2
+recent survey	2
+sequence pattern mining techniques	2
+first two approaches	2
+Battery electric vehicle adoption research	2
+bespoke disaggregated model	2
+OLS and interval regression	2
+difference-in-difference analysis	2
+(quasi-) natural experiment	2
+Kano method	2
+hierarchical Bayes method	2
+choice-based conjoint analysis	2
+general-purpose method	2
+novel, integrated structural equation models (SEMs)	2
+accessibility calculator	2
+spatial expansion method	2
+DST and a Real Options Analysis (ROA)	2
+vulnerability-led and decision-centric framework (VL-DC) a Decision Support Tool (DST)	2
+standardised technique	2
+interdisciplinary approach	2
+field-based methods	2
+seismic surveys	2
+expert elicitation	2
+GIS time-series land-use analysis	2
+cost-effective approach	2
+Ordination (Canonical Correspondence Analysis)	2
+CESM	2
+Habitats Directive)	2
+grounded theory analysis	2
+GIS methods	2
+integrated system-level assessment	2
+viable industrial inspection technique	2
+NERSE-based methods	2
+equivalent conventional probe operation	2
+novel single-frequency, near electrical resonance signal enhancement (SF-NERSE) technique	2
+statistical probability-of-detection (PoD) analysis	2
+advanced resonance-based techniques	2
+conventional eddy-current testing (ECT) methods	2
+cross-correlation	2
+image-based sizing	2
+image-based and scattering matrix sizing	2
+NDT method	2
+Channelized Hotelling Model Observer (CHO) approach	2
+scattering matrix (S-matrix)	2
+spatial mapping procedure	2
+characterisation method	2
+spatial method	2
+mapping approach	2
+application framework	2
+‘passive’ implementation	2
+modified technique	2
+four-point technique	2
+alternative three- or four-point technique	2
+two-point contact technique	2
+limited view CT algorithms	2
+limited algorithms	2
+Standard X-ray CT methods	2
+Low frequency guided wave inspection	2
+NDE method	2
+MAPOD method	2
+Model Assisted Probability of Detection (MAPOD) framework	2
+EVA model	2
+return level method	2
+type of analysis	2
+statistical tool	2
+Extreme value analysis (EVA)	2
+short range guided wave technique	2
+ultrasonic techniques	2
+novel parametric study approach	2
+through-depth diffusivity measurement	2
+active thermography	2
+pulsed coda wave analysis	2
+SH wave method	2
+low pass 5MHz filter	2
+Half-Skip TFM	2
+TFM algorithm	2
+ultrasonic array post-processing technique	2
+TFM	2
+Total Focusing Method (TFM)	2
+half-skip configuration	2
+plane B-scan imaging	2
+optimisation scheme	2
+plane B-scan and total focusing method imaging algorithms	2
+Statistical modelling	2
+non-contact, non-destructive manner	2
+harvesting procedure	2
+seasonal and year-to-year approach	2
+National Solar Radiation Database (NSRDB)	2
+static method	2
+commercially available and innovative outdoor analysis methods	2
+standard on-site thermographic screening	2
+Harmony Search Algorithm	2
+developed energy modelling exercise	2
+Neural networks	2
+geographical information systems (GIS) software	2
+site suitability analysis	2
+non-isothermal kinetics model-free methods	2
+proposed technology	2
+NSGA II	2
+optimisation methodology	2
+transactive approach	2
+comprehensive approach	2
+combination of MBD (multibody dynamics) and FEA (finite element analysis)	2
+Hendry Review	2
+“Hendry Review	2
+qualitative cognitive analysis	2
+quantitative analysis	2
+new software code	2
+Innovation Monitoring” (TIM)	2
+new modified criterion	2
+3D numerical software ANSYS-CFX	2
+modification of the Fisher-Franke criterion	2
+LCOE approach	2
+online questionnaires	2
+easy-to-use tool	2
+actuator disk method	2
+actuator line method	2
+EPFL wind tunnel measurement	2
+Quantitative energy modelling	2
+unstructured grid three-dimensional FVCOM (Finite Volume Community Ocean Model)	2
+conventional pointwise method	2
+pointwise approach	2
+business-as-usual projection	2
+ethnographic approach	2
+parameter surface mapping	2
+structure function method	2
+variance method	2
+Regional Ocean Modelling System (ROMS) simulation	2
+standard two-dimensional treatment	2
+linear programming problem	2
+Sci.	2
+Phys.	2
+Math.	2
+computer software modelling	2
+cost–benefit analysis approach	2
+decommissioning methodology	2
+new data interpretation approach	2
+CFD methods	2
+detection algorithm	2
+restricted equilibrium method	2
+numerical modelling methodology	2
+cyclone detection	2
+cyclone detection algorithm	2
+linear optimization formulation	2
+3% above experiment	2
+previous BEM-CFD methods	2
+revised BEM-CFD method	2
+existing BEM-CFD methods	2
+Prandtl's lifting line theory	2
+BEM-CFD method	2
+optimal sensor selection method	2
+actuator disc theory	2
+chain rule	2
+statistical methodology	2
+multiple techniques	2
+Extreme value theory	2
+time domain data driven approach	2
+initial qualitative screening sensitivity analysis	2
+state-led leasing strategy	2
+power maximisation approach	2
+existing gradient-based array optimisation algorithm	2
+cable-routing algorithm	2
+ex-post analysis	2
+two round Policy Delphi process	2
+CFD based Immersed Body Force turbine modelling method	2
+time-stepping model	2
+situ measurements	2
+integrated methodology	2
+local level study	2
+simplified method	2
+MERRA (Modern-Era Retrospective Analysis for Research and Applications) re-analysis of the NASA and the ERA-Interim re-analysis of the European Center for Medium-range Weather Forecasts (ECMWF)	2
+experimental campaign	2
+SPL data collection method	2
+planning approach	2
+real-time approach	2
+bottom-up modelling approach	2
+three-step analysis method	2
+two-dimensional vortex method	2
+efficient gradient-based optimisation algorithm	2
+binary-based state of the art detectors	2
+concealment strategy	2
+EnTS and EEE	2
+String-based similarity measures	2
+combined DEA model and cooperative game approach	2
+Core and Shapley value approaches	2
+fuzzy C-means technique	2
+integrated fuzzy clustering cooperative game DEA approach	2
+nonparametric method	2
+Data Envelopment Analysis (DEA)	2
+recommender algorithm	2
+Automatic Speech Recognition (ASR)	2
+RDR knowledge engineering approach	2
+C-MCRDR	2
+Textual Question Answering (TQA) and Natural Language Interface to Databases (NLIDB) paradigms	2
+classification model	2
+significance of our proposed 3D-LESH algorithm	2
+state-of-the-art wavelet-based feature extraction technique	2
+support vector machine (SVM), an extreme learning machine (ELM) or an echo state network (ESN) classifier	2
+machine-learning classifier	2
+proposed system applies contrast-limited adaptive histogram equalisation (CLAHE)	2
+machine learning classifiers	2
+novel 3D-LESH feature extraction	2
+multi-stage approach	2
+proposed 3D-LESH algorithmis	2
+novel 3D-LESH feature extraction technique	2
+phase congruency (PC) measure	2
+3D-LESH	2
+Three-Dimensional Local Energy-Based Shape Histogram (3D-LESH)	2
+novel feature extraction technique	2
+robust classifier	2
+automated algorithms	2
+Machine learning classification algorithms	2
+Multi Criteria Decision Making tools	2
+Reliability Engineering tools	2
+hybrid of techniques	2
+Tobit regression	2
+Non-oriented Data Envelopment Analysis with regional meta-frontier approach	2
+village banking method	2
+group lending method	2
+techniques	2
+number of state-of-the-art regression tree models	2
+recursive binary partitioning	2
+two-stage procedure	2
+machine learning approach	2
+Regression analysis	2
+anomaly detection algorithm	2
+sentence-level sentiment analysis	2
+neural network based sequence model	2
+divide-and-conquer approach	2
+one-technique-fits-all solution	2
+Traditional sentence-level sentiment classification research	2
+random forest, and gradient boosting	2
+novel combination of support vector regression (SVR)	2
+sliding window-based support vector regression (SW-SVR)	2
+state-of-the-art machine learning algorithms	2
+data mining technology	2
+Sensor network technology	2
+(TTT) strategies	2
+feature selection	2
+filter approach	2
+feature selection and decision tree algorithms	2
+text-mining techniques	2
+McNemar’s test	2
+F-measure	2
+two experiments	2
+web-based crowdsourcing approach	2
+traditional sentiment analysis	2
+standard Fuzzy C-means and Fuzzy C-means++	2
+resulting Fuzzy C-means++ approach	2
+seeding mechanism of the K-means++ algorithm	2
+Fuzzy C-means++ algorithm	2
+K-means	2
+pair-wise comparison	2
+ER or AHP	2
+Analytical Hierarchy Process (AHP)	2
+Evidential Reasoning (ER)	2
+rule-based execution semantics	2
+logic-based approach	2
+Decision trees	2
+medical imaging technique	2
+Terahertz reflection imaging	2
+established evidence support logic (TESLA™)	2
+expected utility approach	2
+k-nearest neighbours	2
+quadratic discriminant analysis	2
+C4.5 decision tree algorithm	2
+random forest and gradient boosting classifiers	2
+Friedman’s statistic and Nemenyi post hoc tests	2
+respective techniques	2
+multi-body simulation software Simpack	2
+unsupervised detection strategy	2
+unsupervised analysis strategy	2
+proposed robust detection algorithm	2
+robust supervised abnormality detection strategy	2
+unsupervised thresholding strategy	2
+two different analysis strategies	2
+computer-aided design	2
+PCA: principal component analysis	2
+two common data-driven modelling techniques	2
+image processing program	2
+purely data-driven modelling approach	2
+validation experiments	2
+pole-zero placement approach	2
+double integrator	2
+high pass filter	2
+multi-objective genetic algorithm	2
+optimizer	2
+real-time, long term, and accurate accelerometer based displacement measurement technique	2
+new techniques	2
+laser Doppler anemometry (LDA)	2
+standard k-ωRANS model	2
+hybrid RANS-LES methods	2
+spatial measurement technique	2
+polynomial chaos approach	2
+generalized non-intrusive polynomial chaos method	2
+adapted measurement scheme	2
+Velocity–area methods	2
+ERT cross-correlation velocity profiling	2
+multidimensional data fusion	2
+dual-modality system	2
+vector Electrical Impedance Tomography (EIT) sensor	2
+non-invasively	2
+bilateral comparison	2
+Industrial Science and Technology	2
+improved method	2
+matrix inversion method	2
+Matrix inversion	2
+finite element software	2
+state-of-the-art computer codes	2
+sub-model finite element analysis	2
+potential flow theory	2
+Morison's formula	2
+frequency-domain finite element analysis	2
+Genetic Algorithm (GA) approach	2
+unsupervised and supervised (semi-supervised) learning	2
+traditional prognosis algorithms	2
+several deep learning (DL) approaches	2
+Coloured Petri Net (CPN) modelling technique	2
+filtering-based prognostics algorithm	2
+knowledge-based prognostics approach	2
+proposed prognostics methodology	2
+System-Theoretic Process Analysis	2
+systemic approach	2
+methodology, Preliminary Interdependency Analysis (PIA)	2
+Gaussian process emulators	2
+Markov Chain Monte Carlo techniques	2
+Probabilistic sensitivity analysis methods (particularly variance based ones)	2
+well-informed, more accurate, condition-based suggestions	2
+prognostics-updated method	2
+online predictive diagnosis algorithm	2
+online system maintenance method	2
+specific modelling technique	2
+Dynamic Adaptability Model	2
+Extended risk matrix approaches	2
+safety leadership research	2
+modified Delphi method and Analytical Hierarchy Process (AHP)	2
+inductive analysis	2
+state-of-art research trends	2
+number of algorithms	2
+network graph theory	2
+what-if analysis	2
+MLMC methods	2
+simulation approach	2
+Multilevel Monte Carlo (MLMC)	2
+reliability theory	2
+elicitation method	2
+software tool ProGasNet	2
+Monte-Carlo simulations with graph theory	2
+TL-ZBDD	2
+Truncated Labelled ZBDD (TL-ZBDD)	2
+BDD construction	2
+corresponding algorithms	2
+dynamic labelling method	2
+Binary Decision Diagram (BDD) based fault tree analysis algorithms	2
+Thematic Analysis of semi-structured interviews	2
+new integrated perspective	2
+risk approach	2
+Kelly and Atwood's minimally informative Dirichlet prior	2
+alpha-factor model	2
+quasi-Monte Carlo and EFAST	2
+non-intrusive generalised polynomial chaos expansion	2
+Global sensitivity analysis	2
+global sensitivity techniques	2
+keyword-based data mining	2
+non-destructive multicomponent analysis	2
+near-infrared (NIR) spectroscopy	2
+non-destructive method	2
+X-ray microanalyzer (EDS)	2
+scanning electron microscope (SEM)	2
+least squares method (LSM)	2
+computer image analysis	2
+precisely controlled infrared pre-heating method	2
+3D X-ray tomography scan	2
+ACI code	2
+Fibre volume fraction analysis	2
+Scanning Electron Microscope (SEM)	2
+two-stage approach	2
+newly developed image analysis method	2
+damage assessment technique	2
+limit state numerical analysis	2
+well-known iterative closest point (ICP) registration algorithm	2
+new cloud comparison method	2
+Different cloud comparison methods	2
+capillary action and SEM analysis	2
+falling abrasive method	2
+Experimental testing	2
+Engineering and Physical Sciences Research Council (EPSRC)	2
+simple and non-destructive procedure	2
+Eurocode 2 equations	2
+Fourier transform spectroscopy	2
+Elemental analysis	2
+SEM/EDX	2
+energy-dispersive X-ray spectroscopy (EDX)	2
+FT-IR	2
+Powers spacing factor model	2
+Philleo concept	2
+NT BUILD 492 test	2
+Euro code approach	2
+finite element modelling software TNO-Diana	2
+novel test method	2
+mentioned methods	2
+new methods	2
+Extensive Monte Carlo simulations (MCS)	2
+high resolution micro-CT	2
+electrical resistivity tomography (ERT) imaging	2
+X-ray CT scans	2
+Petrographic analysis	2
+MIP, BET and XRF analysis	2
+existing test method	2
+Finite element analyses	2
+differential game formulation	2
+PRISM-games	2
+KYP Lemma	2
+Lyapunov and Popov׳s stability theories	2
+TDNN network	2
+small time-delayed neural network (TDNN)	2
+field experiments	2
+automatic bucket-filling algorithms	2
+automated specification procedure	2
+Building Information Modelling (BIM)-enabled computational approach	2
+field labor productivity data acquisition method	2
+cost-time integrated progress control theory	2
+open neutral data format	2
+proof-of-concept	2
+quasi-experiment	2
+Building Information Modeling (BIM) techniques	2
+proof-of-concept approaches	2
+robust approach	2
+Hector-SLAM	2
+Adaptive Monte-Carlo Localisation	2
+semantic web technologies	2
+semantic web service	2
+novel cloud-edge solution	2
+interoperability and a system of systems approach	2
+building information modeling	2
+corresponding optimization approach	2
+Genetic Algorithm (GA)	2
+dispatching rule technique	2
+empirical semi-structured interviews	2
+alternative methods	2
+Case study research	2
+best NEH-based heuristics	2
+new heuristic	2
+NEH heuristic	2
+novel tie-breaking rule	2
+new priority rule	2
+extensive three-round Delphi survey	2
+empirical Delphi-based scenario planning study	2
+structured equation modelling analysis	2
+partial least squares approach	2
+extended resource-based view	2
+three-stage productivity function	2
+in-depth case study	2
+availability-based contract	2
+two-tiered thematic analysis with both semantic and latent theme analysis	2
+service-dominant logic	2
+goods-dominant logic	2
+Yes-No memory recognition method	2
+pairwise comparison and prioritization approach	2
+pairs (PAIR approach	2
+Yes-No memory recognition approach	2
+suspects sequentially (SEQ method	2
+systematic literature review	2
+Structural equation modeling	2
+novel multi-objective genetic algorithm	2
+stock-control evaluation	2
+new aggregation framework	2
+workshops and semi-structured interviews	2
+multi-method design	2
+soft systems methodology	2
+consumer demand model construction	2
+online choice-based conjoint (CBC) survey design	2
+survey-based technique	2
+Quality Function Deployment (AHP–QFD) and chance constrained optimization algorithm approach	2
+combined Analytic Hierarchy Process	2
+stochastic approach	2
+tailoring strategy	2
+platform strategy	2
+“platform strategy	2
+“tailoring strategy”)	2
+up-to-date overview	2
+70 semi-structured telephone interviews	2
+network modelling analysis	2
+Event flow mapping	2
+simple and fast fixed frequency drive (FFD) based method	2
+impedance analysis method	2
+conventional impedance or ring-down analysis methods	2
+DFLC-based protein quantitative method	2
+two commonly used pixel-based spectral de-noising techniques, Savitzky-Golay (SAVGOL) smoothing and median filtering	2
+composite wavelet transform	2
+shearlet transform	2
+wavelength-specific shearlet-based image noise reduction method	2
+Hyperspectral imaging (HSI)	2
+diffusion-based bioassay	2
+layer-by-layer method	2
+vivo measurement	2
+non-scalable, expensive and time-consuming strategies	2
+rules of arithmetic operations	2
+sandwich immunoassay	2
+potentiometric immunosensor	2
+new heparin-sensing mechanism	2
+empirical methods	2
+fluorescence-based detection	2
+plasmonically enhanced fluorescence (PEF) analysis	2
+off-beam quartz enhanced photoacoustic scheme (off-beam QEPAS)	2
+direct-write aerosol jet deposition and drop-casting	2
+robust method	2
+point-of-care diagnostics	2
+Pattern recognition MIP-based protein profiling	2
+i.e. multivariate analysis	2
+LabJack and Labview data acquisition (DAQ)	2
+regression method	2
+Conventional transmission Fourier transform infrared spectroscopy experiments	2
+Fourier transform infrared spectroscopy	2
+number of optical and electrical, ultrasonic-based techniques	2
+system’s design	2
+differential-intensity detection method	2
+Surface plasmon resonance	2
+multiple variable linear regression model	2
+quantitative structural property relationship (QSPR) approach	2
+super-resolution photoactivated localisation microscopy (PALM)	2
+super- resolution imaging experiments	2
+microfluidic valving techniques	2
+perturbation theory	2
+Sauerbrey equation	2
+3D FEA analysis	2
+3D finite element analysis (FEA)	2
+X-ray diffraction pattern	2
+ellipsometer	2
+two-week calibration	2
+line profile analysis	2
+thermo-optically	2
+live cell super-resolution microscopy	2
+simple, rapid one-step determination	2
+promising technique	2
+LbL method	2
+layer-by-layer (LbL) immobilization	2
+Aluminium oxide grafting	2
+coupled 500 	2
+versatile chip-level wireless driving method	2
+Fourier-transform infrared (FTIR)	2
+plasmonic resonant-coupling technique	2
+lift-off technique	2
+electron-beam lithography	2
+atomic force microscopy (AFM) imaging	2
+selective chemical etching	2
+femtosecond laser	2
+other, more complex and time-consuming methods	2
+relatively simple microwave cavity perturbation approach	2
+cavity perturbation technique	2
+Raman spectroscopy measurements	2
+strongly coupled magnetic resonance (SCMR) method	2
+sensor principle	2
+photo-etching	2
+Hertz's theory	2
+optically tracked dynamic palpation technique	2
+additional dynamic instrumented palpation approach	2
+available image processing methods	2
+specific encryption method	2
+particular encryption method	2
+encryption method	2
+cutting-edge technology	2
+set-up procedure	2
+Power Spectrum Density (PSD) analysis	2
+SE method	2
+Zooming Approach (ZA)	2
+disruption the Secondary Excitations (SE) method	2
+ITER programme	2
+hybrid particle image velocimetry (PIV) method	2
+Mega Amp Spherical Tokamak (MAST) fusion experiments	2
+efficient actuator allocation algorithm	2
+Particle Image Velocimetry	2
+high spatial resolution flow velocimetry method	2
+C# routines	2
+game engine Unity	2
+rigorous two step method	2
+UKAEA code MCR2S	2
+new code called VORTEX (Virtual Operator RadiaTion EXposure)	2
+particular microwave heating scheme	2
+European Fusion Programme	2
+National Spherical Torus Experiment Upgrade (NSTX-U)	2
+PROCESS systems code	2
+radiation transport code MCNP 6	2
+low resolution image-based simulation	2
+high resolution image-based simulation	2
+image-based finite element modelling	2
+emerging technique	2
+X-ray tomography	2
+laser flash analysis	2
+considered spline methods	2
+spline-based methods	2
+MARS (multivariate adaptive regression splines)	2
+ReLU activation function	2
+on-chip learning algorithm, named sign backpropagation (SBP)	2
+suitable on-chip learning algorithm	2
+new principle	2
+basis function-based OR approaches	2
+fast marginal likelihood optimization	2
+type-II maximum likelihood method	2
+Incremental Sparse Bayesian Ordinal Regression (ISBOR)	2
+tasks	2
+incremental sparse Bayesian approach	2
+Ordinal Regression (OR)	2
+plasticity rule	2
+multilayer network	2
+nonparametric density estimator	2
+one-hot encoder by one-nearest-neighbor optimization	2
+novel measure	2
+BSS algorithms	2
+BSS algorithms (PCA, AMUSE, SOBI, JADE, fastICA)	2
+canonical correlation analysis	2
+ECoG regression	2
+BSS algorithm	2
+BSS) algorithms	2
+metaheuristic algorithm	2
+smart sampling and incremental function learning techniques	2
+function learning algorithm	2
+Computational Intelligence techniques	2
+data-driven and data-intensive algorithms	2
+artificial neural network framework	2
+feature selection algorithms	2
+Hadoop paradigm	2
+Hadoop-based neural network	2
+generic variational approach	2
+naïve Bayes classifier	2
+Model comparison	2
+maximum-likelihood scheme	2
+industrial standard linear interpolator and the state-of-the-art Position-Velocity-Time (PVT) interpolator	2
+RTIPC	2
+proposed RTIPC	2
+single-step method	2
+(HFQ) process	2
+Scanning electron microscope (SEM) inspection	2
+time-domain solution	2
+Runge–Kutta fourth order method	2
+finite element (FE) prediction	2
+frequency domain analysis	2
+data analysis	2
+partitioned algorithm	2
+large-eddy simulation technique	2
+Slender-Body theory	2
+piston-type wavemaker	2
+three-dimensional (3D) computational fluid dynamics (CFD) approach	2
+Stokes wave theory	2
+first plus second-order (hereafter second-order)	2
+interface capturing approach	2
+open source Computational Fluid Dynamics (CFD) package-Open Field Operation and Manipulation (OpenFOAM)	2
+Spectral analysis	2
+finite element discretisation scheme	2
+dynamically adaptive mesh optimisation techniques	2
+Reynolds-averaged Navier–Stokes (RANS)	2
+actuator disc momentum (ADM) theory	2
+RANS blade element method	2
+blade element method	2
+time marching analysis	2
+iterative method	2
+smoothed particle hydrodynamics technique	2
+multi-physics computational method	2
+special Cosserat theory	2
+information theoretic approaches	2
+FPGA architecture	2
+novel pMCMC algorithm (denoted ppMCMC)	2
+stochastic algorithm	2
+Particle Markov Chain Monte Carlo (pMCMC)	2
+first-order stochastic dominance	2
+imprecise Bayesian nonparametric approach	2
+repeated insertion model (RIM)	2
+two variants of LDA models (Seed and Cluster LDA)	2
+PPLs	2
+LDA-specific algorithms	2
+PPL	2
+novel collapsed Gibbs sampling (CGS)	2
+uncollapsed Gibbs sampling	2
+one of two proposed Markov Chain Monte Carlo (MCMC) sampling algorithms	2
+abductive logic programming	2
+probabilistic programming language (PPL)	2
+general inference algorithms	2
+Probabilistic programming	2
+state of the art algorithms	2
+proposed BFO-B algorithm	2
+seven other well-known algorithms	2
+two state of the art swarm intelligence based algorithms	2
+chemotaxis mechanism	2
+BFO-B algorithm	2
+bacterial foraging optimization	2
+BFO-B	2
+new swarm intelligence algorithm	2
+swarm intelligence	2
+state-of-the-art implementation of ADMM consensus optimization	2
+Alternating Direction Method of Multipliers (ADMM) consensus optimization	2
+distributed graph processing framework Signal/Collect	2
+Probabilistic Soft Logic (PSL)	2
+CEG	2
+real health study	2
+Bayesian Network (BN)	2
+HR-EBSD	2
+micro-beam Laue measurements	2
+3D strain-gradient crystal plasticity finite element calculations	2
+3D-resolved synchrotron X-ray micro-diffraction	2
+L1 and L2 minimisation	2
+two widely used techniques	2
+optimization technique	2
+optimisation procedure	2
+Levenberg-Marquardt algorithm	2
+nonlinear least-squares function	2
+heuristic optimisation program	2
+multi-scale modeling approach	2
+integrated crystal plasticity (CP) and discrete dislocation plasticity (DDP) modelling techniques	2
+quantitative characterisation (HR-DIC and HR-EBSD)	2
+Nb–	2
+Quantitative transmission electron microscopy (TEM) and related small-angle X-ray scattering (SAXS) analysis	2
+high-energy synchrotron diffraction	2
+high resolution digital image correlation	2
+high resolution electron backscattered diffraction (HR-EBSD)	2
+preliminary map demarcating	2
+dynamic thermo-mechanically coupled, dislocation-based crystal plasticity modelling	2
+new experimental procedure	2
+high-resolution deformation mapping	2
+traditional certainty equivalent and greedy approach	2
+alternating direction method of multipliers (ADMM) based distributed provisioning method	2
+centralized solution approach	2
+portfolio optimization	2
+traditional certainty equivalent approach	2
+portfolio optimization solution	2
+class-leading, dedicated, and highly optimised C++ Maximum Clique solver	2
+associated lightweight costing mechanism	2
+goal-based planning	2
+novel semi-automated approach	2
+state-of-the-art heuristic algorithms	2
+computer science and cryptography	2
+multi-heuristic evolutionary task allocation algorithm	2
+experimental procedure	2
+single B-Spline point generation and alignment method	2
+B-Spline point generation	2
+Coherent Laser Radar technology	2
+accurate measurement technique	2
+Signal-to-noise ratio and analysis of variance (ANOVA)	2
+design of experiment approach	2
+design of the experiments approach	2
+conventional off-line-programming approaches	2
+Johnson–Cook formulation	2
+Photoelasticity observation	2
+Explicit finite element analysis	2
+BLOKTM protection concept	2
+non-linear finite element (FE) code ABAQUS/Explicit®	2
+available methods	2
+parameter sensitivity study	2
+chemical scheme	2
+multi-objective optimisation	2
+Frank-Kamenetskii theory	2
+39 thermostatically-controlled oven experiments	2
+Travelling Fires Methodology (TFM)	2
+nonlinear optimization method	2
+EN 1992-1-2	2
+zero-strength layer concept	2
+detailed thermo-mechanical cross-sectional analyses	2
+zero-strength concept	2
+Eurocode recommended reduced cross section method	2
+building fire risk analysis	2
+Building fire risk analysis	2
+meshless method	2
+fluid impulse method	2
+second order theory	2
+generalised equivalent storm (GES) method	2
+Vousdoukas et al.	2
+DELILAH campaign	2
+NewWave theory	2
+crest tracking algorithm	2
+Radon Transform	2
+prototype-scale BARDEXII experiment	2
+modified Bruun Rule	2
+established inverse first-order reliability method (IFORM)	2
+highest density contour method	2
+established approaches	2
+suitable methodology	2
+force-based generation	2
+force-control approach	2
+harmonics separation technique	2
+morphological model	2
+novel partial cell technique	2
+new equation	2
+runup equation	2
+new copula-based approach	2
+simple extreme-value statistical analysis	2
+SPAIR method	2
+SPAIR (Single-summation PTPD Approach with In-line Reflections) method	2
+Temporal Waterline radar method	2
+“Temporal Waterline” method	2
+site-specific calibration	2
+wave-by-wave modelling	2
+shock-capturing method	2
+cell-centred finite difference scheme	2
+high-order shock-capturing finite volume scheme	2
+high resolution hybrid finite volume–finite difference scheme	2
+equations	2
+new Upwind Weighted Essentially Non-Oscillatory scheme	2
+process based morphodynamic model (XBeach)	2
+statistical-process based approach (SPA)	2
+particle image velocimetry (PIV)	2
+laser-induced fluorescence (LIF)	2
+developed prediction method	2
+proposed quantile function model	2
+prediction method	2
+regression model	2
+flood risk analysis	2
+new technique	2
+univariate analysis	2
+Regression using maximum likelihood or least squares estimation	2
+new formula	2
+semi-unsteady, half wave-cycle concept	2
+new practical formula	2
+Godunov-based finite volume ADER scheme	2
+Laser-induced fluorescence	2
+adaptive computational technique	2
+robust log conformation tensor technique	2
+volume-of-fluid method	2
+fluctuation-dissipation theorem	2
+[Phys.	2
+log-conformation representation	2
+state-of-the-art implementations	2
+deformation fields method	2
+new boundary layer equation	2
+second order finite volume immersed boundary (FVM-IBM) methodology	2
+finite volume methodology	2
+decoupled approach	2
+DEVSS-G/DG formulation	2
+Picard iteration method	2
+log-conformation formulation	2
+cohesive zone model approach	2
+cohesive zone approach	2
+conventional high-frequency rheometry	2
+OFR technique	2
+Optimal Fourier Rheometry	2
+alternative rapid characterisation technique	2
+Fourier Transform Mechanical Spectroscopy, FTMS	2
+CSPS technique	2
+CSPS experiment	2
+independent poker-chip probe tack tests	2
+particle probe based micro-rheology	2
+asymptotic analysis	2
+number of signal processing techniques	2
+recycling technique	2
+recycling method	2
+time-dependent nature	2
+numerical experiments	2
+Segel equation	2
+Segel model	2
+Keller–	2
+Bernstein problem	2
+binary classifier problem	2
+proposed prediction algorithm	2
+data-driven active period technique	2
+ARIMA methodology	2
+auto-regressive integrated moving average (ARIMA) method	2
+active period based data-driven algorithm	2
+informative computerized algorithms	2
+likelihood ratio test	2
+probabilistic approach	2
+quantile regression tree approach	2
+novel algorithm	2
+data space partition method	2
+training sample re-weighting hyper box classifier	2
+partition method	2
+proposed sample re-weighting hyper box classifier	2
+simple data space partition method	2
+number of other state-of-the-art classifiers	2
+original hyper box classifier	2
+proposed refined classifier	2
+new solution procedure	2
+hyper box-based classifier (Xu & Papageorgiou, 2009)	2
+mathematical programming optimisation techniques	2
+two novel classifiers	2
+simple weight function method	2
+neutron diffraction (ND), (II) X-Ray diffraction (XRD), (III) contour method (CM), (IV) incremental deep hole drilling (iDHD)	2
+Electron beam (EB) welding	2
+DMW-Creep project	2
+RCUK Energy programme	2
+Neutron diffraction measurements	2
+surface and deep hole drilling	2
+surface X-ray diffraction	2
+neutron and high energy synchrotron diffraction	2
+Neutron Techniques Standardization	2
+Contour method measurements	2
+R6 Rev. 4 and BS 7910:2013 procedures	2
+Post-test analysis	2
+small punch (SP) technique	2
+laboratory-based electromagnetic (EM) sensor technique	2
+Commodity-level analysis	2
+laser-based heating	2
+synchrotron X-ray tomography	2
+Digital Volume Correlation (DVC)	2
+(three-dimensional image 	2
+time-resolved X-ray microtomography	2
+hybrid life cycle analysis framework	2
+rule-based, priority order baseline strategy	2
+Genetic Algorithm	2
+extensive sensitivity analysis	2
+scheduling method	2
+traditional energy-based to such a power-based formulation	2
+cross-sectional analysis)	2
+advanced panel econometric techniques	2
+adaptive self-tuning way	2
+Hamilton-Jacobi-Bellman framework	2
+feedback-based	2
+if-then-else rules	2
+efficient gas-particle clean-up technology	2
+related optimization algorithms	2
+cluster approach	2
+building cluster approach	2
+present conventional method)	2
+policy analysis	2
+multi-objective Particle Swarm Optimization (MOPSO) method	2
+grid transformer (GT)-based control method	2
+G-equation level-set method	2
+Fourier periodicity and residual demand analysis	2
+adaptive pitch control strategy	2
+PV double-glazing	2
+optimum VP-3-DOF sun tracking	2
+proposed optimum sun-tracking methods	2
+described methodology	2
+dynamic lifetime estimation method	2
+overall non-empirical battery lifetime estimation method	2
+practical dynamic battery lifetime estimation method	2
+Monte Carlo simulations	2
+probabilistic sensitivity analysis	2
+assessment methodology	2
+life cycle performance design-based approach	2
+novel decision support methodology	2
+Land Surface Analysis Satellite Applications Facility	2
+multi-period mixed integer linear programming problem	2
+novel two-step optimization framework	2
+Bayesian approach	2
+steady-state model	2
+NEDC test protocol	2
+simulation-based approach	2
+new procedure	2
+old and outdated New European Driving Cycle (NEDC) test procedure	2
+Worldwide Harmonized Light-duty vehicles Test Procedure (WLTP)	2
+matrix approach	2
+rule based control	2
+constrained non-linear programming (CNLP) optimization	2
+one-way communication	2
+two-stage aggregated control	2
+binomial logistic regression	2
+particle surface impregnation technique	2
+Flexibility Function	2
+module costing technique	2
+cost assessment methodology	2
+TGA and in-situ XRD experiments	2
+In–situ XRD	2
+future Point Cloud processing solution	2
+Building Energy Modelling	2
+power minimization algorithm	2
+forty influential energy and ecosystem services scenario exercises	2
+qualitative and quantitative analysis	2
+whole systems approach	2
+novel initialization algorithm	2
+Extended Kalman Filter algorithm	2
+Polynomial and Eigenfunction approach	2
+modified spatial discretization	2
+original Duhamel Superposition Integral approximation	2
+real-time control	2
+best performing forecast method	2
+optimization and technology modeling framework	2
+new modeling framework	2
+decomposition analysis	2
+in-situ testing	2
+Pa. Monte Carlo analysis	2
+UK Government’s national Building Performance Evaluation programme	2
+nationwide cross-project meta-study	2
+Computer-based optimization	2
+established diffusion design technique	2
+process systems engineering approach	2
+simulation or an optimisation approach	2
+deep time delay neural networks (TDNN) and regression trees (RT)	2
+multivariate regression and dimensionality reduction algorithms	2
+machine learning algorithms	2
+optimization-based control algorithms	2
+universal approach	2
+conventional paradigm	2
+MMR mechanism	2
+last-defence mechanism	2
+‘rule of thumb’ equation	2
+CO2-BMP process modelling	2
+methodological approach	2
+microscopic observation	2
+combined Thermo-Gravitational Analysis (TGA) and Differential Scanning Calorimetry (DSC) methods	2
+literature review of model-based analyses	2
+conventional two-way uniform operation	2
+energy maximisation optimisation approach	2
+gradient-based optimisation techniques	2
+Path analysis	2
+nationally-representative survey	2
+novel modelling framework	2
+two modelling techniques	2
+weighted sum of grey gases (WSGG) model	2
+Mie theory based data	2
+full-spectrum correlated k (FSCK) model	2
+multi-layer configuration	2
+Rosseland’s diffusion approximation	2
+Process modelling	2
+plug-and-play solution	2
+Vehicle-to-Building control strategy	2
+two-layer intra-hour adjustment methodology	2
+two-stage hierarchical Microgrid energy management method	2
+Differential Scanning Calorimeter	2
+conventional MOPSO method	2
+conventional MOPSO algorithm	2
+global search technique	2
+local search technique	2
+Multi-Objective Particle Swarm Optimization (MOPSO) algorithm and a local search technique – the Taxi-cab method	2
+novel optimization method	2
+multi-objective optimization framework	2
+structural-path analysis	2
+input-output analysis techniques	2
+art methods	2
+mixed integer linear programming	2
+business-as-usual scenario	2
+Matlab algorithms	2
+least-cost option (OPT)	2
+Indonesian Paris pledge	2
+2015 Paris Agreement	2
+commonly used NOABL (Numerical Objective Analysis	2
+boundary layer scaling (BLS) method	2
+particle swarm optimization	2
+resource based view	2
+introduced criteria	2
+two economic-based allocation methods	2
+CONCAWE’s linear-programming model	2
+Multi-objective optimisation	2
+non-current based detection method	2
+convectional fault analysis technique	2
+conventional fault analysis technique	2
+bespoke Transactive Energy (TE) approach	2
+developed modelling approach	2
+zone method	2
+long-term policy	2
+full-scale optimization	2
+proposed approaches	2
+proposed techniques	2
+novel mixed integer linear program methodologies	2
+high speed imaging techniques	2
+support vector machine (SVM) based algorithms	2
+problem decomposition method	2
+newly developed novel method, Epistemic-Deontic-Axiologic (EDA) Agent-based solution	2
+piece-wise linear formulation	2
+data clustering technique	2
+simple upscaling exercise	2
+graph theory	2
+complex networks analysis	2
+After-treatment technologies	2
+environmentally extended input-output analysis	2
+model predictive control strategy	2
+Novel statistical techniques	2
+nonlinear least squares method	2
+component-focused approach	2
+fully integrated approach	2
+Demand response technology	2
+two novel methods	2
+marker-based watershed transforms	2
+SEM imaging	2
+high resolution Backscattered electron (BSE) images	2
+µCT and SEM	2
+Image acquisition	2
+multi-scale multi-dimensional workflow	2
+Focused Ion Beam Scanning Electron Microscopy (FIB-SEM)	2
+automated ultra-high resolution scanning electron microscopy (SEM)	2
+X-ray micro-tomography (µCT)	2
+Italian energy policy scenario	2
+steady-state mixed-integer linear programming (MILP) approach	2
+decision support framework	2
+Infinity K-2)	2
+In-situ observation	2
+In-situ	2
+new schedule	2
+freely available open-source modeling framework Calliope	2
+one-size-fits-all approach	2
+best method	2
+Institutional Analysis (MAIA) framework, complex adaptive systems (CAS) theory, and Neo Institutional Economics (NIE) theory	2
+flameless technique	2
+first empirical MRIO analysis	2
+consumption-based approaches	2
+proposed frequency control strategy	2
+distributed control	2
+ex-ante	2
+agent-based modelling	2
+‘design element’ based approach	2
+direct photography technique	2
+(neo) institutional economics and socio-technical systems theory	2
+Combined Gas and Electricity Networks expansion model (CGEN+)	2
+non-linear optimization	2
+graphical manner	2
+Jacobian matrix - based sensitivity method	2
+Kernel Density Estimator (KDE)	2
+novel standardised metrics	2
+social science time use approaches	2
+innovative methodology	2
+non-intrusive appliance load monitoring (NILM)	2
+proposed control strategy	2
+simple and transparent design	2
+in-use testing	2
+3D imaging techniques	2
+first multi vector energy analysis	2
+present modelling and simulation method	2
+detailed and generic dynamic modelling and simulation method	2
+China’s model	2
+load-scheduling algorithm	2
+single loop control strategy	2
+proposed cascade control	2
+Cascade control strategy	2
+Case studies	2
+coordination	2
+control optimisation framework	2
+reheating concept	2
+developed load estimation algorithm	2
+load estimation algorithm based onk-means cluster analysis	2
+probability theory	2
+non-linear description	2
+multi-parametric programming problem	2
+TheMO2under uncertainty problem(MO2U2)is	2
+unified optimisation framework	2
+decentralized scheduling algorithm	2
+single impedance measurement	2
+experiment-design and parameter-estimation step	2
+two steps	2
+Monte-Carlo simulations	2
+existing EIS-based methods	2
+several EIS-based temperature estimation methods	2
+new ICWHR	2
+conventional Rankine based WHR	2
+clustering approach	2
+time series transformation	2
+alkaline lysis procedure	2
+branch and bound algorithm	2
+Empirical analysis	2
+‘balance sheet’ approach	2
+implicit Euler backward method	2
+alternative discretization methods	2
+Runge–Kutta method	2
+Euler forward method	2
+implicit discretization (Euler backward method)	2
+Extended Kalman Filtering (EKF) and Unscented Kalman Filtering (UKF)	2
+Exergy analysis	2
+priority mechanism	2
+integrated model	2
+low-voltage network analysis	2
+Distribution network reconfiguration algorithms	2
+improved Powell’s Direct Set method	2
+steady state analysis framework	2
+Exploratory analysis	2
+soil sampling and vegetation surveys	2
+household survey	2
+multi-disciplinary, bottom-up approach	2
+‘Plugged-in Places’ projects	2
+two-step modelling framework	2
+first comprehensive joined-up, multi-vector energy system analysis	2
+BET and XRD analysis	2
+5-day sliding time window method	2
+sliding time window method	2
+basic cost analysis	2
+SAFT-VR Mie equation	2
+thermogravimetric analyser (TGA)	2
+cross-sectional analysis	2
+clustering methods	2
+20-fold cross validation	2
+K-means and model-based clustering	2
+common two-stage algorithms	2
+latent class regression	2
+Clustering methods	2
+steady state analysis method	2
+useful work analysis	2
+long-term whole economy time-series exergy analysis	2
+three novel sub-analyses	2
+work and exergy analysis studies	2
+frequency analysis	2
+inverse performance-oriented approach	2
+thermogravimetric analyser	2
+mechanical mixing	2
+Coupled Model Intercomparison Project phase 3 (CMIP-3)	2
+Integrated Global Systems Model (IGSM)	2
+probabilistic method	2
+decomposed method	2
+combined analysis methods	2
+cost-benefit analysis	2
+complexity science	2
+techniques and tools	2
+agent-based and network modelling	2
+standard (e.g. economic) modelling	2
+complex systems theory	2
+situ observations	2
+7-year (2005–2011) SWAN wave model simulation	2
+off-line rheometer	2
+Ordinary Least Squares and Support Vector Regression models	2
+three-classes problem	2
+two-classes problem	2
+Naive Bayesian Classifiers	2
+Support Vector Machines	2
+Artificial Neural Networks	2
+scalable method	2
+proposed mechanism	2
+citation analysis	2
+worldwide patent statistical database (PATSTAT)	2
+novel Cooperative Patent Classification (CPC)	2
+UK government heat strategy	2
+multiple regression analysis	2
+EV charging strategies	2
+OD analysis	2
+EU MERGE project	2
+intelligent transportation research	2
+Origin–Destination (OD) analysis	2
+fuzzy control	2
+open-loop control	2
+new real-time energy monitoring methods	2
+traditional decentralized PID (Proportional–Integral–Derivative) control	2
+Advanced control	2
+new build scheme	2
+XRF, XRD and SEM–EDS analytical techniques	2
+model analysis	2
+computational fluid dynamics (CFD) simulation technique	2
+on-farm survey	2
+Multivariable linear and logistic regression analyses	2
+adapted travel emissions profiling method	2
+newly developed survey instrument	2
+standard technology	2
+acoustic stub matching technique	2
+practical experimental approach	2
+physics-based assumption	2
+C-axis heating test	2
+Z-axis heating test	2
+Grey system theory	2
+(AGO)	2
+new modelling methodology	2
+procedures	2
+High Temperature Laser Sintering (HT-LS)	2
+predictive method	2
+modelling method	2
+voxel mesh technique	2
+numerical modelling method	2
+finite-element experiments	2
+X-ray CT imaging	2
+new lay-up concept	2
+distance transform approach	2
+X-ray computed tomography (CT) data processing methodology	2
+situ synchrotron X-ray computed tomography (CT)	2
+HiPerDiF method	2
+High Performance Discontinuous Fibre (HiPerDiF) method	2
+layered deposition technique	2
+Sohxlet extraction method	2
+polarized Raman spectroscopy	2
+cradle-to-gate LCA	2
+template-based prepreg processing approach	2
+modelling technique	2
+classical laminate analysis	2
+analytical modelling method	2
+Monte Carlo scheme	2
+collocation method	2
+Probabilistic Collocation Method	2
+conventional Monte Carlo	2
+Differential Scanning Calorimetry	2
+stochastic cure simulation methodology	2
+Cox–Krenchel and rule-of-mixture models	2
+image analysis method	2
+Creighton et al.	2
+image analysis technique	2
+resin transfer moulding (RTM) or prepreg/vacuum consolidation	2
+sessile drop technique	2
+loom	2
+4D printing method	2
+new 4D printing technique	2
+fused filament fabrication (FFF)	2
+experimental or simulation-based approaches	2
+high-resolution synchrotron X-ray computed microtomography	2
+DICTRA based modelling	2
+combined experimental-modelling approach	2
+modified couple stress theory	2
+DNN regression	2
+Mechanical testing	2
+Scanning Electron Microscopy	2
+transmission electron microscopy	2
+electron backscattered diffraction	2
+Reverse Transcription-Polymerase Chain Reaction (RT-PCR) and immunocytochemistry	2
+EHD-jet 3D printing	2
+X-ray diffraction analyses	2
+scanning electron microscopic	2
+classical trial-and-error method	2
+3D-printing procedure	2
+novel solid-state route	2
+two-photon stereolithography	2
+Sustainable and cost-effective solutions	2
+optical and electron microscopy	2
+Small Punch (SP) creep test	2
+Fourier transform infrared spectroscopy (FTIR)	2
+X-ray powder diffraction (XRPD)	2
+new thermomechanical modelling approach	2
+sequential step-wise technique	2
+reverse-engineered	2
+neutron imaging	2
+Bragg edge transmission imaging	2
+Neutron Bragg edge imaging	2
+non-destructive techniques	2
+full antimicrobial study	2
+Finite element analysis	2
+simple liquid-phase self-assembly method	2
+in-situ imaging	2
+Microcantilever experiments	2
+standard characterization technique	2
+understanding-based design philosophy	2
+Lei's modified J-integral formulation (Jmod)	2
+full-field strain measurements	2
+Digital image processing algorithms	2
+new set of automated techniques	2
+atomic force microscopy	2
+fabrication method	2
+one-step etching technique	2
+non-destructive characterisation	2
+finite-element modelling	2
+non-destructive testing methods	2
+inkjet technology	2
+Elemental mapping	2
+X-ray energy dispersive spectroscopy (EDX)	2
+validation of diffusion magnetic resonance imaging (MRI)	2
+co-axial electrohydrodynamic atomization technique	2
+Fourier transform infrared and Raman spectroscopies	2
+novel bending technique	2
+Points strategy	2
+Contour Strategy	2
+line-based representation	2
+3D-CAD modelling	2
+colorimetric assay	2
+inductively coupled plasma optical emission spectroscopy (ICP-OES)	2
+hot stage microscopy (HSM)	2
+XRD) analysis	2
+X-ray diffraction (	2
+Hall effect measurements	2
+X-ray photoelectron spectroscopy	2
+UV/vis spectroscopy	2
+aerosol assisted chemical vapour deposition route	2
+surface profile unit cell approach	2
+3D reconstruction	2
+I-ECAP	2
+deflected laser raster scanning methodology	2
+new proposed shape function solution	2
+XRD and DTA analysis	2
+conventional powder metallurgy route	2
+blending elemental approach	2
+in-situ experimental protocol	2
+in-situ observations	2
+Ex-situ measurements	2
+in-situ annealing experiment	2
+in-situ monitoring	2
+global-local finite element-based design approach	2
+X-ray crystallography	2
+semantic differential scales (SDS)	2
+Femtosecond laser irradiation	2
+Computed Tomography scans	2
+Optical microscopy	2
+infrared spectroscopy	2
+X-ray Energy Dispersive Spectroscopy analysis	2
+dynamic finite element software LS-DYNA	2
+theoretical analysis	2
+alternating shielding gas technique	2
+Rietveld analysis	2
+in-situ loading	2
+measurement technique	2
+optical coherence tomography (OCT)	2
+In-situ analysis techniques	2
+finite element analysis (FEA) software DEFORM	2
+NATO AEP-55 standard	2
+Eurocode 3 procedures	2
+P–M interaction equation	2
+specially designed set-up	2
+previously proposed optimisation methodology	2
+modern engineering tools and procedures	2
+finite element methods	2
+detailed nonlinear finite element (FE) analysis	2
+Particle Swarm Optimisation (PSO) method	2
+linear buckling analysis	2
+FEA-based	2
+inductive theory building approach	2
+rarefied gas dynamics	2
+smoothing technique: exponential penalty function (EPF)	2
+available minimax fitting algorithm	2
+introduced method	2
+hybrid trust region algorithm (HTR)	2
+novel minimax fitting method	2
+Least squares method (L2)	2
+swept frequency eddy currents method	2
+computer-aided scan path generation	2
+mode-splitting mechanism	2
+self-reference sensing scheme	2
+QM theory and experiment	2
+Relative measurement theory	2
+powerful tool	2
+in-situ SEM micromechanical experiments	2
+ISO 25178-2:2012	2
+Relational measurement theory	2
+data- and theory-based methods	2
+proposed novel processing	2
+non-contact laser based measurement method	2
+online ensemble learning algorithm	2
+vision-based tracking algorithm	2
+double B-spline alignment method	2
+rigorous B-spline data alignment	2
+Dimensional analysis	2
+successfully applied Differential Spectral Responsivity (DSR) method	2
+spectral data analysis	2
+associated protocols	2
+high-throughput computer program	2
+state-of-the-art method	2
+novel strategy	2
+described face tracking algorithm	2
+tracking algorithm	2
+new constraint	2
+AAM-based 3D tracking	2
+Active Appearance Model (AAM)	2
+molecular simulations	2
+multi-scale method	2
+probabilistic analysis	2
+Monte Carlo simulations (MCS)	2
+artificial neural network (ANN) approximation model	2
+non-intrusive probabilistic approach	2
+probabilistic modelling approach	2
+Aspen Plus® (V8.8) chemical processing software	2
+proposed modelling method	2
+detailed cost analysis	2
+another sliding condensation pressure method	2
+Energy Dispersive X-ray (EDX) spectroscopy	2
+Thermogravimetric Analyser (TGA)	2
+Differential Scanning Calorimeter (DSC)	2
+wetness impregnation method	2
+group-contribution methods	2
+molecular-based, group-contribution equation of state, SAFT-γMie	2
+innovative multi-stage energy recycling strategy	2
+novel Multi-Stage Exhaust Energy Recycling strategy	2
+Eco-Indicator99)	2
+CML2001, ILCD and Eco-Indicator99 methodologies	2
+Matlab	2
+energy audit	2
+in-situ leaching	2
+life-cycle analysis	2
+so-called ‘Chinese restaurant process’ method	2
+popular clustering methods	2
+computational intelligent algorithm	2
+switch integration technique	2
+resulting Kinect-based method	2
+adapted inverse dynamics method	2
+reference inverse dynamics method	2
+inverse dynamics method	2
+cloud computing paradigm	2
+FTIR	2
+27Al and 29Si-MAS-NMR	2
+powder XRD	2
+UV/vis	2
+analytical protocol	2
+regression-kriging	2
+KBS-3V method	2
+extended X-ray absorption fine structure spectroscopy (EXAFS) and density functional theory modelling	2
+Transmission electron microscopy (TEM) images	2
+X-ray diffraction and infrared spectroscopy	2
+Bayesian computation	2
+Statistical prediction	2
+Scottish independence referendum	2
+extreme value theory	2
+joint design	2
+R package multfisher	2
+computationally efficient greedy algorithm	2
+closed testing principle	2
+optimization algorithm	2
+Improved exact multiple testing procedures	2
+Bonferroni correction	2
+exact non-parametric procedures	2
+Logistic regression	2
+maximum likelihood and the Akaike information criterion	2
+generalised information criterion	2
+all-subsets regression and model selection	2
+Bayesian information capacity criterion	2
+treatment effect estimator	2
+two-armed trial	2
+recently published trial	2
+novel randomised response-adaptive design	2
+framework of finite-horizon Markov decision processes and dynamic programming (DP)	2
+traditional fixed randomised design	2
+Nadaraya–Watson estimators	2
+state-of-the-science KDE methods	2
+fast and objective KDE method	2
+standard median estimator	2
+estimators	2
+polynomial estimators	2
+polynomial approximations	2
+commonly-used plug-in maximum likelihood estimators	2
+estimator	2
+plug-in maximum likelihood estimators	2
+P-spline smoothing	2
+subsequent statistical analysis	2
+covariance-based structural equation modeling	2
+new approach	2
+partial least squares (PLS) path modeling	2
+Markov chain Monte Carlo algorithm	2
+proposed new approach	2
+Simulation studies	2
+fourth structure Newton’s method	2
+Bayesian analyses	2
+Several Monte Carlo methods	2
+pairwise likelihood methods	2
+likelihood method	2
+RAND Health Insurance Experiment	2
+simulation study	2
+existing and proposed methods	2
+Bayesian Markov chain Monte Carlo approach	2
+standard statistical analysis	2
+Change point models	2
+latent class modelling	2
+new augmentation procedure	2
+data analyst	2
+Multiple imputation	2
+neutron diffraction measurements	2
+fully coupled diffusion-deformation analyses	2
+finite element analyses	2
+finite element package ABAQUS	2
+Finite Element Analysis (FEA)	2
+SP test	2
+graph-theoretical approach	2
+Numerical experiments	2
+multifrontal approach	2
+multigrid solver	2
+classic cyclic reduction method	2
+multifrontal method	2
+hierarchical approximation	2
+distributed-memory fast solver	2
+recursive doubling with pairwise exchange algorithm	2
+cost-effective online nesting procedure (CONeP)	2
+two novel proposed algorithms	2
+existing algorithm	2
+discussed algorithms	2
+common runtime model	2
+GPU-based updating	2
+QR updating algorithms	2
+Linear least squares problems	2
+new theory	2
+general technique	2
+new linear matrix inequality search	2
+convergence algorithm	2
+bottom-up computational modelling framework	2
+proposed procedure	2
+alternative algorithm	2
+centroidal tessellation relaxation algorithm	2
+basic Voronoi-based algorithm	2
+mechanical and a morphological perspective	2
+commercial finite element software	2
+finite element package Abaqus/Standard	2
+new modelling concept	2
+depth-resolved synchrotron X-ray diffraction	2
+self-consistent scheme	2
+Voronoi-based numerical algorithm	2
+proposed DIFFSVC methods	2
+parameter generation algorithm	2
+conventional Gaussian mixture model (GMM)	2
+differential Gaussian mixture model (DIFFGMM)	2
+DIFFSVC method	2
+log-spectrum differential (DIFFSVC)	2
+modern state-of-the-art speech recognition techniques	2
+signal processing techniques	2
+non-intrusive method	2
+functional analysis	2
+principle and algorithm	2
+new BiDWGP metric	2
+distortion-weighted glimpse proportion metric (BiDWGP)	2
+reference method	2
+Bayesian approach or the maximum a posteriori probability (MAP) adaptation approach	2
+adapted BML method	2
+hierarchical scheme	2
+Gaussian Mixture Model-Universal Background Model (GMM-UBM)	2
+novel idea using the Boosting Mixture Learning (BML) method	2
+non-pathology-based classification	2
+spectral envelope estimation algorithm	2
+reference evaluation scheme	2
+Human Language Technology (HLT) department	2
+‘return period’ approach from extreme value analysis (EVA)	2
+2.5D Large Eddy Simulation (LES)	2
+CIBSE approach	2
+REFRESH cube campaign (RCC)	2
+fully unsteady method	2
+post-processing approach	2
+Lagrangian particle tracking	2
+Spalart-Allmaras formulation	2
+LOG and PL methods	2
+adaptation of the power law (PL) and the Gryning et al.	2
+CIBSE's prescribed ventilation calculation method	2
+typical linear workflow approach	2
+Vortex Method	2
+precursor method	2
+RANS approach	2
+morphometric methods	2
+Kanda et al.	2
+widely used morphometric method (Macdonald et al. 1998)	2
+two-component time-averaged particle image velocimetry measurements	2
+one-minus-cosine law	2
+High resolution large-eddy simulations (LES)	2
+in-house code	2
+equivalent average velocity approach	2
+direct local relative velocity approach	2
+dynamic mesh technique	2
+phase-plot analysis	2
+three-beam Doppler lidar wind profiling method	2
+independent-component Markov chain Monte Carlo simulation	2
+general computational algorithm	2
+decision-making engineer	2
+probabilistic optimization methodology	2
+acceptable verification method	2
+weighted least squares regression	2
+maximum likelihood estimation	2
+least squares regression, weighted least squares regression	2
+incremental dynamic analysis (IDA)	2
+domain-weighted broadband beamforming	2
+PEVD algorithms	2
+conventional eigenvalue decomposition (EVD)	2
+established SRC methods	2
+JSM-DKSVD	2
+new dictionary learning method	2
+semi-supervised strategy	2
+extension of discriminative K-SVD	2
+concept of joint sparse model (JSM)	2
+fixed point iteration	2
+dynamic path optimization	2
+optimal method	2
+windowed Fourier transform or wavelet transform	2
+motion data retrieval	2
+state-of-art methods	2
+proposed AMFS	2
+general trace ratio optimization problem	2
+Adaptive Multi-view Feature Selection (AMFS) method	2
+loop analysis	2
+existing single microphone based methods	2
+one class support vector machine (OCSVM) method	2
+data description model	2
+source separation (SS) technique	2
+adaptive method	2
+Denoising experiments	2
+wavelet decomposition	2
+adaptive wavelet denoising framework	2
+Structured sparsity approaches	2
+new online Expectation Maximization based algorithm	2
+Sequential Monte Carlo methods	2
+Parametric Forcing Approach	2
+Direct Numerical Simulations (DNS)	2
+RDT framework	2
+linear blocking model	2
+Rapid Distortion Theory (RDT)	2
+dynamic forcing algorithm	2
+original approach	2
+updated version	2
+‘synthetic eddy method’	2
+complete structure-based model (SBM)	2
+Interactive Particle Representation Model (IPRM)	2
+recently proposed structure-based model	2
+field-wise coupling approach	2
+heterogeneous approach	2
+domain-decomposition framework	2
+direct simulation Monte Carlo (DSMC) technique	2
+new hybrid method	2
+equivalent cycles method	2
+inspection approach	2
+conventional inspection approach and the proposed rate-based monitoring approach	2
+EDX techniques	2
+Optical and SEM microscopy	2
+fracture-mechanics approach	2
+SEM techniques	2
+nanohardness measurements	2
+Transmission Electron Microscopy (TEM)	2
+Energy Dispersive X-ray Spectroscopy (EDX)	2
+Electron Backscatter Diffraction (EBSD)	2
+Scanning Electron Microscopy (SEM)	2
+crystal plasticity sub-model oligocrystal approach	2
+versatile method	2
+SEM analyses	2
+X-ray diffraction determinations	2
+Doppler velocimetry	2
+3D finite element simulation	2
+X-ray diffraction measurements	2
+Laser shock processing	2
+eigenstrain approach	2
+shifted 2D method	2
+Fast Fourier Transform	2
+Monte-Carlo simulation	2
+four-point method	2
+error model	2
+laser machining experiment	2
+latter method	2
+Exponential Penalty Function and Primal-Dual Interior Point Method	2
+aspheres minimum zone fitting	2
+two algorithms	2
+task specific uncertainty evaluation	2
+simple measurement task	2
+comparator technique	2
+scanning and touch-trigger probing (TTP)	2
+design of experiments (DOE) approach	2
+Monte-Carlo method	2
+hybrid four-point method	2
+roundness measurement algorithm	2
+focus variation method	2
+extraction technique	2
+non-destructive evaluation	2
+ISO 25178-2	2
+measurement method	2
+novel optimisation and correlation algorithm	2
+Continuous motion calibration techniques	2
+accelerometer based dynamic displacement feedback technique	2
+straightedges or laser-based methods	2
+FEA-based method	2
+novel offline thermal error modelling methodology	2
+single-chamber OWC-WEC	2
+dual-chamber OWC-WEC	2
+eigenfunction expansion technique	2
+linear potential flow theory	2
+Cummins method	2
+high fidelity CFD-based RANS methods	2
+design and optimisation procedure	2
+Computational Fluid Dynamics (CFD) analysis	2
+similarity law analysis	2
+general phase-based harmonic separation method	2
+Large Eddy Simulations (LES)	2
+3D numerical modelling study	2
+two-phase incompressible–compressible smoothed particle hydrodynamics (SPH) method	2
+full-scale long-duration experiments	2
+robust and reliable artificial neural network model	2
+artificial neural network (ANN)	2
+pseudo-cracking method	2
+Direct Strength Method (DSM)	2
+advanced structural analysis	2
+Fibre Bragg Grating cables and Digital Image Correlation)	2
+Quasi distributed sensing techniques	2
+comprehensive finite element (FE) study	2
+proposed analytical method	2
+Digital Image Correlation (DIC) technique	2
+fourth blast test (Test 4)	2
+novel numerical method	2
+conventional Fourier analysis	2
+wavelet transform	2
+time–frequency approach	2
+general finite element program LS-DYNA	2
+ASCE 7-02	2
+design tool called Travelling Fires Methodology (TFM)	2
+deterministic approach	2
+ANN model	2
+artificial neural network (ANN) based model	2
+energy approach	2
+static analysis	2
+GMNIA ABAQUS finite element analyses	2
+CC method	2
+previously developed design methodology	2
+STM calculations	2
+proposed VSA method	2
+different nonlinear static analyses	2
+Newton Raphson algorithm solution	2
+standard finite element software (Abaqus 6.13)	2
+extended finite element method (XFEM)	2
+simplified micro-model approach	2
+distortional experiments	2
+initial parameter method (IPM)	2
+proposed reliability method	2
+computer-based time history finite element simulations	2
+Eurocode 2	2
+capacity spectrum assessment and fragility curve statistical model fitting	2
+FRACAS and nonlinear time history analyses (NLTHA)	2
+FRACAS approach	2
+capacity spectrum assessment method	2
+practical design methodology	2
+biologically-inspired approach	2
+effective length method	2
+new stochastic approaches	2
+Distinct Element Method (DEM)	2
+probabilistic, semi-empirical design procedure	2
+proposed design strategy	2
+simple computational procedure	2
+trending tool	2
+prescribed method	2
+aforementioned algorithms	2
+guidance generation algorithm	2
+full state feedback linear-quadratic-regulator control scheme	2
+novel guidance tracking algorithm	2
+aerodynamically based re-entry guidance generation algorithm	2
+grid convergence study	2
+proposed safety analysis	2
+reliable safety analysis	2
+Inputs' Statistics Method	2
+safety analysis	2
+ESA Space Debris Mitigation Compliance Verification Guidelines	2
+safety boxes concept	2
+setup and experiment protocol	2
+OoClamp and the method	2
+well-established two-electrode voltage clamp (TEVC)	2
+navigation filter initialization	2
+fast-track program	2
+independent spacecraft techniques	2
+receding-horizon control	2
+State-Dependent-Algebraic-Riccati-Equation (SDARE) approach	2
+real time suboptimal control algorithm	2
+particle image velocimetry measurements	2
+Schlieren photography	2
+two such strategies	2
+time of flight iteration solution	2
+second-order, Newton–Raphson method	2
+p-iteration solution	2
+third-order, Chebyshev's method variant	2
+Triple-satellite-aided capture	2
+novel “Phase Angle Pruning Heuristic”	2
+dynamic modelling procedure	2
+new transmission principle	2
+layered (multi-level) design optimisation approach	2
+hypothesis of minimum elastic potential energy (MEPE model)	2
+Taylor series expansion	2
+Euler–Rodrigues formula	2
+algebraic geometry method	2
+Euler parameter quaternions and algebraic geometry approach	2
+theorem	2
+Duporcq's theorem	2
+famous theorem	2
+suitable compression strategy	2
+approximate solution - multi-view CA (MvCA)	2
+first stage regression	2
+Two-stage Cumulative Attribute (CA) regression	2
+framework for model-based point pattern learning	2
+different methods	2
+third algorithm	2
+Quantum Clustering and the Mean-Shift algorithm	2
+different clustering schemes	2
+established clustering algorithms	2
+Parzen-window and mixture model methods	2
+analysis scheme	2
+effective post-processing procedure	2
+extensive experiments	2
+linear discriminant analysis (LDA)	2
+training set construction procedure	2
+concept of principal component analysis (PCA) de-noising	2
+proposed mixture of Gaussians 3D face model	2
+training	2
+3D face recognition	2
+connected component labeling problem	2
+connected-component labeling algorithms	2
+main strategies and algorithms	2
+state-of-the-art connected-component labeling algorithms	2
+connected-component labeling	2
+Connected-component labeling	2
+latter algorithms	2
+many single-scale approaches	2
+Graph-based image segmentation	2
+MSDinter methodologically	2
+bilinear mixing model	2
+popular matched subspace detector (MSD)	2
+MSDinter	2
+matched subspace detector with interaction effects (MSDinter)	2
+new hyperspectral target-detection method	2
+proposed method empirically	2
+deep Taylor decomposition	2
+single-scale CNN	2
+multi-scale CNN	2
+multi-scale CNN method	2
+ICPR 2014	2
+Immunofluorescence antinuclear antibody tests	2
+fingerprint spoof-detection algorithm	2
+bootstrap aggregating (bagging) classifiers	2
+sum-rule	2
+traditional sum-rule based fusion algorithms	2
+saliency filter	2
+Intrinsic-scale-adaption	2
+rotation-invariant computation of LBP	2
+scale-	2
+linear time complexity method	2
+Hidden Markov Model baseline	2
+Simulated annealing	2
+Rao–Blackwellised Particle Filter	2
+High-level inference	2
+event analysis and high-level inference	2
+low-level video tracking	2
+three-tier architecture	2
+conventional depth-image-based rendering (DIBR)	2
+reverse search	2
+fast multi-view image rendering method	2
+traditional multi-view image generation algorithm	2
+Mechanical analysis	2
+Zygo interferometer	2
+optical test method	2
+nonlinear finite element software RIFLEX	2
+model-scale experiment	2
+Acoustic Doppler Velocimetry	2
+small-scale experiment	2
+reliability analysis	2
+response surface modelling	2
+parametric finite element analysis (FEA) modelling	2
+Monte Carlo storm-based method	2
+storm-based methods	2
+three types of method	2
+theoretical and statistical analysis	2
+accurate and time-efficient calibration	2
+Froude-Krylov approach	2
+classic quasi-static approach	2
+generation-measurement-correction procedure	2
+empirical method	2
+Grid free vortex method	2
+adaptive VC method	2
+Computational vortex method (CVM)	2
+OpenFOAM code	2
+adaptive vorticity confinement (VC) method	2
+different grid based and grid free modelling approaches	2
+one analytic spreadsheet-based tool	2
+one mathematical optimisation tool	2
+shock identifier	2
+hp−adaptive scheme	2
+Q-learning algorithm	2
+reinforcement learning	2
+structured method	2
+2-D and 3-D potential methods	2
+reliable methodology	2
+RANS-BEM case	2
+3-D potential method	2
+analysis methodology	2
+brash ice testing and analysis methodology	2
+model test	2
+optimization algorithms	2
+genetic algorithm or a particle swarm optimizer	2
+layout optimization framework	2
+cross-sectional survey	2
+modular concept	2
+simplest control strategy	2
+ADV.	2
+alternative propeller selection methodologies	2
+Rankine-type Green function	2
+3-D panel method	2
+Experimental uncertainty analysis	2
+new solver	2
+modified Kwon׳s method	2
+Voyage optimization	2
+innovative optimisation procedure	2
+potential theory	2
+analyses	2
+Ship Impact Model (SIM)	2
+Energy Efficiency Design Index (EEDI)	2
+optical method	2
+proposed numerical navigation simulation method	2
+alternative technology	2
+General Algebraic Modeling System (GAMS).The results	2
+TRACE system code	2
+U.S.NRC system codes TRACE-PARCS	2
+Generation IV International Forum (GIF)	2
+helium introduction technique	2
+Laser Doppler Anemometry (LDA)	2
+forensic engineering study	2
+neutron diffraction (ND) method	2
+laser profilometry	2
+Electron beam (	2
+steady-state experiments	2
+quasi-steady method	2
+LES with wall-function approach	2
+CFD techniques	2
+IAEA International Reporting System for Operating Experience (IRS)	2
+Scanning electron microscopy	2
+software package GEM-SA	2
+Gaussian process emulation	2
+Global sensitivity analysis techniques	2
+sensitivity analysis techniques	2
+correlation analysis	2
+spectrum analysis	2
+Boussinesq approximation	2
+thermalhydraulic system code CATHENA	2
+code DONJON	2
+neutron transport code DRAGON	2
+4-year project FAIRFUELS	2
+SPHERE irradiation experiment	2
+combination of linear perturbation theory	2
+different methodology	2
+lattice solver DRAGON	2
+WIMS-D4 multi-group nuclear library	2
+Bondarenko method	2
+multi-energy-group discretization	2
+Deterministic lattice physics transport calculations	2
+mechanistic methodology	2
+systematic sensitivity analysis	2
+classical Fisher–Kolmogorov equation	2
+perturbation analysis	2
+initial perturbation analysis	2
+superposition principle	2
+analogous thought experiment	2
+thought experiment	2
+widely used J-Integral method	2
+stored energy and J-integral calculation	2
+non-local approaches	2
+stored energy based methodology	2
+framework of dissipation-consistent modelling	2
+unified classification framework	2
+numerical continuation procedures	2
+nonlinear finite element method	2
+structural design paradigm	2
+developed multiscale method	2
+high-order spatio-temporal gradient expansion	2
+Floquet–Bloch theorem	2
+Phase-field approaches	2
+ex-situ	2
+focused ion beam micromachining	2
+micro-cantilever beam testing	2
+C-shaped sample test method	2
+non-parametric product-limit estimator	2
+established survival-analysis methods	2
+non-equilibrium molecular dynamics	2
+elastodynamic analysis	2
+multi-scale modelling approach	2
+conventional finite element modelling techniques	2
+calibration strategy	2
+new calibration strategy	2
+mixed approach	2
+continuum theory	2
+Föppl–von Kármán theory	2
+current method	2
+non-linear finite-element (FE) analysis	2
+Moore–Penrose generalised matrix inverse	2
+mixed generalised differential quadrature (GDQ) and integral quadrature (GIQ) approach	2
+Koiter׳s theory	2
+Evans-Richie model (1997) and the Freund model (2009)	2
+Bell model (1978)	2
+finite strain Finite Element (FE) analysis	2
+beam tracing method	2
+Advanced SEA (ASEA)	2
+Statistical Energy Analysis (SEA)	2
+unified and entirely geometrical methodology	2
+mean-field approach	2
+Müller–Liu procedure	2
+extended rules	2
+closed-form part	2
+traction-separation law	2
+cohesive-zone model (CZM)	2
+fast (semi-analytical)	2
+Discrete Crack Dynamics (DCD) method	2
+Multipole Method (MPM)	2
+computationally expensive three-dimensional (3D) finite element analyses	2
+Saint-Venant’s Principle	2
+digital image correlation (DIC) and SEM	2
+non-local CPFEM simulations	2
+in-situ experiments	2
+hydro-mechanical three-dimensional periodic network approach	2
+Digital Image Correlation (DIC)	2
+Cocks–Ashby void growth approach	2
+proposed multiscale framework	2
+domain decomposition	2
+multiscale modelling approach	2
+well-established finite element multiscale modelling approaches	2
+X-ray Computed Tomography (CT) scans	2
+finite element framework	2
+kinematic, multi-chain beam finite element method	2
+Mori–Tanaka homogenisation scheme	2
+IFEM	2
+inverse finite element method (IFEM)	2
+Grübler–Kutzbach mobility counting rule	2
+Monte Carlo approach	2
+Efficient algorithms	2
+p-version finite element method	2
+stochastic finite element method	2
+state-of-the-art computational multi-scale homogenization method	2
+stochastic homogenization method	2
+comparative study	2
+three-dimensional finite element method	2
+energy efficiency method	2
+Reissner Mixed Variational Theory (RMVT)	2
+Hellinger–Reissner mixed variational framework	2
+third-order theory	2
+refined zig-zag theory (RZT)	2
+zig-zag function	2
+user defined subroutine, UMAT	2
+computationally economic finite-element-based approach	2
+computational analysis	2
+R6 method	2
+extended finite element method	2
+previous lower-bound studies	2
+T–	2
+one-dimensional (1D) steady-shock theory	2
+Tan et al.	2
+Frequency–	2
+SPEC-alternative	2
+two-stage optimal Gaussian linearization method	2
+present approach	2
+two-stage optimization	2
+novel stochastic linearization approach	2
+energy method	2
+approximate monoharmonic approach	2
+Saint-Venant's principle	2
+Parseval's energy theorem	2
+digital image correlation measurements	2
+synchrotron X-ray diffraction	2
+confinement-dependent modelling approach	2
+classic confinement-independent modelling approach	2
+plane stress analysis	2
+generalized plane strain analysis	2
+three-dimensional finite element method (3D FEM) analysis	2
+modified transfer matrix method	2
+dispersion eigenvalue problem	2
+two step solution strategy	2
+novel multiscale semi-analytical technique	2
+Small Punch (SP) technique	2
+inverse analysis method	2
+digital image correlation (DIC)	2
+related approach	2
+plastic deformation experiment	2
+permanently installed, strain sensitive, potential drop technique	2
+finite element calculations	2
+slab method	2
+Asymptotic analysis	2
+proposed trimming simulation approach	2
+developed trimming simulation approach	2
+scaling interpolation and coordinate transformation procedure	2
+efficient approach	2
+Maxwell’s homogenization method	2
+Fung’s theory	2
+optical detection	2
+Volume Of Fluid (VOF) methodology	2
+combined two-step method	2
+much simpler algorithm	2
+ray-tracing procedure	2
+P1 approximation	2
+two-step method	2
+finite-element method	2
+several D2Q5 multiple-relaxation-time (MRT) lattice Boltzmann methods	2
+consistent forcing scheme (Fei and Luo, 2017)	2
+Chapman-Enskog analysis	2
+central-moments-based lattice Boltzmann method (CLBM)	2
+existing explicit algorithm	2
+newly introduced implicit algorithm	2
+immersed boundary method	2
+enthalpy-porosity technique	2
+implicit algorithm	2
+‘active’, non-contact technique	2
+recently developed coupled discrete unified gas-kinetic scheme	2
+EVLA procedure	2
+simulated SThM images computing	2
+Finite Difference solver	2
+technique quantitative	2
+Scanning Thermal Microscopy (SThM)	2
+MRI (Magnetic Resonance Imaging) experiments	2
+staggered approach	2
+large-eddy simulation	2
+conjugate-heat transfer approach	2
+fast Fourier transform	2
+comprehensive spectral element formulation	2
+Monte-Carlo ray tracing	2
+direct pore-level simulations	2
+numerical and experimental analysis	2
+limiting current density technique	2
+simple gradient diffusion hypothesis	2
+ordinary high-speed PIV	2
+two-colour ratiometric approach	2
+thermographic particle image velocimetry (thermographic PIV)	2
+coupling strategy	2
+hybrid computational method	2
+standard particle velocimetry algorithms	2
+measurement principle	2
+thermographic particle velocimetry’ (TPV)	2
+laminar, steady-flow analysis	2
+simultaneous planar laser-induced fluorescence (PLIF) and infrared (IR) thermography imaging	2
+total internal reflection method	2
+modified correlation	2
+new kinetic algorithm	2
+simple polynomial curve fit	2
+advanced gravimetric dynamic vapour sorption analyser (DVS)	2
+Monte-Carlo sampling method	2
+FE technique	2
+potential drop (PD) crack growth measurement technique	2
+phenomenological approaches	2
+specimen preparation procedure	2
+combined finite-discrete element method	2
+efficient Finite Element Microstructure MEshfree (FEMME) method	2
+proposed fracture mechanics-based numerical approach	2
+R-curve method	2
+fracture mechanics-based numerical approach	2
+current popular high-order generation methods	2
+variational approach	2
+proof-of-concept implementation	2
+traditional low-order methods	2
+efficient and fit-for-purpose analysis	2
+co-rotational approach	2
+semi-implicit time integration scheme	2
+dynamic relaxation method	2
+robust framework	2
+latest free-form surface evaluation techniques	2
+conventional algorithms	2
+Mori-Tanaka scheme	2
+three-scale representation	2
+backscattered electron imaging	2
+solid-state nuclear magnetic resonance spectroscopy	2
+analytical scanning and transmission electron microscopy	2
+thermal analysis	2
+coupled TG/DSC/FTIR	2
+coupled transport-structural approach	2
+relaxation analysis	2
+1H NMR	2
+High-field NMR analysis	2
+nuclear magnetic resonance (NMR) spectroscopy	2
+thermogravimetric analysis	2
+x-ray diffraction	2
+adaptive algorithm	2
+Gap metric based analysis	2
+design technique	2
+Iterative learning control (ILC)	2
+ellipsoidal MPC scheme	2
+tube-based model predictive control (MPC)	2
+ELQR approach	2
+instrumental variable projection step	2
+data-equation	2
+convex optimization approach	2
+convex nuclear norm optimization	2
+subspace identification framework	2
+standard sequential importance resampling (SIR) PF	2
+two filters	2
+adaptive convolution particle filter (CPF)	2
+convolution particle filtering approach	2
+box particle filtering approach	2
+semi-definite programming	2
+sum-of-squares (SOS) programming	2
+sum-of-squares programming	2
+control algorithm	2
+time-domain optimal control approach	2
+different iterative algorithm	2
+preconditioning method	2
+fully distributed iterative algorithm	2
+distributed weighted least-squares estimation problem	2
+Pandolf equation	2
+Banister's formula	2
+general management system approach	2
+Thematic analysis	2
+surface electromyography (sEMG)	2
+low-back using exposure variation analysis (EVA)	2
+intervention	2
+e-mail survey	2
+implementation framework	2
+process model	2
+UK National Reporting and Learning Service	2
+holistic, UX-focused approach	2
+system-initiated communications	2
+self-learning heating algorithm	2
+toolkit approach	2
+high level task analysis	2
+formal ergonomic analysis	2
+non-crossover design	2
+recently published occlusion-resistant Kinect skeleton data correction	2
+in-depth audit	2
+movement task	2
+pilot survey	2
+keyword search	2
+inappropriate visualisation method	2
+comprehensive briefing	2
+field experiment	2
+adapted socio-technical framework approach	2
+longitudinal case study approach	2
+h in-situ	2
+detailed case study	2
+single method	2
+inclusive design inspection method	2
+web-based questionnaire	2
+dual deductive and inductive interpretative thematic approach	2
+innovative longitudinal qualitative design	2
+case-control study	2
+Odds ratios and regression discontinuity analysis	2
+AttenD algorithm	2
+100-Car Naturalistic Driving Study (NDS)	2
+cognitively demanding n-back task	2
+(IRT) analysis	2
+Item response theory	2
+global accident prediction model (APM)	2
+road safety scheme implementation	2
+induced exposure analysis	2
+Human-machine ensemble methods	2
+readily-available off-the-shelf machine learning techniques	2
+triple ensemble NBSW=NBBI-GRAM=SVM	2
+Naïve Bayes with Support Vector Machine	2
+best performing algorithm	2
+Regularized Logistic Regression (LR)	2
+classifier	2
+human-machine learning ensemble approaches	2
+Support Vector Machine and Logistic Regression	2
+utility of four machine learning algorithms (Naïve Bayes, Single word and Bi-gram models	2
+Avon Longitudinal Study	2
+crash data analyses	2
+full Bayesian inference approach	2
+link-based model	2
+new crash data aggregation approach	2
+link-based approach	2
+Naïve Bayes algorithms	2
+two Naïve Bayesian algorithms	2
+semi-automated approach	2
+Public health surveillance programs	2
+Unconditional and conditional latent growth class analyses	2
+Driver Behavior Questionnaire	2
+UK Cohort II study	2
+secondary data analysis	2
+alternative, random re-alerting explanation	2
+counterbalanced repeated-measures design	2
+previous intervention program	2
+program	2
+UK Cohort II longitudinal study	2
+bifactor modeling approach	2
+self-report measure	2
+Driver Behavior Questionnaire (DBQ)	2
+developed algorithm	2
+single-layer perceptron	2
+ANN approach	2
+distance based pattern-matching approach	2
+robust algorithm	2
+new accident mapping algorithm	2
+Existing risk mapping algorithms	2
+accident-mapping algorithm	2
+safety management system approach	2
+developed safety climate scale	2
+(Safety pro-activity,	2
+exploratory (EFA) and confirmatory factor analyses (CFA)	2
+pre-test	2
+cognitive interviews	2
+in-depth	2
+extensive literature review	2
+initial survey development	2
+multi-level framework	2
+ongoing population-based cohort study	2
+Thai Health-Risk Transition Study	2
+first policy	1

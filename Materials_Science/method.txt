@@ -1,0 +1,2437 @@
+method	102
+vivo	84
+vitro	67
+X-ray diffraction	60
+technique	54
+Raman spectroscopy	48
+X-ray diffraction (XRD)	40
+scanning electron microscopy (SEM)	38
+scanning electron microscopy	38
+situ	36
+electron microscopy	34
+transmission electron microscopy	32
+in-situ	30
+X-ray photoelectron spectroscopy	24
+proposed method	22
+atomic force microscopy	21
+approach	20
+transmission electron microscopy (TEM)	18
+methodology	18
+Scanning electron microscopy	18
+X-ray photoelectron spectroscopy (XPS)	18
+X-ray diffraction analysis	16
+neutron diffraction	16
+analysis	16
+finite element analysis	14
+experiment	14
+algorithm	14
+experiments	13
+Scanning electron microscopy (SEM)	12
+optical microscopy	12
+powder X-ray diffraction	12
+atomic force microscopy (AFM)	12
+differential scanning calorimetry (DSC)	10
+Scanning Electron Microscopy (SEM)	10
+modelling approach	10
+HR-EBSD	10
+analyses	10
+scanning transmission electron microscopy	10
+Rietveld refinement	10
+X-ray computed tomography	10
+ex-situ	10
+Scanning Electron Microscopy	10
+fluorescence microscopy	9
+co-precipitation method	8
+nano-indentation	8
+density functional theory (DFT)	8
+Transmission Electron Microscopy (TEM)	8
+flow cytometry	8
+ex vivo	8
+impedance spectroscopy	8
+scanning electron microscope (SEM)	8
+thermogravimetric analysis	8
+FTIR analysis	8
+FT-IR	8
+density functional theory calculations	8
+Fourier transform infrared (FTIR)	6
+X-ray scattering	6
+Transmission electron microscopy (TEM)	6
+finite element method	6
+UV–	6
+Si–	6
+electron energy loss spectroscopy	6
+FIB-SEM tomography	6
+electrochemical impedance spectroscopy (EIS)	6
+first-principles calculations	6
+proposed technique	6
+infrared spectroscopy	6
+in vitro	6
+new technique	6
+digital image correlation (DIC)	6
+atom probe tomography (APT)	6
+Electron Backscatter Diffraction (EBSD)	6
+molecular dynamics simulations	6
+vitro and in vivo	6
+Fourier transform infrared spectroscopy	6
+two methods	6
+energy dispersive X-ray spectroscopy	6
+X-ray CT	6
+techniques	6
+sensitivity analysis	6
+Atomic force microscopy	6
+scheme	6
+X-ray powder diffraction (XRD)	6
+x-ray diffraction	6
+Electron microscopy	6
+standard ceramic method	6
+Mössbauer spectroscopy	6
+elemental mapping	6
+neutron powder diffraction	6
+theory	6
+density functional theory	6
+Neutron diffraction	6
+Atomic Force Microscopy	6
+sol-gel method	4
+differential voltage method	4
+Rietveld refinement method	4
+thermogravimetric analysis (TGA)	4
+Fourier transform infrared spectroscopy (FTIR)	4
+Criado method	4
+Coats-Redfern method	4
+SANS measurements	4
+similar experiments	4
+step-by-step manner	4
+X-Ray diffraction	4
+solid-state reaction method	4
+mapping technique	4
+macrophage based assay	4
+FM-AFM method	4
+in-vivo	4
+backscattered electron imaging	4
+quantitative polarised light microscopy (qPLM)	4
+2-photon confocal microscopy	4
+UV–visible spectroscopy	4
+Molecular dynamics simulations	4
+XRD analysis	4
+Finite element simulations	4
+SEM based techniques	4
+rapid and non-destructive structural characterisation technique	4
+Electron channelling contrast imaging (ECCI)	4
+chemical bath deposition (CBD) method	4
+Transmission electron microscopy	4
+high resolution TEM	4
+novel processing technique	4
+atom probe tomography	4
+First principles calculations	4
+hyperspectral imaging	4
+genetic algorithm	4
+finite element modelling	4
+31P MAS NMR	4
+UV functionalization method	4
+polarized light microscopy	4
+extended finite element method (XFEM)	4
+finite element analyses	4
+density functional calculations	4
+RCT-B method	4
+energy-dispersive X-ray spectroscopy	4
+Fractographic analysis	4
+Finite Element (FE) analysis	4
+Al–	4
+X-ray diffraction measurements	4
+STEM observation	4
+electrochemical impedance spectroscopy	4
+cyclic voltammetry	4
+CCD method	4
+X-ray computed tomography (CT)	4
+First-principles calculations	4
+proposed control strategy	4
+3D tomography	4
+protocol	4
+Multiple regression analysis	4
+Adams method	4
+hydrolysis method	4
+organic residue analysis	4
+case-studies	4
+lithic microwear analysis	4
+low-dose imaging	4
+in-situ experiments	4
+procedure	4
+situ approach	4
+combined analysis	4
+electroacoustic spectroscopy	4
+Microstructural analysis	4
+invariant-based design approach	4
+analytical approach	4
+balanced design approach	4
+nanoindentation technique	4
+analytical method	4
+energy dispersive X-ray spectroscopy (EDS)	4
+glow discharge optical emission spectroscopy	4
+X-ray diffraction (XRD) analysis	4
+Rietveld analysis	4
+routine	4
+statistical analysis	4
+Monte Carlo code FLUKA	4
+integrated method	4
+molecular dynamics (MD) simulations	4
+Ex vivo	4
+Electron Probe Micro-Analysis (EPMA)	4
+Aerosol Assisted Chemical Vapour Deposition (AACVD)	4
+focused ion beam	4
+Electrochemical impedance spectroscopy	4
+methods	4
+finite element (FE) modelling	4
+new methodology	4
+UV–Vis spectroscopy	4
+confocal microscopy	4
+Fourier Transform Infrared Spectroscopy (FTIR)	4
+SEM-EDX	4
+digital image correlation (DIC) technique	4
+molecular beam epitaxy	4
+scanning and transmission electron microscopy	4
+single-side illumination method	4
+COSMO-REA6	4
+graphical analysis tool	4
+Ennumber approach	4
+strategy	4
+image analysis	4
+new experimental method	4
+FT4 powder rheometer	4
+drop test method	4
+Atomic Force Microscopy (AFM)	4
+Statistical analysis	4
+new method	4
+third-harmonic microscopy	4
+harmonic analysis	4
+integral method	4
+ceramic method	4
+neutron diffraction and magnetometry	4
+solid state reaction method	4
+powder neutron diffraction	4
+high-resolution transmission electron microscopy	4
+Scanning Transmission Electron Microscopy (STEM)	4
+focused ion beam (FIB)	4
+ion beam analysis	4
+electron back-scattered diffraction (EBSD)	4
+combinatorial approach	4
+polarised Raman spectroscopy	4
+multivariate analysis	4
+scanning transmission electron microscopy (STEM)	4
+optical coherence tomography	4
+ATR-FTIR and SDS-PAGE	2
+synchrotron-based small-angle X-ray scattering (SAXS)	2
+Attenuated Total Reflectance Fourier Transform Infrared spectroscopy (ATR-FTIR) and SDS-PAGE	2
+luminescence lifetime cryothermometry	2
+novel method of “gallium-assisted diffusion bonding	2
+introduced SEM image analysis	2
+phase analysis	2
+two-dimensional investigations	2
+systematic three-dimensional large-scale phase-field simulations	2
+Turkevich method	2
+electron beam lithography method	2
+metal-catalyzed method	2
+liquid exfoliation method	2
+soft-template method	2
+microwave-assisted hydrothermal method	2
+scalable atomic layer deposition method	2
+high-temperature X-ray diffraction	2
+Post-deposition annealing	2
+in vitro magnetic resonance imaging (MRI)	2
+vibrating sample magnetometer (VSM)	2
+COMSOL Multiphysics software	2
+sol-gel, atomic layer deposition (ALD) method	2
+sol-gel auto-combustion method	2
+sensing analysis	2
+Hall effect measurements	2
+X-ray diffraction (XRD), Fourier Transform Infrared (FTIR) spectroscopy	2
+Field Emission Scanning Electron Microscopy (FE-SEM)	2
+Analysis	2
+Ultraviolet (UV)-Visible spectroscopy	2
+facile sol-gel method	2
+MTT assay	2
+TEM observations	2
+Scherrer's method	2
+Visible (UV–Vis) and Raman Spectroscopy	2
+Fourier Transform Infra-red (FTIR)	2
+Powder X-ray Diffraction (PXRD)	2
+vibrating sample magnetometry (VSM)	2
+energy-dispersive X-ray spectroscopy (EDX) elemental mapping	2
+liquid phase pulsed laser ablation (PLAL)	2
+impedance analyzer	2
+UV –	2
+solution casting method	2
+CIE (Commission International de I'E' clairage) chromaticity co-ordinates	2
+Scherer's method	2
+combustion method	2
+TEM and HRTEM analysis	2
+conventional solid–state reaction method	2
+Tafel polarization	2
+energy dispersive spectroscopy (EDAX)	2
+scanning electron microscopic images (SEM)	2
+X-ray diffraction spectroscopy (XRD)	2
+electroplating technique	2
+Korringa-Kohn-Rostoker coherent potential approximation (KKR-CPA) method	2
+lithographic lift-off method	2
+Noakes plots and Kouvel–Fisher method	2
+melt-spinning method	2
+low-cost approach	2
+aqueous solution-based method	2
+self-assembly method	2
+X-ray diffraction ̣(XRD) and Scanning electron microscopy (SEM)	2
+self-assembly method	2
+offered technique	2
+developed technique	2
+second stage	2
+Electroluminescence (EL) method	2
+pseudo-first-order kinetic model	2
+DRS spectroscopy	2
+TEM and BET techniques	2
+UV-DRS	2
+precipitation deposition method	2
+in-situ Raman characterization	2
+solid state reaction technique	2
+energy dispersive x-ray analysis (EDX)	2
+diffusion method	2
+scanning electron-microscopy	2
+homogenization – cold rolling – annealing treatment scheme	2
+gas sensor analysis	2
+UV–Visible absorption and photoluminescence (PL) spectroscopy	2
+powder X-ray Diffraction (PXRD)	2
+high throughput method	2
+UV–visible absorption spectroscopic studies	2
+modified seed mediated approach	2
+cyclic voltammetry (CV) and differential pulse voltammetry (DPV) techniques	2
+field emission scanning electron microscopy (FESEM)	2
+UV-Vis diffuse reflectance spectroscopy	2
+hydrothermal method	2
+TEM-EDX	2
+ICP-AES	2
+electrochemical impedance spectroscopy one	2
+electrochemical impedance spectroscopy method	2
+formula	2
+Spin–Orbit Interaction (GGA + SOI)	2
+Generalized Gradient Approximation	2
+technique of the Full Potential Linearly Augmented Plane Wave (FP-LAPW) implemented	2
+non-equilibrium Green's function	2
+SEM technique	2
+microstructural study	2
+sol–gel auto-combustion method	2
+GMI sensor	2
+SEM and TEM analysis	2
+simple hydrothermal method	2
+Cyclic voltammetry (CV) and Electrochemical Impedance Spectroscopy (EIS) measurements	2
+Visible studies	2
+X-ray photoelectron spectroscopy (XPS) and UV–	2
+Powder X-ray diffraction (PXRD)	2
+photoluminescence (PL)	2
+Atomic Force Microscope (AFM)	2
+ultrasonic spray pyrolysis technique	2
+cyclic voltammetry (CV) and electrochemical impedance spectroscopy (EIS)	2
+Jatropha-oil assisted combustion method	2
+SEM and Raman spectroscopy	2
+powder X-ray diffraction (PXRD)	2
+simple solution combustion route	2
+carboxyl-functionalised solvothermal approach	2
+ultrasonically enhanced co-precipitation procedure	2
+Diffuse reflectance spectra (DRS)	2
+EDS (Energy Dispersive X-ray spectroscopy	2
+Scanning Electron Microscope)	2
+single crystal X-ray diffraction (XRD)	2
+Fourier-Transform Infrared (FT-IR)	2
+nanotechnology strategy	2
+surfactant assisted sonochemical method	2
+Scanning electron microscope (SEM) studies	2
+HR-MS	2
+UV-VIS spectroscopy	2
+High resolution X-ray diffraction analysis (HRXRD)	2
+single crystal X-ray diffraction and Fourier transform infra-red spectroscopy (FTIR)	2
+unidirectional method	2
+slow evaporation solution (SEST) technique	2
+electron beam evaporation technique	2
+Fourier transform infrared (FTIR) spectroscopy	2
+energy dispersive X-ray analysis (EDX)	2
+Z-scan technique	2
+thermogrativity differential thermo-analysis (TG-DTA) technique	2
+Fluorescence study	2
+Fourier transform infrared (FTIR) spectroscopy technique	2
+powder X-ray diffraction (PXRD) method	2
+slow evaporation solution technique	2
+atomic force microscopy (AFM) measurements	2
+X-ray diffraction (XRD) patterns	2
+trap depth study	2
+inert gas condensation technique	2
+particle size analyzer	2
+Hummers' method	2
+X-ray Diffraction analysis	2
+UV-vis	2
+slow evaporation growth method	2
+Transmission electron microscopy (TEM), UV-Diffuse Reflectance Spectroscopy (UV-DRS), and Photoluminescence (PL) spectroscopy	2
+wet chemical method	2
+X-ray diffractograms	2
+co-extrusion process	2
+electrical impedance spectroscopy (EIS)	2
+thermogravimetric analysis (TG)	2
+pseudo second order model	2
+Brunauer–Emmett–Teller (BET) surface area, Raman and Ultraviolet–visible absorption spectroscopy	2
+sol–gel method	2
+nano tracking analysis	2
+Electroluminescence (EL) measurements	2
+T-test and F-test	2
+statistical analysis approach	2
+BET surface area analysis	2
+replication-based microcontact printing method	2
+co-precipitation technique	2
+study	2
+Judd–Ofelt theory	2
+surface-based science	2
+facile solution combustion route	2
+state-of-the-art bioinformatics approaches	2
+Fisher methods	2
+Critical analysis	2
+Commission International De I-Eclairage (CIE) and Correlated Color Temperature (CCT) analyses	2
+1H NMR	2
+X-ray Diffraction (XRD) studies	2
+simple electrodeposition method	2
+VIS spectroscopy	2
+electron beam evaporation method	2
+exchange-correlation energy optimization	2
+full-potential linearized augmented plane wave (FP-LAPW) method with generalized gradient approximation (GGA), local density approximation (LDA) and Engel–Vosko approximation (EV-GGA)	2
+electron backscatter diffraction analysis	2
+peak shape method	2
+Energy dispersive X-ray spectrum (EDS)	2
+XRD	2
+high temperature solid state reaction method	2
+spin coating method	2
+double-exchange interaction	2
+DFT calculations	2
+full-potential linear muffin-tin orbital (FP-LMTO) method within a generalized gradient approximation (GGA) and GGA + U	2
+modified sol–gel technique	2
+Spectroscopic ellipsometry	2
+XRD studies	2
+close spaced sublimation (CSS) technique	2
+Rutherford backscattering spectrometer (RBS) technique	2
+optical absorbance spectrum analysis	2
+transmission electron microscopy (TEM) and scanning electron microscopy (SEM) studies	2
+size–strain plot method (SSP)	2
+uniform deformation model (UDM), uniform stress deformation model (USDM)	2
+modified forms of Hall–Williamson relation	2
+Scherrer's formula	2
+X-ray energy dispersive (EDAX) and X-ray diffraction (XRD) analysis	2
+dip coating technique	2
+XRD analyses	2
+Fourier transform infrared spectroscopy (FT-IR), and electrical impedance spectroscopy (EIS) techniques	2
+field effect scanning electron microscopy (FESEM)	2
+Korsmeyer–	2
+Higuchi's model	2
+successive ionic layer adsorption and reaction (SILAR) method	2
+modulus analysis	2
+solid-state reaction technique	2
+potentiodynamic polarization (Tafel) and electrochemical impedance spectroscopy methods	2
+atomic force microscope (AFM)	2
+energy dispersion X-ray spectroscopy (EDX)	2
+field emission scanning electron microscopy (FE-SEM)	2
+Fourier transform-infrared spectroscopy (FT-IR)	2
+equation	2
+molecular field approximation	2
+proposed analysis method	2
+Stogryn's equation	2
+in vitro study	2
+bias extension test	2
+principal component 2 (PC2)	2
+Principal component 1 (PC1)	2
+Principal component analysis (PCA)	2
+de-convolution and curve fitting	2
+Fourier transform infrared (FTIR) analysis	2
+scanning electron microscope (SEM) and transmission electron microscope (TEM) studies	2
+x-ray diffraction (XRD)	2
+Cyclic voltammetry (CV) and Electrochemical impedance spectroscopy (EIS) studies	2
+TG-DTA	2
+FT-IR spectroscopy	2
+X-ray diffraction (XRD), Fourier Transform infra-red (FT-IR), Raman and thermal gravimetric-differential thermal analysis (TG-DTA) techniques	2
+Ultra-fast liquid chromatography (UFLC)	2
+developed method	2
+recently developed moving Kriging interpolation (MK)	2
+Reissner–Mindlin plate theory	2
+meshfree shear-locking-free method	2
+Meshfree methods	2
+Finite element method (FEM)	2
+rheological analysis	2
+Static immersion test	2
+higher order shear deformation theory	2
+finite element modeling	2
+extended periodic Anderson Hamiltonian (EPAM)	2
+XPS technique	2
+single crystal XRD studies	2
+numerical finite element method	2
+energy dispersive X-ray microanalyser	2
+transmission electron microscope	2
+Fourier transform infrared spectrometer	2
+rapid microwave assisted combustion method	2
+quantum kinetic equation method	2
+longitudinal-field muon-spin relaxation (LF-μSR) technique	2
+inverse microemulsion method	2
+ZnS:	2
+IEM	2
+combination of variable stripe length (VSL) and shifting excitation spot (SES) methods	2
+optically	2
+Doyle's method	2
+simple sonication assisted solvent blending technique	2
+XRD measurements	2
+citrate sol-gel method	2
+(Phys.	2
+Perdew et al.	2
+(FP-LAPW) method	2
+first-principles approach	2
+N-15 Nuclear Reaction Analysis	2
+secondary ion mass spectroscopy	2
+X-ray reflectometry	2
+sputtering technique	2
+Monte Carlo simulation	2
+Green's function	2
+exact methods	2
+first-principles hybrid density functional calculations	2
+splat-cooling technique	2
+dielectric constant measurement	2
+surface charge analysis	2
+magnetic force microscopy (MFM)	2
+EDS of SEM analysis	2
+SEM and TEM analyses	2
+Scherrer equation and advanced Williamson Hall (WH) plots	2
+X-ray photo electron spectroscopy (XPS)	2
+scanning electron microscopy–energy dispersive spectroscopy (SEM–EDS)	2
+Fourier transform infra-red spectroscopy (FTIR)	2
+powder X-ray diffractometer (PXRD)	2
+inexpensive, scalable, and template-free hydrothermal method	2
+coupled dipole method	2
+versatile design principle	2
+structural analysis	2
+First-principle calculations	2
+in-situ transmission electron microscope (TEM)	2
+magnetron sputtering method	2
+very-low-temperature (95°C) atomic layer deposition (ALD) super-cycle process	2
+high-resolution ptychographic X-ray computed tomography (PXCT)	2
+fused filament fabrication method	2
+Direct reactive interface printing	2
+Time-dependent etching	2
+here-described methodology	2
+3D electron tomography	2
+high-resolution scanning transmission electron microscopy	2
+inverse gas chromatography	2
+high resolution lattice imaging	2
+convergent beam electron diffraction (CBED)	2
+selected area electron diffraction (SAED)	2
+in-situ angular-dispersive X-ray diffraction	2
+Small angle X-ray scattering experiments	2
+W7-X web-service	2
+field line tracing tool	2
+active surface analysis techniques	2
+in-situ investigation	2
+ASDEX Upgrade (AUG)	2
+DIM-II	2
+second operation phase (OP2)	2
+efficient and accurate sensitivity analysis	2
+AD tools	2
+Algorithmic Differentiation (AD)	2
+plasma edge modeling	2
+simultaneously performed laser-induced breakdown spectroscopy (LIBS) measurements	2
+thermal desorption spectrometry	2
+depth-resolved and quantitative hydrogen content analysis	2
+first plasma operational phase	2
+picosecond laser-induced ablation (ps LIA-QMS)	2
+laser induced breakdown spectroscopy (LIBS)	2
+video imaging spectroscopy	2
+new algorithm	2
+fast-framing camera	2
+fast-camera imaging	2
+Drude theory	2
+charge-exchange recombination spectroscopy (CXRS) measurements	2
+newly developed Doppler-Shifted Reflectance Measurement (DSRM) diagnostic	2
+electrostatic detachment method	2
+SANS data analysis procedure	2
+small-angle neutron scattering (SANS)	2
+low energy He+ion scattering spectroscopy	2
+250 eV deuterium sputtering	2
+Preliminary transmission electron microscopy study	2
+Thermal Desorption Spectroscopy (TDS) measurements	2
+SP5 modelling	2
+plasma sputtering and deuterium retention experiments	2
+FISPACT-II	2
+three embedded-atom method tungsten potentials	2
+nano-scratch test	2
+nano-scratch tester	2
+High Flux Isotope Reactor (HFIR)	2
+high resolution video camera	2
+finite element based inverse method	2
+EBSD and STEM investigations	2
+EUROfusion materials project	2
+Ion irradiation experiments	2
+electron beam irradiation	2
+multi-beam ultra-high voltage electron microscope	2
+in-situ electron irradiation experiment	2
+multi-beam high voltage electron microscope	2
+pre- and post-plasma sample analysis	2
+least square method	2
+Kasada's method	2
+Nix-Gao model	2
+nano-indentation test	2
+partial density of states (PDOS) and an orbital-based descriptor (projected crystal orbital Hamilton population, pCOHP)	2
+Microstructural investigations	2
+analytical transmission electron microscopy	2
+thermal analysis	2
+subsequent mechanical analysis	2
+2D finite element thermal analysis	2
+nuclear reaction analysis	2
+thermal desorption spectroscopy (TDS)	2
+S/XB method	2
+LiI–	2
+low-energy monoenergetic perpendicular 200 eV deuterium bombardment	2
+Voronoi diagram	2
+kinetic Monte-Carlo (KMC) simulation	2
+X-ray photoelectron spectroscopy analysis	2
+glow discharge optical emission spectrometry analysis	2
+TDS measurement	2
+transmission electron microscope (TEM) analysis	2
+imaging plate technique	2
+linear plasma generator PSI-2	2
+EDGE2D-EIRENE	2
+binary collision approximation (BCA) approach (SDTrimSP code)	2
+3D ERO code simulations	2
+mass loss	2
+WΙ spectroscopy	2
+linear plasma device PSI-2	2
+self-consistent way	2
+DUMPRO routines	2
+Orbital Motion Limited (OML) approach	2
+dust detection method and a trajectory reconstruction algorithm	2
+DUMPRO (DUst Movie PROcessing) code	2
+Image processing routines	2
+time-delay-estimation technique	2
+anodic polarization measurement technique	2
+laser profilometry	2
+electron beam simulation	2
+Plansee SE	2
+Small-Angle Neutron Scattering (SANS)	2
+in-situ straining experiments	2
+in-situ TEM	2
+static TEM observation	2
+Bailey–Hirsch relation	2
+MEMOS code	2
+Environmentally friendly one-pot protocol	2
+Gouy–Chapman–	2
+x-ray scattering	2
+micromechanical analysis	2
+image-based averaging technique	2
+In-situ process monitoring	2
+formulation	2
+laser scan strategy	2
+finite element based predictive modeling	2
+expanded Stage 2 interlaboratory comparison	2
+ISO 25178-2	2
+interlaboratory comparison	2
+CT-STARR (CT-Surface Texture	2
+Pa 	2
+situ and operando synchrotron X-ray real-time radiography	2
+custom built LAM process replicator (LAMPR)	2
+emissivity correction algorithm	2
+Melt pool tracking	2
+coaxial imaging	2
+Non-destructive diffraction based methods	2
+non-destructively	2
+manual data analysis method	2
+newly developed melt pool monitoring tool	2
+printing method	2
+Electron backscatter diffraction	2
+experimental study	2
+3D printing technique	2
+new computationally-efficient method	2
+Graded strategy	2
+wet mixing method	2
+range of other in-situ measurement techniques	2
+open-architecture design	2
+novel fractal scan strategies	2
+structural topology optimization procedure	2
+computationally efficient, voxel-based method	2
+TG-IR tests	2
+generic nondestructive evaluation method	2
+spatially resolved acoustic spectroscopy	2
+Differential thermal analysis	2
+ASLM methodology	2
+CP analysis	2
+high spatial resolution electron microscopy	2
+silicon micromachining technologies	2
+surface potential modification approach	2
+Kelvin probe force microscopy	2
+simply experimental method	2
+atomically resolved elemental mapping	2
+aberration-corrected scanning transmission electron microscopy	2
+facile one–pot polyol method	2
+plasma-assisted molecular beam epitaxy (PAMBE)	2
+4D X-ray nano-CT capabilities	2
+one-step “knitting” procedure	2
+magnetron sputtering co-deposition technique	2
+new deposition protocol	2
+humidity resistant and versatile fabrication method	2
+state-of-the-art tomography	2
+mechanistic modeling	2
+concept	2
+ray-tracing	2
+ab-initio density functional theory	2
+Finite element methods	2
+two mapping techniques	2
+Energy mapping techniques	2
+model-based multi-objective optimisation strategy	2
+effective optimisation strategy	2
+site survey	2
+bottom-up approach	2
+agent based modelling (ABM)	2
+decomposed method	2
+combined analysis methods	2
+measurement technique	2
+optical method	2
+3D-DIC	2
+dynamic full-field analysis	2
+optical-based three-dimensional digital image correlation (3D-DIC)	2
+ultrasound-based speckle tracking echocardiography (STE)	2
+off-the-shelf solution	2
+dynamic mechanical analysis (DMA)	2
+time-elapsed μCT imaging protocol	2
+co-registered	2
+synchrotron μCT scanning	2
+priori using finite-element analysis	2
+time-elapsed synchrotron μCT imaging	2
+time-elapsed μCT imaging	2
+Time-elapsed micro-computed-tomography (μCT) imaging	2
+non-invasively in vivo	2
+Magnetic resonance elastography	2
+curve-fitting procedure	2
+µ-CT analysis	2
+iterative parameter estimation method	2
+DVC approach	2
+global DVC algorithm	2
+γ-irradiation	2
+pre-clinical simulation approach	2
+paired comparison	2
+Dynamic mechanical analysis	2
+standard evaluation protocol	2
+novel partitioning approach	2
+new approach	2
+standard 3D bone morphometric analysis	2
+image processing techniques	2
+in-vivo longitudinal µCT	2
+micro-computed tomography	2
+subgroup analysis	2
+SEM and RT-PCR	2
+Integrin αV immunocytochemistry	2
+accurate procedure	2
+commonly used built-in displacement measurement	2
+wedge-driven dissection experiments	2
+cohesive zone formalism	2
+DaVis-DC	2
+multipass approach	2
+local approach	2
+global approach	2
+global one, “ShIRT-FE”, and a local one, “DaVis-DC”)	2
+two different DVC approaches	2
+digital volume correlation (DVC)	2
+micro-focus computed tomography (micro-CT)	2
+inverse FE optimisation algorithm	2
+inverse finite element (FE) modelling optimisation algorithm	2
+DVC algorithm	2
+refined Digital Volume Correlation (DVC) techniques	2
+inverse finite element (FE) optimisation algorithm	2
+energy-dispersive X-ray spectroscopy (EDX)	2
+scanning acoustic microscopy (SAM)	2
+FM-AFM	2
+the ׳cantilever tune’ mode	2
+model	2
+frequency-modulated atomic force microscopy (FM-AFM) technique	2
+novel approach	2
+quantitative computed tomography (QCT)	2
+OCT imaging	2
+optical coherence tomography (OCT) and digital image correlation (DIC)	2
+engineering-level understanding	2
+nonlinear algorithms	2
+widely useable indentation analysis method	2
+finite element techniques	2
+three-dimensional cell morphometric analysis	2
+laser ablation	2
+3-D morphometric analysis	2
+accelerated negative buoyancy method	2
+Confocal and COMSTAT analysis	2
+high-speed imaging	2
+Confocal and two-photon microscopy	2
+proposed model	2
+multi-grid techniques	2
+microscopy	2
+micro-tensile tests	2
+combined experimental and computational approach	2
+colloidal probe atomic force microscopy	2
+quantitative assessment	2
+proposed framework	2
+diagnostic framework	2
+new fabrication protocol	2
+synchrotron-based small and wide angle X-ray scattering (SAXS/WAXS) techniques	2
+adapted Digital Image Correlation (DIC) technique	2
+double emulsion and drop-coating technique	2
+electrospray-ionization mass spectrometry	2
+nuclear magnetic resonance spectroscopy	2
+WF/WTusing an analytical approach	2
+Digital laser printing	2
+unifying protocol	2
+‘proof-of-principle’ approach	2
+high content imaging	2
+versatile indirect 3D printing technique	2
+versatile 3D printing-guided thermally induced phase separation (3D-TIPS) technique	2
+micro X-ray fluorescence	2
+alcian blue staining	2
+wide-angle X-ray diffraction	2
+quantitative micro-computed tomography	2
+situ synchrotron small-angle X-ray diffraction	2
+experimental X-ray nanoscale mechanical imaging	2
+functional blocking experiments	2
+Peakforce QNM atomic force microscopy (AFM)	2
+first detailed analysis	2
+digital image correlation (DIC) photography	2
+small and wide angle X-ray scattering (SAXS/WAXS)	2
+ATR-FTIR	2
+thermally induced phase separation (TIPS)	2
+novel biomaterials-based approach	2
+gamma-irradiation	2
+Brillouin spectromicroscopy	2
+qRT-PCR	2
+highly translatable engineering strategy	2
+Quantitative immunohistochemistry	2
+CHP technique	2
+second harmonic generation imaging	2
+Data analysis	2
+Presto-Blue assay	2
+Time of flight secondary ion mass spectroscopy (TOF SIMS)	2
+electron tomography	2
+Serial block face SEM imaging	2
+cryo-TEM	2
+plasma surface polymerisation techniques	2
+rigorous study	2
+simultaneous Raman microscopy imaging	2
+semi-automated segmentation	2
+previous X-ray scattering studies	2
+X-ray scattering techniques	2
+first in situ loading synchrotron studies	2
+wide angle X-ray scattering (WAXS)	2
+small angle X-ray scattering (SAXS)	2
+X-ray Micro-Computed Tomography	2
+X-ray tomography	2
+Combinatorial approaches	2
+UV spectrophotometry	2
+advanced NMR techniques	2
+future ab initio modeling	2
+GIPAW (Gauge Including Projected Augmented Wave) DFT approach	2
+31P and 43Ca MAS (Magic Angle Spinning)	2
+comprehensive multinuclear NMR (Nuclear Magnetic Resonance) study	2
+spectroscopy and refractometry	2
+vitro study	2
+well-established mechanical spectroscopic technique	2
+dynamic mechanical thermal analysis (DMTA)	2
+conventional peracetic acid–agitation method	2
+size exclusion chromatography	2
+semi-quantitative in situ gelatin zymography)	2
+Scanning acoustic microscopy	2
+vivo study	2
+Zonal analysis	2
+vitro and ex vivo	2
+MAS NMR	2
+Phosphorus (31P) magic-angle-spinning solid-state nuclear magnetic resonance (MAS NMR) measurements	2
+X-ray fluorescence (XRF)	2
+multiscale approach	2
+wide-angle X-ray scattering	2
+histology and novel micro-CT image analysis	2
+secondary ion mass spectrometry imaging	2
+small- and wide-angle X-ray scattering (SAXS and WAXS	2
+two synchrotron X-ray scattering techniques	2
+Magic angle spinning nuclear magnetic resonance	2
+Raman and Fourier transform infrared spectroscopies	2
+solid-state nuclear magnetic resonance	2
+‘spectrum beam splitting’ technique	2
+3D finite-difference time-domain method	2
+Transforming Transformation Optics meeting	2
+high-resolution transmission electron microscopy (HR-TEM) images	2
+optimization technique	2
+numerical design search techniques	2
+Quantum dynamics	2
+TEM and XRD studies	2
+photo-luminescence spectroscopy (PL) and I-V measurements	2
+DSC thermal scans	2
+X-ray diffraction (XRD) and grazing incidence wide angle X-ray scattering (GIWAXS) measurements	2
+polarizing optical microscopy (POM) and differential scanning calorimetry (DSC)	2
+in-situ transient photovoltage measurements	2
+laser beam induced current mapping	2
+time of flight technique	2
+Four atmospheric pressure ozone oxidation methods	2
+vacuum-evaporation-based approach	2
+sol–gel analysis	2
+magnetochemical analyses	2
+single crystal X-ray diffractions	2
+liquid- and solid-state circular dichroism (CD) spectroscopy	2
+X-ray single crystal diffraction analysis	2
+template-free approach	2
+eigenmode correlation experiment	2
+Two 2D-NMR methods	2
+small angle X-ray scattering	2
+single-precursor approach	2
+nitrogen adsorption and small-angle X-ray scattering (SAXS)	2
+dip-coating	2
+melt-quench molecular dynamics technique	2
+combined molecular simulation	2
+grand canonical Monte Carlo simulations	2
+quantum ray-splitting literature	2
+image analysis techniques	2
+differential interference contrast DIC (Nomarski) optical imaging	2
+scanning electron microscopy (SEM) and Thermogravimetric Analysis (TGA)	2
+proper buffer optimization	2
+robust test strategy	2
+Capacitance-voltage (C-V) measurements	2
+acid structuring method	2
+electron dose-controlled imaging techniques	2
+electron microscopy techniques	2
+(110)[001̅] cutting	2
+fully automated dislocation extraction algorithm	2
+photoluminescence (PL) and UV–vis absorbance spectroscopy	2
+p-XRD	2
+EDX analysis	2
+p-XRD pattern	2
+spin coating	2
+Aerosol-Assisted Chemical Vapor Deposition (AACVD)	2
+Elk-code	2
+Full Potential Linearized Augmented Plane Wave (FP-LAPW) approach	2
+high-resolution transmission electron microscopy (HR-TEM)	2
+powdered X-ray diffraction	2
+Energy Dispersive X-ray (EDX) analysis	2
+pH. Powder X-ray diffraction (p-XRD)	2
+modified Richardson plot,ln[(I0/T2)–(q2σ02/2k2T2)]plot 1/kT.	2
+non-destructive and three-dimensional (synchrotron) X-ray tomography	2
+Femtosecond transient infrared absorption studies	2
+Genetic Algorithms	2
+Monte Carlo	2
+stochastic multi-objective cure optimisation methodology	2
+state-of-the-art sizing controls	2
+in-situ video fragment detection	2
+3D ray tracing approach	2
+X-ray CT imaging)	2
+dielectric spectroscopy	2
+Tsai-Wu criterion	2
+optimisation algorithm	2
+Genetic Algorithm	2
+finite element idealisation	2
+‘constant interface strength’ model	2
+solvent-free continuous wet powder impregnation method	2
+closed-form solution	2
+proposed micro- to meso-scale modelling approach	2
+cohesive zone approach	2
+micro-scale finite element analysis	2
+fracture mechanics approach	2
+developed hybrid four point bending specimen type and strain evaluation method	2
+automated image analysis	2
+time-lapse X-ray computed tomography (CT)	2
+X-ray microCT	2
+non-destructive X-ray computed tomography (CT)	2
+cross-sectional SEM imaging	2
+surface optical microscopy	2
+FIB) analysis	2
+Focused Ion Beam (	2
+Optical microscopy	2
+solid-state Ultrasonic Additive Manufacturing (UAM)	2
+semi-empirical equation	2
+proposed numerical method	2
+open-source software TexGen	2
+geometrical modelling approach	2
+test method	2
+chemical approach	2
+environmental scanning electron microscopy (ESEM)	2
+X-ray micro Computed Tomography (μCT)	2
+novel image based approach	2
+proposed analytical method	2
+developed analytical method	2
+Yarn-scale modelling	2
+simple drawdown coating procedure	2
+differential scanning calorimetry	2
+Gel permeation chromatography	2
+Williams–Landel–Ferry equation	2
+Wang et al.	2
+selective laser melting technology	2
+Poisson non-local principal component analysis (NLPCA) processing and the lattice-averaging procedure	2
+X-ray energy-dispersive spectroscopy (XEDS)	2
+atomic-resolution imaging	2
+aberration-corrected scanning transmission electron microscopy (STEM)	2
+general methodology	2
+well-established experimental and post-processing procedures	2
+resonant ultrasound spectroscopy (RUS)	2
+non-destructive evaluation method	2
+High-resolution electron microscopy	2
+Thermal desorption analysis	2
+focused ion beam technique	2
+Xe plasma source focused ion beam column milling technology	2
+in-situ ion irradiation	2
+Flash Spark Plasma Sintering (FSPS) technique	2
+orientation imaging microscopy	2
+High Resolution Digital Image Correlation	2
+nanopatterning method	2
+Post-mortem microstructural analysis	2
+spatially resolved acoustic spectroscopy (SRAS)	2
+non-destructive laser ultrasonic inspection technique	2
+Al-enrichment (x>~0.6)	2
+Al-enrichment	2
+ab initio-guided adjustment	2
+electron diffraction analysis	2
+new iterative analysis methodology	2
+time-of-flight neutron diffraction analysis	2
+selective area electron diffraction	2
+In-situ high-temperature X-ray diffraction	2
+synchrotron X-ray diffraction	2
+Atom probe tomography	2
+high resolution transmission Kikuchi diffraction techniques	2
+Correlative analysis	2
+X-ray microtomography	2
+Atom probe tomography (APT) analysis	2
+Atom Probe Tomography	2
+combination of HAADF imaging	2
+High angle annular dark field (HAADF) images	2
+novel in situ tomographic technique	2
+Ex situ and in situ fragmentation experiments	2
+electron back-scattered diffraction	2
+three-dimensional visualization	2
+X-ray microcomputed tomography	2
+three-dimensional atom probe tomography	2
+PIDE correctly	2
+X-ray optics and X-ray methods	2
+NHL 2	2
+complex algorithms	2
+art objects analysis	2
+promising measuring methodology	2
+applied method	2
+time-of-flight secondary ion mass spectrometry (TOF-SIMS) and Rutherford backscattering spectrometry (RBS)	2
+scanning transmission X-ray microscopy (STXM)	2
+scanning electron microscopy (FIB-SEM)	2
+laser ablation inductively coupled mass spectrometry (LA-ICP-MS)	2
+energy-dispersive detector (SEM-EDS)	2
+infrared (IR) hyperspectral imaging	2
+signal processing and classification techniques	2
+two image processing approaches	2
+processing technique	2
+photogrammetry and computer vision approaches	2
+image-based approaches	2
+computer vision	2
+humanities and science-based approaches	2
+case-by-case approach	2
+LP-TEM technique	2
+lab-scale experiments	2
+liquid phase transmission electron microscopy (LP-TEM)	2
+atom beam imaging	2
+ray tracing method	2
+different microscopic techniques (LM, SEM, TEM and EDS	2
+spatial elementary analysis	2
+in-depth analyses	2
+double staining method	2
+simple methylcellulose-based method	2
+cryo-EM	2
+high-resolution visualization	2
+kinematic-scattering method	2
+high-angle annular dark field-scanning transmission electron microscopy (HAADF-STEM)	2
+detailed electron microscopy	2
+time-temperature-transformation diagram	2
+X-ray and transmission electron diffraction	2
+related technique	2
+Response surface method	2
+Laser-assisted grinding (LAG)	2
+new theory	2
+efficient contact mechanics algorithm	2
+in-situ gas phase analysis	2
+ex-situ X-ray powder diffraction	2
+thermodynamic modelling	2
+ISOL (Isotope Separator OnLine)	2
+Focused-Ion-Beam-milling and Pt-deposition	2
+tanδ 	2
+FE simulations	2
+Elemental analysis	2
+new maximum core-volume fraction methodology	2
+Reverse Monte Carlo (RMC) method	2
+FEM analysis	2
+combined experimental-numerical approach	2
+conventional dry ns laser micromachining	2
+new micro-machining technique	2
+optimised buffer-aided TSIG process	2
+TSIG technique	2
+Impedance spectroscopy	2
+low-pressure/low-temperature casting technique	2
+cross-sectioning and serial ceramographic polishing techniques	2
+TEM observation	2
+Cr3+ fluorescence and Raman spectroscopy	2
+mass spectroscopy	2
+precipitation and porogen leaching technique	2
+tensile test	2
+attenuated total reflectance Fourier transform infrared (ATR-FTIR) spectroscopy	2
+high pressure liquid chromatography (HPLC)	2
+Circular dichroism (CD)	2
+energy dispersive x-ray analysis	2
+cyclic voltammetry (CV)	2
+Fourier transform IR (FTIR)	2
+new two phase (organic-water) synthesis method	2
+UV–Visible spectroscopy	2
+two-part strategy	2
+vitro experiments	2
+UV spectrometry	2
+combined atomic force microscopy (AFM)/optical microscopy technique	2
+Tissue engineering	2
+X-ray diffraction (XRD) and electrochemical impedance spectroscopy (EIS) techniques	2
+energy dispersive X-ray (EDX) analysis	2
+Inductively coupled plasma mass spectroscopy	2
+Raman spectrometry	2
+combination of advanced microscopical techniques	2
+surface wettability measurements	2
+31P nuclear magnetic resonance	2
+experimental and computational (mostly ab initio) works	2
+non-invasive and convenient nature	2
+analytical ultracentrifugation (AUC) based method	2
+nanoparticle tracking analysis	2
+scattering, spectroscopic, and imaging techniques	2
+spin-coating	2
+Langmuir-Schaefer deposition	2
+colloidal probe technique	2
+atomic force microscope	2
+MATH assay	2
+confocal laser microscopy	2
+two-photon microscopy	2
+confocal fluorescence microscopy	2
+Co-localisation	2
+biomimetic approach	2
+multivariate approach	2
+Multivariate analysis	2
+optical biosensing technique	2
+graphite furnace atomic absorption spectroscopy	2
+SDS-PAGE and Western blotting	2
+QCM-D measurements	2
+static light scattering	2
+new semi-quantitative methodology	2
+light scattering	2
+cross polarized optical microscopy	2
+Buttiker approximation	2
+phase field approach	2
+CP method	2
+Johnson-Mehl-Avrami-Kolmogorov equation	2
+systematic and reliable tethering force approach	2
+anisotropic surface free energy modelling	2
+bracket approach	2
+diffusion equation	2
+coupled temperature–displacement procedure	2
+ab initio DFT simulations	2
+viscoplasticity finite element analysis	2
+crystal plasticity	2
+open source library	2
+binary Cahn–Hilliard equation	2
+finite volume based implementation	2
+detailed in-house experiments	2
+well-defined protocol	2
+liquid (e.g. lever rule, Gulliver–Scheil)	2
+optimisation procedure	2
+material science physicochemical structure determination techniques	2
+Multinuclear NMR experiments	2
+Two-dimensional NMR experiments	2
+cross polarisation (CP) NMR experiments	2
+Nuclear magnetic resonance (NMR) spectroscopy	2
+multinuclear NMR spectroscopy	2
+13C and 15N NMR	2
+solution-state NMR spectroscopy	2
+13C and 15N solid-state NMR spectroscopy	2
+time-resolved 1H-detected solid-state NMR experiments	2
+1H/2D exchange steps	2
+1H-detected solid-state NMR	2
+(MQMAS) experiment	2
+multiple-quantum magic-angle spinning	2
+semi-analytical method	2
+semi-analytical	2
+state-space restriction	2
+calculation and experiment	2
+GIPAW (gauge-including projector augmented wave) method	2
+optical techniques	2
+DOS (density of states) analysis	2
+density functional theory (DFT) simulations	2
+tunnelling atomic force microscopy	2
+low selectivity inductively coupled plasma etching	2
+optimised photoresist reflow process	2
+situ Attenuated Total reflectance infrared (ATR IR) spectroscopy	2
+traditional solvothermal method	2
+two quasi-hydrostatic experiments	2
+Electron backscatter diffraction (	2
+high-pressure high-temperature (HPHT) experimental investigation	2
+proposed design strategy	2
+SPS consolidation technique	2
+industry standard vacuum sinter powder metallurgical route	2
+capacitance-voltage profiling	2
+transmission electron microscopy (TEM) observations	2
+High-temperature X-ray diffraction	2
+X-ray electron spectroscopy	2
+XRD and SEM analyses	2
+dissolution experiment	2
+simple pelleting process	2
+transmission electron microscopy (TEM) analysis	2
+X-ray photoelectron spectroscopy (XPS), Brunauer-Emmett-Teller (BET) surface area analysis	2
+unidirectional laser scanning	2
+differential thermal analysis (DTA)	2
+first-principles density functional theory simulations	2
+reduced atomic pair distribution function (PDF) analysis	2
+first diffuse peak (FDP) analysis	2
+High energy X-ray diffraction (HEXRD)	2
+two-step firing process	2
+CSM) method	2
+Electron backscatter diffraction (EBSD)	2
+magnetron sputtering	2
+Nb–	2
+relaxation and differential scanning calorimetry	2
+powder-XRD, SEM and DTA	2
+thermal arrest method	2
+fast pyrometry	2
+SEM microscopy	2
+simple ‘back-and-forth’ strategy	2
+Electron Back Scattered Diffraction (EBSD) evidence	2
+Gibbs–Duhem integration	2
+non-isothermal isopiestic method	2
+water immersion method	2
+novel experimental protocol	2
+Terahertz time-domain spectroscopy (THz TDS)	2
+microhardness, three-dimensional X-ray computed tomography (XCT)	2
+X-ray Diffraction (XRD)	2
+conventional thermal analysis	2
+Image analysis software	2
+x-ray radiography	2
+schlieren imaging	2
+Finite element analysis	2
+Scanning Electron Microscope (SEM)	2
+EBSD technique	2
+satelliting procedure	2
+SRAS technique	2
+Spatially resolved acoustic spectroscopy (SRAS)	2
+X-ray photoelectron spectrophotometry (XPS)	2
+surface profilometry	2
+lattice Boltzmann method framework	2
+Population analysis	2
+SEM and TEM	2
+3D scanning techniques	2
+RCT-B concept	2
+boss compression test (RCT-B)	2
+dynamical resonance method	2
+High resolution serial block-face scanning electron microscopy	2
+new scheme	2
+batch operation	2
+laser-based process	2
+Electron beam welding	2
+scanning electron microscopy (with energy dispersive X-ray analysis)	2
+Thermo-mechanical numerical analysis	2
+X-ray microtomography (μCT)	2
+film theory of bonding	2
+modelling techniques	2
+recently developed tools	2
+in-situ fatigue experiments	2
+situ X-ray diffraction analysis	2
+Electron backscatter diffraction analysis	2
+Electron Backscatter Diffraction (EBSD) analysis	2
+In-depth analyses	2
+small punch testing technique	2
+ECISS/TC 101 WG1	2
+Nb-B inoculation	2
+diffraction peak width analysis	2
+dummy element techniques	2
+neutron diffraction techniques	2
+crystal plasticity finite element modelling	2
+Scanning Electron Microscopy fractographic analyses	2
+digital image correlation	2
+SANS and APT approach	2
+single experiment	2
+small angle neutron scattering (SANS)	2
+characterisation techniques	2
+Phase content analysis	2
+Electron backscatter diffraction (EBSD) technique	2
+bainite transformation	2
+post-test fractography	2
+detailed SEM	2
+High-resolution 3D tomography	2
+high-resolution X-ray computed tomography	2
+scanning electron	2
+x-ray diffraction (XRD) and electron backscatter diffraction (EBSD) analyses	2
+loss-of-section approach	2
+Electron Back-Scatter Diffraction (EBSD)	2
+Powder Metallurgy (PM) route	2
+SP test	2
+complementary electron microscopy	2
+Schmid's law	2
+incremental equal channel angular pressing (I-ECAP)	2
+High speed imaging	2
+scanning electron microscopy (SEM) and X-ray microtomography (micro-CT)	2
+optical microscopy (OM)	2
+case-study	2
+microhardness measurements	2
+differential scanning calorimetry and microscopy	2
+Satoh test	2
+neutron and synchrotron X-ray diffraction	2
+Oliver and Pharr method	2
+focussed ion beam (FIB) machining	2
+Detailed electron backscatter diffraction (EBSD) characterisation	2
+CALPHAD (acronym of Calculation of Phase Diagrams) modelling	2
+Correlation analysis	2
+reported experiments	2
+combined experimental/theoretical approach	2
+X-ray CT analysis	2
+X-ray computed tomography (X-ray CT)	2
+ex-situ optical analysis	2
+single-step process	2
+modified phase-inversion method	2
+focused ion beam scanning electron microscopy tomography	2
+image processing	2
+previous PEE POWER® field-trial	2
+field-trial	2
+X-ray Photoelectron Spectroscopy (XPS)	2
+second pyrolysis	2
+sacrificial support method (SSM) technique	2
+post-test analysis	2
+gel permeation chromatography (GPC) and nuclear magnetic resonance (NMR) spectroscopy	2
+multi-length scale 3D tomography and modeling	2
+image-based techniques	2
+rotating ring disk (RRDE) electrode setup	2
+Sacrificial Support Method	2
+57Fe Mößbauer and Raman spectroscopy	2
+X-ray induced photoelectron spectroscopy (XPS)	2
+proposed prognostic analysis	2
+adaptive neuro fuzzy inference system (ANFIS)	2
+multiple-output GPs	2
+Bayesian non-parametric method	2
+Gaussian process (GP) regression	2
+data-driven methods	2
+proposed similarity theory-based modelling approach	2
+Buckingham's π theorem	2
+Battery Management System (BMS)	2
+scaled-up MEC	2
+complex pack-level double tab cooling approach	2
+appropriate convergence methodology	2
+well-designed quenching experiment	2
+Energy Dispersive X-Ray Analysis (EDX)	2
+denuder technique	2
+New European Driving Cycle (NEDC)	2
+pulse-discharge test	2
+extended Kalman filter (EKF), an unscented Kalman filter (UKF) and a particle filter (PF)	2
+recursive Bayesian filters	2
+model-based methods	2
+‘standard’ lithium-ion state-of-charge estimation methods	2
+synchrotron-based X-ray tomographic microscopy	2
+finite volume based method	2
+diagnostic algorithm	2
+modelling algorithm	2
+“Fine-Mist” assumption	2
+Lattice-Boltzmann approach	2
+exhaustive brute force searching technique	2
+largest gap method	2
+sensor selection approaches	2
+sensor selection algorithms	2
+battery management system (BMS)	2
+prediction-error minimization technique	2
+EDS analysis	2
+EKF	2
+Extended Kalman Filter (EKF) state-estimator	2
+Impedance-based temperature detection (ITD)	2
+frequency analysis	2
+Chebyshev spectral-Galerkin (SG) method	2
+Size exclusion chromatography (SEC)	2
+United States Department of Energy (USDOE) stress protocol	2
+scanning TEM-EDX	2
+developed function	2
+simple flowchart	2
+additive technology	2
+N2 adsorption analysis	2
+HRTEM analysis	2
+low kV Focused Ion Beam (FIB)/Scanning Electron Microscopy (SEM) 3D tomography	2
+various electron microscopy	2
+galvanostatic (dis-)charge measurements	2
+Brunauer–Emmet–Teller method	2
+Digital and environmental scanning electron microscopy	2
+thermal imaging	2
+combined synchrotron X-ray diffraction	2
+SS-NMR	2
+impulse excitation technique	2
+underpinning theory and experimental method	2
+remote, non-contact and highly sensitive method	2
+fabrication method	2
+impedance spectroscopy analysis	2
+new, simple and precise ex-situ optical imaging method	2
+Post-hoc comparisons	2
+surface response approach	2
+ex-situ analyses	2
+proof-of-concept	2
+situ Fourier transform infrared spectroscopy	2
+energy dispersive spectroscopy	2
+two-step chemical reduction strategy	2
+controlled compression unit (CCU).Ex-situ measurements	2
+dynamic electro-mechanical analysis	2
+X-ray imaging and image-based simulation	2
+pilot-scale gravure printing and slot-die coating methods	2
+situ analytical technique	2
+complete ex-situ characterisation	2
+multiscale computational flow method	2
+scattering-type scanning near-field optical microscopy (s-SNOM)	2
+nanoscale infrared imaging	2
+three non-invasive image techniques	2
+Herschel-Bulkley equation	2
+novel Combined solvent Crystallisation and polymer Diffusion (CCD) method	2
+NIPS and TIPS techniques	2
+phase-inversion assisted co-extrusion technique	2
+phase-inversion and sintering technique	2
+200-h long-term permeation test	2
+combined phase inversion/sintering technique	2
+traditional approach	2
+scale-up modelling	2
+Analysis of Variance	2
+statistical approach	2
+SDS gel assay	2
+Frontal analysis studies	2
+in-situ XRD	2
+special-purpose search engine	2
+recently proposed “inflection detection” scheme	2
+Computational approaches	2
+elemental Scientific Group Thermodata Europe	2
+theoretically justified and robust method	2
+first-principles total-energy calculations	2
+cluster expansion and Monte Carlo (MC) techniques	2
+CALPHAD-approach	2
+Neumann–Kopp rule	2
+CALPHAD-type optimization	2
+SEM analyses	2
+isopiestic method	2
+laser-drilled	2
+novel water management strategy	2
+flow-through methodology	2
+control strategy	2
+novel control strategy	2
+FC/SC hybridisation strategy	2
+thermodynamic analysis	2
+coupled system approach	2
+Optical visualization	2
+high-speed optical imaging	2
+EN 50530 standard test	2
+FL-MPPT	2
+FL control and P&O algorithm	2
+novel MPPT technique	2
+Fuzzy logic (FL)	2
+Ultra low emission zone implementation	2
+permitting dossier	2
+permitting procedure	2
+easy two-step method	2
+identification technique	2
+data-driven approaches	2
+BG method	2
+Modelica language	2
+bond graph (BG) technique	2
+physically-based modelling	2
+focused ion beam SEM tomography	2
+Stochastic Dynamic Programming (SDP)	2
+optimal strategy	2
+fluorescence technique	2
+ex situ	2
+3	2
+model evaluation protocol	2
+energy dispersive x-ray spectroscopy (EDX)	2
+simplex centroid design	2
+hazard assessment tool Toxic Release Analysis	2
+Petri net method	2
+Equilibrium experiments	2
+general mixed integer linear programming energy network model	2
+in-house developed user-defined function	2
+computational fluid dynamic (CFD) study	2
+relevant literature review	2
+X-ray computer tomography (XCT)	2
+new hybrid plasma surface engineering process	2
+X-ray diffraction (XRD) and simultaneous thermo-gravimetric analysis (TGA)	2
+proportional integral control	2
+SEM and dilatometry	2
+market entry strategy	2
+Tesla Motors high-end encroachment market entry strategy	2
+UK energy system studies	2
+influential McKinsey-coordinated report	2
+TGA-MS and DSC	2
+long-term (15-year) Hydrogen and Fuel Cell Technologies (HFCT) Research, Development, and Innovation (RDI) strategy	2
+TEM analyses	2
+deposition–precipitation method	2
+first-principles study	2
+Hydrolysis method	2
+Adams method and the hydrolysis method	2
+DRIFTS-MS studies	2
+UK MARKAL energy systems model	2
+semi-structured interviews	2
+post-processed	2
+multi-indicator approach	2
+visibility theory	2
+Visual Neighbourhood Configurations (VNCs) approach	2
+Tidal inundation modelling	2
+suite of spatial information analytical techniques	2
+high-resolution close-range Unmanned Aerial Vehicle (UAV) photogrammetry	2
+Comparative analysis	2
+new sensitive method based on GC-Q-ToF-MS	2
+material choices, and mark-making techniques	2
+radiocarbon (C14) and Uranium-thorium (U-Th) dating methods	2
+detailed chemical analysis	2
+gas chromatography - mass spectrometry (GC-MS) and X-ray diffraction (XRD)	2
+energy dispersive X-ray spectroscopy (SEM/EDX)	2
+multi-method approach	2
+independent dating	2
+landmark-based metrics	2
+standardised landmark-based protocol	2
+workflow	2
+combined geo-chemical, optical and spatio-contextual approach	2
+thin-section-based GIS mapping procedure	2
+glauconite classification scheme	2
+control experiment	2
+microscopic Fourier transform infrared spectrometry (micro-FTIR) and petrographic-colourimetric analyses	2
+Fourier transform infrared spectrometry (FTIR)	2
+isotopic approach	2
+conventional artefactual and lab-based dating methods	2
+using LA-ICP-MS	2
+AMS dating and stable isotope analysis	2
+innovative new methodology	2
+network science	2
+graph theory	2
+problem-oriented research program	2
+airborne laser scanning	2
+newly-completed campaign	2
+sequencing strategy	2
+integrated field and analytical methodology	2
+Oxford Histological Index (OHI)	2
+thin section light microscopy	2
+novel microscopic (histological) methods	2
+carbon-isotope analysis	2
+programme of compositional analysis	2
+archaeometric study	2
+contextual, morphological and analytical study	2
+science-based perspective	2
+novel combination of density interpolation surfaces and social and spatial network analyses	2
+Microwear analysis	2
+XRD and FTIR	2
+SEM–EDS	2
+multivariate analysis (principal component analysis)	2
+Raman spectroscopy (a non-destructive technique	2
+amino acid-based methods	2
+gas chromatography-combustion-isotope ratio mass spectrometry	2
+stable isotope analysis	2
+well-attested biomarker approach	2
+gas chromatography–mass spectrometry	2
+Lead isotope analysis	2
+improved method	2
+Monte-Carlo simulation	2
+model selection approach	2
+Approximate Bayesian Computation (ABC)	2
+multi element isotope techniques	2
+EPMA-WDS and SEM-EDS	2
+3D morphometric analysis	2
+computer vision technique	2
+Structure-from-motion and multiview-stereo	2
+log-ratio technique	2
+information criterion approach	2
+information criteria approach	2
+visibility analysis	2
+point-process modelling	2
+GMM techniques	2
+geometric morphometric (GMM) analyses	2
+Blind-testing	2
+geomorphological analysis	2
+optically stimulated luminescence (OSL) dating	2
+Zooarchaeology by Mass Spectrometry (ZooMS) method	2
+neutron and X-ray methods	2
+phytolith analysis	2
+soil amendment strategy	2
+portable X-Ray Fluorescence (PXRF)	2
+appropriately designed multivariate strategy	2
+Single and multi-group evaluation methods	2
+Principal component analysis and linear discriminant analysis	2
+comprehensive multivariate statistical strategy	2
+multivariate statistical techniques	2
+Time of Flight Secondary Ion Mass Spectrometry (ToF-SIMS)	2
+spectroscopy measurements	2
+multi-probe scanning tunneling microscopy	2
+focused electron-beam irradiation	2
+conventional and spherical aberration optimized phase contrast imaging	2
+electron ptychography	2
+phase contrast imaging	2
+ultrafast electron microscopy	2
+software approach	2
+conventional Hough transform approach	2
+dictionary indexing approach	2
+ex-situ experiments	2
+ex-situ heating experiments	2
+In-situ transmission electron microscopy experiments	2
+processing algorithm	2
+computational method	2
+typical low-dose micrograph	2
+low-dose electron cryomicroscopy (cryoEM)	2
+global DIC scheme	2
+enriched regularization	2
+High resolution scanning electron microscopy (HR-SEM)	2
+ptychographic reconstruction method called Wigner distribution deconvolution (WDD)	2
+simultaneous incoherent Z-contrast imaging	2
+two dimensional raster scan	2
+analytical and computational analysis	2
+fast and reliable pre-approach	2
+Scanning Probe Microscopy	2
+aberration-corrected quantitative scanning transmission electron microscopy (Q-STEM)	2
+high resolution transmission electron microscopy (HRTEM)	2
+Medipix3 charge summing mode	2
+situ and ex situ oxidation studies	2
+situ analytical TEM techniques	2
+sectioning method	2
+advanced serial section tomography (SST) technique	2
+Ar+ ion polishing	2
+serial Broad Ion Beam (BIB)	2
+continuous exposure electron holography	2
+off-axis electron hologram formation	2
+original method	2
+double exposure electron holography	2
+combined approach	2
+high-resolution off-axis electron holograms	2
+decoration technique	2
+diffraction pattern cross-correlation	2
+high-angular resolution electron backscatter diffraction (HR-EBSD)	2
+aberration corrected scanning transmission electron microscopy (STEM)	2
+differential phase contrast imaging	2
+correlative tomography	2
+3D EBSD	2
+3D EDX	2
+Accompanying electron back scattered diffraction	2
+fully automated SST routines	2
+large volume serial section tomography	2
+subsequent transmission electron microscope (TEM) examination	2
+3D by block face serial section tomography (SST)	2
+Focused Ion Beam-Scanning Electron Microscopes (FIB-SEM)	2
+novel time-varied acquisition scheme	2
+Optical depth profiling	2
+energy dispersive X-ray (EDX) tomography	2
+correction method	2
+STEM-based tomography	2
+energy dispersive X-ray (EDX) microanalysis	2
+novel 3D method	2
+triplet indexing method	2
+local pattern averaging	2
+re-scanning approach	2
+Various post-processing methodologies	2
+Ion correlation analysis	2
+laser pulsed atom probe measurements	2
+Proper orthogonal decomposition (POD)	2
+field ion microscopy	2
+PEEM (photoemission electron microscopy)	2
+CL-microscopy	2
+Image analysis	2
+DPC imaging and other phase contrast techniques	2
+scanning transmission electron microscope	2
+Differential phase contrast (DPC) imaging	2
+ESEM in-situ experiment	2
+ex-situ exposure	2
+situ atomic-scale observation	2
+mechanical testing technique	2
+situ atomic-scale mechanical experimental technique (ASMET)	2
+dual beam FIB/SEM	2
+scanning electron microscope (3D SEM–EDS)	2
+X-Ray Energy Dispersive Spectroscopy (XEDS)	2
+conventional SEM manner	2
+electron cryo-microscopy	2
+soft X-ray microscopy	2
+Correlative fluorescence and soft X-ray cryo-microscopy/tomography	2
+correlative cryo microscopy	2
+electron microscopy (EM)	2
+Correlative light and electron microscopy (CLEM)	2
+High throughput transmission electron microscopy (TEM)	2
+key experiment	2
+HR-noise test	2
+established method	2
+high-resolution noise (HR-noise) substituted	2
+two principal methods of avoidance	2
+image processing procedure	2
+single particle electron cryomicroscopy (cryoEM)	2
+Three-dimensional (3D) structure determination	2
+scanning ion conductance microscopy	2
+electron diffraction	2
+cryo-sectioned	2
+XPS spectra analysis	2
+Laboratory Abrasion Tester (LAT100)	2
+Vickers hardness tests	2
+CFD-approach	2
+modeling approach	2
+interior-point algorithm	2
+Microscopic observation	2
+continuation approach with fourth-order Runge-Kutta method	2
+Broyden's method with Sherman-Morrison formula	2
+Newton-Raphson method	2
+non-uniform and adaptive finite volume method	2
+Numerical analysis	2
+integrated LFM	2
+LFM mode	2
+‘OpenFOAM’ package	2
+finite-volume technique	2
+new computational fluid dynamics methodology	2
+Greenwood and Tripp method	2
+Nonequilibrium molecular dynamics	2
+Bright field TEM	2
+electron tomography using Weighted Back Projection algorithm	2
+separate series of experiments	2
+in-situ profilometry	2
+iterative method	2
+Transmission Electron Microscopy (TEM) and High resolution TEM analysis (HRTEM)	2
+double oil-flushing	2
+extended and three thawed Gaussians approximation	2
+global harmonic and Condon approximations	2
+ab initio	2
+on-the-fly ab initio extended thawed Gaussian approximation	2
+Condon approximation	2
+ab initio Multiple Cloning approach	2
+semi-classic range,0⩽A⩽1/2	2
+Bell’s theorem	2
+first two-photon entanglement experiment	2
+sampling techniques	2
+Time Dependent Diabatic Basis (TDDB) version of the technique	2
+MCE dynamics	2
+previous “on the fly” ab initio Multiple Cloning (AIMC-MCE)	2
+Multiconfigurational Ehrenfest version 2 (MCEv2) method	2
+quantum dynamics technique	2
+Multiconfigurational Ehrenfest (MCE) method	2
+molecular dynamics	2
+high-level method	2
+CAP/SAC-CI method	2
+previous electron scattering calculations	2
+electron transmission spectroscopy (ETS)	2
+SAC-CI	2
+non-variational and approximate variational approach	2
+(SAC-CI) method	2
+complex absorbing potential (CAP)/symmetry-adapted cluster-configuration interaction	2
+Ultrafast transient absorption spectroscopy	2
+ten state, four coordinate model	2
+current ab initio approaches	2
+vacuum-evaporation route	2
+TD-DFT	2
+time-dependent density functional theory	2
+hierarchy of coupled cluster response approaches	2
+periodic-DFT	2
+semi-structured face to face interviews	2
+qualitative approach	2
+feminist phenomenologist and interpretative approach	2
+Feminist standpoint theory	2
+focus group discussions	2
+survey	2
+electric field distribution analysis	2
+morphological finite element approach	2
+TEM analysis	2
+atomic layer deposition	2
+Fourier transform (FT)	2
+extended X-ray absorption fine structure (EXAFS) spectroscopy	2
+new kinetic approach	2
+spherical nanoindentation technique	2
+FIB-SEM	2
+inkjet printing	2
+Weibull analysis	2
+gel-casting	2
+lost-mould process	2
+ω-scan	2
+fluorescence spectroscopy	2
+DEM analyses	2
+experimental and discrete element modelling (DEM) procedures	2
+Rayleigh-Ritz method	2
+strain energy minimisation	2
+FE model material validation	2
+design methodology	2
+generalized path-following	2
+impedance approach	2
+high-pressure resin transfer molding (HP-RTM)	2
+new process	2
+transfer matrix approach	2
+p-type approximations	2
+Refined Zigzag Theory (RZT)	2
+finite element (FE) simulations	2
+parallel implementation	2
+Finite element (FE) analysis	2
+integrated model	2
+distributed memory high-performance computing	2
+finite element simulations	2
+high-speed camera	2
+traditional design approach and invariant-based design procedures	2
+traditional design approach	2
+invariant-based design procedure	2
+modal analysis	2
+HiPerDiF method	2
+High Performance Discontinuous Fibre (HiPerDiF) method	2
+Finite element analyses	2
+biomimetics approach	2
+multi-scale reliability analysis	2
+multi-scale analysis	2
+single scale analysis	2
+multi-scale reliability analysis procedure	2
+stochastic finite element method	2
+Mori–Tanaka and computational homogenization	2
+instrumented direct impact Kolsky bar experiment	2
+Computed Tomography scanning (CT-scan)	2
+von Karman theory	2
+principal component analysis (PCA)	2
+wavelet transform	2
+multi-resolution statistical analysis method	2
+eddy current pulsed thermography (ECPT)	2
+two step design framework	2
+embedded element modelling strategy	2
+3-dimensional diagram	2
+four point bending test	2
+equivalent method	2
+finite element analysis (FEA)	2
+three-dimensional PDM	2
+Differential Quadrature Method (DQM)	2
+semi-inverse formulation	2
+accurate and computationally efficient energy-based method	2
+full field 3D Digital Image Correlation	2
+novel fibre placement method	2
+time-integrated finite element model (Abaqus)	2
+certain class of axiomatic, higher-order shear deformation theory	2
+voxel method	2
+computationally expensive finite element analysis	2
+finite element analysis (Abaqus)	2
+buckling analysis	2
+generalised Rayleigh–Ritz procedure	2
+emerging NDT technique	2
+Eddy current pulsed thermography (ECPT)	2
+non-destructive testing (NDT) techniques	2
+Differential Quadrature method	2
+X-ray imaging	2
+EBSD local texture analysis	2
+light optical microscopy	2
+FE-SEM	2
+spatially resolved attenuated total reflectance (ATR)-FTIR	2
+roll-to-roll Atmospheric Pressure Plasma Enhanced CVD reactor	2
+in-flight	2
+two-step thermal evaporation method	2
+pulsed RF-power ICP technology	2
+Inductively coupled impulse sputtering	2
+cross-sectional transmission electron microscopy (TEM)	2
+X-ray diffractometry (XRD)	2
+energy dispersive spectroscopy (EDS)	2
+combined techniques	2
+Atomic layer etching	2
+industrial setup	2
+high power impulse magnetron sputtering (HiPIMS)	2
+analytical electron microscopy	2
+high speed video imaging	2
+type of technique	2
+FIB-TEM study	2
+TEM and XRD	2
+large-area pulsed electron beam surface modification	2
+direct current magnetron sputtering (DCMS) and high power impulse magnetron sputtering (HiPIMS)	2
+industrial high rate reactive magnetron sputtering	2
+Two-dimensional modelling	2
+plasma-enhanced PLD	2
+quartz crystal microbalance (QCM)	2
+three-stage process	2
+three-stage CIGS process	2
+field emission scanning electronic microscopy [FESEM].	2
+atomic force microscopy [AFM]	2
+pulsed electrospark deposition (PED) technique	2
+applied surface texturing method	2
+plasma assisted reactive dual magnetron sputtering	2
+Bragg’s rule	2
+either electron-impact ionization (VADIS-mode) or resonance laser ionization (RILIS-mode)	2
+iterative Bayesian algorithm	2
+unfolding method	2
+detailed ab initio calculations	2
+medium energy ion scattering (MEIS)	2
+commercial software Synopsys Sentaurus TCAD	2
+Finite Elements Method simulation	2
+non-destructive analysis	2
+high performance image analysis services	2
+in-source resonance ionization laser spectroscopy	2
+RILIS mode of operation	2
+series of off-line and on-line tests	2
+laser resonance photo-ionization technique	2
+experimentally based dipole oscillator strength distribution (DOSD)	2
+high-resolution resonance ionisation laser spectroscopy	2
+Collinear Resonance Ionisation Spectroscopy (CRIS) experiment	2
+constant volume molecular dynamics (MD)	2
+Energy Dispersive X-ray (EDAX) analysis	2
+Fourier Transform Infrared Spectroscopy (FT-IR)	2
+second original pre-detector ESA	2
+ESA	2
+alternative 26Al positive-ion mass spectrometry (PIMS)	2
+single-stage accelerator mass spectrometer (SSAMS)	2
+Proof-of-principle 26Al-AMS analysis	2
+accelerator mass spectrometry (AMS)	2
+Proof-of-principle of a new mass spectrometric technique	2
+high-luminosity upgrade (HL-LHC)	2
+Large Hadron Collider (LHC)	2
+High Energy Physics (HEP) community	2
+crystal-assisted collimation	2
+recent analysis	2
+Gaussian approach	2
+Moliere theory	2
+two experiments	2
+LIST operation	2
+highly selective resonance ionization technique	2
+surface composition analysis	2
+low-energy ion scattering experiments	2
+multi-strip deflector	2
+cross-section codes TALYS and ABRABLA	2
+converter concept	2
+variant of the proton–proton scattering technique	2
+FLUKA Monte Carlo code	2
+high-resolution study	2
+laser spectroscopy experiment	2
+two-temperature approach	2
+hybrid continuum–atomistic approach	2
+mass spectrometry analyses	2
+mass spectrometry quantification	2
+rationale/strategy	2
+time resolved X-ray scattering	2
+spray freeze drying	2
+In-vivo	2
+Follow-up studies	2
+histological analysis	2
+new real-time method	2
+EHDA technique	2
+electrohydrodynamic atomization (EHDA) and solvent impregnation	2
+alternative targeting strategy	2
+post-MN array application	2
+World Health Organization guidelines	2
+gamma counting	2
+vivo positron emission tomography imaging	2
+hot melt 3D inkjet printing method	2
+Bio-distribution	2
+minimally-invasive MN delivery strategy	2
+state-of-the-art	2
+vitro disk diffusion, broth dilution and time-kill studies	2
+Image analysis methods	2
+formulation approach	2
+regimen and delivery method	2
+CN54gp140 ELISA	2
+docking analysis	2
+mathematical modelling approach	2
+non-invasive manner	2
+ratiometric FRET imaging	2
+natural abundance 13C polarization transfer solid-state nuclear magnetic resonance (NMR)	2
+novel penetration enhancement technique	2
+multiphoton microscopy	2
+γ-scintigraphy	2
+label-free manner	2
+3D-single photon emission computed tomography/computed tomography imaging	2
+γ-Scintigraphy	2
+wide range of qualitative and quantitative techniques	2
+vivo evaluation	2
+cell free in vitro translation assay	2
+small angle neutron scattering	2
+Western immunoblotting	2
+conventional protein chromatography	2
+mass spectrometry	2
+double emulsion solvent evaporation technique	2
+reversible and non-toxic manner	2
+terminal biodistribution studies	2
+X-ray computed tomography imaging	2
+single photon emission computed tomography	2
+(Ad–	2
+novel stealthing strategy	2
+injected intravenously	2
+real-time in vivo analysis work-flow	2
+state-of-the-art live animal imaging techniques	2
+live-cell imaging	2
+Raman imaging	2
+classical Raman/X-ray powder diffraction (XRPD) characterisation	2
+high-performance liquid chromatography (HPLC)	2
+novel rotating disk dissolution rate (RDDR) methodology	2
+multi-variate curve resolution (MCR) analysis	2
+first time Raman spectroscopic imaging	2
+luciferase-based high throughput assay	2
+combination of molecular biology and immunostaining techniques	2
+computer tomography	2
+positron emission tomography	2
+microneedle-based HIV vaccination strategies	2
+prime-boost modality	2
+laser ablation-inductively coupled plasma-mass spectrometry (LA-ICP-MS)	2
+time course confocal microscopy analysis	2
+ToF-SIMS	2
+Atomic Force Microscopy (AFM) imaging	2
+surface analysis	2
+Time of Flight – Secondary Ion Mass Spectrometry (ToF-SIMS)	2
+potentially useful and novel molecular targeting approach	2
+cell penetrating peptide-photosensitiser bioconjugation strategy	2
+site-specific technique	2
+Immunohistochemistry staining	2
+electrospinning, hydrothermal and annealing method	2
+rational strategy	2
+electroless deposition technique	2
+synchrotron X-ray radiography	2
+molecular-beam epitaxy	2
+Electron Beam Melting (EBM)	2
+continuous wave Yb fiber laser	2
+elemental carbon analysis (LECO-C)	2
+three-dimensional atom probe (3DAP) technique	2
+self-propagating high-temperature synthesis (SHS)	2
+optical and scanning electron microscopy	2
+Interface X-ray diffraction	2
+High resolution scanning electron microscopy (SEM) and energy dispersive spectroscopy (EDX) mapping	2
+Small-angle X-ray scattering (SAXS)	2
+AC impedance spectroscopy	2
+taken combined approach	2
+typical list based kinetic Monte Carlo approach	2
+adaptive kinetic Monte Carlo simulations	2
+Hybrid Monte Carlo simulations	2
+Hybrid Monte Carlo and adaptive kinetic Monte Carlo calculations	2
+van der Pauw method	2
+(FIB) milling	2
+Secondary ion mass spectrometry (SIMS)	2
+Thermal analysis	2
+spatially resolved secondary ion mass spectrometry	2
+investigations	2
+18O tracer experiments	2
+Rietveld and maximum entropy methods	2
+powder X-ray diffraction methods	2
+simple nanoprecursor route	2
+non-destructive technique	2
+synchrotron based X-ray nano-computed tomography	2
+inverse reliability analysis method	2
+capacity factor calibration method	2
+reliability analysis	2
+previously proposed optimisation methodology	2
+Eurocode 3 (EC3) and Direct Strength Method (DSM)	2
+effective width method	2
+effective notch stress approach	2
+numerical analysis	2
+called effective notch stress approach	2
+effective notch stress method	2
+EN 1994-1-1	2
+tests	2
+proposed optimisation methodology	2
+Eurocode 3 (EC3) part 1–3	2
+Particle Swarm Optimisation (PSO) method	2
+SAC protocol	2
+comprehensive finite element (FE) analysis	2
+Eurocode 4	2
+interactive personal computer (PC) mouse controls	2
+time-shared scanning approach	2
+established calibration method	2
+established fringe projection calibration method	2
+novel analysis method	2
+online X-ray imaging	2
+phase-shifting digital holography	2
+calculation method	2
+calibration method	2
+Phase-shifting digital holography	2
+phase-shifting fringe projection method	2
+LSSM	2
+light-source-stepping method (LSSM)	2
+RF magnetron sputtering	2
+Energy Dispersive Spectroscopy (EDS) analysis	2
+Laser welding-brazing technique	2
+Energy-Dispersive X-ray spectroscopy (EDX) measurements	2
+Mach–Zehnder interferometer	2
+proposed approach	2
+localized defects image model (LDIM)	2
+traditional algorithms	2
+two-point method	2
+error cancellation technique	2
+straightedge or laser-based methods	2
+optical sensor and reference error cancellation technique	2
+standard approach of temporal Fourier transformation	2
+scanning white light interferometry	2
+Finite Element Method	2
+DIN-EN 314-1/2	2
+Quasi-static FE analyses	2
+Thermo-gravimetric Analysis	2
+Differential Scanning Calorimetry	2
+pull-off test	2
+new experimental procedure	2
+Differential scanning calorimetry	2
+photo-acoustic sampling (PAS) accessory	2
+Electron Paramagnetic Resonance	2
+Strathclyde method	2
+Scanning Electron Microscopy (SEM) and Energy Dispersive Spectroscopic (EDS) analysis	2
+one-dimensional Fickian theory	2
+Fickian theory	2
+three-dimensional approach	2
+GC–MS	2
+reaction scheme	2
+Fourier-transform infrared spectroscopy	2
+Gas chromatography/mass spectrometry	2
+pyrolysis-gas chromatography/mass spectrometry	2
+Solid phase micro-extraction (SPME)-GC/MS	2
+CO2 evolution method	2
+closed loop photoreactor	2
+central composite experimental design plan	2
+ ‘Design-of-Experiment’ principles	2
+‘one-factor-at-a-time’ methodologies	2
+agar diffusion test	2
+repeated measures ANOVA and post-hoc Bonferroni tests	2
+profilometric technique	2
+ultraviolet–visible (UV–vis) spectroscopy	2
+Fourier Transform Infrared (FTIR) spectroscopy	2
+WST-8 and MTS).ResultsUDMA	2
+following techniques	2
+new optical technique	2
+transmission technique	2
+“state-of-the-art”	2
+‘top-down’ and ‘bottom-up’ approaches	2
+trial-and-error approach	2
+extensive step-by-step characterization	2
+electron beam assisted evaporation technique	2
+different techniques	2
+in-situ TEM technology	2
+novel in-situ TEM techniques	2
+high-resolution transmission electron microscopy (TEM) technique	2
+Test Particle Monte Carlo (TPMC) code	2
+KATRIN experiment	2
+KArlsruhe TRItium Neutrino experiment (KATRIN)	2
+Katrin experiment	2
+bi-directional and a uni-directional scan strategy	2
+Transformation Field Analysis	2
+continuum mechanics modelling	2
+cantilever bending experiments	2
+high-rate pulsed DC magnetron sputtering	2
+Test Particle Monte Carlo code MolFlow+	2
+KATRIN neutrino mass experiment	2
+conventional, single-specimen scanning transmission electron microscopy	2
+conventional mass resolved mode of mass spectrometry	2
+TIMS technique	2
+so-called Threshold Ionisation mass spectrometry (TIMS) mode	2
+optical- and electron-beam lithography techniques	2
+ultrasonic spray pyrolysis	2
+conductive atomic force microscopy	2
+Direct current (DC)/Pulsed DC (PDC) magnetron sputtering techniques	2
+standard photo-lithographic lift-off process	2
+low-cost, non-mechanical, random-access	2
+simple, solution based processing route	2
+X-ray diffraction patterns	2
+molecular solution-based approach	2
+x-ray reflectivity measurements	2
+ultrahigh vacuum (UHV)	2
+ultra-high vacuum (UHV) conditions	2
+x-ray photoelectron spectroscopy	2
+x-ray reflectivity	2
+high-energy grazing incidence x-ray diffraction	2
+SEM surface topographical analysis	2
+X-ray diffractogram	2
+post-annealing method	2
+conventional radiant and microwave post-annealing methods	2
+Atomic force microscopy analysis	2
+optical transmission measurements	2
+atomic force microscopy topography	2
+quartz crystal microbalance (QCM) and ultrasonic force microscopy	2
+Vis spectrophotometry	2
+spectroscopic ellipsometry and UV–	2
+chemical bath deposition (CBD)	2
+hydrazine-based route	2
+pure solution-based approach	2
+maximum entropy-mobility spectrum analysis (ME-MSA) and Bryan's algorithm mobility spectrum (BAMS) analysis	2
+standard Van der Pauw resistivity and Hall effect measurements	2
+spectroscopic ellipsometry	2
+coherence correlation interferometry	2
+variant of Scanning White Light Interferometry called coherence correlation interferometry	2
+Scanning White Light Interferometry	2
+X-ray photoelectron spectroscopy sputter depth profiling	2
+dual beam focused ion beam field emission scanning electron microscope	2
+anodic stripping and SEM	2
+deposition method	2
+high resolution scanning transmission electron microscopy	2
+in-situ reflection high energy electron diffraction	2
+atomic force microscopy imaging	2
+CV analysis	2
+hot wall MOCVD	2
+molecular-beam-epitaxy (MBE)	2
+atomic-layer-deposition (ALD)	2
+generalized gradient approximation (GGA)	2
+density functional (DFT) theory	2
+pseudo-potential plane-wave (PP–PW) approach	2
+liquid phase exfoliation (LPE)	2
+terahertz time-domain spectroscopy	2
+double-sided illumination characterization method	2
+fabrication methodology	2
+Curve fitting	2
+high vacuum test	2
+IR thermography testing	2
+spatio-temporal framework	2
+techno-economic analysis	2
+enhanced approach	2
+first experiments	2
+ray trace simulations	2
+ERA-Interim	2
+MCGE	2
+JMA-MSM	2
+lognormal ensemble spread of MCGE (LNESg) and single-NWP-center ensembles (LNES)	2
+Ensemble forecasting	2
+Energy Dispersive X-ray Spectroscopy	2
+Hybrid Single-Particle Lagrangian Integrated Trajectory	2
+QC method	2
+Baseline Surface Radiation Network (BSRN) range tests	2
+proposed QC	2
+novel QC method	2
+graphical analysis	2
+significant (p>0.05, two tailed t-test	2
+linear regression model	2
+artificial neural network (ANN) approach	2
+high-efficiency crystalline silicon technology	2
+detailed control strategy	2
+general GUM methodology	2
+K–S test	2
+Kolmogorov-Smirnov (K–S) test	2
+X-ray Photoelectron Spectroscopy (XPS) measurements	2
+I–	2
+temperature following procedure	2
+optimised algorithm	2
+geographic information system (GIS)	2
+discussed approach	2
+single ground-based measurement	2
+physically based retrieval scheme Heliosat-4	2
+third stage homogeniser	2
+three-dimensional finite element analysis	2
+Smirnov tests	2
+Kolmogorov–	2
+case study	2
+Radiancephoton mapping extension	2
+state of the art forward raytracing technique	2
+Solar Heating and Cooling (SHC) program	2
+Climate-Interim Implementation	2
+EU-funded projects MACC-II	2
+radiative transfer modeling	2
+International Organization for Standardization (ISO)	2
+efficient shading loss algorithm	2
+Detailed modelling	2
+Discrete Element Method	2
+fast, non-destructive and non-invasive method	2
+NMR technique	2
+spherical equivalent estimations	2
+Brunauer-Emmett-Teller (BET)	2
+nuclear magnetic relaxation measurements (NMR relaxometry)	2
+repose angle theory	2
+energy analysis	2
+quasi-static shear cell method	2
+non-invasive nature	2
+high-speed image capture mode	2
+supervised shape classification strategy	2
+particle contour matching	2
+adaptive background subtraction	2
+image analysis routine	2
+new technique for multi-sphere approximation (MSA)	2
+set of Discrete Element Method (DEM) simulations	2
+Discrete Element Method (DEM) and the Pore Finite Volume (PFV) method	2
+SEM and EDX analysis	2
+ball indentation method	2
+kinetic theory	2
+two fluid model (TFM)	2
+set of purposely-designed experiments	2
+micro-structural analysis	2
+discrete element method (DEM)	2
+Powder Technol.	2
+DEM analysis	2
+Distinct Element Method (DEM)	2
+Freeman Technology	2
+DEM implementation	2
+finite element method (FEM)	2
+discrete element method (DEM) simulations	2
+commercial software ANSYS FLUENT R14.0	2
+AFM and the centrifuge method	2
+JKR theory	2
+quick test method	2
+centrifugal method	2
+new kinetic analytical method	2
+Mooney analysis method	2
+Dougherty–Krieger equation	2
+cited method	2
+coarse-grained (CG) molecular dynamics (MD) simulations	2
+Group Interaction Modelling	2
+Broadband Dielectric Spectroscopy	2
+Surface analysis	2
+In-plane laser-flash thermal analysis	2
+mean-field approach	2
+nano-thermal analysis	2
+nano-chemical imaging	2
+post-hoc analysis	2
+one-pot heterogeneous process	2
+surface and thermal analysis	2
+current state-of-the-art carbodiimide-based crosslinking	2
+Raman techniques	2
+wide angle X-ray diffraction (WAXD)	2
+polarized microscopy	2
+computational modelling	2
+X-ray powder and fibre diffraction	2
+combination of microscopy, small angle neutron scattering (SANS) and wide-angle X-ray scattering (WAXS) experiments	2
+differential scanning calorimetry (DSC) and dielectric spectroscopy (DS)	2
+finite-element modelling	2
+Hsieh et al. approach	2
+continuous electrochemical assay	2
+HR-MAS NMR spectroscopy	2
+CHN analysis	2
+Hsieh et al.	2
+Dissipative Particle Dynamics (DPD) simulation technique	2
+theory of Maestrini and Kramer	2
+adaptive inversion algorithm	2
+optical experiments	2
+ray-optical analysis	2
+situ measurements	2
+laser focal intensity profiling method	2
+stimulated emission depletion (STED) microscopy	2
+super-resolution microscopy	2
+harmonic microscopy	2
+Young's experiment	2
+time-evolving synthesis techniques	2
+finite-difference time-domain method	2
+low-cost SOLNET formation method	2
+coherent control method	2
+Fourier Optics	2
+Geloni et al.	2
+feedback method	2
+SLM	2
+generalised phase contrast (GPC) method	2
+spectroscopic method	2
+Doppler-spectrally encoded imaging	2
+synthetic aperture tomography	2
+0.35 	2
+automatic gain control (AGC)	2
+reciprocity theorem	2
+Raman and IR spectroscopy	2
+Czochralski technique	2
+high-resolution transmission electron microscope (HRTEM)	2
+thermogravimetric and differential thermal analysis (TG–DTA)	2
+Fourier transform infrared (FT-IR)	2
+Pulse-radiolysis time-resolved microwave conductivity measurements	2
+Single-crystal X-ray diffraction	2
+X-ray and neutron diffraction	2
+x-ray	2
+powder neutron diffraction measurements	2
+31P NMR	2
+High resolution solid state	2
+XANES spectroscopy	2
+High resolution XANES measurements	2
+Profile analysis	2
+high resolution X-ray	2
+X-ray powder and single-crystal X-ray diffractometry	2
+SQUID magnetometry	2
+FC-ZFC measurements	2
+neutron powder diffraction- and magnetic-measurements	2
+high temperature neutron diffraction study	2
+electro-deposition technique	2
+powder X-ray	2
+empirical potential structure refinement	2
+high-temperature annealing	2
+protocol of volume recovery analysis	2
+infrared (IR) and solid-state 31P nuclear magnetic resonance (NMR) spectroscopy	2
+NMR spectroscopy	2
+ex situ structural characterization	2
+situ pVT analyses	2
+J. Non-Cryst.	2
+topo-chemical engineering	2
+topo-chemical understanding	2
+Raman and EPR spectroscopy	2
+Virtual Dark-Field Imaging (VDFi)	2
+modified version of Fluctuation Electron Microscopy (FEM)	2
+scanning electron diffraction	2
+Vogel–Fulcher–Tammann equation	2
+combined viscosity approach	2
+magnet current step test	2
+intended low-temperature application	2
+transmission Kikuchi diffraction	2
+electron backscatter diffraction	2
+multi-analytical approach	2
+SEM-EDS	2
+scanned diffraction	2
+Dual Electron Energy Loss Spectroscopy (DualEELS)	2
+electron backscatter diffraction (EBSD) and transmission Kikuchi diffraction (TKD)	2
+neutron reflection (NR)	2
+recently-developed FIB micro-hole drilling technique	2
+Analytical electron microscopy	2
+Extreme value analysis (EVA)	2
+High-resolution 2D and 3D electron microscopy	2
+micro-mechanical technique	2
+transmission electron microscopies	2
+Microstructure analysis	2
+microstructure analysis	2
+situ synchrotron X-ray radiography	2
+Scanning electron microscopy (SEM) and image analysis	2
+time-lapse synchrotron radiation X-ray diffraction technique	2
+Statistical methods	2
+zero resistance ammeter (ZRA)	2
+transient response analysis	2
+complex analysis	2
+simplified method	2
+situ SEM	2
+novel, on-line analysis	2
+(SP-AMS) refractory carbon cluster analysis	2
+conventional aerosol mass spectrometry	2
+composition (thermal-optical carbon analysis)	2
+laser-vaporization, electron-ionization aerosol mass spectrometry (or SP-AMS)	2
+nano-scale X-ray computed tomography	2
+High-resolution transmission electron microscopy (HRTEM) images	2
+AFM-coupled infrared spectroscopy	2
+High resolution transmission electron microscopy imaging	2
+Raman Spectroscopy	2
+flame-assisted chemical vapor deposition method	2
+photoemission electron microscopy	2
+synchrotron X-ray reflectivity (XRR)	2
+2D-FFT method	2
+common polarised Raman spectroscopy	2
+2D-FFT analysis	2
+two-dimensional Fourier transform (2D-FFT)	2
+dispersion correction (DFT + D)	2
+application-oriented experiment	2
+non-linear thermal analysis	2
+non-linear procedure	2
+Thermogravimetric mass spectrometry (TG-MS)	2
+novel synthesis strategy	2
+small-angle scattering	2
+SANS with contrast matching	2
+neutrons (SANS) and X-rays (SAXS)	2
+model free analysis	2
+ReaxFF molecular dynamics (MD) simulations	2
+SEM cross-sectional analysis	2
+optical spectroscopy	2
+deep UV hardening technique	2
+conventional oxygen plasma etching	2
+ion-milling	2
+polymer assisted method	2
+inelastic neutron spectroscopy	2
+simple ultrasonication-filtration step	2
+vibrational sum-frequency spectroscopy (VSFS)	2
+density-functional theory	2
+hybrid Density Functional Theory (DFT) calculations	2
+first principle calculations	2
+Multivariate Auger Feature Imaging	2
+XPS imaging	2
+dip moulding	2
+small angle neutron and X-ray scattering (SANS and SAXS)	2
+medium angle annular dark field (MAADF) or EELS imaging	2
+STEM and Raman spectroscopy	2
+electron energy loss spectroscopy (EELS)	2
+proposed deductive approach	2
+multi-scale modelling methodology	2
+cross-correlation analysis method	2
+neutron and X-ray studies	2
+digital volume correlation	2
+synchrotron X-ray diffraction and imaging	2
+Theoretical modeling	2
+high-resolution PeakForce-controlled tunnelling atomic force microscopy (PF-TUNA)	2
+tight-binding	2
+experimental electron microscopy analysis	2
+MD simulations	2
+MMP potential	2
+newly developed force field model (MMP)	2
+Raman technique	2
+polarized Raman spectroscopy	2
+generalized spherical expanded harmonics orientation distribution function (ODF)	2
+Polarized Raman spectroscopy	2
+high energy RF-nitrogen plasma treatment	2
+advanced TEM techniques	2
+X-ray Photoelectron Spectroscopy	2
+single-step centrifugation process	2
+centrifugation technique	2
+scanning-electron microscopy	2
+novel nonlinear correlation analysis	2
+context aware Augmented Reality (AR) technique	2
+life cycle ‘big data’ analytics	2
+framework of analysis	2
+Finite element modelling	2
+molecular-thermodynamic theory	2
+surface thermodynamics	2
+Self-assembly techniques	2
+inin vitroandin	1
+systematic experiment	1
+vitroanalysis	1
+vitrotoin vivoconditions	1
+Optical analysis	1
+piezo force microscopy	1
+X-ray diffraction analyses	1

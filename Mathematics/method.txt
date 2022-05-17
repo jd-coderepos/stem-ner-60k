@@ -1,0 +1,1941 @@
+analysis	136
+method	74
+algorithm	66
+approach	42
+experiment	36
+methodology	32
+survey	28
+proposed method	26
+scheme	26
+study	18
+theory	18
+algorithms	16
+semi-structured interviews	16
+in-depth interviews	12
+experiments	10
+instrumental variable approach	10
+sensitivity analysis	10
+methods	8
+novel method	8
+central limit theorem	8
+empirical analysis	8
+difference-in-differences approach	6
+technique	6
+new algorithm	6
+truncated EM method	6
+finite element scheme	6
+Monte Carlo simulations	6
+estimators	6
+Monte Carlo study	6
+model checking problem	6
+Paris Agreement	6
+case study	6
+propensity score matching	6
+Theta method	6
+regression analysis	6
+field experiment	6
+mechanism	6
+British Household Panel Survey	6
+proposed algorithm	6
+proposed methodology	6
+KEP scheme	6
+bridge sampling	6
+formula	6
+questionnaire survey	6
+meta-analysis	6
+spectral theory	6
+dynamic panel analysis	4
+EU Water Framework Directive	4
+multi-criteria analysis	4
+stated choice experiment	4
+polynomial-time algorithm	4
+Basel II	4
+natural experiment	4
+sequence analysis	4
+English Longitudinal Study	4
+event history analysis	4
+life course approach	4
+SW-SVR	4
+parallel algorithm	4
+partition backtrack	4
+mixed methods approach	4
+thel-index	4
+GS approach	4
+proposed inequalities	4
+hybrid framework	4
+noncooperative game theory	4
+constructive heuristic	4
+finite difference scheme	4
+proposed technique	4
+new method	4
+Monte Carlo method	4
+variational principle	4
+nationally representative household survey	4
+discrete choice experiments	4
+participatory impact evaluation approach	4
+matching techniques	4
+Latent class analysis	4
+OLS and logistic regression	4
+special comparison theorem	4
+comparison theorem	4
+estimator	4
+BayesNP-VAR	4
+new theory	4
+program	4
+randomized controlled trial (RCT)	4
+randomized trial	4
+model formalism	4
+existing algorithms	4
+structured approach	4
+proposed site selection framework	4
+georeferenced approach	4
+logistic regression analysis	4
+EU Cohesion policy	4
+new methodology	4
+identification strategy	4
+fuzzy regression discontinuity design	4
+narrative approach	4
+proposed filter	4
+rolling training approach	4
+Bayesian approach	4
+XFEM technique	4
+Condorcet criterion	4
+randomized intervention	4
+TS2SLS estimator	4
+procedure	4
+regression discontinuity design	4
+laboratory experiment	4
+difference-in-difference analysis	4
+error estimator	4
+symmetric interior penalty discontinuous Galerkin finite element method	4
+telephone interviews	4
+in-depth analysis	4
+econometric analysis	4
+immersed boundary method	4
+schemes	4
+numerical method	4
+Godderidge et al.	4
+probability theory	4
+State Reduction Algorithm	4
+sampling method	4
+decision-maker	4
+full Bayesian analysis	4
+free-energy framework	4
+finite element method	4
+novel methodology	4
+data analysis	4
+representation theory	4
+uncertainty principle	4
+binary Euclidean algorithm	4
+Cayley–Hamilton type theorem	4
+participatory approach	3
+histology and Ki67 immunohistochemistry	2
+wavelet analysis	2
+moving window technique	2
+machine learning techniques	2
+dynamic functional connectome analysis	2
+ANOVA and Student's t-test	2
+Goodness-of-fit test	2
+multinomial logistic regression	2
+cross-sectional survey design	2
+mixed research approach	2
+CLSM studies	2
+biofilm inhibition assay	2
+low power green laser 50 mW irradiation	2
+FTIR analysis	2
+Fluorescent spectroscopy	2
+UV–Vis spectroscopy	2
+Antimicrobial photodynamic therapy	2
+sensory analysis	2
+Polymerase chain reaction	2
+Spread plate method	2
+Gamma spectrometry	2
+quantitative structure-activity relationships (QSARs) and read-across	2
+silico methods	2
+state of PB model acceptance	2
+model reporting template	2
+QSAR Model Reporting Format (QMRF)	2
+risk-based prioritization approach	2
+HTE: TTC approach	2
+risk-based prioritization	2
+heuristic high-throughput exposure (HTE) modelling	2
+Systems Toxicology challenge	2
+classifier	2
+Post-challenge analyses	2
+sbv IMPROVER Systems Toxicology computational challenge	2
+computational approach	2
+US EPA’s approach	2
+concentration-response modeling	2
+computational toxicology approach	2
+polynomial chaos expansion	2
+three-step methodology	2
+statistical methodology	2
+greedy strategy	2
+hedging strategy	2
+risk-based cost–benefit framework	2
+proposed DR scheme	2
+Sequential Monte Carlo simulation (SMCS)	2
+direct load control (DLC) scheme	2
+endogenous time preference model	2
+experimental and non-experimental methods	2
+World Health Organization’s Study	2
+Centre for Epidemiological Studies Depression (CES-D) scale	2
+conditional linear and non-linear random-effects regression models	2
+English Longitudinal Study of Ageing (ELSA)	2
+first principal component of HRS survey responses	2
+Health and Retirement Survey (HRS)	2
+National Transfer Accounts (NTA) method	2
+Directive’s integrated river basin management paradigm	2
+pressure impact analysis	2
+participatory framework	2
+matrix approach	2
+previous marine matrix-based approaches	2
+evidence-based matrix approach	2
+Matrix applications	2
+Matrix approaches	2
+Experimental Ecosystem Accounting (SEEA EEA)	2
+Semi-structured interviews	2
+conventional modelling techniques	2
+Machine learning algorithms	2
+post-normal approach	2
+post-normal science posture	2
+simple, inclusive and qualitative ES inventory and Bayesian Belief Network modelling approach	2
+Systematic stakeholder analysis	2
+literature review	2
+qualitative approach	2
+concept	2
+Data analysis	2
+case study PA	2
+focus groups	2
+large public survey	2
+four methods	2
+case study application	2
+compromise programming	2
+analytic hierarchy process	2
+Multi-Criteria Decision Analysis (MCDA)	2
+Analytical methods	2
+classes of the Common International Classification for Ecosystem Services (CICES, v4.3)	2
+‘concept matching’ systematic review	2
+contingent valuation approach	2
+ecosystem services concept	2
+participatory manner	2
+multi-level stakeholder strategies	2
+public questionnaire survey	2
+land-use planning	2
+System of Environmental Economic Accounting — Experimental Ecosystem Accounts (SEEA-EEA)	2
+locally relevant valuation approaches	2
+easy-to-apply framework	2
+six-step template	2
+social-psychological theory	2
+new theoretical model	2
+participatory arts-based research process	2
+group discussion	2
+qualitative mapping	2
+UK National Ecosystem Assessment (Fish et al., 2016)	2
+mixed methodological approach	2
+landscape scale, ‘nature improvement’ initiative	2
+Deliberated Preferences approaches	2
+Ecosystem Approach	2
+relational, non-linear and place-based perspective	2
+online questionnaire	2
+Factor analysis	2
+UK National Ecosystem Assessment	2
+plural-values approach	2
+recent UK National Ecosystem Assessment Follow-on Phase	2
+Face-to-face interviews	2
+National Ecosystem Assessment	2
+rapid, site-based assessment methods	2
+site-based assessment	2
+language-/image-based unsupervised surveys	2
+Language-based supervised surveys	2
+image selection	2
+image-based unsupervised surveys	2
+interviewer)	2
+language-based unsupervised surveys	2
+language-based supervised surveys	2
+site-based CES data collection	2
+three possible survey methods	2
+online survey	2
+targeted sampling strategy	2
+common international classification of ecosystem services (CICES)	2
+desk study	2
+participatory mapping techniques	2
+business-as-usual solution	2
+potential nature-based and collaborative	2
+Ecosystem service valuation methods	2
+study design	2
+attribute-based contingent valuation method	2
+travel-cost based choice experiment	2
+UK National Ecosystem Assessment (NEA) follow-on phase	2
+quantitative, multi-parameter approach	2
+conceptual approach	2
+capital asset framework	2
+Velocity-fitting	2
+velocity-fitting approach	2
+micro-study	2
+micro-analysis	2
+artificial intelligence	2
+Formal argumentation	2
+argumentation theory	2
+well-designed FTS	2
+univariate analysis	2
+structural model-based approach	2
+data-driven approach	2
+Model estimation	2
+opt-out option	2
+adjoint equation based representation	2
+Littlewood–Paley theorem	2
+Nikolskii-type inequality	2
+corresponding Hörmander's Fourier multiplier theorem	2
+operator algebras techniques	2
+theLp–	2
+well-known sequential mechanism	2
+many-to-many bipartite matching problem	2
+Dias et al.	2
+“Random Forest”	2
+modern classification tree ensemble technique	2
+compositional game theory	2
+computer science	2
+graphical calculus	2
+probabilistic network specification language ProbNetKAT	2
+approximate Bayesian inference algorithm	2
+approximation scheme	2
+generic and endogenous approach	2
+Radon-Nikodym and Riesz representation theorems	2
+kernel-based semantics	2
+linear logical framework	2
+first-order linear logic	2
+Linear logic's cut-elimination	2
+general Turing category formalism	2
+general category theory	2
+categorical model	2
+computability theory	2
+recursive function theory	2
+three isomorphism theorems	2
+type-theory	2
+higher-order logic	2
+Newman's lemma	2
+tractable proof method	2
+Dependent Type Theory	2
+Church-Rosser Theorem	2
+Constructive Type Theory	2
+Theoretical Computer Science	2
+constructive type theory	2
+λ-calculus	2
+Alpha-structural induction and recursion	2
+proof assistant and programming language Agda	2
+Algebraic Complexity Theory	2
+Software Engineering	2
+identity function	2
+object–oriented (and robust) implementation	2
+quiz game	2
+new computation model	2
+object–oriented paradigm	2
+integrals calculus	2
+described technique	2
+lightweight library-based approach	2
+PeerCheck [1]	2
+“always on” strategy	2
+evaluation approach	2
+AnyLogic-based simulation framework	2
+traditional non-deterministic computability	2
+first approach	2
+denotational approach	2
+decision procedure	2
+call-by-value λ-calculus	2
+systematic proof method	2
+SAT-based method	2
+protein B	2
+logic programming	2
+sequent calculi	2
+meta-theory	2
+logic apRHL	2
+logic	2
+Approximate relational Hoare logic (apRHL)	2
+modern refinement checker	2
+state-of-the-art refinement checking tool FDR3	2
+Computer Science	2
+recently-introduced priority operator ([A.W. Roscoe.	2
+Journal of Logic and Algebraic Programming	2
+four-valued logic	2
+new bitopological interpretation	2
+state transformer	2
+predicate transformer	2
+predicate and state transformer operations	2
+multiset functor	2
+sequent calculus	2
+homotopy type theory setting	2
+non-dependent modal type theory	2
+modal type theory	2
+Constructive type theory	2
+constructive modal type theory	2
+fibrational categorical semantics	2
+lemma	2
+substitution lemma	2
+simple structural induction principle	2
+Barendregt variable convention	2
+block construct	2
+factor 2 approximation algorithm	2
+optimization variant	2
+graph-based representation	2
+sharing analysis	2
+new sharing analysis	2
+standard axioms of probability theory	2
+Hoare-style logic	2
+inductive semantics	2
+program transformation	2
+semantics	2
+quantitative weakest pre–condition semantics	2
+functorial version of Bochner's probability extension theorem	2
+Giry and Lawvere's categorical treatment	2
+floating-point proofs	2
+IEEE Std.	2
+floating point arithmetic	2
+IEEE 754 [IEEE standard	2
+Computer-Aided Design	2
+Formal Methods	2
+new, open-source formalization	2
+efficient and rigorous monitoring algorithm	2
+interval method	2
+floating-point arithmetic	2
+substitution theorem	2
+graphical representation	2
+systematic method	2
+abstract-interpretation theory	2
+Abstract interpretation	2
+p-centre problem	2
+Drezner's optimal algorithm	2
+modelling methodology	2
+Agent Based Modelling (ABM)	2
+hybrid MPI/OpenMP parallelized computing technique	2
+easy-to-implement parallelization strategy	2
+macroscopic agent-based modelling	2
+GIS-based static analysis	2
+generalised message traversal technique	2
+graph traversal approach	2
+lumped parameter method	2
+imperative programming	2
+Agent-Based Modeling	2
+System Dynamics	2
+Insight Maker	2
+trading simulation analysis	2
+trading simulation approach	2
+Student's t-test, ANOVA, the Kruskal–Wallis test, and regression analysis	2
+average analysis	2
+recursive and rolling window methods	2
+fractional integration framework	2
+different canonical form methods	2
+canonical form algorithms	2
+modified fixed effects regression	2
+modified version of the fixed effects regression	2
+GAPFRAME methodology	2
+new framework	2
+SDG Compass	2
+multi-step expert-consultation approach	2
+method of moments	2
+microeconometric research	2
+equilibrium model	2
+network-centric, complex-systems internationalization (NCCSI) perspective	2
+social network theory	2
+internationalization process theory	2
+multilevel analysis	2
+triple-bottom-line lens	2
+short-time Fourier transform andΦ(t)=loga⁡(t)provides wavelet transforms	2
+Numerical experiments	2
+Sobol decomposition	2
+Scale-discretised wavelets	2
+Morlet and FFT	2
+Fast Fourier Transform (FFT) analysis	2
+Morlet wavelet transforms	2
+corresponding vector error correction model (VECM)	2
+panel cointegration	2
+panel threshold regression approach	2
+loss-absorbing method	2
+out-of-sample forecasting experiment	2
+in-sample goodness-of-fit analysis	2
+long-range dependence techniques	2
+three pillar approach	2
+generalized vector autoregressive framework	2
+recent non-parametric modifications	2
+traditional parametric variance-ratio tests	2
+knowledge-based perspective	2
+Habermasian qualitative study	2
+proposed ‘synoptical’ approach	2
+method-of-payment hypothesis	2
+dynamic investment decision-making model	2
+fixed effect vector decomposition (FEVD) technique	2
+panel data methods	2
+entrenchment literature	2
+Vector autoregression and vector error correction modelling	2
+equilibrium-correction model	2
+‘General-to-Specific’ methodology	2
+one-step Generalized Method of Moments (GMM) system estimator	2
+optimal matching analysis	2
+Health and Retirement Study (1992–2012)	2
+multi-channel sequence analysis	2
+National Child Development Study	2
+Multi-channel sequence analysis	2
+US National Longitudinal Survey	2
+British National Child Development Study	2
+National Statistics Longitudinal Study	2
+Miller's Traits-Desires-Intentions-Behaviour framework	2
+large cohort study	2
+IFRS/IAS 1	2
+useful diagnostic tool	2
+fuzzy-set/Qualitative Comparative Analysis (fs/QCA)	2
+organizational learning theory	2
+propensity score matching techniques	2
+context-sensitive approaches	2
+demand-response strategy	2
+developed approach	2
+system perspective	2
+theoretic framework and practice-oriented review	2
+agent-based modeling methodology	2
+proposed MSR	2
+quantity-based stabilisation policy	2
+related adaptive mesh-refining algorithms	2
+adaptive boundary element method (BEM)	2
+analyze ZZ-type error estimators	2
+ZZ-error estimators	2
+adaptive finite element method (FEM)	2
+game-theoretic calculations	2
+complex systems approach	2
+dynamic agent-based analysis	2
+well-known theory of innovation	2
+Sentiment analysis procedures	2
+extensive evaluation	2
+semantic similarity metric	2
+proposed multi-modal SW-SVR	2
+suitable learning method	2
+multi-modal feature extractor	2
+novel multi-modal sliding window-based support vector regression (multi-modal SW-SVR) method	2
+machine learning and data mining technologies	2
+Information communication technology (ICT)	2
+solution	2
+existing Bayesian network (BN) modelling techniques	2
+process-based approach	2
+proposed parallel PC algorithm	2
+constraint-based algorithm	2
+PC algorithm	2
+well known PC algorithm	2
+best known instance selection methods	2
+new proposal	2
+locality-sensitive hashing	2
+two new algorithms	2
+Instance selection methods	2
+machine learning algorithms	2
+proposed motion planning method	2
+interior-point simultaneous approach	2
+front-end application	2
+simple rule-based solution	2
+simple grammar-based techniques	2
+quantitative evaluation	2
+many state-of-the-art similarity measures	2
+new user similarity model	2
+similarity algorithms	2
+Collaborative filtering	2
+proposed algorithms	2
+incremental algorithms	2
+rough set theory	2
+Rough set theory	2
+internationally comparative survey	2
+Myers (1977) and Barclay et al.	2
+distinct government-led board structure mandates	2
+second-price auction	2
+first-come, first-served mechanism	2
+policy initiative	2
+static trade-off theory	2
+trade-off theory	2
+trading scheme	2
+post experiment survey	2
+public's rhetoric	2
+choice of factor model	2
+fundamental law	2
+multi-prior model	2
+international capital asset pricing model (ICAPM), classical mean-variance, minimum-variance, Bayes–Stein, Bayesian, and multi-prior correction	2
+novel estimation approach	2
+dynamic trade-off theory	2
+estimation strategies	2
+relatively light and inexpensive intervention	2
+difference-in-differences framework	2
+British Household Panel Survey (BHPS)	2
+ECLS-K	2
+dynamic approach	2
+Cash-for-Care program	2
+standard numerical procedure	2
+Fourier transform on SE(3)	2
+maximum likelihood methods	2
+spatial autoregressive stochastic frontier model	2
+spatial autoregressive model (SAR)	2
+Battese and Coelli’s (1995) model	2
+confirmatory factor analysis	2
+farmer survey	2
+two-staged model framework	2
+dynamic panel regression model	2
+appraisal tool	2
+dissonance-inducing messaging	2
+partial equilibrium approach	2
+Minsky financial instability hypothesis	2
+Keen's model	2
+extensive sensitivity analysis	2
+hydro-economic analysis	2
+High-resolution HANPP calculations	2
+RCT and eye-tracking techniques	2
+two well-established projects	2
+Lotka–Volterra logic	2
+Stock-Flow Consistent approach	2
+novel analytic framework	2
+eudaimonic need-centred understanding	2
+axiomatic-deductive methodology	2
+conceptual model	2
+social surveys	2
+input-output modelling	2
+peer-reviewed studies	2
+input-output analysis	2
+two time preferences experiments	2
+standard one-shot public goods experiment	2
+Energy and Climate Change (DECC)	2
+modelling approach	2
+emergy analysis	2
+Emergy analysis	2
+current payment scheme	2
+EU Leader programme	2
+quantitative survey	2
+structured field interviews	2
+Amartya Sen's capabilities approach	2
+European Quality of Life Survey (EQLS)	2
+economic principles of cost–benefit analysis	2
+in-depth thematic and metaphor analysis	2
+EU Emissions Trading Scheme	2
+representative UK expenditure survey	2
+method of proving one-sided strategy-proofness	2
+new “Lone Wolf” Theorem (Jagadeesan et al., 2017)	2
+one-sided strategy-proofness	2
+collusion-resilient dominant-strategy mechanism	2
+trust game experiments	2
+Markov-switching rule learning models	2
+classical one-dimensional election game	2
+containers and category theory	2
+syntax	2
+useful reasoning principle and asbtraction mechanism	2
+extended wavelet tree data structure	2
+orthogonal range counting	2
+wavelet tree-based technique of Bose et al.	2
+even faster algorithm	2
+centroid path decomposition technique	2
+original algorithm of Adams	2
+fast algorithm	2
+encoding	2
+standard π-calculus	2
+anti-unification algorithm	2
+anti-unification problem	2
+IEEE 802.5 token ring LAN protocol	2
+automated technique	2
+state-of-the-art model checkers	2
+distributed algorithms	2
+Counter abstraction	2
+partial solver psolB	2
+Zielonka's solver	2
+efficient algorithm	2
+EXPTIME algorithm	2
+succinct, but naive, model-checking algorithm	2
+novel temporal logic	2
+multi-objective probabilistic model checking	2
+assume-guarantee paradigm	2
+set theory	2
+intuitionistic type theory	2
+classification process	2
+interactive theorem provers	2
+art algorithm	2
+Partition backtrack	2
+complexity analysis	2
+McCallum's theory	2
+TTICAD).In ISSAC	2
+Truth Table Invariant CAD	2
+cylindrical algebraic decomposition (CAD)	2
+difference ring theory	2
+Zeilberger's creative telescoping	2
+Karr's difference field approach	2
+summation framework	2
+learning-based relevance filtering	2
+Euclidean algorithm	2
+scale	2
+process	2
+panel data modelling framework	2
+mixed logit models	2
+UK-based research	2
+sense of Collet–Eckmann–	2
+single-tensor version	2
+MHV diagram description	2
+topic analysis	2
+UK General Election	2
+multiplex community affiliation clustering’ (MCAC)	2
+dualist theory	2
+network survey	2
+Cluster analysis	2
+network study	2
+spectral approach	2
+linear regression	2
+network model	2
+new statistic, ‘spectral goodness of fit’ (SGOF)	2
+pure robust approach	2
+pure stochastic approach	2
+proposed unified stochastic–robust approach	2
+inner bilinear program	2
+bi-level problem	2
+fully adaptive two-stage robust UC formulation	2
+planning methodology	2
+inverse approach	2
+local voltage control method	2
+simulation analysis	2
+agent-based hierarchical architecture	2
+centralized congestion management scheme	2
+unified approach	2
+integrated and efficient method	2
+market-based and direct control approaches	2
+new direct current matching control (DCMC) scheme	2
+proposed control scheme	2
+S-Lagrangian approach	2
+generalized Lagrangian dynamics (i.e., S-Lagrangian dynamics	2
+moment method, the histogram method, multifractal detrended fluctuation analysis (MDFA) and wavelet transform modulus maxima (WTMM)	2
+simple 2-hop overlapping strategy	2
+proposed edge Niche Centrality DIVANC	2
+DIVision Algorithm	2
+first quadrature	2
+two-state MC	2
+finite-state Markov Chain (MC)	2
+non-Euclidean adaptation	2
+virtual coil method	2
+algorithmic analysis	2
+matrix tree theorem	2
+non-linear framework	2
+Bayesian time-varying parameter VAR	2
+machine-learning techniques	2
+IV analysis	2
+standard leasing valuation formula	2
+Empirical analysis	2
+optimal treatment randomization scheme	2
+Bayesian data analysis	2
+design framework	2
+phase II trial	2
+multi-arm design	2
+model selection measure	2
+GS method	2
+methodology called the group-structure (GS) approach	2
+functional Magnetic Resonance Imaging (fMRI) experiments	2
+EURO-CORDEX initiative	2
+extreme value theory	2
+modified Anderson–Darling statistic	2
+general bootstrap procedure	2
+Mixed Complementarity Problem (MCP) formulation	2
+compact mixed-integer linear programming formulations	2
+min-ordering method	2
+max-ordering method	2
+scalarizations: the min-ordering and the max-ordering method	2
+real-life application	2
+developed value function and analysis method	2
+new axiomatization	2
+proposed methods	2
+Mixed Integer Programming formulation	2
+Generalized Bin Packing Problem	2
+new packing problem	2
+state space reduction	2
+MILP model	2
+soft-OR method of Strategic Options Development and Analysis (SODA) methodology	2
+soft-OR method	2
+Action Research method	2
+soft-OR methodology	2
+Research Oriented Action Research programme	2
+discretely monitored scheme	2
+new technique	2
+Hopf factorisation	2
+sinc-based fast Hilbert transform	2
+numerical scheme	2
+geometric rounding techniques	2
+corresponding approximation algorithms	2
+fully polynomial-time approximation schemes (FPTASs)	2
+fairly general model	2
+extensive computational analysis	2
+branch-and-price method	2
+set-partitioning formulation	2
+observable delay game	2
+heuristic framework	2
+exact separation algorithms	2
+developed deadlock detection method	2
+base policy	2
+collaboration and team science field guide	2
+change management toolbook	2
+best possible algorithms	2
+fast algorithms	2
+Mixed Integer Programming solver	2
+novel hybrid framework	2
+social network analysis	2
+proof-of-concept	2
+agent-based simulation	2
+individuals eigen-centrality	2
+existing friendship selection algorithms	2
+large smoking cessation programme	2
+Bayesian framework	2
+novel modelling approach	2
+local search algorithm	2
+4-flip neighborhood local search algorithm	2
+neighborhood search	2
+local search algorithms	2
+data mining approach	2
+robust methods	2
+fuzzy mathematical programming	2
+robust optimization	2
+risk-averse stochastic programming	2
+recourse-based stochastic programming	2
+joint cost-minimal strategy	2
+BLS-RLE	2
+existing BLS algorithm	2
+dedicated sampling strategy	2
+reinforcement learning theory	2
+new parameter control mechanism	2
+improved Breakout Local Search for VSP (named BLS-RLE)	2
+“maximum parallelization credit” rule	2
+previous state-of-the-art BBQP algorithm	2
+new metaheuristic schema	2
+multi-component metaheuristic	2
+high-performance metaheuristic	2
+decision aiding	2
+Multiple Criteria Decision Aiding (MCDA) approach	2
+IMML algorithm	2
+information metric-based manifold learning (IMML) algorithm	2
+manifold learning	2
+early warning method	2
+observable delay game framework	2
+revised algorithm	2
+original algorithm	2
+continuous p-centre problem	2
+early but interesting optimal algorithm	2
+known method	2
+efficient alternating-direction parallel coordinate-descent method	2
+proposed interposition methodology	2
+first counting process fitting algorithm	2
+two-period model	2
+polynomial time algorithms	2
+distance-based criterion	2
+CO2 (CO2e).A column generation based tabu search algorithm	2
+tailored differential evolution (DE) algorithm	2
+novel two-stage scenario-based possibilistic-stochastic programming (SBPSP) approach	2
+Behavioural OR studies	2
+experimental study	2
+novel measurement approach	2
+Computational experiments	2
+multi-directional local search framework	2
+large neighborhood search heuristic	2
+metaheuristic algorithm	2
+Bayesian algorithm	2
+behavioural approach	2
+polynomial time, optimisation algorithm	2
+Chinese Remainder Theorem	2
+soft systems methodology (SSM)	2
+traditionally hard OR approach	2
+Discrete event simulation (DES) studies	2
+problem reduction techniques	2
+already existing dynamic programming and a tabu search approach	2
+stochastic solution approaches	2
+Subset Sum problem	2
+Variable Neighborhood Descent metaheuristic	2
+lexicographic view	2
+scheduling approach	2
+optimisation methods	2
+concept of belief structures and evidential reasoning (ER)	2
+tested methods	2
+multiple-objective evolutionary algorithm	2
+new approach	2
+Several decision-making techniques	2
+interval evidential reasoning algorithm	2
+traditional sample covariance based estimation	2
+novel inference method	2
+tamed EM and implicit methods	2
+truncated Euler–Maruyama (EM) method	2
+new explicit method	2
+truncated Milstein method	2
+truncated Euler–Maruyama method	2
+harmonic analysis methods	2
+features detection techniques	2
+Hough transform	2
+related algorithm	2
+cyclic reduction method	2
+robust and scalable preconditioner	2
+Laplace’s operator	2
+two-point correlation function	2
+two-phase case	2
+priori error analysis	2
+analyze a coupled finite element–boundary element method	2
+theL2-projection or the Scott–Zhang quasi-interpolation operator	2
+adaptive algorithm	2
+edge-based residual error estimator	2
+adaptive lowest-order FEM	2
+Detailed contextual analysis	2
+control strategy	2
+usually high-dimensional optimization problem	2
+model approach	2
+previously used alternatives (Chebfun and pdepe)	2
+adaptive time step	2
+plane wave basis decomposition	2
+alternative reliability method	2
+deterministic computational homogenisation method	2
+stochastic finite element method	2
+stochastic multi-scale finite element method	2
+novel multi-scale approach	2
+Heine–Borel covering theorem	2
+preview control theory	2
+multi-model adaptive preview control	2
+(dis)continuous Galerkin finite element methods	2
+stress tensor approach	2
+new fixed point algorithm	2
+novel schema based on a Grey model GM (0,N) and fuzzy c-means (FCM) clustering method	2
+richer cross-disciplinary framework	2
+contextualised approach	2
+Leveraging Agriculture	2
+best-worst scaling	2
+well-known choice-based stated preference technique	2
+food system assessment	2
+exclusion restriction assumption	2
+Agricultural Value Chains Project	2
+integrated project	2
+basic model specification	2
+multivariate regression longitudinal estimation approaches	2
+ecological study design	2
+MFAH-FAFH linked approach	2
+FAFH household level approach	2
+MAFH approach	2
+two methods	2
+multi-agency approach	2
+documentary research strategy	2
+face-to-face-interviews	2
+mixed methods qualitative approach	2
+fixed effects instrumental variables approach	2
+control function approach	2
+choice experiment	2
+World Bank’s Living Standards Measurement Study - Integrated Surveys on Agriculture (LSMS-ISA)	2
+separation hypothesis	2
+recently collected Living Standard Measurement Study	2
+universal food security program	2
+two repeated cross sectional household surveys	2
+Difference-in-Difference methodology	2
+scheme universal	2
+targeted food assistance program	2
+government food assistance program coverage	2
+multivalued treatment effects model	2
+ordered logit model	2
+World Trade Organization	2
+nutrition-sensitive intervention	2
+IFPRI International Model	2
+logistic regression adoption function	2
+LCMS-based study	2
+Zambian 2005/06 Living Conditions Monitoring Survey (LCMS)	2
+HarvestPlus’	2
+ex ante analysis	2
+complementary, rural-targeted strategy	2
+perpetual inventory methodology (PIM)	2
+IFPRI’s IMPACT framework	2
+mixed-method study	2
+Rwanda’s Crop Intensification Program	2
+multi-season study	2
+pure Bayesian learning	2
+specially-designed experiments	2
+alternative engagement strategy	2
+critical rights-based strategy	2
+covariate matching	2
+unique longitudinal study	2
+terms of Kandiyoti’s (1988)	2
+grounded theory study	2
+rent-seeking mechanism	2
+difference-in-differences assessment	2
+critical development studies	2
+justice theory	2
+political ecology	2
+political economy	2
+broader social-stratification schema	2
+general-equilibrium model	2
+Law	2
+author's primary sample surveys	2
+randomized controlled nutrition trial	2
+NGO water commons program	2
+slightly modified game	2
+community debriefing	2
+estimation strategy	2
+visual methods	2
+qualitative interviews	2
+participant observation	2
+empowerment model	2
+social cognitive theory	2
+ruling coalition core ideology	2
+Global Person Generated Index (GPGI)	2
+participatory approach)	2
+quasi-experimental approaches	2
+cross-section and panel methods	2
+meta-regression analysis	2
+community-level survey	2
+statistical analysis	2
+instrumental variable regression approach	2
+Uganda National Panel Survey	2
+ex ante DCE	2
+case study of	2
+Discrete choice experiments (DCEs)	2
+right strategy	2
+generalized multinomial logit model (G-MNL)	2
+choice experiment framework	2
+naïve least square model	2
+novel econometric analysis	2
+three-stage stratified cluster random sampling design	2
+decomposition analysis	2
+Alkire–	2
+China’s Western Development Program	2
+gender-disaggregated regressions	2
+certification program	2
+different algorithms	2
+matching methods	2
+dual economy” perspective	2
+L-Theil index decomposition	2
+non-parametric tests	2
+EITI Compliant” and	2
+Transformative Model (TM)	2
+Participative Democratic Model (PDM)	2
+twelve-country study	2
+critical discourse analysis	2
+Orangi Pilot Project	2
+dual economy theories	2
+large-scale program	2
+policies	2
+mixed methods, multidimensional wellbeing approach	2
+household questionnaire survey	2
+2012 survey	2
+Public goods theory	2
+Field experiments	2
+meta-analysis reinterprets evaluations	2
+another independent survey	2
+economic sociology	2
+quasi-experiment	2
+Quasi-Difference-in-Difference setup	2
+SummaryImpact evaluation methods (mixed effects models and matching	2
+rigorous analysis	2
+10 studies	2
+co-integrated regressions	2
+community- and census-based methods	2
+Focus group discussions	2
+census- and community-based targeting methods	2
+cash transfer program	2
+randomized controlled trial	2
+first construction	2
+environment dependent centring	2
+explicit MEXIT construction	2
+Sanov type large deviation principle	2
+Erdős–Feller–Kolmogorov–	2
+game-theoretic probability	2
+one-sided unbounded forecasting game	2
+Dirichlet form methods	2
+original approach	2
+Metropolis–Hastings random walk samplers	2
+Markov chain Monte Carlo algorithms	2
+fixed point theorem	2
+two estimation methods	2
+maximum composite quasi-likelihood estimation (MCQLE) and the maximum plug-in quasi-likelihood estimation (MPQLE)	2
+two-step least squares-minimum distance (LS-MD) procedure	2
+R package factorcpt	2
+factor analysis	2
+consistent factor analysis	2
+screening procedure	2
+proposed procedure	2
+computationally feasible parametric bootstrap algorithm	2
+penalized node-wise regression	2
+data-driven procedure	2
+Cramer–von-Mises principle	2
+fixed regressor wild bootstrap procedure	2
+tests	2
+Cramer–von-Mises alternative	2
+TheSupFtype tests	2
+theSupFand Cramer–von-Mises type statistics of Andrews (1993) and Nyblom (1989)	2
+Quantitative Easing program	2
+delta-method approach	2
+Bayesian nonparametric methods	2
+classical or a Bayesian approach	2
+small variance approximation	2
+least squares estimation	2
+generalized Yule–Walker estimation method	2
+maximum likelihood estimator	2
+number of procedures	2
+information criteria based methods	2
+inference methods	2
+partially linear model setting	2
+Data-driven studentizations	2
+two-variable model	2
+2SLS estimator and the Wald tests	2
+Cragg and Donald (1993) minimum eigenvalue rank test statistic	2
+conditional first-stageF-statistic	2
+first order asymptotic theory	2
+Edgeworth expansion	2
+limit theory	2
+Gaussian pseudo-likelihood ratio	2
+GLS-type one	2
+Nonparametric regression	2
+regularized two-staged least squares estimators	2
+limited information maximum likelihood (LIML)	2
+instrumental variables estimators	2
+central limit theorems	2
+semi-parametric estimation approach	2
+mixture model	2
+ratio-based break point estimators	2
+Two Stage Least Squares (2SLS) criterion	2
+Generalized Method of Moments criterion	2
+single equation instrumental variable models	2
+second-price auctions	2
+proof of Vickrey’s familiar theorem	2
+auction theory	2
+social choice theory	2
+Farkas’ Lemma	2
+rule	2
+weighted rule	2
+policy-basis	2
+Lebesgue’s density theorem	2
+static momentum strategy	2
+implementable dynamic momentum strategy	2
+dynamic optimal portfolio problem	2
+incremental closure algorithm	2
+population-based sharing, a (2+1) evolutionary algorithm (EA)	2
+new operator	2
+computer science idea	2
+Compositional Game Theory	2
+new stability concept	2
+Derrida's Random Energy Model (REM)	2
+difficult problem	2
+failure-detector-based algorithms	2
+k-set agreement	2
+message adversaryVSSC(n	2
+weakest failure detector	2
+Ω failure detector	2
+k-universal k-set agreement algorithm	2
+consensus algorithm	2
+logic RB±ATL	2
+effective algorithms	2
+proposed schemes	2
+second proposed algorithm	2
+partial gathering problem	2
+(well-investigated) classical gathering problem	2
+reduction procedure	2
+Max voting scheme	2
+Comp-Validkis	2
+count-and-compare semantics	2
+problem Comp-Sat	2
+Comp-Validkis the problem	2
+general problem Comp-Validk	2
+NP oracle	2
+ATM protocol	2
+static analysis techniques	2
+possible similar scheme	2
+quite general relational semantics	2
+a32-approximation algorithm and a polynomial-time approximation scheme	2
+process calculus	2
+best-knownO(mlog⁡m)-time algorithm	2
+anO(n+m)-time algorithm	2
+assembly algorithms	2
+first and second algorithms	2
+total gathering problem	2
+third algorithm	2
+second algorithm	2
+first algorithm	2
+three algorithms	2
+(well-investigated) total gathering problem	2
+new syntactic method	2
+matching algorithm	2
+overview of BigraphER (Bigraph Evaluator & Rewriting)	2
+SAT encoding	2
+NP-complete sub-graph isomorphism problem	2
+logic BiLog	2
+AVM, Geometric and Lattice Search	2
+Alternating Variable Method (AVM) approach	2
+fundamental theorem	2
+calculus	2
+fundamental theorem of calculus	2
+techniques	2
+new abstraction refinement method	2
+modular approach	2
+Model checking	2
+Counterfactual experiments	2
+exit strategy	2
+standard menu cost model	2
+standard Calvo model	2
+community-led approach	2
+widely used sanitation intervention	2
+theoretical framework	2
+winner-take-all prize	2
+winner-take-all program	2
+non-parametric reweighting method	2
+USAID Poverty Assessment Tool	2
+cluster randomized trial	2
+BRAC's randomized CFPR-TUP program	2
+common CRRA assumption	2
+rank dependent utility theory	2
+expected utility theory	2
+constant relative risk aversion (CRRA) utility function	2
+canonical bargaining model	2
+land distribution program	2
+geographic discontinuity design	2
+pilot land regularization program	2
+statistically more conservative identification strategy	2
+investor class theory	2
+so-called 4E (or multi-E) cognition stance	2
+lightweight optimisation method	2
+cycle decomposition algorithm	2
+Linear Noise Approximation (LNA)	2
+approximate model checking algorithm	2
+probabilistic logic	2
+FLAME framework	2
+Agent based modelling	2
+evolutionary algorithms	2
+feature extraction	2
+computer vision techniques	2
+cell tracking	2
+conventional data mining techniques	2
+Satisfiability Modulo Theories (SMT) solvers	2
+typical, genome-wide screening experiment	2
+related approach	2
+Kalman filter recursion	2
+linear noise approximation (LNA)	2
+fluorescence method	2
+novel oxygen paradigm	2
+current cell oxygen paradigm	2
+MST problem	2
+new fast DNA algorithm	2
+applied mathematics	2
+graph theory	2
+CRAN –	2
+Bayesian inference	2
+BaSAR, Bayesian Spectrum Analysis	2
+GB smart meter trial	2
+comprehensive scenario analysis	2
+2012 Bhutan Living Standard Survey (BLSS)	2
+Monte Carlo approach	2
+two main novelties of Regulation (EU)	2
+end-use matrix	2
+Multi-Scale Integrated Analysis	2
+Qualitative analysis	2
+intervention	2
+carbon calculator interview	2
+longitudinal field experiment	2
+mixed methods study	2
+input-output multiplier analysis	2
+South-South technology transfer and cooperation (SSTT) and South-North technology transfer and cooperation (SNTT)	2
+multi-level perspective	2
+strategic approach	2
+qualitative comparative analysis	2
+purely ‘technical’ energy optimisation plan	2
+optimal, most cost-effective risk mitigation strategy	2
+multi-level perspective approach	2
+Policy Cycle Analysis	2
+Energy Efficiency Directive (EED)	2
+market-based method	2
+‘market-based’ method	2
+emergent GHG accounting method	2
+novel locally disaggregated framework	2
+distribution network planning approach	2
+Multi-Criteria Decision-Making analysis	2
+contextual-based analysis	2
+enterprise surveys	2
+micro-econometric studies	2
+multiple regression analysis	2
+integrated European gas infrastructure investment policy	2
+‘Stories of Change’ project	2
+Rapid Charge Network project (RCN)	2
+top-down and conformance-oriented system	2
+model-based illustration	2
+policy analyst	2
+Agent Based Modelling and Simulation	2
+Institutional Analysis and Development (IAD) Framework	2
+Design Theory	2
+model-based analysis	2
+Elinor Ostrom's design principles	2
+UK Green Deal policy	2
+Theory of Planned Behaviour (Ajzen, 1991)	2
+structural equation model	2
+cross-industry surveys	2
+cluster analysis	2
+principal components analysis	2
+Analytic Hierarchy Process (AHP)	2
+multi-criteria selection approach	2
+exploratory analysis	2
+Qualitative research	2
+Content analysis	2
+transparent and well-founded analyses	2
+companion modelling approach	2
+agent-based model	2
+Scenario analysis	2
+dual track strategy	2
+US plutonium disposition programme	2
+Static and dynamic temporal allocation	2
+combined LCA and NEA approach	2
+Life cycle assessment (LCA) and net energy analysis (NEA)	2
+long-term, planned approach	2
+deterministic analysis	2
+novel probabilistic tool	2
+new form of budgetary framework, the Levy Control Framework (LCF)	2
+calculation method	2
+method of assessment	2
+simple Monte-Carlo simulation	2
+systematic assessment method	2
+randomised control trial	2
+ethnographic analysis	2
+capabilities perspective	2
+multi-criteria decision analysis	2
+consistent ecosystem service framework	2
+principle of ‘best available technology’ (BAT)	2
+linear programming techniques	2
+detail of “bottom-up” surveys	2
+“hybrid” approach	2
+Geographical Information System (GIS)	2
+multi-criteria assessment (MCA)	2
+Bayesian techniques	2
+generic revolving fund model	2
+sensitivity analysis approach	2
+4th carbon budget review	2
+coupled analysis	2
+Climate Change Act	2
+Committee on Climate Change's (CCC) updated abatement scenario	2
+land allocation model EUCS100	2
+‘nuclear-free’ policy	2
+plan	2
+novel framework	2
+socio-technical approach	2
+innovation decision process (Rogers, 2003)	2
+repeated measures design	2
+clear and robust policy framework	2
+linked global sensitivity analysis	2
+Energy system studies	2
+structured telephone survey	2
+diffusion and path-dependent perspective	2
+highly disaggregated, hybrid, global macroeconometric model, FTT:Power-E3MG	2
+non-equilibrium economic and technology diffusion perspective	2
+home energy visit programme	2
+qualitative data analysis	2
+European Union Emission Trading Scheme (EU ETS)	2
+advanced case-based reasoning	2
+decision tree	2
+correlation analysis	2
+revised bottom-up approach	2
+top-down, supply-side approach	2
+Indian Government's National Biogas and Manure Management Programme (NBMMP)	2
+‘Bottom up Economic and Geological Oil field production model’ (BUEGO)	2
+global energy systems model, TIAM-UCL	2
+APEC region-wide energy intensity improvement goal	2
+SPSS software package	2
+theory of planned behaviour (TPB)	2
+pre- and post-intervention surveys	2
+trial	2
+novel multi-item rating scale	2
+expert elicitation	2
+one technique	2
+China's 12th-five-year plan	2
+GEOS-5 assimilation	2
+long-term strategy	2
+programme	2
+rural energy survey	2
+market-based model	2
+Sustainable Homes—‘the Code	2
+UK environmental policy (Code	2
+on-farm survey	2
+EU renewable energy directive	2
+energy systems model MARKAL	2
+near term hedging strategy	2
+LCA	2
+ReCiPe life cycle impact assessment (LCIA) method	2
+ESP method	2
+Schneider et al.	2
+economic scarcity potential (ESP) method	2
+proposed step-wise decision support approach	2
+robustness analysis	2
+synergic combination of MCDA methods	2
+structured and transparent selection procedure	2
+multi-criteria decision analysis (MCDA)	2
+non-statistician	2
+critical research approach	2
+United Nations Sustainable Development Goals (SDG)	2
+South African innovation survey	2
+EC criticality methodology	2
+EU criticality methodology	2
+methodological approach	2
+overall methodology	2
+underlying European Commission (EC) criticality assessment methodology	2
+open and closed-question questionnaire	2
+proposed extension	2
+bottom-up approach	2
+robust mechanism	2
+Scottish higher education	2
+random-effect linear regression models	2
+sibling methods	2
+2010 surveys	2
+Latin American Public Opinion Project (LAPOP)	2
+1970 birth cohort study	2
+Model Confidence Set (MCS) procedure	2
+backtesting VaR	2
+Two different long-memory methods (R/S analysis and fractional integration)	2
+quantile regression approach	2
+teacher incentive policy	2
+arbitrary rule	2
+nonlinear threshold specification	2
+proposed hybrid model	2
+hybrid monetary model	2
+laissez-faire	2
+ensuing inter-segment symmetry analysis	2
+growth hypothesis	2
+Panel causality analysis	2
+Generalized impulse response function analysis	2
+nonlinear threshold error-correction model	2
+copula approach	2
+2003 Scottish Health Survey (SHeS)	2
+panel quantile framework	2
+modified EMP measure	2
+new definition of CAPB	2
+traditional approach	2
+familiarity argument	2
+Canny edge detection	2
+exact unbiased inverse of generalized Anscombe transformation (EUIGAT)	2
+fuzzy genetic algorithm (FGA)	2
+proposed Poisson removal filter	2
+non-invasive technique	2
+novel fuzzy genetic-based noise removal filter	2
+Numerical methods	2
+finite element analyses	2
+Hertzian approach	2
+DSI technique	2
+width-wnon-adjacent form digit expansion	2
+explicit first player’s winning strategy	2
+strategy	2
+game	2
+Maker–Breaker version	2
+thek-vertex-connectivity game	2
+precise asymptotic formula	2
+training scheme	2
+mean absolute percentage error (MAPE)	2
+Bayesian vintage-based vector autoregressions	2
+measure	2
+Diebold-Mariano tests	2
+preconditioning strategy	2
+space–time simultaneous discretization	2
+projected finite element method	2
+name “projected” finite element method	2
+radially projected finite element method	2
+robust, efficient and accurate finite element method	2
+reduction strategy	2
+WFE method	2
+new reduction strategy	2
+Reduced-Order Modelling (ROM) techniques	2
+total-Lagrangian-type finite element method	2
+generalised path-following technique	2
+incremental-iterative nonlinear finite element methods	2
+so-called generalised path-following technique	2
+CutFEM technique	2
+continuous/discontinuous finite element method	2
+finite element analysis	2
+critical state theory	2
+modified Newton–Raphson stress update algorithm	2
+conventional critical state theory	2
+remeshing technique	2
+proof-theoretic method	2
+structural proof theory	2
+Proof-theoretic method	2
+well-known axiomG1	2
+McKinsey–Tarski topological ‘dissection lemma	2
+McKinsey and Tarski's interpretation	2
+realizability model	2
+every first-order axiomatisation	2
+advanced geometric analysis	2
+cross-field based decomposition	2
+deliberately narrow, falsifiable, definition	2
+price-matching punishment strategy	2
+moment-based estimation	2
+Hyvärinen scoring rule	2
+theorem that Tomizawa’s (1992) diagonal exponent symmetry model	2
+Cairns–Blake–Dowd strategy	2
+Lee–Carter approach	2
+well-known solver	2
+age–period model	2
+common principal component analysis	2
+PIC paper	2
+advanced Markov chain Monte Carlo sampling algorithms	2
+independent log-normal model	2
+Black–Scholes formula	2
+new policy	2
+efficient deadline-aware policy	2
+standard Holt-Laury criterion	2
+major cost-effectiveness study	2
+copula specification	2
+UK Healthy Start scheme	2
+nationally-implemented policy	2
+dynamic panel data estimator	2
+village sanitation intervention	2
+cluster randomized controlled trial	2
+Charlson scheme	2
+Quality and Outcomes Framework (QOF)	2
+cross-sectional Living Cost and Food Survey	2
+pseudo-panel approach	2
+Preference elicitation methods	2
+deterrence hypothesis	2
+representative panel survey	2
+(HILDA) Survey	2
+2013 survey	2
+HILDA survey	2
+annual household survey	2
+gift-exchange experiment	2
+agent-based simulations	2
+al.	2
+Heap et 	2
+level-k explanation of Rubinstein et al.	2
+Traditional game theory	2
+Rabin's concept	2
+Rabin's psychological game-theoretic model	2
+novel scenario-based measure	2
+public goods game	2
+Russia Longitudinal Monitoring Survey	2
+online survey experiment	2
+incentivized risk preference elicitation task	2
+Granovetter's early work	2
+theoretical model	2
+laboratory experiments	2
+instrumental variable framework	2
+2004 and 2011 Workplace Employment Relations Surveys (WERS)	2
+incentivized task	2
+social survey	2
+generalised non-linear mixed effects models	2
+CH fits	2
+cognitive hierarchy (CH) model	2
+logit choice	2
+new series of experiments	2
+content analysis	2
+investment task	2
+experimental data analysis	2
+distinctiveness, relevance and plausibility (DRP) method	2
+main theorems	2
+Chang's Conjecture	2
+alternative fairness concept	2
+cooperative game theory	2
+von Neumann and Morgenstern’s analysis	2
+classic voting rules	2
+pairwise majority comparison	2
+policy rule	2
+flexible leverage regulation policy	2
+mathematical analysis	2
+dynamic panel data analysis	2
+selection model approach	2
+copula methodology	2
+BP model	2
+BP —i.e	2
+wallet game	2
+policy easing	2
+Markov Switching framework	2
+novel over-identifying restriction test	2
+nonlinear GMM estimator	2
+Stata code	2
+robust variance estimator	2
+reduced form and first-stage OLS estimators	2
+Least Squares (TS2SLS) data combination estimator	2
+Two-Sample Two-Stage	2
+recently proposed norm-elicitation procedure	2
+predictive regression	2
+group-wise decomposition	2
+threshold model	2
+World Bank standard approach	2
+Existing hedonic methods	2
+Poisson regression approach	2
+conditional logit models	2
+fully disaggregated approach	2
+regime-switching framework	2
+‘Spiral of Doom’ framework	2
+pooled panel bootstrap procedure	2
+posterior analysis	2
+discrete choice experiment	2
+Network analysis	2
+definition	2
+low-cost strategy	2
+breakeven point concept	2
+pipeline comparison	2
+first cointegration analysis	2
+Business, Energy and Industrial Strategy (BEIS)	2
+Stackelberg game	2
+Global Oil Trade Model (GOTM)	2
+Sensitivity analysis	2
+heuristic approach	2
+improved methodology	2
+OPEC's supply strategy	2
+structural time series model	2
+Different meta-regression model specifications	2
+implementation of least squares Monte Carlo simulation	2
+spatial Durbin model	2
+traditional regression analysis	2
+Feed-in Tariff (FiT) Scheme	2
+Taylor-like expansions	2
+uniform and adaptive h refinement	2
+hp-adaptive scheme	2
+hp-adaptive finite element analyses	2
+hp a posteriori error estimator	2
+Krylov subspace projection method	2
+shooting method	2
+Optimal Homotopy Asymptotic Method (OHAM)	2
+pure ERS methods	2
+Stokes (RANS) approaches	2
+Large Eddy Simulation (LES)	2
+proven theorem	2
+theorem	2
+proof theory	2
+scene analysis	2
+strong structure theory	2
+novel hydrological approach	2
+integrated assessment modelling	2
+combination of theory	2
+framed field-laboratory experiment	2
+Open-ended research	2
+“decision-focused evaluation”	2
+classic stage game	2
+firms׳ emissions control problem	2
+alternative regional demarcation and identification strategy	2
+measurement framework	2
+strategic management approach	2
+Oslo Manual guidelines	2
+cognitive testing interviews	2
+major new survey	2
+step-by-step-solutions	2
+uncertainty reduction theory	2
+so-called multilevel perspective	2
+large-scale survey	2
+Innovation Follow-up Survey	2
+World Bank Enterprise Survey	2
+German Community Innovation Survey (CIS)	2
+UK Innovation Surveys 4–7	2
+so-called primal approach	2
+systems based approach	2
+personal follow-up interviews	2
+Community Innovation Survey (CIS6)	2
+Survey	2
+externally focused approach	2
+Res.	2
+hind-casting experiments	2
+intelligent and tailored intermediation	2
+Previous case-based research	2
+technological innovation system functions approach	2
+high-growth entrepreneurship initiative	2
+initiative	2
+high-growth entrepreneurship policy initiative	2
+empirical assess	2
+matching technique	2
+new Innovative Human Capital concept	2
+in-depth case study	2
+coupled time-series analyses	2
+combined quantitative–qualitative method	2
+comparable surveys	2
+integrative framework	2
+social psychology	2
+UK innovation survey	2
+internal or closed forms of innovation governance (authority and consensus-based hierarchy	2
+comparative framework	2
+UN Framework	2
+historical-institutional approach	2
+analyses	2
+majoritarian vote	2
+difference-in-difference estimation strategy	2
+trivial minimal group technique	2
+Krupka-Weber social norm elicitation task	2
+Health and Retirement Study (HRS)	2
+sharp regression discontinuity design	2
+depenalization policy	2
+policing experiment	2
+lab experiments	2
+original SSCM	2
+generalized SSCM	2
+correlation and principal component analysis	2
+well-known spatial sign covariance matrix (SSCM)	2
+previously unexploited Gaussian tree constraint	2
+canonical function analysis (CFA)	2
+discrete element method	2
+classical domain-decomposition-based MPI approach	2
+master-scattering-gathering strategy	2
+hybrid MPI/OpenMP parallelisation strategy	2
+full-EnKF	2
+P-NIROM-EnKF	2
+EnKF in combination with P-NIROM (P-NIROM-EnKF)	2
+second level interpolation approach	2
+first level interpolation approach	2
+P-NIROM using a Radial Basis Function (RBF) interpolation method	2
+two-level interpolation method	2
+Smolyak sparse grid method	2
+recently developed P-NIROM Xiao et al.	2
+EnKF techniques	2
+parameterised non-intrusive reduced order model (P-NIROM)	2
+novel Ensemble Kalman Filter (EnKF) data assimilation method	2
+analogous Euler-Lagrange finite-volume computational fluid dynamics approach	2
+Particle Imaging Velocimetry (PIV) and innovative Positron-Emission Particle Tracking (PEPT)	2
+source to source compilation approach	2
+ZH-ZH	2
+ψ-SBB scheme	2
+ZH-ZH treatment	2
+ZH method	2
+ZH-based interaction	2
+pseudopotential-based interaction (ψ), modified pseudopotential-based interaction (mψ)	2
+standard bounce-back (SBB) and Zou and He (ZH)	2
+one-way coupling	2
+Godunov’s method	2
+characteristics method	2
+numerical algorithm	2
+volume-of-fluid approach	2
+direct numerical simulations (DNS)	2
+three-dimensional Taylor-Green vortex problem	2
+OpenSBLI finite difference-based modelling framework	2
+spectral techniques	2
+vertex-based Compatible Discrete Operator (CDO) scheme	2
+Lowe-Andersen algorithm	2
+thermostat algorithm	2
+post-processing	2
+MD method	2
+WENO type schemes	2
+efficient, accurate and robust multiple-relaxation-time (MRT) discrete Boltzmann method (DBM)	2
+general bounce-back scheme	2
+double-distribution-function (DDF) approach [L. Fei et al.,	2
+classical single-relation-time (SRT) LBM	2
+Cascaded or central-moment-based lattice Boltzmann method (CLBM)	2
+GDVM	2
+DUGKS	2
+recently developed discrete unified gas-kinetic scheme (DUGKS)	2
+traditional third-order time-implicit Godunov DVM (GDVM)	2
+discrete velocity method (DVM)	2
+spatial approach	2
+temporal approach	2
+spatial eigensolution analysis	2
+spatial eigensolution analysis framework	2
+second order accuracy version	2
+non-equilibrium bounce-back scheme	2
+non-equilibrium extrapolation scheme	2
+four schemes	2
+bounce-back scheme	2
+three schemes	2
+three-dimensional source-vorticity method	2
+panel methods	2
+surface singularity methods	2
+generalized minimal residual method	2
+Spectral/hp Element Method	2
+numerical solution algorithm	2
+structure-based eduction method	2
+new eduction technique	2
+anisotropic adaptive mesh algorithm	2
+volume of fluid method	2
+interface capturing framework	2
+new balanced-force algorithm	2
+balanced-force control volume finite element method	2
+divergence-free algorithm	2
+Coupled Level Set/Volume Of Fluid (CLSVOF) technique	2
+time-dependent DES	2
+Ffowcs Williams and Hawkings integral	2
+detached eddy simulation (DES)	2
+hybrid method	2
+octree scheme	2
+SLIC and decompression algorithms	2
+coarsening algorithm	2
+interface prediction algorithm	2
+mass-conserving semi-Lagrangian time-stepping scheme	2
+VOF approach	2
+standard k–ω and the Menter’s shear-stress transport (SST) models	2
+suitable Krylov subspace iterative method	2
+new auxiliary algorithms	2
+semi-implicit pressure-correction method	2
+3-Clause New Style BSD license	2
+new KEP scheme	2
+Roe scheme	2
+original Roe scheme	2
+kinetic energy preserving (KEP) scheme	2
+iterative embedded boundary method	2
+high-order methods	2
+high order method	2
+Spectral/hp element methods and an arbitrary Lagrangian–Eulerian (ALE) moving-boundary technique	2
+Murray’s Law	2
+γ–Reθmodel	2
+Langtry and Menter (2009)	2
+γ–Reθtransition model	2
+k–ε models of Launder and Sharma (1974) and Chang et al.	2
+RSM methodology	2
+existing phenomenological modelling approach	2
+Rapid Sloshing Model methodology	2
+state-of-the-art multi-objective genetic algorithm	2
+conjugate gradient method	2
+main algorithm	2
+fixed point methods	2
+arbitrary sampling	2
+randomized dual coordinate ascent method	2
+deterministic Quartz method	2
+fixed point scheme	2
+fixed point method	2
+ridge regression (L2regularized least squares) problem	2
+block matrix interpretation	2
+standard exponential centrality computation	2
+McCoy's theorems	2
+signature constraint theorem	2
+accurate (and expensive) method	2
+standard methods	2
+explicit polynomial-time algorithm	2
+new universal algorithm	2
+Markov Chain Tree Theorem	2
+Camion–Hoffman theorem	2
+Voevodsky's simplicial model	2
+‘prime number races’ style questions	2
+Freeman's variant of the Davenport–Heilbronn method	2
+automorphy lifting theorem	2
+Kisin's method	2
+integral p-adic Hodge theory	2
+RL-model fitting	2
+Reinforcement learning	2
+hierarchical version of the EV model	2
+popular model	2
+three related sampling methods	2
+tutorial on bridge sampling	2
+simple binary ordinal comparisons	2
+Multi-Attribute Decision by Sampling (MADS)	2
+non-hierarchical approaches	2
+proposal	2
+hypothesis testing paradigm	2
+Spearman's rho or Kendall's tau	2
+Galerkin method	2
+famous entropy method	2
+abstract Lagrange multiplier theorem	2
+Pick-type theorem	2
+model formula	2
+state-of-the-art regression and variable selection schemes	2
+novel proximal algorithms	2
+proximal optimization algorithms	2
+proximal methods	2
+systematic strategy	2
+statistical data analysis	2
+interpolation problem	2
+O'Farrell [5].	2
+analogue of the Feinstein–Heath theorem	2
+Feinstein–Heath classicalisation theorem	2
+so-called Fokas transform	2
+general constructive scheme	2
+weak asymptotic method	2
+control theory	2
+function theory	2
+modified Bessel function ratioRν	2
+closed-form solution	2
+instrumental variable estimator	2
+rules	2
+Haagerup–Zsidó theorem	2
+one of the authors (AVS)	2
+Harold Widom's seminal ideas	2
+Wiener–	2
+robust control theory	2
+μ-synthesis problem	2
+duality theory	2
+classification theory	2
+K-theory	2
+(local) Hörmander pseudo-differential calculus	2
+realization formula	2
+Pólya–Szegö principle	2
+affine Pólya–Szegö principle	2
+Brothers–Ziemer type theorem	2
+suitable Taylor expansion	2
+asymptotic pseudo-trajectory approach	2
+stochastic approximation	2
+entropy method	2
+Math.	2
+long-time Cauchy–Kovalevskaya construction	2
+Fourier–Laplace transform	2
+original fractional elasticity problem	2
+Tarantello conjecture	2
+family of new algorithms	2
+first author's thesis	2
+black box group theory	2
+black box group operations	2
+p. All our algorithms	2
+Las Vegas algorithm	2
+stabilized finite element method	2
+asymptotic formula	2
+classical shifted convolution problem	2
+certification initiative	2
+European Union Forest Law Enforcement Governance and Trade (FLEGT) initiative	2
+“one world ontology	2
+‘alternative’ approach	2
+European Union's Erasmus scheme	2
+neoextractivist model	2
+decision support tool	2
+Latour’s notion	2
+material-focused analysis	2
+ArcMap10.2 geographic information systems (GIS) tool	2
+principal component analysis (PCA) technique	2
+online analysis	2
+ethnographic fieldwork	2
+political ecology analysis	2
+interdisciplinary approach	2
+‘Southern Criminology’ perspective	2
+structuration theory	2
+ACI approach	2
+social-ecological systems framing	2
+lens of the Adaptive Capacity Index (ACI) approach	2
+simple binary comparison	2
+forest offset methodology	2
+California IFM program	2
+political industrial ecology approach	2
+Benedict Anderson’s (1991) work	2
+two rounds of focus group discussions	2
+neoliberal economics	2
+mixed-methods research	2
+state-centered approach	2
+ecological modernization (EM) framework	2
+international case-studies	2
+new economic sociological approach	2
+National Strategy	2
+Hyogo Framework	2
+feminist political ecology framework	2
+unique mobile method	2
+recent Knowledge Exchange programme	2
+knowing-in-practice	2
+workplace ethnography	2
+Sinn’s approach	2
+Social Identity Theory	2
+Festinger's epistemic account	2
+large-scale dictator game experiment	2
+gender discrimination experiments	2
+Equality Equivalence Test	2
+clean experimental identification procedure	2
+non-parametric approach	2
+new experimental design	2
+logistic mapxn+1=axn(1−xn)withxn	2
+Kahn and Szemerédi's approach	2
+Villani-type distorted Brunn–Minkowski inequality	2
+Sturm–	2
+Lott–	2
+Brascamp–	2
+Dubuc's characterization	2
+Monge–Ampère equation	2
+Mellin–Barnes method	2
+Mirror Theorems	2
+Davenport's problem	2
+Matui and Izumi–	2
+equivariant McDuff-type theorem	2
+unique continuation theorem	2
+Donnelly–Li type theorem	2
+Hadamard–Cartan type theorem	2
+Khintchine–Groshev Theorem	2
+fundamental Khintchine–Groshev Theorem	2
+Number Theory	2
+Mahler measure and Lehmer Problem	2
+Uniqueness Theorem	2
+Addition Theorem	2
+Izumi's equations	2
+Yang–	2
+subfactor-like methods	2
+Stokes theorem	2
+ideal-system preserving way	2
+classical analytic number theory	2
+Brent's heuristics	2
+classical Euclidean algorithm	2
+new Amitsur–Levitzki type theorem	2
+famous Amitsur–Levitzki type theorem	2
+Amitsur–Levitzki theorem	2
+Cayley–Hamilton theorem	2
+Efron–Stein type bound	2
+extension theory	2
+dimension theory	2
+thep−1first homological Steenrod operations	2
+cost-benefit analysis.•The approach	1
+ES concept.•ES concept	1
+widespread institutional design principle	1

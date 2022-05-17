@@ -1,0 +1,401 @@
+weight;word
+200;material
+158;materials
+114;samples
+112;surface
+108;system
+86;alloy
+83;films
+74;sample
+62;particles
+62;substrate
+62;interface
+52;scaffolds
+52;models
+50;structure
+50;composite
+48;composites
+46;cell
+46;membrane
+46;simulations
+44;catalyst
+44;device
+44;microstructure
+43;film
+42;systems
+42;polymer
+40;grain boundaries
+39;thin films
+38;specimen
+38;matrix
+38;alloys
+36;fuel cells
+36;specimens
+36;devices
+34;electrode
+34;surfaces
+32;fibres
+30;cells
+30;glass
+30;electrodes
+30;nanoparticles
+28;part
+28;technology
+28;compounds
+28;coating
+28;theory
+26;tissue
+26;skin
+26;coatings
+26;region
+26;compound
+24;sensor
+24;particle
+24;product
+22;membranes
+22;brain
+22;images
+22;design
+22;field
+22;glasses
+20;scaffold
+20;catalysts
+20;components
+20;area
+20;solar cells
+20;simulation
+20;fibers
+20;component
+20;structures
+20;phases
+20;numerical simulations
+18;environment
+18;engine
+18;cathode
+18;drug
+18;plasma
+18;substrates
+18;target
+18;areas
+18;magnetic field
+18;nanocomposite
+18;aqueous solutions
+16;UK
+16;electron beam
+16;articular cartilage
+16;experiments
+16;quantum dots
+16;animals
+16;beam
+16;tissues
+16;thin film
+16;analytical model
+16;polymers
+16;polymer matrix
+16;oxygen vacancies
+16;regions
+16;sites
+16;layers
+16;solar energy
+15;grains
+14;Ti-BMG
+14;pristine PS
+14;PS nanocomposites
+14;collagen fibrils
+14;energy storing tendons
+14;IFM
+14;steels
+14;scanning electron microscope (SEM)
+14;hydrogel
+14;L-ALD
+14;layer
+14;joint
+14;silver nanoparticles
+14;site
+14;contact
+14;S-CSR particles
+14;battery
+14;framework
+14;pores
+14;epoxy polymer
+14;Raman spectra
+13;microspheres
+13;Mg alloys
+12;Ag-GQDs
+12;divertor
+12;ferromagnetic pebbles
+12;parts
+12;3D-GNS
+12;composite membrane
+12;micro-channels
+12;3D printing
+12;fuel cell
+12;heat pumps
+12;SEM images
+12;joints
+12;struts
+12;elements
+12;protein
+12;glass substrates
+12;melt pool
+12;mathematical model
+12;magnesium oxide
+12;electric field
+12;nanorods
+12;heat
+12;PV systems
+12;solar cell
+12;plates
+12;population
+12;molecule
+12;nozzle
+12;bed
+12;melt
+12;nanocomposites
+12;instrumented indentation
+12;literature
+12;cracks
+12;metal
+12;oxide
+12;carbon onions
+12;gas
+12;microstructures
+12;liquid phase
+12;products
+12;proteins
+12;functional groups
+12;solvent
+12;bulk
+12;technologies
+12;experiment
+12;biofilm
+10;TiO2 nanoparticles
+10;MWCNTs-Ag nanocomposite
+10;2D materials
+10;microFE models
+10;trabecular bone
+10;spread cells
+10;nano-emulsions
+10;nugget zone
+10;GO membranes
+10;anode and cathode
+10;pure oxygen
+10;hydrogen fueling stations
+10;NiFe cells
+10;feedstock
+10;water molecules
+10;microscope
+10;laminate
+10;silicone oil
+10;NFC dressing
+10;body
+10;NPs
+10;gold nanoparticles
+10;blood–brain barrier
+10;drugs
+10;arrays
+10;nitrogen atmosphere
+10;weld metal
+10;crystals
+10;native tissue
+10;experimental materials
+10;nanomaterials
+10;anode
+10;complex
+10;electrons
+10;roadmap
+10;latter
+10;ambient air
+10;tests
+10;numerical model
+10;powder
+10;proposed model
+10;constituents
+10;fracture surfaces
+10;silica nanoparticles
+10;converter
+10;former
+10;electrode materials
+10;ADR
+10;flame
+10;amorphous carbon
+10;biomedical applications
+10;aqueous solution
+10;phase
+10;two phases
+10;scientific community
+10;graphene
+10;laser beam
+10;droplet base
+9;+ 
+8;electrospun fibers
+8;Li-CuFe2O4 thin film
+8;fuel
+8;first wall
+8;β-SiC
+8;ionization front
+8;loop
+8;oxide particles
+8;DMP-meltpool
+8;filament
+8;meshes
+8;IVD
+8;interfascicular matrix
+8;functionally distinct tendons
+8;positional tendons
+8;CdSe thin films
+8;mesh
+8;SiC-HfB2 UHTCs
+8;Gurson model
+8;plastic zone
+8;silicon carbide
+8;CAF hydrogels
+8;microscale
+8;metal ions
+8;EOPO nanoemulsions
+8;Cu NPs
+8;parylene-C
+8;prepared samples
+8;holographic structures
+8;configuration
+8;steel
+8;precipitates
+8;CP steels
+8;ferrite
+8;SC-MFC
+8;gases
+8;EV batteries
+8;IL
+8;lithium ion batteries
+8;GDL
+8;dissolved methane
+8;tools
+8;pre-oxidation layer
+8;dual atmosphere
+8;photocatalyst
+8;complex systems
+8;formic acid
+8;network
+8;MPL
+8;intake air
+8;CO2 emissions
+8;HySA Systems
+8;case study
+8;glass groups
+8;amorphous ice
+8;metal surface
+8;implant
+8;disc
+8;DI water
+8;hierarchical honeycombs
+8;single-scale honeycomb
+8;analytical models
+8;CFRP
+8;constitutive model
+8;one side
+8;panel
+8;plate
+8;crystal
+8;facility
+8;intestinal lymphatic system
+8;platform
+8;MN arrays
+8;aluminum salts
+8;f-MWNTs
+8;human skin
+8;different substrates
+8;current collector
+8;perovskites
+8;process pores
+8;linear LED device
+8;laser
+8;fluorinated polypeptides
+8;FTIR spectra
+8;dental tissues
+8;bellow
+8;solutions
+8;glass substrate
+8;Nano-activated carbon
+8;PCM
+8;PV modules
+8;two samples
+8;experimental setup
+8;structural components
+8;solar absorber
+8;enclosure
+8;porosity
+8;boundary
+8;final product
+8;cases
+8;final products
+8;powders
+8;domain
+8;solids loadings
+8;stainless steel
+8;visible light
+8;fracture
+8;resulting fibres
+8;damage
+8;carbon dioxide
+8;laser pulses
+8;various fields
+8;laboratory
+8;organic electronic devices
+8;receiver
+8;spectra
+8;composition
+8;defects
+8;nanoscale
+8;new materials
+8;metallic glasses
+8;miniature ADR
+8;prototype
+8;salt particles
+8;solution
+8;stacking faults
+8;S-phase
+8;electrolyte
+8;NaCl solution
+8;chromia layer
+8;nanostructure
+8;graphene layers
+8;furnace
+8;incipient soot particles
+8;species
+8;SEI layer
+8;filler
+8;cell membrane
+8;carbon nanotubes
+8;presence
+8;GnPs
+8;transmission electron microscopy (TEM)
+8;source
+8;new model
+6;emerging metallic materials
+6;gallic acid
+6;ZnO NPs
+6;SMO-NW sensors
+6;grown crystals
+6;alloy ribbons
+6;Fibrin glue
+6;piezolaminated beam
+6;magnetoresistance
+6;organic spin valves (OSVs)
+6;hydride
+6;reducing agent
+6;clusters
+6;interfaces
+6;mirror
+6;secondary phases
+6;atoms
+6;impurity atoms
+6;W layer
+6;sub-divertor
+6;ASDEX Upgrade
+6;passive layer
+6;deuterium plasma
+6;edge dislocation
+6;FSW tool
+6;mesoporous particles
+6;bulk materials
+6;lattice structures

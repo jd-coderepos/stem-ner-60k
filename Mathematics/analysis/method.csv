@@ -1,0 +1,501 @@
+weight;word
+136;analysis
+74;method
+66;algorithm
+42;approach
+36;experiment
+32;methodology
+28;survey
+26;proposed method
+26;scheme
+18;study
+18;theory
+16;algorithms
+16;semi-structured interviews
+12;in-depth interviews
+10;experiments
+10;instrumental variable approach
+10;sensitivity analysis
+8;methods
+8;novel method
+8;central limit theorem
+8;empirical analysis
+6;difference-in-differences approach
+6;technique
+6;new algorithm
+6;truncated EM method
+6;finite element scheme
+6;Monte Carlo simulations
+6;estimators
+6;Monte Carlo study
+6;model checking problem
+6;Paris Agreement
+6;case study
+6;propensity score matching
+6;Theta method
+6;regression analysis
+6;field experiment
+6;mechanism
+6;British Household Panel Survey
+6;proposed algorithm
+6;proposed methodology
+6;KEP scheme
+6;bridge sampling
+6;formula
+6;questionnaire survey
+6;meta-analysis
+6;spectral theory
+4;dynamic panel analysis
+4;EU Water Framework Directive
+4;multi-criteria analysis
+4;stated choice experiment
+4;polynomial-time algorithm
+4;Basel II
+4;natural experiment
+4;sequence analysis
+4;English Longitudinal Study
+4;event history analysis
+4;life course approach
+4;SW-SVR
+4;parallel algorithm
+4;partition backtrack
+4;mixed methods approach
+4;thel-index
+4;GS approach
+4;proposed inequalities
+4;hybrid framework
+4;noncooperative game theory
+4;constructive heuristic
+4;finite difference scheme
+4;proposed technique
+4;new method
+4;Monte Carlo method
+4;variational principle
+4;nationally representative household survey
+4;discrete choice experiments
+4;participatory impact evaluation approach
+4;matching techniques
+4;Latent class analysis
+4;OLS and logistic regression
+4;special comparison theorem
+4;comparison theorem
+4;estimator
+4;BayesNP-VAR
+4;new theory
+4;program
+4;randomized controlled trial (RCT)
+4;randomized trial
+4;model formalism
+4;existing algorithms
+4;structured approach
+4;proposed site selection framework
+4;georeferenced approach
+4;logistic regression analysis
+4;EU Cohesion policy
+4;new methodology
+4;identification strategy
+4;fuzzy regression discontinuity design
+4;narrative approach
+4;proposed filter
+4;rolling training approach
+4;Bayesian approach
+4;XFEM technique
+4;Condorcet criterion
+4;randomized intervention
+4;TS2SLS estimator
+4;procedure
+4;regression discontinuity design
+4;laboratory experiment
+4;difference-in-difference analysis
+4;error estimator
+4;symmetric interior penalty discontinuous Galerkin finite element method
+4;telephone interviews
+4;in-depth analysis
+4;econometric analysis
+4;immersed boundary method
+4;schemes
+4;numerical method
+4;Godderidge et al.
+4;probability theory
+4;State Reduction Algorithm
+4;sampling method
+4;decision-maker
+4;full Bayesian analysis
+4;free-energy framework
+4;finite element method
+4;novel methodology
+4;data analysis
+4;representation theory
+4;uncertainty principle
+4;binary Euclidean algorithm
+4;Cayley–Hamilton type theorem
+3;participatory approach
+2;histology and Ki67 immunohistochemistry
+2;wavelet analysis
+2;moving window technique
+2;machine learning techniques
+2;dynamic functional connectome analysis
+2;ANOVA and Student's t-test
+2;Goodness-of-fit test
+2;multinomial logistic regression
+2;cross-sectional survey design
+2;mixed research approach
+2;CLSM studies
+2;biofilm inhibition assay
+2;low power green laser 50 mW irradiation
+2;FTIR analysis
+2;Fluorescent spectroscopy
+2;UV–Vis spectroscopy
+2;Antimicrobial photodynamic therapy
+2;sensory analysis
+2;Polymerase chain reaction
+2;Spread plate method
+2;Gamma spectrometry
+2;quantitative structure-activity relationships (QSARs) and read-across
+2;silico methods
+2;state of PB model acceptance
+2;model reporting template
+2;QSAR Model Reporting Format (QMRF)
+2;risk-based prioritization approach
+2;HTE: TTC approach
+2;risk-based prioritization
+2;heuristic high-throughput exposure (HTE) modelling
+2;Systems Toxicology challenge
+2;classifier
+2;Post-challenge analyses
+2;sbv IMPROVER Systems Toxicology computational challenge
+2;computational approach
+2;US EPA’s approach
+2;concentration-response modeling
+2;computational toxicology approach
+2;polynomial chaos expansion
+2;three-step methodology
+2;statistical methodology
+2;greedy strategy
+2;hedging strategy
+2;risk-based cost–benefit framework
+2;proposed DR scheme
+2;Sequential Monte Carlo simulation (SMCS)
+2;direct load control (DLC) scheme
+2;endogenous time preference model
+2;experimental and non-experimental methods
+2;World Health Organization’s Study
+2;Centre for Epidemiological Studies Depression (CES-D) scale
+2;conditional linear and non-linear random-effects regression models
+2;English Longitudinal Study of Ageing (ELSA)
+2;first principal component of HRS survey responses
+2;Health and Retirement Survey (HRS)
+2;National Transfer Accounts (NTA) method
+2;Directive’s integrated river basin management paradigm
+2;pressure impact analysis
+2;participatory framework
+2;matrix approach
+2;previous marine matrix-based approaches
+2;evidence-based matrix approach
+2;Matrix applications
+2;Matrix approaches
+2;Experimental Ecosystem Accounting (SEEA EEA)
+2;Semi-structured interviews
+2;conventional modelling techniques
+2;Machine learning algorithms
+2;post-normal approach
+2;post-normal science posture
+2;simple, inclusive and qualitative ES inventory and Bayesian Belief Network modelling approach
+2;Systematic stakeholder analysis
+2;literature review
+2;qualitative approach
+2;concept
+2;Data analysis
+2;case study PA
+2;focus groups
+2;large public survey
+2;four methods
+2;case study application
+2;compromise programming
+2;analytic hierarchy process
+2;Multi-Criteria Decision Analysis (MCDA)
+2;Analytical methods
+2;classes of the Common International Classification for Ecosystem Services (CICES, v4.3)
+2;‘concept matching’ systematic review
+2;contingent valuation approach
+2;ecosystem services concept
+2;participatory manner
+2;multi-level stakeholder strategies
+2;public questionnaire survey
+2;land-use planning
+2;System of Environmental Economic Accounting — Experimental Ecosystem Accounts (SEEA-EEA)
+2;locally relevant valuation approaches
+2;easy-to-apply framework
+2;six-step template
+2;social-psychological theory
+2;new theoretical model
+2;participatory arts-based research process
+2;group discussion
+2;qualitative mapping
+2;UK National Ecosystem Assessment (Fish et al., 2016)
+2;mixed methodological approach
+2;landscape scale, ‘nature improvement’ initiative
+2;Deliberated Preferences approaches
+2;Ecosystem Approach
+2;relational, non-linear and place-based perspective
+2;online questionnaire
+2;Factor analysis
+2;UK National Ecosystem Assessment
+2;plural-values approach
+2;recent UK National Ecosystem Assessment Follow-on Phase
+2;Face-to-face interviews
+2;National Ecosystem Assessment
+2;rapid, site-based assessment methods
+2;site-based assessment
+2;language-/image-based unsupervised surveys
+2;Language-based supervised surveys
+2;image selection
+2;image-based unsupervised surveys
+2;interviewer)
+2;language-based unsupervised surveys
+2;language-based supervised surveys
+2;site-based CES data collection
+2;three possible survey methods
+2;online survey
+2;targeted sampling strategy
+2;common international classification of ecosystem services (CICES)
+2;desk study
+2;participatory mapping techniques
+2;business-as-usual solution
+2;potential nature-based and collaborative
+2;Ecosystem service valuation methods
+2;study design
+2;attribute-based contingent valuation method
+2;travel-cost based choice experiment
+2;UK National Ecosystem Assessment (NEA) follow-on phase
+2;quantitative, multi-parameter approach
+2;conceptual approach
+2;capital asset framework
+2;Velocity-fitting
+2;velocity-fitting approach
+2;micro-study
+2;micro-analysis
+2;artificial intelligence
+2;Formal argumentation
+2;argumentation theory
+2;well-designed FTS
+2;univariate analysis
+2;structural model-based approach
+2;data-driven approach
+2;Model estimation
+2;opt-out option
+2;adjoint equation based representation
+2;Littlewood–Paley theorem
+2;Nikolskii-type inequality
+2;corresponding Hörmander's Fourier multiplier theorem
+2;operator algebras techniques
+2;theLp–
+2;well-known sequential mechanism
+2;many-to-many bipartite matching problem
+2;Dias et al.
+2;“Random Forest”
+2;modern classification tree ensemble technique
+2;compositional game theory
+2;computer science
+2;graphical calculus
+2;probabilistic network specification language ProbNetKAT
+2;approximate Bayesian inference algorithm
+2;approximation scheme
+2;generic and endogenous approach
+2;Radon-Nikodym and Riesz representation theorems
+2;kernel-based semantics
+2;linear logical framework
+2;first-order linear logic
+2;Linear logic's cut-elimination
+2;general Turing category formalism
+2;general category theory
+2;categorical model
+2;computability theory
+2;recursive function theory
+2;three isomorphism theorems
+2;type-theory
+2;higher-order logic
+2;Newman's lemma
+2;tractable proof method
+2;Dependent Type Theory
+2;Church-Rosser Theorem
+2;Constructive Type Theory
+2;Theoretical Computer Science
+2;constructive type theory
+2;λ-calculus
+2;Alpha-structural induction and recursion
+2;proof assistant and programming language Agda
+2;Algebraic Complexity Theory
+2;Software Engineering
+2;identity function
+2;object–oriented (and robust) implementation
+2;quiz game
+2;new computation model
+2;object–oriented paradigm
+2;integrals calculus
+2;described technique
+2;lightweight library-based approach
+2;PeerCheck [1]
+2;“always on” strategy
+2;evaluation approach
+2;AnyLogic-based simulation framework
+2;traditional non-deterministic computability
+2;first approach
+2;denotational approach
+2;decision procedure
+2;call-by-value λ-calculus
+2;systematic proof method
+2;SAT-based method
+2;protein B
+2;logic programming
+2;sequent calculi
+2;meta-theory
+2;logic apRHL
+2;logic
+2;Approximate relational Hoare logic (apRHL)
+2;modern refinement checker
+2;state-of-the-art refinement checking tool FDR3
+2;Computer Science
+2;recently-introduced priority operator ([A.W. Roscoe.
+2;Journal of Logic and Algebraic Programming
+2;four-valued logic
+2;new bitopological interpretation
+2;state transformer
+2;predicate transformer
+2;predicate and state transformer operations
+2;multiset functor
+2;sequent calculus
+2;homotopy type theory setting
+2;non-dependent modal type theory
+2;modal type theory
+2;Constructive type theory
+2;constructive modal type theory
+2;fibrational categorical semantics
+2;lemma
+2;substitution lemma
+2;simple structural induction principle
+2;Barendregt variable convention
+2;block construct
+2;factor 2 approximation algorithm
+2;optimization variant
+2;graph-based representation
+2;sharing analysis
+2;new sharing analysis
+2;standard axioms of probability theory
+2;Hoare-style logic
+2;inductive semantics
+2;program transformation
+2;semantics
+2;quantitative weakest pre–condition semantics
+2;functorial version of Bochner's probability extension theorem
+2;Giry and Lawvere's categorical treatment
+2;floating-point proofs
+2;IEEE Std.
+2;floating point arithmetic
+2;IEEE 754 [IEEE standard
+2;Computer-Aided Design
+2;Formal Methods
+2;new, open-source formalization
+2;efficient and rigorous monitoring algorithm
+2;interval method
+2;floating-point arithmetic
+2;substitution theorem
+2;graphical representation
+2;systematic method
+2;abstract-interpretation theory
+2;Abstract interpretation
+2;p-centre problem
+2;Drezner's optimal algorithm
+2;modelling methodology
+2;Agent Based Modelling (ABM)
+2;hybrid MPI/OpenMP parallelized computing technique
+2;easy-to-implement parallelization strategy
+2;macroscopic agent-based modelling
+2;GIS-based static analysis
+2;generalised message traversal technique
+2;graph traversal approach
+2;lumped parameter method
+2;imperative programming
+2;Agent-Based Modeling
+2;System Dynamics
+2;Insight Maker
+2;trading simulation analysis
+2;trading simulation approach
+2;Student's t-test, ANOVA, the Kruskal–Wallis test, and regression analysis
+2;average analysis
+2;recursive and rolling window methods
+2;fractional integration framework
+2;different canonical form methods
+2;canonical form algorithms
+2;modified fixed effects regression
+2;modified version of the fixed effects regression
+2;GAPFRAME methodology
+2;new framework
+2;SDG Compass
+2;multi-step expert-consultation approach
+2;method of moments
+2;microeconometric research
+2;equilibrium model
+2;network-centric, complex-systems internationalization (NCCSI) perspective
+2;social network theory
+2;internationalization process theory
+2;multilevel analysis
+2;triple-bottom-line lens
+2;short-time Fourier transform andΦ(t)=loga⁡(t)provides wavelet transforms
+2;Numerical experiments
+2;Sobol decomposition
+2;Scale-discretised wavelets
+2;Morlet and FFT
+2;Fast Fourier Transform (FFT) analysis
+2;Morlet wavelet transforms
+2;corresponding vector error correction model (VECM)
+2;panel cointegration
+2;panel threshold regression approach
+2;loss-absorbing method
+2;out-of-sample forecasting experiment
+2;in-sample goodness-of-fit analysis
+2;long-range dependence techniques
+2;three pillar approach
+2;generalized vector autoregressive framework
+2;recent non-parametric modifications
+2;traditional parametric variance-ratio tests
+2;knowledge-based perspective
+2;Habermasian qualitative study
+2;proposed ‘synoptical’ approach
+2;method-of-payment hypothesis
+2;dynamic investment decision-making model
+2;fixed effect vector decomposition (FEVD) technique
+2;panel data methods
+2;entrenchment literature
+2;Vector autoregression and vector error correction modelling
+2;equilibrium-correction model
+2;‘General-to-Specific’ methodology
+2;one-step Generalized Method of Moments (GMM) system estimator
+2;optimal matching analysis
+2;Health and Retirement Study (1992–2012)
+2;multi-channel sequence analysis
+2;National Child Development Study
+2;Multi-channel sequence analysis
+2;US National Longitudinal Survey
+2;British National Child Development Study
+2;National Statistics Longitudinal Study
+2;Miller's Traits-Desires-Intentions-Behaviour framework
+2;large cohort study
+2;IFRS/IAS 1
+2;useful diagnostic tool
+2;fuzzy-set/Qualitative Comparative Analysis (fs/QCA)
+2;organizational learning theory
+2;propensity score matching techniques
+2;context-sensitive approaches
+2;demand-response strategy
+2;developed approach
+2;system perspective
+2;theoretic framework and practice-oriented review
+2;agent-based modeling methodology
+2;proposed MSR
+2;quantity-based stabilisation policy
+2;related adaptive mesh-refining algorithms
+2;adaptive boundary element method (BEM)
+2;analyze ZZ-type error estimators
+2;ZZ-error estimators
+2;adaptive finite element method (FEM)

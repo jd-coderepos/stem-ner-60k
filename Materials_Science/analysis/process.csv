@@ -1,0 +1,401 @@
+weight;word
+66;decrease
+64;design
+62;synthesis
+60;change
+58;evolution
+58;production
+57;fabrication
+52;degradation
+49;growth
+46;behaviour
+46;variation
+46;enhancement
+44;introduction
+44;improvement
+43;analysis
+42;reaction
+40;preparation
+38;release
+38;generation
+37;processes
+36;incorporation
+34;response
+34;transition
+34;changes
+34;deposition
+32;determination
+32;mechanisms
+30;plastic deformation
+26;interactions
+26;dependence
+26;identification
+26;relationship
+26;measurement
+24;treatment
+24;application
+22;calculation
+22;operation
+22;removal
+22;mechanism
+22;oxidation
+22;heat treatment
+22;thermal treatment
+21;tensile testing
+20;diffusion
+20;optimisation
+20;inclusion
+20;transformation
+18;tissue engineering
+18;heat treatments
+18;use
+18;drug release
+18;expression
+18;manufacture
+18;thermal degradation
+18;delivery
+18;flow
+18;integration
+18;behavior
+18;detection
+18;processing
+17;adhesion
+16;3D printing
+16;phenomena
+16;wound healing
+16;control
+16;microstructural evolution
+16;decomposition
+16;biofilm formation
+16;drug delivery
+16;additive manufacturing
+16;dynamics
+16;combination
+16;structural changes
+16;testing
+16;dissolution
+16;characterisation
+16;uptake
+16;separation
+14;mechanical testing
+14;deformation
+14;sexual abuse
+14;construction
+14;variations
+14;cross-linking
+14;self-assemble
+14;degradation mechanism
+14;glass transition
+14;distribution
+14;significant increase
+14;mechanical response
+14;comparison
+14;adsorption
+12;arterial stiffening
+12;cellular response
+12;bone tissue engineering
+12;hydrogen production
+12;residual stress
+12;ion irradiation
+12;retention
+12;exposure
+12;spread
+12;catalytic activity
+12;evaluation
+12;modification
+12;insertion
+12;prediction
+12;estimation
+12;significant change
+12;repair
+12;mass transfer
+12;phenomenon
+12;selection
+12;selective dissolution
+12;transfer
+12;failure mechanisms
+12;emission
+12;cohesive failure
+12;creation
+10;immersion cycles
+10;quantitative assessment
+10;osteogenic differentiation
+10;differentiation
+10;selective laser melting
+10;cell proliferation
+10;mechanical behaviour
+10;refinement
+10;test
+10;utilization
+10;charge transport
+10;degradation mechanisms
+10;methods
+10;activity
+10;recovery
+10;wear
+10;damage mechanisms
+10;catastrophic failure
+10;multiple scattering
+10;suppression
+10;radiation damage
+10;loss
+10;action
+10;cellular uptake
+10;grain refinement
+10;significant reduction
+10;partial substitution
+10;emergence
+10;interplay
+10;realization
+10;heat transfer
+10;pre-treatment
+10;tests
+10;compressive loading
+10;swelling
+10;plastic flow
+10;crack initiation
+10;underlying mechanisms
+10;role
+10;metal forming processes
+10;shift
+9;sustained release
+9;deterioration
+9;significantly reduced
+8;plasma exposure
+8;scan strategies
+8;cell response
+8;phase-separation
+8;regenerative medicine
+8;pseudo-ductility
+8;material transformation
+8;Sm/Ba substitution
+8;zirconia phase transformation
+8;elimination
+8;synergistic effects
+8;photocatalytic activity
+8;strengthening
+8;spinodal decomposition
+8;redox cycles
+8;redox cycling
+8;electrocatalytic activity
+8;oxygen reduction reaction (ORR)
+8;methane conversion
+8;pre-cooling
+8;anaerobic digestion
+8;activities
+8;accurate determination
+8;microstructural changes
+8;coupling
+8;breakdown
+8;heat dissipation
+8;increment
+8;treatments
+8;therapeutic efficacy
+8;significant enhancement
+8;topical application
+8;hypobaric stress
+8;controlled release
+8;investigation
+8;nucleation
+8;post-processing
+8;oxygen reduction
+8;structural behaviour
+8;tensile tests
+8;polymer degradation
+8;energy storage
+8;microwave irradiation
+8;ab initio calculations
+8;absorption
+8;Additive manufacturing (AM)
+8;rise
+8;validation
+8;expansion
+8;adhesive force
+8;plastic void growth
+8;phase separation
+8;eddy current heating
+8;de-alloying
+8;localised corrosion
+8;corrosion behaviour
+8;chemical doping
+8;oxygen reduction reaction
+8;nucleation and growth
+8;formation mechanism
+8;build-up
+8;closed-loop control
+8;sample preparation
+7;biomedical applications
+6;Sr-doping
+6;gate effect
+6;magnetic anisotropy
+6;Cu2+ ion beam irradiation
+6;tritiated water circumstance
+6;D retention
+6;fuel retention
+6;neutron irradiation
+6;plasma operation
+6;events
+6;capacitance retention
+6;induced stress
+6;catheter-induced dissection
+6;fatigue loading
+6;arrangement
+6;nerve regeneration
+6;bacterial attachment
+6;carbodiimide crosslinking
+6;recrystallization
+6;cytokine challenge
+6;significant changes
+6;cell migration
+6;bone repair
+6;hot isostatic pressing
+6;early failure
+6;chondrogenic differentiation
+6;crack propagation
+6;electrical stimulation
+6;surface modification
+6;stress shielding
+6;Hall effect
+6;irradiation
+6;laser irradiation
+6;natural aging
+6;local variation
+6;Selective laser melting (SLM)
+6;roughing process
+6;cyclic softening
+6;thermal exposure
+6;severe deformation
+6;different heat treatments
+6;processing route
+6;variant selection
+6;significantly enhanced
+6;capacity fade
+6;battery degradation
+6;cyclic voltammetry
+6;yield stress
+6;intermittent ultrasound
+6;onset of filtration
+6;crosslinking reaction
+6;chamber test methods
+6;manufacturing processes
+6;water transport
+6;heat generation
+6;filling
+6;tri-reforming process
+6;charge transfer
+6;establishment
+6;utilisation
+6;climate change
+6;projection
+6;signal loss mechanism
+6;corrosion process
+6;premature failure
+6;elastic deformation
+6;coefficient of friction
+6;rapid increase
+6;calculations
+6;water splitting
+6;fragmentation
+6;decision-making
+6;sintering process
+6;damage accumulation
+6;significant improvement
+6;quasi-static and dynamic compression
+6;failure mechanism
+6;structural degradation
+6;rotation
+6;tensile loading
+6;Laser Powder Bed Fusion
+6;corrosion protection
+6;laser pre-treatment
+6;exploitation
+6;pre-treatments
+6;PEO processing
+6;attachment
+6;mechanical loading
+6;mass transport
+6;defect formation
+6;mechanism of action
+6;transmission
+6;adverse effects
+6;permeability
+6;approach
+6;antimicrobial efficacy
+6;mobility
+6;quantitative analyses
+6;intravenous administration
+6;endogenous mechanism
+6;enzymatic degradation
+6;self-assembly
+6;CO oxidation
+6;rapid cooling
+6;chemical reduction
+6;small changes
+6;mechanical tests
+6;cyclic loading
+6;human error
+6;function
+6;manufacturing process
+6;final failure
+6;numerical analysis
+6;adhesive failure
+6;thermal ageing
+6;combined effect
+6;clinical trials
+6;chemical changes
+6;moisture uptake
+6;bone regeneration
+6;decreased linearly
+6;ion exchange
+6;Mg corrosion
+6;studies
+6;annealing
+6;pulsed laser deposition
+6;significant shift
+6;activation
+6;characterization
+6;fabrication process
+6;progress
+6;pressure drop
+6;calibration
+6;collapse
+6;electron transfer
+6;powder processing
+6;viscous flow
+6;energy dissipation
+6;inter-particle forces
+6;increased significantly
+6;solids loading
+6;stress relaxation
+6;transitions
+6;molecular dynamics
+6;reactivity
+6;impact
+6;significant effects
+6;toughening mechanisms
+6;decreased significantly
+6;power law
+6;propagation
+6;range of applications
+6;electromechanical response
+6;synthesis routes
+6;solid-state reaction
+6;partial ordering
+6;successful incorporation
+6;shear deformation
+6;accumulation
+6;spherical indentation
+6;local deformation
+6;hydrolysis
+6;ordering
+6;thermal annealing
+6;mass flow
+6;antimicrobial activity
+6;sharp decrease
+6;greatly enhanced
+6;micromechanical analysis
+6;spark plasma sintering
+6;progression
+6;physical ageing
+6;responses
+6;alignment

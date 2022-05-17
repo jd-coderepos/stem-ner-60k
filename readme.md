@@ -32,4 +32,4 @@ Aggregated lists of *Process*, *Method*, *Material*, and *Data* entities with re
 
 #### Contact
 
-For the list of the articles; or for related questions, comments, feedback, and interests in collaborations, please contact me at: jennifer (dot) dsouza (at) tib (dot) eu
+For the list of publications considered to make this dataset; otherwise for related questions, comments, feedback, and interests in collaborations, please contact me at: jennifer (dot) dsouza (at) tib (dot) eu

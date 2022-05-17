@@ -28,5 +28,5 @@ The STEM NER system reported in the publication above was applied on these artic
 
 #### What this repository contains?
 
-Aggregated lists of *Process*, *Method*, *Material*, and *Data* entities with respective occurrence counts extracted from 60,000 scholarly publications organized per STEM domain considered.
+Aggregated lists of *Process*, *Method*, *Material*, and *Data* entities with respective occurrence counts extracted from 59,984 scholarly publications organized per STEM domain considered.
 

@@ -1,0 +1,402 @@
+weight;word
+72;better performance
+69;information
+69;robustness
+68;experimental results
+63;superior performance
+60;promising results
+57;parameters
+56;output
+51;complexity
+51;superiority
+50;competitive results
+48;effectiveness
+47;high accuracy
+47;competitive performance
+45;training time
+45;efficiency
+44;input
+43;structure
+42;good performance
+41;knowledge
+39;gap
+39;answer
+38;large number
+38;best results
+37;context
+37;translation quality
+37;classification accuracy
+36;distribution
+36;significant improvements
+34;question
+33;model performance
+33;representation
+32;size
+32;large margin
+32;better results
+31;prior knowledge
+30;labeled data
+29;comparable performance
+29;difference
+29;predictions
+28;contextual information
+28;unlabeled data
+28;similarity
+28;distance
+27;level
+27;image
+27;search space
+27;comparable results
+27;higher accuracy
+27;large amounts
+26;word embeddings
+26;weights
+26;representations
+26;characteristics
+26;correlation
+25;uncertainty
+25;semantic information
+25;best performance
+25;test time
+25;high performance
+24;time
+24;input data
+24;outputs
+24;small number
+24;loss function
+24;relation
+24;relationships
+24;new state-of-the-art results
+23;differences
+23;meaning
+23;properties
+23;constraints
+23;relations
+23;limitations
+23;real-time
+22;promising performance
+22;word
+22;performances
+22;state of the art results
+22;computational cost
+22;labels
+21;improved performance
+21;strong baselines
+21;state - of - the - art performance
+21;noise
+21;generalization ability
+21;recognition accuracy
+20;diversity
+20;visual features
+20;cost
+20;difficulty
+20;baselines
+20;classification performance
+20;F1 score
+20;content
+20;model parameters
+20;robust
+19;inference time
+19;metrics
+19;bias
+19;advantages
+19;prediction
+19;good results
+19;computational complexity
+19;entity types
+18;ground truth
+18;training examples
+18;loss
+18;synthetic data
+17;computational efficiency
+17;global information
+17;extracted features
+17;impressive performance
+17;baseline
+17;excellent performance
+17;errors
+17;mutual information
+17;annotated data
+17;target domain
+17;domain knowledge
+17;different scales
+16;model size
+16;significant margin
+16;objective function
+16;probability
+16;syntactic information
+16;semantics
+16;loss functions
+15;trade-off
+15;embedding space
+15;state - of - the - art results
+15;words
+15;task
+15;test data
+15;feature
+15;structural information
+15;prediction accuracy
+15;relevant information
+15;contribution
+15;relationship
+15;large amount
+14;latent space
+14;overall performance
+14;challenges
+14;state-of-the-art
+14;label
+14;new state-of-the-art performance
+14;NER performance
+14;importance
+14;real data
+14;image features
+14;time series
+13;data distribution
+13;adversarial examples
+13;semantic relations
+13;relevance
+13;graph structure
+13;capacity
+13;policy
+13;model accuracy
+13;factors
+13;ability
+13;speed
+13;visual information
+13;domain gap
+13;examples
+13;state
+13;state-of-the-art performances
+13;dependencies
+13;model robustness
+13;answers
+12;POS tags
+12;biases
+12;number of parameters
+12;different levels
+12;consistency
+12;theoretical results
+12;given question
+12;candidate answers
+12;empirical results
+12;state of the art
+12;improvements
+12;error
+12;measure
+12;score
+12;power
+12;image quality
+12;inputs
+12;aspect
+12;degree
+12;annotations
+12;behavior
+12;target data
+12;embeddings
+12;excellent results
+12;observations
+12;precision
+11;correct answer
+11;result
+11;high quality
+11;better accuracy
+11;convergence speed
+11;topology
+11;potential
+11;poor performance
+11;code
+11;sentence embeddings
+11;validity
+11;sentence
+11;system performance
+11;point
+11;different modalities
+11;raw data
+11;condition
+11;benefits
+11;time-consuming
+11;information loss
+11;complementary information
+11;similarities
+11;open-sourced
+11;data privacy
+11;class
+11;vector representations
+11;instability
+11;aspects
+11;model's performance
+11;state-of-the-art accuracy
+10;pseudo labels
+10;word representations
+10;spatial information
+10;gains
+10;handcrafted features
+10;strong performance
+10;node embeddings
+10;temporal information
+10;detection accuracy
+10;real time
+10;requirements
+10;improved results
+10;additional information
+10;heterogeneity
+10;ambiguity
+10;performance improvements
+10;input image
+10;order
+10;outcome
+10;significant improvement
+10;private data
+10;relevant features
+10;similar performance
+10;time series data
+10;performance degradation
+10;parallel data
+10;accurate
+10;human performance
+10;high cost
+10;property
+10;variance
+10;frame
+10;sentiment
+10;generalization capability
+10;pattern
+9;monotonicity constraint
+9;reward function
+9;correlations
+9;translation performance
+9;large number of parameters
+9;long-range dependencies
+9;network parameters
+9;risk
+9;good accuracy
+9;large datasets
+9;input images
+9;improvement
+9;amount of data
+9;cosine similarity
+9;impressive results
+9;premise
+9;fewer parameters
+9;sentiment polarity
+9;sparsity
+9;local features
+9;coverage
+9;sample efficiency
+9;contributions
+9;strength
+9;tasks
+9;end-to-end
+9;predictive performance
+9;memory footprint
+9;context information
+9;baseline results
+9;function
+9;images
+9;significant gains
+9;Knowledge Graphs (KG)
+9;topological features
+9;additional features
+9;hyper-parameters
+9;missing values
+9;weak supervision
+9;class labels
+9;query
+9;discriminative features
+9;significant performance gains
+9;input text
+9;computationally expensive
+9;useful information
+9;source code
+9;location
+9;augmented data
+8;large poses
+8;current state
+8;attributes
+8;new data
+8;limited data
+8;new tasks
+8;noisy labels
+8;remarkable results
+8;node features
+8;remarkable performance
+8;weaknesses
+8;EEG data
+8;hand-crafted features
+8;action space
+8;length
+8;discrepancy
+8;linguistic features
+8;evaluation metrics
+8;scores
+8;observation
+8;training objective
+8;capabilities
+8;state of the art performance
+8;probabilities
+8;name
+8;model capacity
+8;much faster
+8;redundant information
+8;position
+8;error rate
+8;discourse structure
+8;search efficiency
+8;feature space
+8;Cartesian product
+8;50%
+8;metric
+8;input features
+8;soft labels
+8;constraint
+8;high-quality
+8;sub-optimal
+8;highest performance
+8;additional data
+8;loss of accuracy
+8;time step
+8;stability
+8;findings
+8;global model
+8;textual descriptions
+8;evaluation results
+8;rate
+8;mapping
+8;feature representations
+8;high efficiency
+8;model complexity
+8;imbalanced data
+8;relative pose
+8;performance improvement
+8;ground-truth
+8;highest accuracy
+8;visual content
+8;effectiveness and efficiency
+8;reliability
+8;limited training data
+7;latent variables
+7;balance
+7;gender bias
+7;future frames
+7;high variance
+7;batch size
+7;samples
+7;flexibility
+7;side information
+7;dimensionality
+7;convergence rate
+7;effects
+7;limited resources
+7;performance gap
+7;Euclidean distance
+7;semantic space
+7;latent representation
+7;correct answers
+7;EEG features
+7;energy consumption
+7;code and data
+7;word level
+7;multiple times
+7;commonsense knowledge
+7;ones
+7;sentence boundaries

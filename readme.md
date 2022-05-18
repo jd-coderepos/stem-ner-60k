@@ -17,6 +17,7 @@ The STEM NER system reported in the publication above was applied on these artic
 | Astronomy | 15,003 | 31,104 | 10,423 | 55,753 | 97,011 |
 | Biology | 9,038 | 54,029 | 6,777 | 100,454 | 43,418 |
 | Chemistry | 5,232 | 18,185 | 6,044 | 48,779 | 30,596 |
+| Computer Science | 5,389 | 17,014 | 13,650 | 35,554 | 33,575 |
 | Earth Science | 4,363 | 28,432 | 5,129 | 56,571 | 50,211 |
 | Engineering | 2,441 | 12,705 | 3,293 | 24,633 | 24,238 |
 | Materials Science | 2,144 | 10,102 | 2,437 | 23,054 | 16,981 |

@@ -34,4 +34,4 @@ Additionally, the list of Elsevier CC-BY articles used in this study are provide
 
 #### Contact
 
-For the list of publications considered to make this dataset; otherwise for related questions, comments, feedback, and interests in collaborations, please contact me at: jennifer (dot) dsouza (at) tib (dot) eu
+For the publication' Abstracts considered to make this dataset; otherwise for related questions, comments, feedback, and interests in collaborations, please contact me at: jennifer (dot) dsouza (at) tib (dot) eu

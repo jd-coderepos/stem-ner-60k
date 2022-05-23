@@ -26,10 +26,11 @@ The STEM NER system reported in the publication above was applied on these artic
 | -- | -- | -- | -- | -- | -- |
 | Total | 59,984 | 272,728 | 58,876 | 530,727 | 445,943 |
 
-
 #### What this repository contains?
 
 Aggregated lists of *Process*, *Method*, *Material*, and *Data* entities with respective occurrence counts extracted from 59,984 scholarly publications organized per the 10 STEM domains considered.
+
+Additionally, the list of Elsevier CC-BY articles used in this study are provided in the `raw-data` directory of the repository.
 
 #### Contact
 

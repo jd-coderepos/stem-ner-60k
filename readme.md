@@ -1,4 +1,4 @@
-## STEM-ECR 60K Dataset
+## STEM-NER 60K Dataset
 
 #### This repository hosts data as a follow-up study to the following publication
 

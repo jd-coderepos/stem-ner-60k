@@ -1,8 +1,10 @@
 ## STEM-NER 60K Dataset
 
-#### This repository hosts data as a follow-up study to the following publication
+#### This repository hosts data as a follow-up study to the following publications
 
 D'Souza, J., Hoppe, A., Brack, A., Jaradeh, M., Auer, S., & Ewerth, R. (2020). [The STEM-ECR Dataset: Grounding Scientific Entity References in STEM Scholarly Content to Authoritative Encyclopedic and Lexicographic Sources.](https://aclanthology.org/2020.lrec-1.268/) In Proceedings of The 12th Language Resources and Evaluation Conference (pp. 2192–2203). European Language Resources Association.
+
+Brack, A., D’Souza, J., Hoppe, A., Auer, S., Ewerth, R. (2020). [Domain-Independent Extraction of Scientific Concepts from Research Articles](https://doi.org/10.1007/978-3-030-45439-5_17). In: , et al. Advances in Information Retrieval. ECIR 2020. Lecture Notes in Computer Science(), vol 12035. Springer, Cham. https://doi.org/10.1007/978-3-030-45439-5_17
 
 Supporting dataset link [https://data.uni-hannover.de/dataset/stem-ecr-v1-0](https://data.uni-hannover.de/dataset/stem-ecr-v1-0)
 
